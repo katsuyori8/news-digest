@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ニュースダイジェスト（出典: BBC News）</title>
+<style>
+:root{--bg:#f2f3f5;--card:#fff;--text:#1a1a1a;--sub:#6b7280;--line:#e5e7eb;--link:#0b57d0;--accent:#d6001c;--chip:#eef1f5;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121316;--card:#1c1e22;--text:#eceef1;--sub:#9aa1ab;--line:#2c2f35;--link:#8ab4f8;--chip:#272a30}}
+:root[data-theme="dark"]{--bg:#121316;--card:#1c1e22;--text:#eceef1;--sub:#9aa1ab;--line:#2c2f35;--link:#8ab4f8;--chip:#272a30}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 -apple-system,"Hiragino Kaku Gothic ProN","Noto Sans JP",Meiryo,sans-serif}
+a{color:inherit;text-decoration:none}
+header{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:5}
+.bar{max-width:1080px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:14px}
+.logo{font-weight:800;font-size:20px;letter-spacing:.02em;color:var(--accent);white-space:nowrap}
+.logo small{font-size:11px;color:var(--sub);font-weight:500;margin-left:6px}
+.search{flex:1;display:flex;max-width:460px;margin-left:auto}
+.search input{flex:1;min-width:0;border:1px solid var(--line);border-right:0;border-radius:20px 0 0 20px;padding:7px 14px;background:var(--bg);color:var(--text);font:inherit;font-size:14px}
+.search button{border:0;background:var(--accent);color:#fff;border-radius:0 20px 20px 0;padding:0 16px;font:inherit;font-size:14px}
+.date{font-size:12px;color:var(--sub);white-space:nowrap}
+nav{border-top:1px solid var(--line)}
+.tabs{max-width:1080px;margin:0 auto;display:flex;overflow-x:auto;padding:0 8px;scrollbar-width:none}
+.tabs button{flex:none;border:0;background:none;color:var(--sub);font:inherit;font-size:14px;font-weight:600;padding:10px 14px;border-bottom:3px solid transparent;cursor:pointer}
+.tabs button.on{color:var(--accent);border-color:var(--accent)}
+.notice{max-width:1080px;margin:12px auto 0;padding:8px 14px;font-size:12px;color:var(--sub);background:var(--chip);border-radius:8px}
+main{max-width:1080px;margin:0 auto;padding:12px 16px 40px;display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:16px}
+.card{background:var(--card);border-radius:10px;overflow:hidden}
+.card h2{margin:0;padding:12px 16px;font-size:16px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center}
+.card h2 span{font-size:12px;color:var(--sub);font-weight:400}
+.item{display:flex;gap:12px;padding:12px 16px;border-bottom:1px solid var(--line)}
+.item:last-child{border-bottom:0}
+.item:hover .t{color:var(--link);text-decoration:underline}
+.th{flex:none;width:92px;height:64px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:26px;color:#fff}
+.item.big{flex-direction:column}
+.item.big .th{width:100%;height:190px;font-size:54px}
+.item.big .t{font-size:20px}
+.t{font-weight:700;line-height:1.45}
+.d{font-size:13px;color:var(--sub);margin-top:4px;font-weight:400}
+.m{font-size:12px;color:var(--sub);margin-top:4px;display:flex;gap:8px;flex-wrap:wrap}
+.m b{color:var(--accent);font-weight:600}
+.more{display:block;width:100%;border:0;border-top:1px solid var(--line);background:none;color:var(--link);font:inherit;font-weight:600;padding:12px;cursor:pointer}
+.rank{list-style:none;margin:0;padding:0}
+.rank li{display:flex;gap:10px;padding:10px 16px;border-bottom:1px solid var(--line);font-size:14px;font-weight:600;line-height:1.45}
+.rank li:last-child{border-bottom:0}
+.rank i{flex:none;width:22px;height:22px;border-radius:50%;background:var(--chip);color:var(--sub);font-style:normal;font-size:12px;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.rank li:nth-child(-n+3) i{background:var(--accent);color:#fff}
+.side{display:flex;flex-direction:column;gap:16px}
+.chips{padding:12px 16px;display:flex;flex-wrap:wrap;gap:8px}
+.chips a{background:var(--chip);border-radius:16px;padding:4px 12px;font-size:13px}
+footer{max-width:1080px;margin:0 auto;padding:0 16px 32px;font-size:12px;color:var(--sub)}
+@media(max-width:820px){main{grid-template-columns:1fr}.date{display:none}.search{max-width:none}.item.big .th{height:150px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="logo" href="https://www.bbc.com/news" target="_blank" rel="noopener">ニュースダイジェスト<small>出典: BBC News</small></a>
+    <div class="search"><input placeholder="ニュースを検索" aria-label="検索"><button>検索</button></div>
+    <div class="date" id="date"></div>
+  </div>
+  <nav><div class="tabs" id="tabs"></div></nav>
+</header>
+<div class="notice" id="notice">読み込み中…</div>
+<main>
+  <section class="card">
+    <h2><span id="cap" style="font-size:16px;color:var(--text);font-weight:700">トピックス</span><span id="cnt"></span></h2>
+    <div id="list"></div>
+    <button class="more" id="more">もっと見る</button>
+  </section>
+  <aside class="side">
+    <section class="card"><h2>新着<span>最新順</span></h2><ol class="rank" id="rank"></ol></section>
+    <section class="card"><h2>注目のキーワード</h2><div class="chips" id="chips"></div></section>
+  </aside>
+</main>
+<footer>見出しと概要はBBC NewsのRSSから自動取得したものです（出典: BBC News）。各見出しはBBCの記事へリンクします。本ページはBBCおよびYahoo!とは無関係の非公式サイトです。</footer>
+<script>
+var CATS=[["all","トップ","https://www.bbc.com/news","#d6001c","📰"],["world","世界","https://www.bbc.com/news/world","#1d6fa5","🌍"],["uk","英国","https://www.bbc.com/news/uk","#6a3fa0","🇬🇧"],["biz","ビジネス","https://www.bbc.com/business","#2e8b57","💹"],["tech","テクノロジー","https://www.bbc.com/innovation","#0f7c90","💡"],["sci","科学・環境","https://www.bbc.com/news/science_and_environment","#4c8c2b","🔬"],["sport","スポーツ","https://www.bbc.com/sport","#e07b00","⚽"],["cul","カルチャー","https://www.bbc.com/culture","#b8387a","🎭"]];
+var D=[],cur="all",open=false,N=8;
+function cat(k){return CATS.filter(function(c){return c[0]==k})[0]||CATS[0]}
+function esc(s){return String(s||"").replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function url(d){return /^https:\/\/(www\.)?bbc\.(com|co\.uk)\//.test(d.link)?d.link:"#"}
+function ago(s){var m=Math.round((Date.now()-new Date(s))/6e4);if(isNaN(m))return"";if(m<60)return Math.max(m,1)+"分前";if(m<1440)return Math.floor(m/60)+"時間前";return Math.floor(m/1440)+"日前"}
+function item(d,big){var c=cat(d.cat),ds=d.desc_ja||d.desc;return '<a class="item'+(big?' big':'')+'" href="'+esc(url(d))+'" target="_blank" rel="noopener"><div class="th" style="background:linear-gradient(135deg,'+c[3]+',#222)">'+c[4]+'</div><div><div class="t">'+esc(d.title_ja||d.title)+'</div>'+(big&&ds?'<div class="d">'+esc(ds)+'</div>':'')+'<div class="m"><b>'+c[1]+'</b><span>BBC News</span><span>'+ago(d.time)+'</span></div></div></a>'}
+function render(){
+  var rows=cur=="all"?D.filter(function(d){return d.top}):D.filter(function(d){return d.cat==cur});
+  if(cur=="all"&&!rows.length)rows=D;
+  var shown=open?rows:rows.slice(0,N);
+  document.getElementById("list").innerHTML=shown.length?shown.map(function(d,i){return item(d,i==0)}).join(""):'<div class="item"><div class="m">記事がまだありません</div></div>';
+  document.getElementById("cap").textContent=cur=="all"?"トピックス":cat(cur)[1];
+  document.getElementById("cnt").textContent=rows.length+"件";
+  var b=document.getElementById("more");b.style.display=rows.length>N?"block":"none";b.textContent=open?"閉じる":"もっと見る";
+  document.querySelectorAll(".tabs button").forEach(function(x){x.classList.toggle("on",x.dataset.k==cur)});
+}
+document.getElementById("tabs").innerHTML=CATS.map(function(c){return '<button data-k="'+c[0]+'">'+c[1]+'</button>'}).join("");
+document.getElementById("tabs").onclick=function(e){var k=e.target.dataset&&e.target.dataset.k;if(k){cur=k;open=false;render()}};
+document.getElementById("more").onclick=function(){open=!open;render()};
+document.getElementById("chips").innerHTML=["国際情勢","経済","AI","気候変動","選挙","サッカー","映画","エネルギー"].map(function(w){return '<a href="https://www.bbc.com/search?q='+encodeURIComponent(w)+'" target="_blank" rel="noopener">'+w+'</a>'}).join("");
+var n=new Date(),w="日月火水木金土";
+document.getElementById("date").textContent=(n.getMonth()+1)+"/"+n.getDate()+"("+w[n.getDay()]+")";
+fetch("news.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(j){
+  D=j.items||[];var u=new Date(j.updated);
+  document.getElementById("notice").textContent="最終更新: "+(isNaN(u)?"未取得":u.toLocaleString("ja-JP"))+"（BBC NewsのRSSを自動取得）"+(D.some(function(d){return d.title_ja})?" 日本語は自動翻訳です。":"");
+  document.getElementById("rank").innerHTML=D.slice(0,8).map(function(d,i){return '<li><i>'+(i+1)+'</i><a href="'+esc(url(d))+'" target="_blank" rel="noopener">'+esc(d.title_ja||d.title)+'</a></li>'}).join("");
+  render();
+}).catch(function(){document.getElementById("notice").textContent="news.json を読み込めませんでした。ファイルを直接開かず、GitHub Pagesなどの公開URLから開いてください。";render()});
+</script>
+</body>
+</html>
