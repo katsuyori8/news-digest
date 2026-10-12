@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 
-BASE = "https://feeds.bbci.co.uk"
+BASE = "https://feeds.bbc.com"
 TOP = "/news/rss.xml"
 FEEDS = [("world", "/news/world/rss.xml"), ("uk", "/news/uk/rss.xml"), ("biz", "/news/business/rss.xml"),
          ("tech", "/news/technology/rss.xml"), ("sci", "/news/science_and_environment/rss.xml"),
@@ -23,7 +23,7 @@ def get(url, data=None, headers=None, timeout=30):
 def parse(path):
     out = []
     for it in ET.fromstring(get(BASE + path)).iter("item"):
-        link = (it.findtext("link") or "").split("?")[0].strip().replace("://www.bbc.co.uk/", "://www.bbc.com/")
+        link = (it.findtext("link") or "").split("?")[0].strip()
         title = unescape((it.findtext("title") or "").strip())
         desc = unescape(re.sub(r"<[^>]+>", "", it.findtext("description") or "")).strip()
         try:
