@@ -23,7 +23,7 @@ def get(url, data=None, headers=None, timeout=30):
 def parse(path):
     out = []
     for it in ET.fromstring(get(BASE + path)).iter("item"):
-        link = (it.findtext("link") or "").split("?")[0].strip()
+        link = (it.findtext("link") or "").split("?")[0].strip().replace("://www.bbc.co.uk/", "://www.bbc.com/")
         title = unescape((it.findtext("title") or "").strip())
         desc = unescape(re.sub(r"<[^>]+>", "", it.findtext("description") or "")).strip()
         try:
