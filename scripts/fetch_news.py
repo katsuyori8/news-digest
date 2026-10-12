@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 
-BASE = "https://feeds.bbci.com"
+BASE = "https://www.bbc.com"
 TOP = "/news/rss.xml"
 FEEDS = [("world", "/news/world/rss.xml"), ("uk", "/news/uk/rss.xml"), ("biz", "/news/business/rss.xml"),
          ("tech", "/news/technology/rss.xml"), ("sci", "/news/science_and_environment/rss.xml"),
