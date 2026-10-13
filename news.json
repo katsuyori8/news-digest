@@ -1,12 +1,172 @@
 {
- "updated": "2026-10-13T20:07:54.221963+00:00",
+ "updated": "2026-10-13T23:48:57.875716+00:00",
  "items": [
+  {
+   "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+   "desc": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+   "link": "https://www.bbc.com/news/articles/cw99zpmnxzmjo",
+   "time": "2026-10-13T23:42:22+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Zimbabwean author denies using AI to write award-winning story",
+   "desc": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+   "link": "https://www.bbc.com/news/articles/cm4g1rekpgnjo",
+   "time": "2026-10-13T23:31:10+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+   "desc": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+   "link": "https://www.bbc.com/news/articles/cw5y4nv05rp8o",
+   "time": "2026-10-13T23:26:54+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "How long will humans be needed for translation?",
+   "desc": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+   "link": "https://www.bbc.com/news/articles/c1wxdjx27ypo",
+   "time": "2026-10-13T23:05:29+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Is it OK for jobseekers or employers to use AI?",
+   "desc": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+   "link": "https://www.bbc.com/news/articles/c623dnkn8pkyo",
+   "time": "2026-10-13T23:04:39+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Royal Mail losing 400 postal workers a week, says union",
+   "desc": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+   "link": "https://www.bbc.com/news/articles/cm5ynp0vz3p7o",
+   "time": "2026-10-13T23:03:59+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Saka responds to Arteta's challenge with 'huge impact'",
+   "desc": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+   "link": "https://www.bbc.com/sport/football/articles/cqrlyd1grwkko",
+   "time": "2026-10-13T23:03:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
    "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
    "link": "https://www.bbc.com/news/articles/crx2d60y1py3o",
-   "time": "2026-10-13T20:02:15+00:00",
+   "time": "2026-10-13T22:29:55+00:00",
    "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Swans' Eom the target of alleged racism at Millwall",
+   "desc": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away at Millwall was a result of racist abuse aimed at winger Ji-sung Eom.",
+   "link": "https://www.bbc.com/sport/football/articles/cmdx3nk7kwwro",
+   "time": "2026-10-13T22:23:48+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+   "desc": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+   "link": "https://www.bbc.com/sport/football/articles/cm2kev8w934do",
+   "time": "2026-10-13T22:15:44+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+   "desc": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+   "link": "https://www.bbc.com/news/articles/ck20r9qpw505o",
+   "time": "2026-10-13T22:14:33+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+   "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+   "link": "https://www.bbc.com/news/articles/ck054nvzr676o",
+   "time": "2026-10-13T22:07:06+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "More tea? How Scotland's crops of the future could be set to change",
+   "desc": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+   "link": "https://www.bbc.com/news/articles/cxdd80z9yjpqo",
+   "time": "2026-10-13T21:57:25+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Rams player suspended for punch & kicker cut by club",
+   "desc": "The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released.",
+   "link": "https://www.bbc.com/sport/american-football/articles/c5zjxnwm8dzpo",
+   "time": "2026-10-13T21:47:36+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+   "desc": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
+   "link": "https://www.bbc.com/sport/football/articles/crlykw9eevx3o",
+   "time": "2026-10-13T21:43:09+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+   "link": "https://www.bbc.com/news/articles/cwg5jq4vlddzo",
+   "time": "2026-10-13T21:42:49+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Pressure on Norway in play-off final - Wilkinson",
+   "desc": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.",
+   "link": "https://www.bbc.com/sport/football/articles/ck4g17rrz1j5o",
+   "time": "2026-10-13T21:32:09+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Zelensky and Burnham to meet in Downing Street",
+   "desc": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+   "link": "https://www.bbc.com/news/articles/cq98z59xdny5o",
+   "time": "2026-10-13T21:31:30+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+   "link": "https://www.bbc.com/news/articles/ck1wvd9dvv22o",
+   "time": "2026-10-13T20:46:06+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?",
+   "desc": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side",
+   "link": "https://www.bbc.com/sport/football/articles/ck9qzwp9ejgro",
+   "time": "2026-10-13T20:39:18+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Porro eyes La Liga return - Wednesday's gossip",
+   "desc": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong.",
+   "link": "https://www.bbc.com/sport/football/articles/cm62yxegwy41o",
+   "time": "2026-10-13T20:06:30+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -18,28 +178,12 @@
    "top": true
   },
   {
-   "title": "Man killed in tiger attack identified as William Chapman",
-   "desc": "Chapman, who was in his 20s, died after entering the tiger's enclosure at  Yorkshire Wildlife Park.",
-   "link": "https://www.bbc.com/news/articles/c3ewegny45jvo",
-   "time": "2026-10-13T19:35:21+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
    "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-   "desc": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+   "desc": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
    "link": "https://www.bbc.com/news/articles/cr5ynplvpg7lo",
    "time": "2026-10-13T19:23:28+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "Flat racing's 'Billy the Kid' wants more than just title",
-   "desc": "BBC Sport speaks to Billy Loughnane, the prodigy nicknamed 'Billy the Kid' who is set to be named champion jockey on Saturday and targeting a record.",
-   "link": "https://www.bbc.com/sport/horse-racing/articles/cwe8lgr4p763o",
-   "time": "2026-10-13T18:31:28+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
@@ -48,14 +192,6 @@
    "time": "2026-10-13T18:25:28+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-   "desc": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
-   "link": "https://www.bbc.com/news/articles/ck1wvd9dvv22o",
-   "time": "2026-10-13T18:24:03+00:00",
-   "cat": "world",
-   "top": false
   },
   {
    "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
@@ -90,14 +226,6 @@
    "top": false
   },
   {
-   "title": "McIlroy would vote for LIV players' PGA Tour return",
-   "desc": "Rory McIlroy would vote to have LIV Golf players back on the PGA Tour and says the breakaway circuit is no longer a threat to traditional tours.",
-   "link": "https://www.bbc.com/sport/golf/articles/c875pdv1ye2lo",
-   "time": "2026-10-13T17:17:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
    "desc": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
    "link": "https://www.bbc.com/news/articles/c6n4ejx8x1z7o",
@@ -111,22 +239,6 @@
    "link": "https://www.bbc.com/news/articles/cky83q49e4w0o",
    "time": "2026-10-13T17:06:18+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Bournemouth open to selling Scott for £100m in January",
-   "desc": "Bournemouth are open to selling England midfielder Alex Scott in January under certain conditions.",
-   "link": "https://www.bbc.com/sport/football/articles/cqzjxn010r49o",
-   "time": "2026-10-13T17:00:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Liverpool's Wirtz problem - does he need to be dropped?",
-   "desc": "More than a year since his £116m move, Florian Wirtz is still struggling to hit top form at Liverpool - so does he need to be dropped?",
-   "link": "https://www.bbc.com/sport/football/articles/cvglw07rx6jeo",
-   "time": "2026-10-13T16:45:59+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -135,22 +247,6 @@
    "link": "https://www.bbc.com/news/articles/ck5yng9nl9mro",
    "time": "2026-10-13T16:36:01+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Boulter beaten by Shnaider in Wuhan",
-   "desc": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round.",
-   "link": "https://www.bbc.com/sport/tennis/articles/c875pdrq4rx4o",
-   "time": "2026-10-13T16:34:03+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Independent regulator waiting for Man City appeal",
-   "desc": "David Kogan, chair of football's independent regulator, says the body has to \"go on the evidence\" before making any decision in the case against Manchester City.",
-   "link": "https://www.bbc.com/sport/football/videos/cmze418n8ke9o",
-   "time": "2026-10-13T16:14:23+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -167,7 +263,7 @@
    "link": "https://www.bbc.com/sport/football/articles/c6vgx70pzq1jo",
    "time": "2026-10-13T16:00:11+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
@@ -210,22 +306,6 @@
    "top": false
   },
   {
-   "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-   "desc": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-   "link": "https://www.bbc.com/news/articles/cmn06w5x9g25o",
-   "time": "2026-10-13T14:51:59+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Ex-Met Police officer trained to support rape victims accused of rape",
-   "desc": "Mark Tyrrell raped and sexually assaulted a woman over about two years, his trial is told.",
-   "link": "https://www.bbc.com/news/articles/cqj34xzp85jjo",
-   "time": "2026-10-13T14:50:59+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
    "desc": "The star, who has died at the age of 34, fought for better representation of disabilities on screen.",
    "link": "https://www.bbc.com/news/articles/cvp8gj20j2ljo",
@@ -238,14 +318,6 @@
    "desc": "Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?",
    "link": "https://www.bbc.com/sport/cricket/articles/cmd7qv2pg333o",
    "time": "2026-10-13T13:28:41+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Different ways to win - what Rugby League World Cup success looks like",
-   "desc": "Some teams have their eyes on a trophy - others are prioritising longer-term gains. BBC Sport assesses a Rugby League World Cup that comes at a pivotal time for the international game.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cw5ynmn86prro",
-   "time": "2026-10-13T13:16:34+00:00",
    "cat": "sport",
    "top": false
   },
@@ -282,20 +354,12 @@
    "top": false
   },
   {
-   "title": "Watch: Emergency calls from botched Christa Pike execution released",
-   "desc": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-   "link": "https://www.bbc.com/news/videos/cqpvgrkp0xpyo",
-   "time": "2026-10-13T12:03:51+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Three things we've learnt about the UK economy from the IMF",
    "desc": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
    "link": "https://www.bbc.com/news/articles/cmly05l1g15yo",
    "time": "2026-10-13T11:58:43+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "BA flight forced to turn back over cracked window",
@@ -358,15 +422,7 @@
    "desc": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
    "link": "https://www.bbc.com/news/articles/cmn045en7d88o",
    "time": "2026-10-13T08:03:34+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-   "desc": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-   "link": "https://www.bbc.com/news/articles/c9y7lgg2vdggo",
-   "time": "2026-10-13T05:02:34+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": false
   },
   {
@@ -375,14 +431,6 @@
    "link": "https://www.bbc.com/news/articles/cw80z7edrk80o",
    "time": "2026-10-13T04:52:28+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-   "desc": "Meeting travellers' expectations could be challenging, experts warn.",
-   "link": "https://www.bbc.com/news/articles/ck5yn0n14r8do",
-   "time": "2026-10-12T23:37:00+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -399,14 +447,6 @@
    "link": "https://www.bbc.com/news/articles/c6pvgryp8yv0o",
    "time": "2026-10-12T22:01:43+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Fridges in French supermarkets hit by cyber attack",
-   "desc": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-   "link": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
-   "time": "2026-10-12T18:31:32+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -439,22 +479,6 @@
    "link": "https://www.bbc.com/news/articles/cmqxn0lw25r3o",
    "time": "2026-10-12T12:44:38+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "How to avoid getting stung if you miss credit card payments",
-   "desc": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-   "link": "https://www.bbc.com/news/articles/c84g1xz1l9ddo",
-   "time": "2026-10-12T09:11:46+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-   "desc": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-   "link": "https://www.bbc.com/news/articles/cm78pwdp3n5qo",
-   "time": "2026-10-12T08:50:22+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -530,14 +554,6 @@
    "top": false
   },
   {
-   "title": "Hurricane Isaias downgraded after making landfall in Florida",
-   "desc": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-   "link": "https://www.bbc.com/news/articles/c3vgx4450v2lo",
-   "time": "2026-10-10T11:55:12+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
    "desc": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
    "link": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
@@ -574,22 +590,6 @@
    "desc": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
    "link": "https://www.bbc.com/news/articles/cvlydn8d3lkjo",
    "time": "2026-10-09T09:30:49+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "desc": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-   "link": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
-   "time": "2026-10-09T07:14:30+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "'Careless use of AI is the real threat - not the ghost stories'",
-   "desc": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-   "link": "https://www.bbc.com/news/articles/cjzxz9yp1kq9o",
-   "time": "2026-10-09T07:05:01+00:00",
    "cat": "tech",
    "top": false
   }
