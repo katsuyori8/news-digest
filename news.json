@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-13T23:48:57.875716+00:00",
+ "updated": "2026-10-14T03:59:16.488063+00:00",
  "items": [
+  {
+   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+   "desc": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+   "link": "https://www.bbc.com/news/articles/ck20r9qpw505o",
+   "time": "2026-10-14T03:54:41+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+   "link": "https://www.bbc.com/news/articles/ck1wvd9dvv22o",
+   "time": "2026-10-14T00:17:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+   "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+   "link": "https://www.bbc.com/news/articles/ck054nvzr676o",
+   "time": "2026-10-13T23:58:56+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+   "desc": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+   "link": "https://www.bbc.com/weather/articles/cxvgdq0jj8d2o",
+   "time": "2026-10-13T23:55:49+00:00",
+   "cat": "sci",
+   "top": false
+  },
   {
    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
    "desc": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
@@ -58,6 +90,14 @@
    "top": false
   },
   {
+   "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+   "desc": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+   "link": "https://www.bbc.com/news/articles/ck86zje2z4pwo",
+   "time": "2026-10-13T22:59:37+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
    "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
    "link": "https://www.bbc.com/news/articles/crx2d60y1py3o",
@@ -80,22 +120,6 @@
    "time": "2026-10-13T22:15:44+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-   "desc": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-   "link": "https://www.bbc.com/news/articles/ck20r9qpw505o",
-   "time": "2026-10-13T22:14:33+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-   "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-   "link": "https://www.bbc.com/news/articles/ck054nvzr676o",
-   "time": "2026-10-13T22:07:06+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "More tea? How Scotland's crops of the future could be set to change",
@@ -143,14 +167,6 @@
    "link": "https://www.bbc.com/news/articles/cq98z59xdny5o",
    "time": "2026-10-13T21:31:30+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-   "link": "https://www.bbc.com/news/articles/ck1wvd9dvv22o",
-   "time": "2026-10-13T20:46:06+00:00",
-   "cat": "world",
    "top": true
   },
   {
@@ -183,7 +199,7 @@
    "link": "https://www.bbc.com/news/articles/cr5ynplvpg7lo",
    "time": "2026-10-13T19:23:28+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
@@ -255,7 +271,7 @@
    "link": "https://www.bbc.com/sport/football/articles/cjkge245n0gzo",
    "time": "2026-10-13T16:00:18+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Majority of English football clubs on the edge of financial disaster, report says",
@@ -543,14 +559,6 @@
    "link": "https://www.bbc.com/news/articles/cme3xl7d18z2o",
    "time": "2026-10-10T15:56:32+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Hundreds protest over data centre plans",
-   "desc": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
-   "link": "https://www.bbc.com/news/articles/cm78pwq47vp1o",
-   "time": "2026-10-10T13:40:03+00:00",
-   "cat": "sci",
    "top": false
   },
   {
