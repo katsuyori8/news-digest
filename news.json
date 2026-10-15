@@ -1,11 +1,51 @@
 {
- "updated": "2026-10-15T20:12:06.762789+00:00",
+ "updated": "2026-10-15T23:11:35.368714+00:00",
  "items": [
+  {
+   "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+   "desc": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
+   "link": "https://www.bbc.com/news/articles/cq4g17j1ej95o",
+   "time": "2026-10-15T23:01:49+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+   "desc": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+   "link": "https://www.bbc.com/news/articles/cmq8n513x523o",
+   "time": "2026-10-15T22:46:49+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
+   "desc": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game.",
+   "link": "https://www.bbc.com/sport/football/articles/c6lyez88m1n2o",
+   "time": "2026-10-15T22:42:26+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+   "desc": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+   "link": "https://www.bbc.com/news/articles/c6wyrnmgzn01o",
+   "time": "2026-10-15T22:37:21+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "London housing project wins top architecture award",
    "desc": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
    "link": "https://www.bbc.com/news/articles/cq8jzgl7zz9po",
-   "time": "2026-10-15T20:02:59+00:00",
+   "time": "2026-10-15T20:36:32+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
+   "desc": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
+   "link": "https://www.bbc.com/news/articles/cwvgdnjqpyvmo",
+   "time": "2026-10-15T20:24:32+00:00",
    "cat": "uk",
    "top": true
   },
@@ -31,14 +71,6 @@
    "link": "https://www.bbc.com/news/articles/cwm243lrgdpgo",
    "time": "2026-10-15T19:26:13+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Letters with 'suspicious substances' sent to US election offices",
-   "desc": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-   "link": "https://www.bbc.com/news/articles/cmq8n513x523o",
-   "time": "2026-10-15T19:13:09+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -111,7 +143,7 @@
    "link": "https://www.bbc.com/news/articles/cqwyrnwd9dw1o",
    "time": "2026-10-15T16:50:18+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
@@ -159,7 +191,7 @@
    "link": "https://www.bbc.com/news/articles/cxr5y83v1eldo",
    "time": "2026-10-15T16:00:26+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
@@ -306,11 +338,11 @@
    "top": false
   },
   {
-   "title": "Meghan makes first official public appearance since moving back to UK",
-   "desc": "The Duke and Duchess of Sussex are taking part in a series of events linked to their charitable work in Nottingham.",
-   "link": "https://www.bbc.com/news/articles/c6gelgd1lxv2o",
-   "time": "2026-10-15T12:06:51+00:00",
-   "cat": "uk",
+   "title": "Kartal wins again as impressive comeback continues",
+   "desc": "Britain's Sonay Kartal beats former Wimbledon finalist Jasmine Paolini in straight sets to reach the Wuhan Open quarter-finals.",
+   "link": "https://www.bbc.com/sport/tennis/articles/c85ynx5vwq35o",
+   "time": "2026-10-15T12:02:14+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -338,14 +370,6 @@
    "top": true
   },
   {
-   "title": "Obama says drift towards extremism 'not inevitable'",
-   "desc": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-   "link": "https://www.bbc.com/news/articles/crwyd7vq3xw1o",
-   "time": "2026-10-15T10:51:53+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
    "desc": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
    "link": "https://www.bbc.com/news/articles/cq398x7j1lrwo",
@@ -359,14 +383,6 @@
    "link": "https://www.bbc.com/news/articles/ckqxne2evqreo",
    "time": "2026-10-15T08:41:04+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "The F1 pit stop that helped save lives",
-   "desc": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c6ly0q00gj5do",
-   "time": "2026-10-15T05:56:53+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -423,14 +439,6 @@
    "link": "https://www.bbc.com/news/articles/cxvgdneplgzeo",
    "time": "2026-10-14T22:19:13+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Man City show fight but fall short of fightback against slick PSG",
-   "desc": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
-   "link": "https://www.bbc.com/sport/football/videos/cqp8gn9x801po",
-   "time": "2026-10-14T21:19:45+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -494,14 +502,6 @@
    "desc": "The TV presenter says she suffered memory loss following her operation to remove a benign tumour.",
    "link": "https://www.bbc.com/news/articles/cky93v98x7jjo",
    "time": "2026-10-14T10:48:29+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-   "desc": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-   "link": "https://www.bbc.com/news/articles/c60rln2jvv2zo",
-   "time": "2026-10-14T10:08:26+00:00",
    "cat": "cul",
    "top": false
   },
