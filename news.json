@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-14T22:30:54.579512+00:00",
+ "updated": "2026-10-15T01:16:58.992058+00:00",
  "items": [
+  {
+   "title": "Anthropic revenue surges to $16.8bn ahead of stock market listing",
+   "desc": "It comes as the AI giant is expected to make a blockbuster stock market debut by the end of the year.",
+   "link": "https://www.bbc.com/news/articles/cqzjx448vxkgo",
+   "time": "2026-10-15T01:14:23+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+   "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+   "link": "https://www.bbc.com/news/articles/c83vq9vpwwr1o",
+   "time": "2026-10-15T01:07:59+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+   "desc": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
+   "link": "https://www.bbc.com/news/articles/cvwy761zyx7eo",
+   "time": "2026-10-14T23:35:40+00:00",
+   "cat": "sci",
+   "top": true
+  },
+  {
+   "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+   "desc": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+   "link": "https://www.bbc.com/news/articles/cvy0rd1j2kzlo",
+   "time": "2026-10-14T23:32:11+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "How backlash against data centres could shape the US midterm elections",
+   "desc": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+   "link": "https://www.bbc.com/news/articles/c0rezqpnekro",
+   "time": "2026-10-14T23:02:57+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "How a Chinese-made toy gets to a US retailer",
+   "desc": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+   "link": "https://www.bbc.com/news/articles/c5djvyde0y1jo",
+   "time": "2026-10-14T23:01:28+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
+   "desc": "On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.",
+   "link": "https://www.bbc.com/sport/football/articles/cqp8gyv8le87o",
+   "time": "2026-10-14T22:57:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Jackson steps up again as Aston Villa revival continues",
+   "desc": "Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.",
+   "link": "https://www.bbc.com/sport/football/articles/c370pnwz0gw2o",
+   "time": "2026-10-14T22:45:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Martinez outburst came out of 'anger and frustration'",
+   "desc": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy.",
+   "link": "https://www.bbc.com/sport/football/articles/cqd09l278n15o",
+   "time": "2026-10-14T22:42:02+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Reform faces criticism after councillors filmed making racist comments",
+   "desc": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+   "link": "https://www.bbc.com/news/articles/cw3dj458re1vo",
+   "time": "2026-10-14T22:34:47+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+   "desc": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+   "link": "https://www.bbc.com/news/articles/crje5we583qwo",
+   "time": "2026-10-14T22:31:10+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+   "desc": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+   "link": "https://www.bbc.com/news/articles/cxvgdneplgzeo",
+   "time": "2026-10-14T22:19:13+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "PSG on 'different level' - are they building greatest European dynasty?",
    "desc": "Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?",
@@ -42,22 +138,6 @@
    "top": false
   },
   {
-   "title": "Substitutes steal the show as Arsenal score three against Lille",
-   "desc": "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the Champions League.",
-   "link": "https://www.bbc.com/sport/football/videos/cm207qv14442o",
-   "time": "2026-10-14T21:00:36+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
-   "desc": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off.",
-   "link": "https://www.bbc.com/sport/football/videos/c6pq0rg10xp1o",
-   "time": "2026-10-14T21:00:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
    "desc": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
    "link": "https://www.bbc.com/sport/football/videos/cmx237q7nl21o",
@@ -74,7 +154,7 @@
    "top": false
   },
   {
-   "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+   "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
    "desc": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
    "link": "https://www.bbc.com/news/articles/c8wy9veedgygo",
    "time": "2026-10-14T20:55:24+00:00",
@@ -98,8 +178,8 @@
    "top": false
   },
   {
-   "title": "Student protesters attack government buildings in Tirana",
-   "desc": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+   "title": "Student protesters attack government buildings in Albania",
+   "desc": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
    "link": "https://www.bbc.com/news/articles/cq80zk5k2ep4o",
    "time": "2026-10-14T20:29:05+00:00",
    "cat": "world",
@@ -215,14 +295,6 @@
    "link": "https://www.bbc.com/news/articles/crkg7q97z078o",
    "time": "2026-10-14T15:34:19+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Wilcox the target again in another damaging Man Utd fallout",
-   "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
-   "link": "https://www.bbc.com/sport/football/articles/cvp8g57ne53xo",
-   "time": "2026-10-14T15:30:03+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -231,7 +303,7 @@
    "link": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o",
    "time": "2026-10-14T15:26:14+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
@@ -282,28 +354,12 @@
    "top": false
   },
   {
-   "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-   "desc": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-   "link": "https://www.bbc.com/news/articles/crje5we583qwo",
-   "time": "2026-10-14T13:35:29+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-   "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-   "link": "https://www.bbc.com/news/articles/c83vq9vpwwr1o",
-   "time": "2026-10-14T12:47:43+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
    "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
    "link": "https://www.bbc.com/news/articles/ck054nvzr676o",
    "time": "2026-10-14T12:44:17+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "What we know about the Pope's lung cancer diagnosis",
@@ -410,14 +466,6 @@
    "top": false
   },
   {
-   "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
-   "desc": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
-   "link": "https://www.bbc.com/news/articles/ckdd8egder5ro",
-   "time": "2026-10-14T04:59:06+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
    "desc": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
    "link": "https://www.bbc.com/news/articles/c8040531w45eo",
@@ -454,7 +502,7 @@
    "desc": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
    "link": "https://www.bbc.com/news/articles/c1wxdjx27ypo",
    "time": "2026-10-13T23:05:29+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -538,22 +586,6 @@
    "top": false
   },
   {
-   "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-   "desc": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
-   "link": "https://www.bbc.com/news/articles/c6d7q5z17gp5o",
-   "time": "2026-10-11T23:13:51+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Orangutans released back into Borneo forest after devastating fires",
-   "desc": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-   "link": "https://www.bbc.com/news/articles/cwvgde0m2d73o",
-   "time": "2026-10-11T19:08:04+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "King warns malicious online actors are evolving tactics",
    "desc": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
    "link": "https://www.bbc.com/news/articles/cme3xl7d18z2o",
@@ -582,14 +614,6 @@
    "desc": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
    "link": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
    "time": "2026-10-09T15:32:30+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Anthropic bans users from being 'cruel' to its AI systems",
-   "desc": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-   "link": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
-   "time": "2026-10-09T12:34:27+00:00",
    "cat": "tech",
    "top": false
   }
