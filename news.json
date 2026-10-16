@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-16T16:52:14.522370+00:00",
+ "updated": "2026-10-16T19:49:38.889510+00:00",
  "items": [
+  {
+   "title": "Trump denies limiting Ukraine access to Starlink network",
+   "desc": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+   "link": "https://www.bbc.com/news/articles/ckz65g34wyd8o",
+   "time": "2026-10-16T19:33:48+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Reform councillor quits over offensive remarks",
+   "desc": "Alan Feeney was captured on undercover filming calling Asian homeowners \"parasites\".",
+   "link": "https://www.bbc.com/news/articles/c64g1803dkp7o",
+   "time": "2026-10-16T18:53:47+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'Well-known' man asks court to stop publication of sexual offence allegation",
+   "desc": "The unnamed individual asks London's High Court to prevent the publication of \"serious allegations\".",
+   "link": "https://www.bbc.com/news/articles/c674pz3l0e73o",
+   "time": "2026-10-16T18:46:14+00:00",
+   "cat": "cul",
+   "top": true
+  },
+  {
+   "title": "Dubois and Wardley at career-heaviest for rematch",
+   "desc": "Britons Daniel Dubois and Fabio Wardley both weigh in at their career-heaviest for Saturday's heavyweight world-title rematch in London.",
+   "link": "https://www.bbc.com/sport/boxing/articles/cm4g1e65y3d0o",
+   "time": "2026-10-16T18:42:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Police feared Andrew would delay search by saying King owned his home, documents show",
+   "desc": "Legal records have emerged which show why police wanted to search the royal's home and what they were looking for.",
+   "link": "https://www.bbc.com/news/articles/c6wyrk0gxlw2o",
+   "time": "2026-10-16T18:37:26+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+   "desc": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+   "link": "https://www.bbc.com/news/articles/cwr7y8er1n8vo",
+   "time": "2026-10-16T18:11:29+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
+   "desc": "Jon Rahm sacrifices a reported $100m (£75m) still owed to him by LIV Golf to secure his exit from the league.",
+   "link": "https://www.bbc.com/sport/golf/articles/cq80zpk1xgxpo",
+   "time": "2026-10-16T17:52:10+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
+   "desc": "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months",
+   "link": "https://www.bbc.com/news/videos/cm1ex06026e8o",
+   "time": "2026-10-16T17:41:53+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania",
+   "desc": "The decision to move the rap mogul while he is serving out his 50-month sentence was made with 'safety and security in mind'.",
+   "link": "https://www.bbc.com/news/articles/cmwy4qnyjg4zo",
+   "time": "2026-10-16T17:36:18+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Dame Judi Dench joins Archers Birmingham campaign",
+   "desc": "The cast have described plans to leave Birmingham as similar \"to Corrie leaving the north-west.\"",
+   "link": "https://www.bbc.com/news/articles/cw98zj4jn6ryo",
+   "time": "2026-10-16T17:18:19+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Off Campus star collaboration 'gave me chills', says Babydoll singer",
+   "desc": "Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one.",
+   "link": "https://www.bbc.com/news/articles/cq5yndllj8d8o",
+   "time": "2026-10-16T16:57:00+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "NHS staff may have breached tiger attack victim's medical records",
+   "desc": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+   "link": "https://www.bbc.com/news/articles/c875prd12vkqo",
+   "time": "2026-10-16T16:53:07+00:00",
+   "cat": "uk",
+   "top": true
+  },
   {
    "title": "Do Manchester City have any grounds to win their appeal?",
    "desc": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
@@ -8,14 +104,6 @@
    "time": "2026-10-16T16:17:01+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "NHS staff may have breached tiger attack victim's medical records",
-   "desc": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
-   "link": "https://www.bbc.com/news/articles/c875prd12vkqo",
-   "time": "2026-10-16T16:15:34+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
@@ -26,31 +114,15 @@
    "top": true
   },
   {
-   "title": "Feel-good Koumas story something for Liverpool to smile about",
-   "desc": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-   "link": "https://www.bbc.com/sport/football/articles/cwy7l5e4376no",
-   "time": "2026-10-16T16:06:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
-   "desc": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-   "link": "https://www.bbc.com/sport/football/articles/cmr4yn3qyw2go",
-   "time": "2026-10-16T16:01:49+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+   "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
    "desc": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
    "link": "https://www.bbc.com/news/articles/cvx284w16z1po",
    "time": "2026-10-16T16:00:30+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
-   "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+   "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
    "desc": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
    "link": "https://www.bbc.com/news/articles/c58jz174w89ro",
    "time": "2026-10-16T15:59:30+00:00",
@@ -74,27 +146,11 @@
    "top": false
   },
   {
-   "title": "Arteta told Arsenal job cuts will help create success",
-   "desc": "Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to \"achieve the success we want to create\".",
-   "link": "https://www.bbc.com/sport/football/articles/cr3wv4xd2l6yo",
-   "time": "2026-10-16T15:31:54+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Russian man linked to deadly London hospitals hack arrested",
    "desc": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
    "link": "https://www.bbc.com/news/articles/c9vgr61kml3mo",
    "time": "2026-10-16T15:31:33+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Reform councillor quits over offensive remarks",
-   "desc": "Alan Feeney was captured on undercover filming calling Asian homeowners \"parasites\".",
-   "link": "https://www.bbc.com/news/articles/c64g1803dkp7o",
-   "time": "2026-10-16T15:18:32+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -119,7 +175,7 @@
    "link": "https://www.bbc.com/news/articles/cw146ej00yn7o",
    "time": "2026-10-16T14:36:39+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
@@ -154,26 +210,10 @@
    "top": true
   },
   {
-   "title": "Stewart and Morris add to GB gold tally at Worlds",
-   "desc": "Mark Stewart and Anna Morris add to Great Britain's gold medal tally on day three of the Track Cycling World Championships in Shanghai.",
-   "link": "https://www.bbc.com/sport/cycling/articles/cwdd8z932nq2o",
-   "time": "2026-10-16T14:22:42+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Dad fined after son, 2, died in Cyprus hotel fall",
    "desc": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
    "link": "https://www.bbc.com/news/articles/cvj6j1klez88o",
    "time": "2026-10-16T14:21:32+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-   "desc": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-   "link": "https://www.bbc.com/news/articles/cq398zl8jmvdo",
-   "time": "2026-10-16T14:19:50+00:00",
    "cat": "world",
    "top": false
   },
@@ -194,7 +234,7 @@
    "top": false
   },
   {
-   "title": "Norwegian teen 'hitman' detained for UK murder plot",
+   "title": "Norwegian teen 'hitman' jailed over UK murder plot",
    "desc": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
    "link": "https://www.bbc.com/news/articles/cw8rzpl1ldkdo",
    "time": "2026-10-16T13:43:21+00:00",
@@ -202,10 +242,10 @@
    "top": true
   },
   {
-   "title": "Fading light halts play at India Championship",
-   "desc": "Rory McIlroy among players impacted after the second round of the DP World India Championship is suspended because of fading light.",
-   "link": "https://www.bbc.com/sport/golf/articles/crd6dg4d51y0o",
-   "time": "2026-10-16T13:10:16+00:00",
+   "title": "Morris wins omnium gold for Great Britain",
+   "desc": "Great Britain's Anna Morris wins gold in the women's omnium at the Track Cycling World Championships in Shanghai.",
+   "link": "https://www.bbc.com/sport/cycling/videos/c6pvgjmv1y07o",
+   "time": "2026-10-16T12:58:44+00:00",
    "cat": "sport",
    "top": false
   },
@@ -226,19 +266,19 @@
    "top": true
   },
   {
-   "title": "NRL gap a factor in France's heavy defeat by Samoa, says boss",
-   "desc": "France boss Laurent Frayssinous suggests the gap between the NRL and Super League was a huge factor in their 78-4 defeat by Samoa at the Men's Rugby League World Cup.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c50me81r74n7o",
-   "time": "2026-10-16T12:28:55+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Catherine says nature can help children's emotional growth",
    "desc": "The Princess of Wales launches a project encouraging a greater emphasis on children learning from nature.",
    "link": "https://www.bbc.com/news/articles/cmly0n4nzq5qo",
    "time": "2026-10-16T12:06:22+00:00",
    "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics?",
+   "desc": "Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
+   "link": "https://www.bbc.com/news/articles/cj040z4ngnz1o",
+   "time": "2026-10-16T12:06:04+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -258,11 +298,27 @@
    "top": false
   },
   {
+   "title": "GB's Stewart wins gold in thrilling points race",
+   "desc": "Great Britain's Mark Stewart wins gold after a thrilling end to the men's points race at the 2026 Track Cycling World Championships.",
+   "link": "https://www.bbc.com/sport/cycling/videos/c6j9kv0p343do",
+   "time": "2026-10-16T10:33:49+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "Banks expect to be hit with higher taxes in Budget",
    "desc": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "link": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
    "time": "2026-10-16T10:16:27+00:00",
    "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Broncos beat Superbowl champions Seahawks in overtime",
+   "desc": "A Wil Lutz 53-yard game-winning field goal sees the Denver Broncos beat defending champions Seattle Seahawks 17-14 in overtime in the NFL.",
+   "link": "https://www.bbc.com/sport/american-football/videos/cm87z38014p1o",
+   "time": "2026-10-16T10:02:21+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -282,19 +338,11 @@
    "top": false
   },
   {
-   "title": "The Olympic sprinter now bedbound for 22 hours a day",
-   "desc": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
-   "link": "https://www.bbc.com/sport/athletics/articles/crd6dj26v4e4o",
-   "time": "2026-10-16T05:31:22+00:00",
+   "title": "'It feels like you're days away from death' - the Olympian living with ME",
+   "desc": "She's an Olympian, a world record holder and a Commonwealth Games medal winner. She's also bedbound for more than 22 hours a day. Sprinter Beth Dobbin shares her health struggles with BBC Sport months after retiring from the sport for good.",
+   "link": "https://www.bbc.com/sport/olympics/videos/cmgqw3j7eqqwo",
+   "time": "2026-10-16T07:32:26+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'People call them pervert glasses': Blind users fear backlash over smart tech",
-   "desc": "Concerns about the use of smart glasses are having an affect on visually-impaired users.",
-   "link": "https://www.bbc.com/news/articles/cq2d6e56n85go",
-   "time": "2026-10-16T05:23:00+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -354,6 +402,14 @@
    "top": false
   },
   {
+   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+   "desc": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+   "link": "https://www.bbc.com/news/articles/crx23qlnj27qo",
+   "time": "2026-10-15T17:47:22+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
    "title": "Marvel fans to meet Welsh superhero - complete with Cardiff accent",
    "desc": "Lauren Morais will play villain Lisa Molinari in the new Disney+ superhero series VisionQuest.",
    "link": "https://www.bbc.com/news/articles/c6zxj47vwrdno",
@@ -367,6 +423,14 @@
    "link": "https://www.bbc.com/news/articles/c9j3dvezpdz0o",
    "time": "2026-10-15T17:19:49+00:00",
    "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Australia clinch thrilling World Cup opener against New Zealand",
+   "desc": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
+   "link": "https://www.bbc.com/sport/rugby-league/videos/cmn4eqpvw1ppo",
+   "time": "2026-10-15T17:00:06+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -514,22 +578,6 @@
    "top": false
   },
   {
-   "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-   "desc": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-   "link": "https://www.bbc.com/news/articles/cmx23q4g307vo",
-   "time": "2026-10-14T16:56:21+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Danny Dyer in floating poo water protest on Thames",
-   "desc": "Along with the Sittingbourne and Sheppey MP, Dyer is calling for water companies to be nationalised.",
-   "link": "https://www.bbc.com/news/articles/c9rky2m7r62do",
-   "time": "2026-10-14T16:44:22+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
    "desc": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
    "link": "https://www.bbc.com/news/articles/cm04054ykqqqo",
@@ -543,14 +591,6 @@
    "link": "https://www.bbc.com/news/articles/c92031m6knljo",
    "time": "2026-10-14T14:13:37+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Davina McCall says memory loss after brain surgery was like 'advanced Alzheimer's'",
-   "desc": "The TV presenter says she suffered memory loss following her operation to remove a benign tumour.",
-   "link": "https://www.bbc.com/news/articles/cky93v98x7jjo",
-   "time": "2026-10-14T10:48:29+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -598,14 +638,6 @@
    "desc": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
    "link": "https://www.bbc.com/news/articles/cwly38gjkejko",
    "time": "2026-10-13T09:34:43+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-   "desc": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-   "link": "https://www.bbc.com/news/articles/cr78pe09y05xo",
-   "time": "2026-10-12T15:03:42+00:00",
    "cat": "tech",
    "top": false
   }
