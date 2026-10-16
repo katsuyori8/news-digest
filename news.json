@@ -1,13 +1,77 @@
 {
- "updated": "2026-10-15T23:11:35.368714+00:00",
+ "updated": "2026-10-16T01:35:08.452384+00:00",
  "items": [
+  {
+   "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+   "desc": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+   "link": "https://www.bbc.com/news/articles/cw5yn83m8gypo",
+   "time": "2026-10-16T00:34:45+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Reform faces questions over candidate vetting after undercover filming",
+   "desc": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+   "link": "https://www.bbc.com/news/articles/cqm26yr42ezko",
+   "time": "2026-10-15T23:52:27+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+   "desc": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+   "link": "https://www.bbc.com/news/articles/cm62y6lp73zdo",
+   "time": "2026-10-15T23:38:46+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "India's 'cockroach' protesters set to return despite police crackdown",
+   "desc": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+   "link": "https://www.bbc.com/news/articles/cmx237n1y9lzo",
+   "time": "2026-10-15T23:30:29+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Porn showing choking or incest to be banned from early November, government says",
+   "desc": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+   "link": "https://www.bbc.com/news/articles/cmpqgepejr2ro",
+   "time": "2026-10-15T23:27:57+00:00",
+   "cat": "tech",
+   "top": true
+  },
+  {
+   "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+   "desc": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+   "link": "https://www.bbc.com/news/articles/cqgm0j4kjvevo",
+   "time": "2026-10-15T23:27:21+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Living with a stink? Technology might help",
+   "desc": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+   "link": "https://www.bbc.com/news/articles/cr6240q1w136o",
+   "time": "2026-10-15T23:18:21+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "I find it quite demoralising in store - why I do all my shopping online",
+   "desc": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+   "link": "https://www.bbc.com/news/articles/c36lk280kd1o",
+   "time": "2026-10-15T23:16:12+00:00",
+   "cat": "biz",
+   "top": false
+  },
   {
    "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
    "desc": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
    "link": "https://www.bbc.com/news/articles/cq4g17j1ej95o",
    "time": "2026-10-15T23:01:49+00:00",
    "cat": "cul",
-   "top": false
+   "top": true
   },
   {
    "title": "Letters with 'suspicious substances' sent to US senators and election offices",
@@ -46,14 +110,6 @@
    "desc": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
    "link": "https://www.bbc.com/news/articles/cwvgdnjqpyvmo",
    "time": "2026-10-15T20:24:32+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Mother of Henry Nowak killer could be deported",
-   "desc": "Kiran Kaur was found guilty of assisting an offender and was jailed for three years in July.",
-   "link": "https://www.bbc.com/news/articles/cqze4l9l2eywo",
-   "time": "2026-10-15T19:43:07+00:00",
    "cat": "uk",
    "top": false
   },
@@ -106,14 +162,6 @@
    "top": false
   },
   {
-   "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-   "desc": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-   "link": "https://www.bbc.com/news/articles/cm62y6lp73zdo",
-   "time": "2026-10-15T17:18:49+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Banks say Healey is planning Budget tax raid on their profits",
    "desc": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "link": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
@@ -159,7 +207,7 @@
    "link": "https://www.bbc.com/news/articles/cwy7ldzl7j4po",
    "time": "2026-10-15T16:35:05+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Serb player banned until 2050 for tennis match-fixing",
@@ -199,7 +247,7 @@
    "link": "https://www.bbc.com/news/articles/cwdr8grnykrlo",
    "time": "2026-10-15T15:55:14+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Fifty arrests in crime probe after fatal A66 crash",
@@ -239,7 +287,7 @@
    "link": "https://www.bbc.com/news/articles/c6jrwn3y3xe9o",
    "time": "2026-10-15T15:00:05+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
@@ -314,14 +362,6 @@
    "top": false
   },
   {
-   "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
-   "desc": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
-   "link": "https://www.bbc.com/news/articles/cv0ld0lgw4x8o",
-   "time": "2026-10-15T13:21:21+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Gold for GB women in team pursuit",
    "desc": "Erin Boothman, Anna Morris, Millie Couzens and Josie Knight win gold in the women's team pursuit at the Track Cycling World Championships in Shanghai.",
    "link": "https://www.bbc.com/sport/cycling/videos/cm1dwe6ne9dro",
@@ -362,19 +402,11 @@
    "top": false
   },
   {
-   "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
-   "desc": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
-   "link": "https://www.bbc.com/news/videos/cxnv01gylmvjo",
-   "time": "2026-10-15T10:56:25+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
    "desc": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
    "link": "https://www.bbc.com/news/articles/cq398x7j1lrwo",
    "time": "2026-10-15T10:05:29+00:00",
-   "cat": "world",
+   "cat": "sci",
    "top": false
   },
   {
@@ -414,14 +446,6 @@
    "desc": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
    "link": "https://www.bbc.com/news/articles/c0rezqpnekro",
    "time": "2026-10-14T23:02:57+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-   "desc": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-   "link": "https://www.bbc.com/news/articles/c5djvyde0y1jo",
-   "time": "2026-10-14T23:01:28+00:00",
    "cat": "biz",
    "top": false
   },
@@ -490,14 +514,6 @@
    "top": false
   },
   {
-   "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-   "desc": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-   "link": "https://www.bbc.com/news/articles/cx30eq0vyed4o",
-   "time": "2026-10-14T11:04:12+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Davina McCall says memory loss after brain surgery was like 'advanced Alzheimer's'",
    "desc": "The TV presenter says she suffered memory loss following her operation to remove a benign tumour.",
    "link": "https://www.bbc.com/news/articles/cky93v98x7jjo",
@@ -546,14 +562,6 @@
    "top": false
   },
   {
-   "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-   "desc": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
-   "link": "https://www.bbc.com/weather/articles/cxvgdq0jj8d2o",
-   "time": "2026-10-13T23:55:49+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "How long will humans be needed for translation?",
    "desc": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
    "link": "https://www.bbc.com/news/articles/c1wxdjx27ypo",
@@ -598,22 +606,6 @@
    "desc": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
    "link": "https://www.bbc.com/news/articles/cme3xl7d18z2o",
    "time": "2026-10-10T15:56:32+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "desc": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-   "link": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
-   "time": "2026-10-10T10:06:23+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "How drones are hunting fires hidden beneath the Cairngorms",
-   "desc": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-   "link": "https://www.bbc.com/news/articles/cwm24n9v8rdeo",
-   "time": "2026-10-10T09:31:14+00:00",
    "cat": "tech",
    "top": false
   }
