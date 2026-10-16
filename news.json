@@ -1,35 +1,211 @@
 {
- "updated": "2026-10-16T06:49:35.657220+00:00",
+ "updated": "2026-10-16T12:08:21.598395+00:00",
  "items": [
   {
-   "title": "Banks say Healey is planning to increase tax on their profits in Budget",
-   "desc": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-   "link": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
-   "time": "2026-10-16T06:42:12+00:00",
+   "title": "Norwegian teen 'hitman' detained for UK murder plot",
+   "desc": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+   "link": "https://www.bbc.com/news/articles/cw8rzpl1ldkdo",
+   "time": "2026-10-16T11:48:44+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Spain handed partial stadium closure after discriminatory chants v Egypt",
+   "desc": "Spain must play their next international friendly with a partial stadium closure after supporters sang a discriminatory chant about Muslims multiple times during a game against Egypt on 31 March.",
+   "link": "https://www.bbc.com/sport/football/articles/cr86zg3w2lg2o",
+   "time": "2026-10-16T11:48:33+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+   "desc": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
+   "link": "https://www.bbc.com/news/articles/cm89zp48k4kzo",
+   "time": "2026-10-16T11:41:58+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+   "desc": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+   "link": "https://www.bbc.com/news/videos/cqn06zx2r15jo",
+   "time": "2026-10-16T11:40:41+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Minister warns people to save water amid drought",
+   "desc": "Severe drought was declared across parts of southern England after months of low rainfall.",
+   "link": "https://www.bbc.com/news/articles/cq0ld4g0309go",
+   "time": "2026-10-16T11:37:42+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Reform faces questions over candidate vetting after undercover filming",
+   "desc": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+   "link": "https://www.bbc.com/news/articles/cqm26yr42ezko",
+   "time": "2026-10-16T11:32:49+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Mum of four says pipe bomb attack was case of 'mistaken identity'",
+   "desc": "Nicola Nugent and her children escaped injury after their house in north Belfast was targeted.",
+   "link": "https://www.bbc.com/news/articles/cvlyd2rxrj8xo",
+   "time": "2026-10-16T11:00:03+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Sex was 'huge preoccupation for Russell Brand', ex-flatmate tells trial",
+   "desc": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault, which he denies.",
+   "link": "https://www.bbc.com/news/articles/ck8dz6m1d2n6o",
+   "time": "2026-10-16T10:59:05+00:00",
    "cat": "uk",
    "top": true
+  },
+  {
+   "title": "Police officer who raped two women jailed for 12 years",
+   "desc": "Campbell Petrie was found guilty of physical and sexual abuse towards the women between 2006 and 2023.",
+   "link": "https://www.bbc.com/news/articles/cqkg53v29005o",
+   "time": "2026-10-16T10:54:24+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "'Massive challenge' to protect Donaldson from harm in jail",
+   "desc": "The former DUP leader was sentenced to 15 years for sex abuse against two women when they were children.",
+   "link": "https://www.bbc.com/news/articles/cwm243x4my4zo",
+   "time": "2026-10-16T10:38:56+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "desc": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+   "link": "https://www.bbc.com/news/articles/c58jz174w89ro",
+   "time": "2026-10-16T10:37:47+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Rew, 18, to captain England Lions in West Indies",
+   "desc": "The elevation of teenager Thomas Rew to Lions captain is a further sign of the high regard he is held in by the England hierarchy and follows him being given his first senior call-up and central contract.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cjn5vk4qe6g1o",
+   "time": "2026-10-16T10:33:59+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "GB's Stewart wins gold in thrilling points race",
+   "desc": "Great Britain's Mark Stewart wins gold after a thrilling end to the men's points race at the 2026 Track Cycling World Championships.",
+   "link": "https://www.bbc.com/sport/cycling/videos/c6j9kv0p343do",
+   "time": "2026-10-16T10:33:49+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+   "desc": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+   "link": "https://www.bbc.com/news/articles/cvj6j1klez88o",
+   "time": "2026-10-16T10:28:56+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'Not about me' - Arbeloa dismisses future questions",
+   "desc": "Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend.",
+   "link": "https://www.bbc.com/sport/football/articles/c615jw414vypo",
+   "time": "2026-10-16T10:24:57+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Banks expect to be hit with higher taxes in Budget",
+   "desc": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+   "link": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
+   "time": "2026-10-16T10:16:27+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Wildlife park reopens after man killed by tiger",
+   "desc": "Yorkshire Wildlife Park says the decision was made after 'engagement with the relevant authorities'.",
+   "link": "https://www.bbc.com/news/articles/c60qk8djj27po",
+   "time": "2026-10-16T10:14:34+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Mother of Henry Nowak's killer could be released early",
+   "desc": "Kiran Kaur, 53, was found guilty of assisting an offender and was jailed for three years in July.",
+   "link": "https://www.bbc.com/news/articles/cqze4l9l2eywo",
+   "time": "2026-10-16T09:40:37+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Chelsea's James out for three months after knee surgery",
+   "desc": "Chelsea captain Reece James is set to miss three months of action after undergoing knee surgery.",
+   "link": "https://www.bbc.com/sport/football/articles/cq073d9l0ly9o",
+   "time": "2026-10-16T09:02:20+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+   "desc": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+   "link": "https://www.bbc.com/news/articles/cq1j3wdxy48ro",
+   "time": "2026-10-16T08:45:54+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Kartal enjoys 'best week of career' after diving into deep end",
+   "desc": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina Svitolina in the quarter-finals of the Wuhan Open.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cmpwgq52y22zo",
+   "time": "2026-10-16T08:45:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Doctor regrets not going to police earlier about Lucy Letby",
+   "desc": "Dr Stephen Brearey was the lead neonatal consultant at the hospital where the nurse worked.",
+   "link": "https://www.bbc.com/news/articles/cwg7x1prldedo",
+   "time": "2026-10-16T08:28:22+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+   "desc": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+   "link": "https://www.bbc.com/news/videos/cwe8r29mjd05o",
+   "time": "2026-10-16T08:27:16+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Getting to know Man Utd boss Olid",
+   "desc": "It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United.",
+   "link": "https://www.bbc.com/sport/football/articles/c6qxneqry885o",
+   "time": "2026-10-16T07:47:56+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'It feels like you're days away from death' - the Olympian living with ME",
+   "desc": "She's an Olympian, a world record holder and a Commonwealth Games medal winner. She's also bedbound for more than 22 hours a day. Sprinter Beth Dobbin shares her health struggles with BBC Sport months after retiring from the sport for good.",
+   "link": "https://www.bbc.com/sport/olympics/videos/cmgqw3j7eqqwo",
+   "time": "2026-10-16T07:32:26+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
    "desc": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.",
    "link": "https://www.bbc.com/sport/football/articles/cmde8l07569no",
    "time": "2026-10-16T06:28:10+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Carmouche shaves head to make weight for world title fight",
-   "desc": "Liz Carmouche fights for the PFL flyweight world title on Friday and was taking no chances before stepping on the scales.",
-   "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6y0ewlnwgnlo",
-   "time": "2026-10-16T06:23:12+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Who am I? Plus today's other quizzes",
-   "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "link": "https://www.bbc.com/sport/football/articles/cqp8gymplmvdo",
-   "time": "2026-10-16T06:09:52+00:00",
    "cat": "sport",
    "top": false
   },
@@ -50,6 +226,22 @@
    "top": false
   },
   {
+   "title": "'People call them pervert glasses': Blind users fear backlash over smart tech",
+   "desc": "Concerns about the use of smart glasses are having an affect on visually-impaired users.",
+   "link": "https://www.bbc.com/news/articles/cq2d6e56n85go",
+   "time": "2026-10-16T05:23:00+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Snapchat and Instagram grooming becoming 'easier'",
+   "desc": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
+   "link": "https://www.bbc.com/news/articles/cq33xd6j1dv5o",
+   "time": "2026-10-16T05:12:48+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
    "desc": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
    "link": "https://www.bbc.com/news/articles/cmde8dpg8g0no",
@@ -58,31 +250,7 @@
    "top": false
   },
   {
-   "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
-   "desc": "The BBC's Sarah Smith travelled across the state ahead of the midterms, as the president faces political headwinds.",
-   "link": "https://www.bbc.com/news/videos/c32l4kqg2q4ro",
-   "time": "2026-10-16T04:16:31+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Three children and teacher killed in US primary school shooting",
-   "desc": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.",
-   "link": "https://www.bbc.com/news/articles/cm89zp48k4kzo",
-   "time": "2026-10-16T03:45:09+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-   "desc": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-   "link": "https://www.bbc.com/news/videos/cwe8r29mjd05o",
-   "time": "2026-10-16T01:36:45+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+   "title": "Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections",
    "desc": "Metagenomics offers a new way of detecting infections in intensive care patients.",
    "link": "https://www.bbc.com/news/articles/cw5yn83m8gypo",
    "time": "2026-10-16T00:34:45+00:00",
@@ -90,28 +258,12 @@
    "top": true
   },
   {
-   "title": "Reform faces questions over candidate vetting after undercover filming",
-   "desc": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
-   "link": "https://www.bbc.com/news/articles/cqm26yr42ezko",
-   "time": "2026-10-15T23:52:27+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-   "desc": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-   "link": "https://www.bbc.com/news/articles/cm62y6lp73zdo",
-   "time": "2026-10-15T23:38:46+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Porn showing choking or incest to be banned from early November, government says",
    "desc": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
    "link": "https://www.bbc.com/news/articles/cmpqgepejr2ro",
    "time": "2026-10-15T23:27:57+00:00",
-   "cat": "tech",
-   "top": true
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
@@ -138,28 +290,12 @@
    "top": false
   },
   {
-   "title": "O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test",
-   "desc": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
-   "link": "https://www.bbc.com/sport/football/articles/cwm243rxn1pxo",
-   "time": "2026-10-15T23:04:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
-   "desc": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
+   "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
+   "desc": "The celebrities turn on each other at the round table, and have to beat the death walkers for their mission.",
    "link": "https://www.bbc.com/news/articles/cq4g17j1ej95o",
    "time": "2026-10-15T23:01:49+00:00",
    "cat": "cul",
    "top": true
-  },
-  {
-   "title": "Minus 17 to European dreams as Bournemouth fairytale continues",
-   "desc": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game.",
-   "link": "https://www.bbc.com/sport/football/articles/c6lyez88m1n2o",
-   "time": "2026-10-15T22:42:26+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
@@ -167,53 +303,21 @@
    "link": "https://www.bbc.com/news/articles/c6wyrnmgzn01o",
    "time": "2026-10-15T22:37:21+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "London housing project wins top architecture award",
    "desc": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
    "link": "https://www.bbc.com/news/articles/cq8jzgl7zz9po",
    "time": "2026-10-15T20:36:32+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-   "desc": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
-   "link": "https://www.bbc.com/news/articles/cwvgdnjqpyvmo",
-   "time": "2026-10-15T20:24:32+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
-  },
-  {
-   "title": "Mother of Henry Nowak killer could be deported",
-   "desc": "Kiran Kaur was found guilty of assisting an offender and was jailed for three years in July.",
-   "link": "https://www.bbc.com/news/articles/cqze4l9l2eywo",
-   "time": "2026-10-15T19:43:07+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
    "desc": "BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
    "link": "https://www.bbc.com/sport/football/articles/crgqwvnnyv30o",
    "time": "2026-10-15T19:26:51+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Severe drought declared in parts of southern England",
-   "desc": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
-   "link": "https://www.bbc.com/news/articles/cwm243lrgdpgo",
-   "time": "2026-10-15T19:26:13+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Martinez apologises for outburst and fined by Man Utd",
-   "desc": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
-   "link": "https://www.bbc.com/sport/football/articles/cw77p152jz64o",
-   "time": "2026-10-15T18:03:28+00:00",
    "cat": "sport",
    "top": false
   },
@@ -242,14 +346,6 @@
    "top": false
   },
   {
-   "title": "Australia clinch thrilling World Cup opener against New Zealand",
-   "desc": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
-   "link": "https://www.bbc.com/sport/rugby-league/videos/cmn4eqpvw1ppo",
-   "time": "2026-10-15T17:00:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Maduro pleads not guilty to new torture-related charges in New York",
    "desc": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
    "link": "https://www.bbc.com/news/articles/cqwyrn1l74zro",
@@ -263,54 +359,6 @@
    "link": "https://www.bbc.com/news/articles/cqwyrnwd9dw1o",
    "time": "2026-10-15T16:50:18+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
-   "desc": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists.",
-   "link": "https://www.bbc.com/news/articles/crlykvgx1wvxo",
-   "time": "2026-10-15T16:36:32+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-   "desc": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-   "link": "https://www.bbc.com/news/articles/cwy7ldzl7j4po",
-   "time": "2026-10-15T16:35:05+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
-   "desc": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
-   "link": "https://www.bbc.com/news/articles/cry83dyddv6no",
-   "time": "2026-10-15T16:07:26+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Man killed by tiger died from 'multiple injuries'",
-   "desc": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
-   "link": "https://www.bbc.com/news/articles/cxr5y83v1eldo",
-   "time": "2026-10-15T16:00:26+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-   "desc": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
-   "link": "https://www.bbc.com/news/articles/cwdr8grnykrlo",
-   "time": "2026-10-15T15:55:14+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Fifty arrests in crime probe after fatal A66 crash",
-   "desc": "The arrests are made as part of a wider operation against organised crime after the A66 fatal crash.",
-   "link": "https://www.bbc.com/news/articles/cq77p1mg2zgxo",
-   "time": "2026-10-15T15:43:13+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -354,22 +402,6 @@
    "top": false
   },
   {
-   "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-   "desc": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-   "link": "https://www.bbc.com/news/articles/c60qkgpp592yo",
-   "time": "2026-10-15T14:51:30+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Watch new skateboarding speed world record of 151.83 km/h",
-   "desc": "27-year-old Spaniard Diego Poncelet sets new skateboarding speed world record at 151.83 km/h (94.34mph) set in Charlevoix, Quebec.",
-   "link": "https://www.bbc.com/sport/skateboarding/videos/cm70pnd9nedko",
-   "time": "2026-10-15T14:34:10+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
    "desc": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
    "link": "https://www.bbc.com/news/articles/c9q20djz4wno",
@@ -394,14 +426,6 @@
    "top": false
   },
   {
-   "title": "Kartal wins again as impressive comeback continues",
-   "desc": "Britain's Sonay Kartal beats former Wimbledon finalist Jasmine Paolini in straight sets to reach the Wuhan Open quarter-finals.",
-   "link": "https://www.bbc.com/sport/tennis/articles/c85ynx5vwq35o",
-   "time": "2026-10-15T12:02:14+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
    "desc": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
    "link": "https://www.bbc.com/news/articles/cqzjx448vxkgo",
@@ -423,14 +447,6 @@
    "link": "https://www.bbc.com/news/articles/cq398x7j1lrwo",
    "time": "2026-10-15T10:05:29+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "White House defends new press secretary over her legal credentials",
-   "desc": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-   "link": "https://www.bbc.com/news/articles/ckqxne2evqreo",
-   "time": "2026-10-15T08:41:04+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -518,7 +534,7 @@
    "desc": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
    "link": "https://www.bbc.com/news/articles/cm04054ykqqqo",
    "time": "2026-10-14T15:54:04+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -562,22 +578,6 @@
    "top": false
   },
   {
-   "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
-   "desc": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
-   "link": "https://www.bbc.com/news/articles/c8040531w45eo",
-   "time": "2026-10-14T04:58:47+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Lena Dunham's Girls to return for limited HBO run",
-   "desc": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
-   "link": "https://www.bbc.com/news/articles/c9m26xp4zp8jo",
-   "time": "2026-10-14T02:09:30+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "How long will humans be needed for translation?",
    "desc": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
    "link": "https://www.bbc.com/news/articles/c1wxdjx27ypo",
@@ -614,14 +614,6 @@
    "desc": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
    "link": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
    "time": "2026-10-12T07:47:37+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "King warns malicious online actors are evolving tactics",
-   "desc": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-   "link": "https://www.bbc.com/news/articles/cme3xl7d18z2o",
-   "time": "2026-10-10T15:56:32+00:00",
    "cat": "tech",
    "top": false
   }
