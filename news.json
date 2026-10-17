@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-17T13:53:29.309015+00:00",
+ "updated": "2026-10-17T16:53:53.003257+00:00",
  "items": [
   {
-   "title": "Pope discharged from hospital days after lung cancer surgery",
-   "desc": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-   "link": "https://www.bbc.com/news/articles/c5x2vkddrkrko",
-   "time": "2026-10-17T13:51:36+00:00",
-   "cat": "world",
+   "title": "Bristol beaten by Stormers in Champions Cup opener",
+   "desc": "Bristol Bears lose their Champions Cup pool-stage opener against Stormers, with Jonathan Roche and Leolin Zas both scoring twice for the South African side.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cknv0mz64j16o",
+   "time": "2026-10-17T16:44:10+00:00",
+   "cat": "sport",
    "top": false
   },
   {
-   "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
-   "desc": "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
-   "link": "https://www.bbc.com/sport/football/articles/c674pzzlz8zlo",
-   "time": "2026-10-17T13:39:16+00:00",
+   "title": "Loughnane, 20, becomes youngest champion jockey since 1923",
+   "desc": "Billy Loughnane becomes the youngest rider in over a century to be crowned  Britain's champion jockey as he collects his trophy at Ascot.",
+   "link": "https://www.bbc.com/sport/horse-racing/articles/cv98zwz4y2w4o",
+   "time": "2026-10-17T16:37:53+00:00",
    "cat": "sport",
    "top": false
   },
@@ -21,17 +21,65 @@
    "title": "More NHS staff sacked over attacks victims' records",
    "desc": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
    "link": "https://www.bbc.com/news/articles/cmd7q8ld3dd3o",
-   "time": "2026-10-17T13:18:32+00:00",
+   "time": "2026-10-17T16:34:39+00:00",
    "cat": "uk",
    "top": true
   },
   {
-   "title": "England stunned by Tonga in World Cup opener",
-   "desc": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c83vqd73k0xlo",
-   "time": "2026-10-17T13:09:41+00:00",
+   "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+   "desc": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+   "link": "https://www.bbc.com/sport/football/articles/c6rryqq00yp4o",
+   "time": "2026-10-17T16:02:31+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
+   "desc": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
+   "link": "https://www.bbc.com/news/articles/cmx2844n7nepo",
+   "time": "2026-10-17T15:36:05+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Glasgow get bonus-point win at emotion-filled Sale",
+   "desc": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cqpvgj4837r1o",
+   "time": "2026-10-17T15:13:21+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Brown scores stunner as England thrash World Cup debutants Wales",
+   "desc": "England beat Women;s Rugby League World Cup debutants Wales  70-6 in their Group A opening game in Perth, Australia.",
+   "link": "https://www.bbc.com/sport/rugby-league/videos/cw62ydry8kj2o",
+   "time": "2026-10-17T14:30:03+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "McDermott seeks fix as England fight to save their World Cup",
+   "desc": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/crwyqgjg5y8wo",
+   "time": "2026-10-17T14:12:33+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Husband calls for PM to intervene after wife detained in Egypt",
+   "desc": "Eman el-Shazly has been held by authorities in Egypt for two months, allegedly due to her sister's activism.",
+   "link": "https://www.bbc.com/news/articles/c6dxw58vrqnpo",
+   "time": "2026-10-17T14:07:46+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Pope discharged from hospital days after lung cancer surgery",
+   "desc": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+   "link": "https://www.bbc.com/news/articles/c5x2vkddrkrko",
+   "time": "2026-10-17T13:51:36+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
@@ -46,14 +94,6 @@
    "desc": "Great Britain's Millie Couzens beats her compatriot Josie Knight in the final of the women's individual pursuit at the Track Cycling World Championships in Shanghai.",
    "link": "https://www.bbc.com/sport/cycling/videos/c6m2d0gznpl0o",
    "time": "2026-10-17T12:47:04+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "England crush Women's World Cup debutants Wales",
-   "desc": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c6djvxmx0z1po",
-   "time": "2026-10-17T12:32:21+00:00",
    "cat": "sport",
    "top": false
   },
@@ -79,7 +119,7 @@
    "link": "https://www.bbc.com/news/articles/cky83g11q46lo",
    "time": "2026-10-17T11:57:27+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -94,14 +134,6 @@
    "desc": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
    "link": "https://www.bbc.com/sport/cycling/videos/c3pwgqel0er4o",
    "time": "2026-10-17T11:43:07+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Kartal reaches Wuhan final as dream week continues",
-   "desc": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event after a six-month injury lay-off.",
-   "link": "https://www.bbc.com/sport/tennis/articles/c9dr83p610vno",
-   "time": "2026-10-17T11:41:54+00:00",
    "cat": "sport",
    "top": false
   },
@@ -130,12 +162,12 @@
    "top": false
   },
   {
-   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
    "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
    "link": "https://www.bbc.com/news/articles/cv98zw1k8kp3o",
    "time": "2026-10-17T09:58:17+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Katie Zacharia leaving White House role less than five days into job",
@@ -143,22 +175,6 @@
    "link": "https://www.bbc.com/news/articles/c32l4ekpvzl8o",
    "time": "2026-10-17T09:14:10+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Swinney insists 'stars are aligning' for Scottish independence",
-   "desc": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
-   "link": "https://www.bbc.com/news/articles/cmx2844n7nepo",
-   "time": "2026-10-17T08:17:18+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Eight-try Australia send Scotland to eighth straight defeat",
-   "desc": "Scotland suffer a chastening eight-try defeat by Australia in their WXV Global Series match in Sydney.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cxg5jz4epr1po",
-   "time": "2026-10-17T08:13:13+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -242,7 +258,7 @@
    "top": false
   },
   {
-   "title": "Evacuation orders as fast-moving California wildfire burns homes",
+   "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
    "desc": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
    "link": "https://www.bbc.com/news/articles/c6vgjnk8nw2wo",
    "time": "2026-10-17T01:36:39+00:00",
@@ -370,14 +386,6 @@
    "top": false
   },
   {
-   "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
-   "desc": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence.",
-   "link": "https://www.bbc.com/news/articles/cmlykv9pey7go",
-   "time": "2026-10-16T14:36:27+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
    "desc": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
    "link": "https://www.bbc.com/news/articles/c65ynk7212vqo",
@@ -407,14 +415,6 @@
    "link": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
    "time": "2026-10-16T10:16:27+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "'It feels like you're days away from death' - the Olympian living with ME",
-   "desc": "She's an Olympian, a world record holder and a Commonwealth Games medal winner. She's also bedbound for more than 22 hours a day. Sprinter Beth Dobbin shares her health struggles with BBC Sport months after retiring from the sport for good.",
-   "link": "https://www.bbc.com/sport/olympics/videos/cmgqw3j7eqqwo",
-   "time": "2026-10-16T07:32:26+00:00",
-   "cat": "sport",
    "top": false
   },
   {
