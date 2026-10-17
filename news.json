@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-16T22:38:50.188554+00:00",
+ "updated": "2026-10-17T01:09:12.030898+00:00",
  "items": [
+  {
+   "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+   "desc": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+   "link": "https://www.bbc.com/news/articles/c8vgxwq4q5r2o",
+   "time": "2026-10-17T00:38:34+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+   "desc": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+   "link": "https://www.bbc.com/news/articles/c64g18ljjd8do",
+   "time": "2026-10-16T23:54:35+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+   "desc": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
+   "link": "https://www.bbc.com/news/articles/crn4ej7vdwdno",
+   "time": "2026-10-16T23:27:01+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Pope pictured for first time since surgery and cancer diagnosis",
+   "desc": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+   "link": "https://www.bbc.com/news/articles/cw146ej00yn7o",
+   "time": "2026-10-16T23:20:37+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+   "link": "https://www.bbc.com/news/articles/cv98zw1k8kp3o",
+   "time": "2026-10-16T23:07:38+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+   "desc": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+   "link": "https://www.bbc.com/news/articles/cwvgdn3d656vo",
+   "time": "2026-10-16T23:07:18+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "Ranking the Premier League's all-time greatest super subs",
    "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
@@ -8,6 +56,22 @@
    "time": "2026-10-16T21:15:47+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Katie Zacharia leaving her White House role less than five days on the job",
+   "desc": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+   "link": "https://www.bbc.com/news/articles/c32l4ekpvzl8o",
+   "time": "2026-10-16T21:05:05+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+   "desc": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+   "link": "https://www.bbc.com/news/articles/c6e3xnjlz12do",
+   "time": "2026-10-16T21:02:18+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Gloucester and holders Bordeaux draw Champions Cup thriller",
@@ -170,22 +234,6 @@
    "top": false
   },
   {
-   "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-   "desc": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-   "link": "https://www.bbc.com/news/articles/cmwyvxj49gpwo",
-   "time": "2026-10-16T14:57:51+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Pope pictured for first time since surgery and cancer diagnosis",
-   "desc": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-   "link": "https://www.bbc.com/news/articles/cw146ej00yn7o",
-   "time": "2026-10-16T14:36:39+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
    "desc": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence.",
    "link": "https://www.bbc.com/news/articles/cmlykv9pey7go",
@@ -231,7 +279,7 @@
    "link": "https://www.bbc.com/news/articles/ck8dz6m1d2n6o",
    "time": "2026-10-16T14:06:59+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "'I am telling you the truth' - Carrick on Martinez fallout",
@@ -247,7 +295,7 @@
    "link": "https://www.bbc.com/news/articles/cw8rzpl1ldkdo",
    "time": "2026-10-16T13:43:21+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Underdogs? We like that tag, says England captain Williams",
@@ -314,14 +362,6 @@
    "top": false
   },
   {
-   "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-   "desc": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-   "link": "https://www.bbc.com/news/articles/cq1j3wdxy48ro",
-   "time": "2026-10-16T08:45:54+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "'It feels like you're days away from death' - the Olympian living with ME",
    "desc": "She's an Olympian, a world record holder and a Commonwealth Games medal winner. She's also bedbound for more than 22 hours a day. Sprinter Beth Dobbin shares her health struggles with BBC Sport months after retiring from the sport for good.",
    "link": "https://www.bbc.com/sport/olympics/videos/cmgqw3j7eqqwo",
@@ -370,34 +410,10 @@
    "top": false
   },
   {
-   "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
-   "desc": "The celebrities turn on each other at the round table, and have to beat the death walkers for their mission.",
-   "link": "https://www.bbc.com/news/articles/cq4g17j1ej95o",
-   "time": "2026-10-15T23:01:49+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "London housing project wins top architecture award",
    "desc": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
    "link": "https://www.bbc.com/news/articles/cq8jzgl7zz9po",
    "time": "2026-10-15T20:36:32+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-   "desc": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-   "link": "https://www.bbc.com/news/articles/crx23qlnj27qo",
-   "time": "2026-10-15T17:47:22+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Marvel fans to meet Welsh superhero - complete with Cardiff accent",
-   "desc": "Lauren Morais will play villain Lisa Molinari in the new Disney+ superhero series VisionQuest.",
-   "link": "https://www.bbc.com/news/articles/c6zxj47vwrdno",
-   "time": "2026-10-15T17:30:16+00:00",
    "cat": "cul",
    "top": false
   },
@@ -415,14 +431,6 @@
    "link": "https://www.bbc.com/news/articles/crk661074ejo",
    "time": "2026-10-15T15:42:37+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-   "desc": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-   "link": "https://www.bbc.com/news/articles/cked326llddgo",
-   "time": "2026-10-15T15:26:16+00:00",
-   "cat": "world",
    "top": false
   },
   {
