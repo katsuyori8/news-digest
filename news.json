@@ -1,20 +1,84 @@
 {
- "updated": "2026-10-17T16:53:53.003257+00:00",
+ "updated": "2026-10-17T19:04:11.613030+00:00",
  "items": [
   {
-   "title": "Bristol beaten by Stormers in Champions Cup opener",
-   "desc": "Bristol Bears lose their Champions Cup pool-stage opener against Stormers, with Jonathan Roche and Leolin Zas both scoring twice for the South African side.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cknv0mz64j16o",
-   "time": "2026-10-17T16:44:10+00:00",
+   "title": "Liverpool come from behind to beat nine-man Brentford",
+   "desc": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and  Vitaly Janelt.",
+   "link": "https://www.bbc.com/sport/football/videos/c65yn28p859wo",
+   "time": "2026-10-17T19:00:13+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Loughnane, 20, becomes youngest champion jockey since 1923",
-   "desc": "Billy Loughnane becomes the youngest rider in over a century to be crowned  Britain's champion jockey as he collects his trophy at Ascot.",
-   "link": "https://www.bbc.com/sport/horse-racing/articles/cv98zwz4y2w4o",
-   "time": "2026-10-17T16:37:53+00:00",
+   "title": "Haaland nets double as Man City go six points clear at the top",
+   "desc": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+   "link": "https://www.bbc.com/sport/football/videos/c6pwgx89djn2o",
+   "time": "2026-10-17T19:00:09+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Iwobi delivers Fulham's first win of season",
+   "desc": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+   "link": "https://www.bbc.com/sport/football/videos/c6rmy7w1kdgeo",
+   "time": "2026-10-17T19:00:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Neto scores twice as Chelsea win at Everton",
+   "desc": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+   "link": "https://www.bbc.com/sport/football/videos/cq146nz03k16o",
+   "time": "2026-10-17T19:00:03+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+   "link": "https://www.bbc.com/news/articles/c962ydpmjm3zo",
+   "time": "2026-10-17T18:38:57+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Seven-try Connacht beat Saracens in Champions Cup",
+   "desc": "Connacht produce a superb attacking performance to beat Saracens in their opening Champions Cup pool game.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cr86zgpyz464o",
+   "time": "2026-10-17T18:33:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Boos and bananas on day of defiance at Man City",
+   "desc": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+   "link": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo",
+   "time": "2026-10-17T18:02:39+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Tonga stun England in World Cup opener",
+   "desc": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
+   "link": "https://www.bbc.com/sport/rugby-league/videos/cm70prd68l5jo",
+   "time": "2026-10-17T17:59:48+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Arsenal held at home by Birmingham",
+   "desc": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
+   "link": "https://www.bbc.com/sport/football/videos/c680zp4djprgo",
+   "time": "2026-10-17T17:46:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Off Campus star collaboration 'gave me chills', says Babydoll singer",
+   "desc": "Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one.",
+   "link": "https://www.bbc.com/news/articles/cq5yndllj8d8o",
+   "time": "2026-10-17T17:40:15+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -40,22 +104,6 @@
    "time": "2026-10-17T15:36:05+00:00",
    "cat": "uk",
    "top": true
-  },
-  {
-   "title": "Glasgow get bonus-point win at emotion-filled Sale",
-   "desc": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cqpvgj4837r1o",
-   "time": "2026-10-17T15:13:21+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Brown scores stunner as England thrash World Cup debutants Wales",
-   "desc": "England beat Women;s Rugby League World Cup debutants Wales  70-6 in their Group A opening game in Perth, Australia.",
-   "link": "https://www.bbc.com/sport/rugby-league/videos/cw62ydry8kj2o",
-   "time": "2026-10-17T14:30:03+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "McDermott seeks fix as England fight to save their World Cup",
@@ -87,14 +135,6 @@
    "link": "https://www.bbc.com/news/articles/cmze4y9rjepro",
    "time": "2026-10-17T12:56:09+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Couzens wins individual pursuit in all-British final",
-   "desc": "Great Britain's Millie Couzens beats her compatriot Josie Knight in the final of the women's individual pursuit at the Track Cycling World Championships in Shanghai.",
-   "link": "https://www.bbc.com/sport/cycling/videos/c6m2d0gznpl0o",
-   "time": "2026-10-17T12:47:04+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -154,14 +194,6 @@
    "top": false
   },
   {
-   "title": "Guardiola receives standing ovation on return to Barcelona",
-   "desc": "Former Manchester City and Barcelona manager Pep Guardiola received a standing ovation from the crowd while attending Barcelona's EuroLeague basketball match against Olympiacos.",
-   "link": "https://www.bbc.com/sport/videos/cm9dzg38n6j7o",
-   "time": "2026-10-17T10:00:10+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
    "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
    "link": "https://www.bbc.com/news/articles/cv98zw1k8kp3o",
@@ -183,22 +215,6 @@
    "link": "https://www.bbc.com/news/articles/c6x2vk44dv1xo",
    "time": "2026-10-17T07:38:36+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "England's 41-match unbeaten run ended by Canada",
-   "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cknv0m61l9e4o",
-   "time": "2026-10-17T07:25:54+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
-   "desc": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cwz0vdmyvrx8o",
-   "time": "2026-10-17T06:28:03+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -231,14 +247,6 @@
    "link": "https://www.bbc.com/news/articles/cqe8rzg6zl00o",
    "time": "2026-10-17T02:33:09+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Late Canada fightback ends Red Roses' unbeaten streak",
-   "desc": "Canada fight back to beat England 24-21 in Toronto in the WXV Global Series, with Shoshanah Seumanutafa's 77th-minute try ending the Red Roses' unbeaten run, stretching back to the 2022 Rugby World Cup final.",
-   "link": "https://www.bbc.com/sport/rugby-union/videos/cq77pv1jdxxpo",
-   "time": "2026-10-17T02:20:43+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -358,14 +366,6 @@
    "desc": "The cast have described plans to leave Birmingham as similar \"to Corrie leaving the north-west.\"",
    "link": "https://www.bbc.com/news/articles/cw98zj4jn6ryo",
    "time": "2026-10-16T17:18:19+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Off Campus star collaboration 'gave me chills', says Babydoll singer",
-   "desc": "Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one.",
-   "link": "https://www.bbc.com/news/articles/cq5yndllj8d8o",
-   "time": "2026-10-16T16:57:00+00:00",
    "cat": "cul",
    "top": false
   },
@@ -631,6 +631,14 @@
    "link": "https://www.bbc.com/news/articles/cwly38gjkejko",
    "time": "2026-10-13T09:34:43+00:00",
    "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Coventry thrash Newcastle to claim first home win of season",
+   "desc": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
+   "link": "https://www.bbc.com/sport/football/videos/c65y71z4rjj2o",
+   "time": "2026-10-12T21:35:07+00:00",
+   "cat": "sport",
    "top": false
   }
  ]
