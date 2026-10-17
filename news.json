@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-17T21:37:38.134049+00:00",
+ "updated": "2026-10-17T23:50:15.418807+00:00",
  "items": [
+  {
+   "title": "The Papers: 'French protests become violent' and SAS men 'arrested for murder'",
+   "desc": "The Times reports soldiers accused of murder were sent into war zones while still under police investigation.",
+   "link": "https://www.bbc.com/news/articles/cwp9g4ryl4gro",
+   "time": "2026-10-17T23:40:34+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "The playground murder: Trauma, loss and a love that endured",
+   "desc": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+   "link": "https://www.bbc.com/news/articles/cvj64l74e48po",
+   "time": "2026-10-17T23:04:50+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Dubois destroys Wardley in two rounds to retain title",
+   "desc": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+   "link": "https://www.bbc.com/sport/boxing/articles/c6gelq3zdy8wo",
+   "time": "2026-10-17T22:27:49+00:00",
+   "cat": "sport",
+   "top": true
+  },
+  {
+   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+   "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+   "link": "https://www.bbc.com/news/articles/cmy4xnyyg1lyo",
+   "time": "2026-10-17T22:09:50+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "How day of protests unfolded as disorder breaks out across France",
+   "desc": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+   "link": "https://www.bbc.com/news/videos/cwz0vy770gpzo",
+   "time": "2026-10-17T21:33:17+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "Villa's Manzambi shows Newcastle what they missed out on",
    "desc": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
@@ -10,7 +50,7 @@
    "top": false
   },
   {
-   "title": "Bath lose at home to Montpellier in Champions Cup",
+   "title": "Bath loss rounds off tough day for Prem clubs in Champions Cup",
    "desc": "Montpellier score 22 second-half points without reply to beat Bath on the opening weekend of the Champions Cup.",
    "link": "https://www.bbc.com/sport/rugby-union/articles/c370pxwklgwjo",
    "time": "2026-10-17T21:02:25+00:00",
@@ -26,12 +66,12 @@
    "top": true
   },
   {
-   "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+   "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
    "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
    "link": "https://www.bbc.com/news/articles/c6d937wedj7jo",
    "time": "2026-10-17T20:52:17+00:00",
    "cat": "world",
-   "top": false
+   "top": true
   },
   {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
@@ -106,14 +146,6 @@
    "top": false
   },
   {
-   "title": "Iwobi delivers Fulham's first win of season",
-   "desc": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
-   "link": "https://www.bbc.com/sport/football/videos/c6rmy7w1kdgeo",
-   "time": "2026-10-17T19:00:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Neto scores twice as Chelsea win at Everton",
    "desc": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
    "link": "https://www.bbc.com/sport/football/videos/cq146nz03k16o",
@@ -167,7 +199,7 @@
    "link": "https://www.bbc.com/sport/football/articles/c6rryqq00yp4o",
    "time": "2026-10-17T16:02:31+00:00",
    "cat": "sport",
-   "top": true
+   "top": false
   },
   {
    "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
@@ -199,7 +231,7 @@
    "link": "https://www.bbc.com/news/articles/c5x2vkddrkrko",
    "time": "2026-10-17T13:51:36+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
@@ -246,14 +278,6 @@
    "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
    "link": "https://www.bbc.com/news/articles/cv98zw1k8kp3o",
    "time": "2026-10-17T09:58:17+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Katie Zacharia leaving White House role less than five days into job",
-   "desc": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-   "link": "https://www.bbc.com/news/articles/c32l4ekpvzl8o",
-   "time": "2026-10-17T09:14:10+00:00",
    "cat": "world",
    "top": false
   },
@@ -330,28 +354,12 @@
    "top": false
   },
   {
-   "title": "Why people who have never smoked are getting hooked on vapes",
-   "desc": "More than one million people now vape who have never been smokers, according to the ONS.",
-   "link": "https://www.bbc.com/news/articles/ck62y33489zqo",
-   "time": "2026-10-16T23:49:16+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
    "desc": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
    "link": "https://www.bbc.com/news/articles/crn4ej7vdwdno",
    "time": "2026-10-16T23:27:01+00:00",
    "cat": "cul",
-   "top": true
-  },
-  {
-   "title": "Two-week half terms: The school holiday no one can agree on",
-   "desc": "Parents are divided, with some struggling to arrange childcare while others eye cheaper holidays.",
-   "link": "https://www.bbc.com/news/articles/cm3wvd7x01jqo",
-   "time": "2026-10-16T23:26:45+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Police assess Palestine Action post by national security adviser's wife",
@@ -375,7 +383,7 @@
    "link": "https://www.bbc.com/news/articles/cwr7y8er1n8vo",
    "time": "2026-10-16T18:11:29+00:00",
    "cat": "tech",
-   "top": true
+   "top": false
   },
   {
    "title": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania",
