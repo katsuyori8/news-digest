@@ -1,19 +1,51 @@
 {
- "updated": "2026-10-17T23:50:15.418807+00:00",
+ "updated": "2026-10-18T03:34:03.790708+00:00",
  "items": [
   {
-   "title": "The Papers: 'French protests become violent' and SAS men 'arrested for murder'",
-   "desc": "The Times reports soldiers accused of murder were sent into war zones while still under police investigation.",
-   "link": "https://www.bbc.com/news/articles/cwp9g4ryl4gro",
-   "time": "2026-10-17T23:40:34+00:00",
+   "title": "Deadly fire breaks out at Canada military base",
+   "desc": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+   "link": "https://www.bbc.com/news/articles/cr86z0w4lxdxo",
+   "time": "2026-10-18T03:23:08+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+   "link": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
+   "time": "2026-10-18T01:10:25+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+   "desc": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
+   "link": "https://www.bbc.com/news/videos/c6e3xjw37wn7o",
+   "time": "2026-10-18T00:49:42+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "The playground murder: Trauma, loss and a love that endured",
-   "desc": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
-   "link": "https://www.bbc.com/news/articles/cvj64l74e48po",
-   "time": "2026-10-17T23:04:50+00:00",
+   "title": "There's a crackdown on sports piracy - but is it already out of control?",
+   "desc": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+   "link": "https://www.bbc.com/news/articles/cmx2375zqwwwo",
+   "time": "2026-10-18T00:11:09+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Comedian Paul Whitehouse mugged at London cash machine",
+   "desc": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\".",
+   "link": "https://www.bbc.com/news/articles/cmd6dnq2j4v3o",
+   "time": "2026-10-18T00:06:36+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+   "link": "https://www.bbc.com/news/articles/c962ydpmjm3zo",
+   "time": "2026-10-17T23:52:38+00:00",
    "cat": "world",
    "top": true
   },
@@ -90,14 +122,6 @@
    "top": false
   },
   {
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-   "link": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
-   "time": "2026-10-17T19:19:19+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "At least 17 dead in crush at Hindu festival event in India",
    "desc": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
    "link": "https://www.bbc.com/news/articles/c820vwq7qg2ko",
@@ -152,14 +176,6 @@
    "time": "2026-10-17T19:00:03+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-   "link": "https://www.bbc.com/news/articles/c962ydpmjm3zo",
-   "time": "2026-10-17T18:38:57+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Swinney's emotional explanation for his commitment to independence",
@@ -223,14 +239,6 @@
    "link": "https://www.bbc.com/news/articles/c6dxw58vrqnpo",
    "time": "2026-10-17T14:07:46+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Pope discharged from hospital days after lung cancer surgery",
-   "desc": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-   "link": "https://www.bbc.com/news/articles/c5x2vkddrkrko",
-   "time": "2026-10-17T13:51:36+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -359,14 +367,6 @@
    "link": "https://www.bbc.com/news/articles/crn4ej7vdwdno",
    "time": "2026-10-16T23:27:01+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Police assess Palestine Action post by national security adviser's wife",
-   "desc": "Downing Street says Sarah Helm, the wife of Jonathan Powell, \"does not represent the government in any capacity\".",
-   "link": "https://www.bbc.com/news/articles/crn4el88y7p2o",
-   "time": "2026-10-16T18:58:05+00:00",
-   "cat": "uk",
    "top": false
   },
   {
