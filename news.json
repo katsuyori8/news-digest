@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-18T19:16:50.450900+00:00",
+ "updated": "2026-10-18T21:41:31.792666+00:00",
  "items": [
+  {
+   "title": "What we know so far about deadly fire at Canadian military base",
+   "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
+   "link": "https://www.bbc.com/news/articles/cmgelrq8x92do",
+   "time": "2026-10-18T21:37:56+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+   "desc": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+   "link": "https://www.bbc.com/news/videos/c84g166kz003o",
+   "time": "2026-10-18T21:00:22+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Macron calls for 'calm and order' after riots across France",
+   "desc": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+   "link": "https://www.bbc.com/news/articles/cw240zl08dm5o",
+   "time": "2026-10-18T20:33:21+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ramos could make La Liga return - Monday's gossip",
+   "desc": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
+   "link": "https://www.bbc.com/sport/football/articles/ckjrw11dv5xjo",
+   "time": "2026-10-18T20:21:54+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+   "desc": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+   "link": "https://www.bbc.com/sport/football/articles/c3qjnyw8qe4do",
+   "time": "2026-10-18T19:55:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+   "desc": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+   "link": "https://www.bbc.com/news/articles/cwzrd6123jyyo",
+   "time": "2026-10-18T19:53:27+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+   "desc": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+   "link": "https://www.bbc.com/sport/football/articles/cq1kdzp093jwo",
+   "time": "2026-10-18T19:51:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Fuel leak spreads more than two miles along River Taff",
+   "desc": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
+   "link": "https://www.bbc.com/news/articles/c8vgxnp5w6vzo",
+   "time": "2026-10-18T19:20:57+00:00",
+   "cat": "sci",
+   "top": false
+  },
   {
    "title": "Bournemouth pick up first league victory with win over Sunderland",
    "desc": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
@@ -34,19 +98,11 @@
    "top": false
   },
   {
-   "title": "Boy, 14, stabbed in shopping centre attack",
-   "desc": "Greater Manchester Police say the boy's injuries were not thought to be life threatening or life changing.",
-   "link": "https://www.bbc.com/news/articles/c6z983n5qp33o",
-   "time": "2026-10-18T18:51:18+00:00",
+   "title": "Man and woman in their late teens die in collision",
+   "desc": "Police say the driver dies in hospital as a result of her injuries.",
+   "link": "https://www.bbc.com/news/articles/c693z9k57d7wo",
+   "time": "2026-10-18T18:58:50+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Maybe we became arrogant' - Sunderland struggles continue",
-   "desc": "Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term.",
-   "link": "https://www.bbc.com/sport/football/articles/c6073pmddk0ko",
-   "time": "2026-10-18T18:49:00+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -70,22 +126,6 @@
    "desc": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
    "link": "https://www.bbc.com/sport/football/articles/c62kezneyq8vo",
    "time": "2026-10-18T18:22:50+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
-   "link": "https://www.bbc.com/news/articles/cmgelrq8x92do",
-   "time": "2026-10-18T17:48:53+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
-   "desc": "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
-   "link": "https://www.bbc.com/sport/football/articles/ck5yn33jgx84o",
-   "time": "2026-10-18T17:35:44+00:00",
    "cat": "sport",
    "top": false
   },
@@ -122,14 +162,6 @@
    "top": false
   },
   {
-   "title": "Fuel leak spreads more than two miles along River Taff",
-   "desc": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
-   "link": "https://www.bbc.com/news/articles/c8vgxnp5w6vzo",
-   "time": "2026-10-18T15:11:09+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
    "desc": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
    "link": "https://www.bbc.com/news/articles/cmn8w5v8yne4o",
@@ -146,14 +178,6 @@
    "top": false
   },
   {
-   "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-   "desc": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-   "link": "https://www.bbc.com/sport/football/articles/ckvg7v43x1xyo",
-   "time": "2026-10-18T14:56:01+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "BBC pauses civil service secondment scheme",
    "desc": "The BBC said all journalism and editorial decisions are made by BBC journalists and editors.",
    "link": "https://www.bbc.com/news/articles/cwjdmy20yjmno",
@@ -167,7 +191,7 @@
    "link": "https://www.bbc.com/news/articles/cv70pxe5j90eo",
    "time": "2026-10-18T13:47:07+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Britain's Kartal misses out on biggest title of her career",
@@ -207,14 +231,6 @@
    "link": "https://www.bbc.com/news/articles/cm2kezgd77qlo",
    "time": "2026-10-18T12:09:04+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-   "link": "https://www.bbc.com/news/articles/c574pdzl0k4no",
-   "time": "2026-10-18T12:07:31+00:00",
-   "cat": "world",
    "top": true
   },
   {
@@ -272,14 +288,6 @@
    "time": "2026-10-18T06:31:27+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-   "desc": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-   "link": "https://www.bbc.com/news/videos/cq8ez4jz1z04o",
-   "time": "2026-10-18T05:30:16+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -370,26 +378,10 @@
    "top": false
   },
   {
-   "title": "Pope discharged from hospital days after lung cancer surgery",
-   "desc": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-   "link": "https://www.bbc.com/news/articles/c5x2vkddrkrko",
-   "time": "2026-10-17T13:51:36+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
    "desc": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
    "link": "https://www.bbc.com/news/articles/cqe9lx54g7x9o",
    "time": "2026-10-17T12:11:58+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-   "desc": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
-   "link": "https://www.bbc.com/news/articles/c61m4zkx47vlo",
-   "time": "2026-10-17T10:46:41+00:00",
    "cat": "world",
    "top": false
   },
@@ -454,14 +446,6 @@
    "desc": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
    "link": "https://www.bbc.com/news/articles/cq70pre80gwko",
    "time": "2026-10-17T01:34:52+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-   "desc": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-   "link": "https://www.bbc.com/news/articles/c8vgxwq4q5r2o",
-   "time": "2026-10-17T00:38:34+00:00",
    "cat": "cul",
    "top": false
   },
