@@ -1,28 +1,124 @@
 {
- "updated": "2026-10-18T13:03:17.616234+00:00",
+ "updated": "2026-10-18T16:43:17.821783+00:00",
  "items": [
   {
-   "title": "Suspects hunted after police officer injured in shooting",
-   "desc": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-   "link": "https://www.bbc.com/news/articles/c63elzvjpgn2o",
-   "time": "2026-10-18T12:54:03+00:00",
+   "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+   "desc": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cvglwz05j6l4o",
+   "time": "2026-10-18T16:27:51+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
+   "desc": "Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton.",
+   "link": "https://www.bbc.com/sport/football/videos/cqrly0ly7j59o",
+   "time": "2026-10-18T16:13:45+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+   "desc": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+   "link": "https://www.bbc.com/news/articles/cmx23p5w7123o",
+   "time": "2026-10-18T15:59:29+00:00",
    "cat": "uk",
    "top": true
   },
   {
-   "title": "Several dead or injured in major fire at Canada military base",
-   "desc": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-   "link": "https://www.bbc.com/news/articles/cr86z0w4lxdxo",
-   "time": "2026-10-18T12:41:59+00:00",
+   "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+   "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+   "link": "https://www.bbc.com/news/articles/c3eweygrjzd7o",
+   "time": "2026-10-18T15:46:10+00:00",
    "cat": "world",
+   "top": true
+  },
+  {
+   "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
+   "desc": "A misconduct hearing said many of the records accessed were sensitive and held \"intimate information\".",
+   "link": "https://www.bbc.com/news/articles/cmkg7jl1wxvgo",
+   "time": "2026-10-18T15:30:49+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Chacarra wins in India to take Race to Dubai lead",
+   "desc": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+   "link": "https://www.bbc.com/sport/golf/articles/cw98zlldrpj0o",
+   "time": "2026-10-18T15:11:51+00:00",
+   "cat": "sport",
    "top": false
   },
   {
    "title": "Fuel leak spreads more than two miles along River Taff",
-   "desc": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell.",
+   "desc": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
    "link": "https://www.bbc.com/news/articles/c8vgxnp5w6vzo",
-   "time": "2026-10-18T12:27:17+00:00",
+   "time": "2026-10-18T15:11:09+00:00",
    "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+   "desc": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+   "link": "https://www.bbc.com/news/articles/cmn8w5v8yne4o",
+   "time": "2026-10-18T14:57:19+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Three officers injured after lorry crashes into police vehicle",
+   "desc": "A 36-year-old man has been arrested on suspicion of driving while unfit through drink or drugs, driving while disqualified and dangerous driving.",
+   "link": "https://www.bbc.com/news/articles/ckpdgjj0pp0no",
+   "time": "2026-10-18T14:57:01+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+   "desc": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+   "link": "https://www.bbc.com/sport/football/articles/ckvg7v43x1xyo",
+   "time": "2026-10-18T14:56:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "BBC pauses civil service secondment scheme",
+   "desc": "The BBC said all journalism and editorial decisions are made by BBC journalists and editors.",
+   "link": "https://www.bbc.com/news/articles/cwjdmy20yjmno",
+   "time": "2026-10-18T14:25:51+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+   "desc": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+   "link": "https://www.bbc.com/news/articles/cv70pxe5j90eo",
+   "time": "2026-10-18T13:47:07+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Britain's Kartal misses out on biggest title of her career",
+   "desc": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cqm2411vp3dgo",
+   "time": "2026-10-18T13:39:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Suspects hunted after police officer injured in shooting",
+   "desc": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
+   "link": "https://www.bbc.com/news/articles/c63elzvjpgn2o",
+   "time": "2026-10-18T13:10:18+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Man arrested after boy, 16, dies in crash",
+   "desc": "The 19-year-old man is held on suspicion of causing death and serious injury by dangerous driving.",
+   "link": "https://www.bbc.com/news/articles/cqrmy4k9890do",
+   "time": "2026-10-18T13:03:13+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -43,47 +139,23 @@
   },
   {
    "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "desc": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+   "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
    "link": "https://www.bbc.com/news/articles/c574pdzl0k4no",
    "time": "2026-10-18T12:07:31+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-   "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-   "link": "https://www.bbc.com/news/articles/c3eweygrjzd7o",
-   "time": "2026-10-18T11:57:49+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-   "desc": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-   "link": "https://www.bbc.com/news/articles/cmx23p5w7123o",
-   "time": "2026-10-18T11:26:35+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-   "desc": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-   "link": "https://www.bbc.com/news/articles/cmn8w5v8yne4o",
-   "time": "2026-10-18T11:14:33+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Watch: Parisians wake up to protest damage and looted shops",
-   "desc": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-   "link": "https://www.bbc.com/news/videos/cmn5vey19q3go",
-   "time": "2026-10-18T10:58:39+00:00",
+   "title": "Watch: Pope thanks well-wishers in first event after cancer surgery",
+   "desc": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+   "link": "https://www.bbc.com/news/videos/cq70px6pjkg5o",
+   "time": "2026-10-18T11:09:32+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "NHS data breaches a disgrace, says health secretary",
-   "desc": "A total of 15 NHS staff are sacked for accessing records of the Nottingham attacks victims.",
+   "title": "NHS data breaches a disgrace, health secretary says",
+   "desc": "A total of 15 NHS staff have been sacked for accessing records of the Nottingham attacks victims.",
    "link": "https://www.bbc.com/news/articles/cq2e9nw82ljdo",
    "time": "2026-10-18T10:52:31+00:00",
    "cat": "uk",
@@ -102,22 +174,6 @@
    "desc": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
    "link": "https://www.bbc.com/sport/boxing/articles/ck3r59ywz99ro",
    "time": "2026-10-18T09:55:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Martinez breaks jaw in Chelsea win at Everton",
-   "desc": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-   "link": "https://www.bbc.com/sport/football/articles/cked3vl198eyo",
-   "time": "2026-10-18T09:42:10+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Finucane will 'come back fighting' after missing gold",
-   "desc": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
-   "link": "https://www.bbc.com/sport/olympics/articles/cm0rl7504204o",
-   "time": "2026-10-18T09:24:40+00:00",
    "cat": "sport",
    "top": false
   },
@@ -154,14 +210,6 @@
    "top": false
   },
   {
-   "title": "New Zealand avoid World Cup shock against Fiji",
-   "desc": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cmx2q94rppe9o",
-   "time": "2026-10-18T07:38:11+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Boy, 14, stabbed in shopping centre attack",
    "desc": "Greater Manchester Police say the boy's injuries were not thought to be life threatening or life changing.",
    "link": "https://www.bbc.com/news/articles/c6z983n5qp33o",
@@ -194,14 +242,6 @@
    "top": true
   },
   {
-   "title": "Chin-up champion secures Guinness World Record title",
-   "desc": "Former mixed marital artist Damien Rooney has broken the Guinness World Record for most chin-ups in an hour whilst wearing a 20lb weight.",
-   "link": "https://www.bbc.com/news/articles/c6dxwkd50d2zo",
-   "time": "2026-10-18T05:19:16+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
    "desc": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
    "link": "https://www.bbc.com/news/articles/cmx2wvyv5j17o",
@@ -223,7 +263,7 @@
    "link": "https://www.bbc.com/news/articles/crwyq75117z4o",
    "time": "2026-10-18T00:29:58+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "There's a crackdown on sports piracy - but is it already out of control?",
@@ -231,22 +271,14 @@
    "link": "https://www.bbc.com/news/articles/cmx2375zqwwwo",
    "time": "2026-10-18T00:11:09+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "Comedian Paul Whitehouse mugged at London cash machine",
    "desc": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\".",
    "link": "https://www.bbc.com/news/articles/cmd6dnq2j4v3o",
    "time": "2026-10-18T00:06:36+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-   "desc": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-   "link": "https://www.bbc.com/sport/cricket/scorecard/e-236998",
-   "time": "2026-10-18T00:00:00+00:00",
-   "cat": "sport",
+   "cat": "cul",
    "top": false
   },
   {
@@ -258,35 +290,11 @@
    "top": false
   },
   {
-   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-   "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-   "link": "https://www.bbc.com/news/articles/cmy4xnyyg1lyo",
-   "time": "2026-10-17T22:09:50+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Will Hearts prove credentials at scene of title heartbreak?",
-   "desc": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-   "link": "https://www.bbc.com/sport/football/articles/c6y93xw91dv3o",
-   "time": "2026-10-17T21:55:44+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Anti-government protesters battle with police in Albania",
    "desc": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
    "link": "https://www.bbc.com/news/articles/crwydey50xeno",
    "time": "2026-10-17T20:53:00+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Reform activist suspended after reportedly saying Muslims cannot be British",
-   "desc": "The alleged comments were filmed by an undercover reporter for an ITV broadcast: Undercover a Year in Reform",
-   "link": "https://www.bbc.com/news/articles/cr3elnevylywo",
-   "time": "2026-10-17T20:49:50+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -351,14 +359,6 @@
    "link": "https://www.bbc.com/sport/football/videos/cq146nz03k16o",
    "time": "2026-10-17T19:00:03+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Swinney's emotional explanation for his commitment to independence",
-   "desc": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
-   "link": "https://www.bbc.com/news/articles/cx5yn9n7v5zeo",
-   "time": "2026-10-17T18:11:42+00:00",
-   "cat": "uk",
    "top": false
   },
   {
