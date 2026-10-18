@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-18T21:41:31.792666+00:00",
+ "updated": "2026-10-18T23:58:27.721853+00:00",
  "items": [
+  {
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "desc": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "link": "https://www.bbc.com/news/articles/cwdd8z6gyy96o",
+   "time": "2026-10-18T23:28:45+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Don't fall for this - how to protect yourself from AI scams",
+   "desc": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+   "link": "https://www.bbc.com/news/articles/c60rl1xvjv89o",
+   "time": "2026-10-18T23:24:59+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+   "link": "https://www.bbc.com/news/articles/c9p8gz7zx4peo",
+   "time": "2026-10-18T23:20:15+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Major fire at Canada military base leaves four dead, dozens injured",
+   "desc": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+   "link": "https://www.bbc.com/news/articles/cxj0ly1m3q81o",
+   "time": "2026-10-18T23:06:09+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Mission set to blast off for Mars to grab a piece of its moon",
+   "desc": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+   "link": "https://www.bbc.com/news/articles/cmvgxvkv54w1o",
+   "time": "2026-10-18T23:00:48+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Home sellers cut asking prices on 3,000 properties a day",
+   "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+   "link": "https://www.bbc.com/news/articles/c84g13z6xx4eo",
+   "time": "2026-10-18T23:00:45+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+   "desc": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+   "link": "https://www.bbc.com/news/videos/c9dr8kem27zeo",
+   "time": "2026-10-18T22:22:51+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "What we know so far about deadly fire at Canadian military base",
    "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
@@ -11,7 +67,7 @@
   },
   {
    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-   "desc": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+   "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
    "link": "https://www.bbc.com/news/videos/c84g166kz003o",
    "time": "2026-10-18T21:00:22+00:00",
    "cat": "world",
@@ -143,7 +199,15 @@
    "link": "https://www.bbc.com/news/articles/cmx23p5w7123o",
    "time": "2026-10-18T17:00:42+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
+  },
+  {
+   "title": "Microsoft pulls out of UK's largest AI data centre",
+   "desc": "Tech firm Nscale says it is still committed to building the site in Essex.",
+   "link": "https://www.bbc.com/news/articles/c9m26kl5y7epo",
+   "time": "2026-10-18T16:46:42+00:00",
+   "cat": "biz",
+   "top": false
   },
   {
    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -151,7 +215,7 @@
    "link": "https://www.bbc.com/news/articles/c3eweygrjzd7o",
    "time": "2026-10-18T15:46:10+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
@@ -207,7 +271,7 @@
    "link": "https://www.bbc.com/news/articles/c63elzvjpgn2o",
    "time": "2026-10-18T13:10:18+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Man arrested after boy, 16, dies in crash",
@@ -298,14 +362,6 @@
    "top": true
   },
   {
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-   "link": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
-   "time": "2026-10-18T01:10:25+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
    "desc": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
    "link": "https://www.bbc.com/news/articles/crwyq75117z4o",
@@ -375,22 +431,6 @@
    "link": "https://www.bbc.com/news/articles/cq5yndllj8d8o",
    "time": "2026-10-17T17:40:15+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-   "desc": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-   "link": "https://www.bbc.com/news/articles/cqe9lx54g7x9o",
-   "time": "2026-10-17T12:11:58+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-   "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-   "link": "https://www.bbc.com/news/articles/cv98zw1k8kp3o",
-   "time": "2026-10-17T09:58:17+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -522,14 +562,6 @@
    "top": false
   },
   {
-   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-   "desc": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-   "link": "https://www.bbc.com/news/articles/cmde8dpg8g0no",
-   "time": "2026-10-16T05:00:17+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Porn showing choking or incest to be banned from early November, government says",
    "desc": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
    "link": "https://www.bbc.com/news/articles/cmpqgepejr2ro",
@@ -542,15 +574,7 @@
    "desc": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
    "link": "https://www.bbc.com/news/articles/cr6240q1w136o",
    "time": "2026-10-15T23:18:21+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "I find it quite demoralising in store - why I do all my shopping online",
-   "desc": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-   "link": "https://www.bbc.com/news/articles/c36lk280kd1o",
-   "time": "2026-10-15T23:16:12+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -578,14 +602,6 @@
    "top": false
   },
   {
-   "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-   "desc": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-   "link": "https://www.bbc.com/news/articles/cm79pe5yej7no",
-   "time": "2026-10-15T14:55:21+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "£15m for zero-emission testing at Belfast Harbour",
    "desc": "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund.",
    "link": "https://www.bbc.com/news/articles/c6kgqr9n8082o",
@@ -599,14 +615,6 @@
    "link": "https://www.bbc.com/news/articles/c9q20djz4wno",
    "time": "2026-10-15T14:25:48+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Sheep are disappearing from our hills - and our dinner plates",
-   "desc": "Have we have passed \"peak sheep\" in the UK?",
-   "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo",
-   "time": "2026-10-15T14:10:13+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -638,14 +646,6 @@
    "desc": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
    "link": "https://www.bbc.com/news/articles/c1wxdjx27ypo",
    "time": "2026-10-13T23:05:29+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-   "desc": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-   "link": "https://www.bbc.com/news/articles/cm9qzwjgnjxlo",
-   "time": "2026-10-13T15:59:07+00:00",
    "cat": "tech",
    "top": false
   }
