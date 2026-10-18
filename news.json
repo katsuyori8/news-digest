@@ -1,13 +1,109 @@
 {
- "updated": "2026-10-18T03:34:03.790708+00:00",
+ "updated": "2026-10-18T08:40:08.649623+00:00",
  "items": [
   {
-   "title": "Deadly fire breaks out at Canada military base",
-   "desc": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+   "title": "Police officer in hospital after being shot in Nottingham",
+   "desc": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
+   "link": "https://www.bbc.com/news/articles/c63elzvjpgn2o",
+   "time": "2026-10-18T08:38:46+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+   "desc": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+   "link": "https://www.bbc.com/news/articles/c8y56y6xg9n9o",
+   "time": "2026-10-18T08:12:24+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "The playground murder: Trauma, loss and a love that endured",
+   "desc": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+   "link": "https://www.bbc.com/news/articles/cvj64l74e48po",
+   "time": "2026-10-18T08:11:45+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Several dead or injured in major fire at Canada military base",
+   "desc": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
    "link": "https://www.bbc.com/news/articles/cr86z0w4lxdxo",
-   "time": "2026-10-18T03:23:08+00:00",
+   "time": "2026-10-18T08:05:49+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "New Zealand avoid World Cup shock against Fiji",
+   "desc": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cmx2q94rppe9o",
+   "time": "2026-10-18T07:38:11+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Martinez 'back in a few weeks' after operation",
+   "desc": "Chelsea goalkeeper Emiliano Martinez says he will be fit in a few weeks after being injured in the win at Everton.",
+   "link": "https://www.bbc.com/sport/football/articles/cked3vl198eyo",
+   "time": "2026-10-18T07:25:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "NHS faces more challenging winter than normal, health secretary warns",
+   "desc": "Yvette Cooper has announced £140m investment in England's urgent care system, after summer heatwaves piled pressure on the NHS.",
+   "link": "https://www.bbc.com/news/articles/cm2kezgd77qlo",
+   "time": "2026-10-18T07:05:37+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+   "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+   "link": "https://www.bbc.com/news/articles/c6d937wedj7jo",
+   "time": "2026-10-18T05:56:20+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/cwn8dzjp41d1o",
+   "time": "2026-10-18T05:46:16+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
+   "desc": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
+   "link": "https://www.bbc.com/sport/boxing/articles/ck3r59ywz99ro",
+   "time": "2026-10-18T05:39:47+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Watch: Police hunting for synthetic drugs in Chicago jail",
+   "desc": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
+   "link": "https://www.bbc.com/news/videos/cq8ez4jz1z04o",
+   "time": "2026-10-18T05:30:16+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Church makes sainthood case for 'WW1 hero' priest",
+   "desc": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
+   "link": "https://www.bbc.com/news/articles/cmg47rwddpxko",
+   "time": "2026-10-18T05:15:53+00:00",
    "cat": "world",
    "top": false
+  },
+  {
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+   "desc": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+   "link": "https://www.bbc.com/news/articles/cmx2wvyv5j17o",
+   "time": "2026-10-18T05:04:31+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -26,11 +122,19 @@
    "top": true
   },
   {
+   "title": "How The Traitors' music plays with your emotions",
+   "desc": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
+   "link": "https://www.bbc.com/news/articles/crwyq75117z4o",
+   "time": "2026-10-18T00:29:58+00:00",
+   "cat": "cul",
+   "top": true
+  },
+  {
    "title": "There's a crackdown on sports piracy - but is it already out of control?",
    "desc": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
    "link": "https://www.bbc.com/news/articles/cmx2375zqwwwo",
    "time": "2026-10-18T00:11:09+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": true
   },
   {
@@ -42,20 +146,28 @@
    "top": false
   },
   {
+   "title": "South Africa bat first in second Test against Australia - scorecard",
+   "desc": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
+   "link": "https://www.bbc.com/sport/cricket/scorecard/e-236998",
+   "time": "2026-10-18T00:00:00+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "European diplomats attacked by Israeli settlers in West Bank",
    "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
    "link": "https://www.bbc.com/news/articles/c962ydpmjm3zo",
    "time": "2026-10-17T23:52:38+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
-   "title": "Dubois destroys Wardley in two rounds to retain title",
-   "desc": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
-   "link": "https://www.bbc.com/sport/boxing/articles/c6gelq3zdy8wo",
-   "time": "2026-10-17T22:27:49+00:00",
-   "cat": "sport",
-   "top": true
+   "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
+   "desc": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
+   "link": "https://www.bbc.com/news/articles/cqrky2rkd5n1o",
+   "time": "2026-10-17T23:07:57+00:00",
+   "cat": "cul",
+   "top": false
   },
   {
    "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -66,26 +178,10 @@
    "top": true
   },
   {
-   "title": "How day of protests unfolded as disorder breaks out across France",
-   "desc": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-   "link": "https://www.bbc.com/news/videos/cwz0vy770gpzo",
-   "time": "2026-10-17T21:33:17+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Villa's Manzambi shows Newcastle what they missed out on",
-   "desc": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
-   "link": "https://www.bbc.com/sport/football/articles/ck054652mv07o",
-   "time": "2026-10-17T21:18:26+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Bath loss rounds off tough day for Prem clubs in Champions Cup",
-   "desc": "Montpellier score 22 second-half points without reply to beat Bath on the opening weekend of the Champions Cup.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c370pxwklgwjo",
-   "time": "2026-10-17T21:02:25+00:00",
+   "title": "Can Hearts prove credentials at scene of title heartbreak?",
+   "desc": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+   "link": "https://www.bbc.com/sport/football/articles/c6y93xw91dv3o",
+   "time": "2026-10-17T21:55:44+00:00",
    "cat": "sport",
    "top": false
   },
@@ -95,15 +191,15 @@
    "link": "https://www.bbc.com/news/articles/crwydey50xeno",
    "time": "2026-10-17T20:53:00+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
-   "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-   "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-   "link": "https://www.bbc.com/news/articles/c6d937wedj7jo",
-   "time": "2026-10-17T20:52:17+00:00",
-   "cat": "world",
-   "top": true
+   "title": "Reform activist suspended after reportedly saying Muslims cannot be British",
+   "desc": "The alleged comments were filmed by an undercover reporter for an ITV broadcast: Undercover a Year in Reform",
+   "link": "https://www.bbc.com/news/articles/cr3elnevylywo",
+   "time": "2026-10-17T20:49:50+00:00",
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
@@ -170,20 +266,12 @@
    "top": false
   },
   {
-   "title": "Neto scores twice as Chelsea win at Everton",
-   "desc": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
-   "link": "https://www.bbc.com/sport/football/videos/cq146nz03k16o",
-   "time": "2026-10-17T19:00:03+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Swinney's emotional explanation for his commitment to independence",
    "desc": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
    "link": "https://www.bbc.com/news/articles/cx5yn9n7v5zeo",
    "time": "2026-10-17T18:11:42+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "Boos and bananas on day of defiance at Man City",
@@ -207,30 +295,6 @@
    "link": "https://www.bbc.com/news/articles/cmd7q8ld3dd3o",
    "time": "2026-10-17T16:34:39+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-   "desc": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
-   "link": "https://www.bbc.com/sport/football/articles/c6rryqq00yp4o",
-   "time": "2026-10-17T16:02:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-   "desc": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-   "link": "https://www.bbc.com/news/articles/cmx2844n7nepo",
-   "time": "2026-10-17T15:36:05+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "McDermott seeks fix as England fight to save their World Cup",
-   "desc": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/crwyqgjg5y8wo",
-   "time": "2026-10-17T14:12:33+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -262,14 +326,6 @@
    "desc": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
    "link": "https://www.bbc.com/news/articles/cky83g11q46lo",
    "time": "2026-10-17T11:57:27+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "DIY SOS to be 'rested' next year to save money, BBC says",
-   "desc": "The long-running programme will be replaced by a \"more cost-effective\" spin-off show revisiting past projects.",
-   "link": "https://www.bbc.com/news/articles/cr15jw22v50qo",
-   "time": "2026-10-17T10:52:17+00:00",
    "cat": "uk",
    "top": false
   },
@@ -310,15 +366,7 @@
    "desc": "It comes after the prime minister refused to say whether he backed expansion.",
    "link": "https://www.bbc.com/news/articles/cw0k07d2nj43o",
    "time": "2026-10-17T03:57:16+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-   "desc": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-   "link": "https://www.bbc.com/news/articles/c3kgqjkzw29wo",
-   "time": "2026-10-17T03:11:10+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -326,7 +374,15 @@
    "desc": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
    "link": "https://www.bbc.com/news/articles/cqe8rzg6zl00o",
    "time": "2026-10-17T02:33:09+00:00",
-   "cat": "world",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+   "desc": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+   "link": "https://www.bbc.com/news/articles/cm4g189jvnxjo",
+   "time": "2026-10-17T01:59:48+00:00",
+   "cat": "biz",
    "top": false
   },
   {
@@ -350,7 +406,7 @@
    "desc": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
    "link": "https://www.bbc.com/news/articles/cq70pre80gwko",
    "time": "2026-10-17T01:34:52+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -358,14 +414,6 @@
    "desc": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
    "link": "https://www.bbc.com/news/articles/c8vgxwq4q5r2o",
    "time": "2026-10-17T00:38:34+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-   "desc": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
-   "link": "https://www.bbc.com/news/articles/crn4ej7vdwdno",
-   "time": "2026-10-16T23:27:01+00:00",
    "cat": "cul",
    "top": false
   },
@@ -546,27 +594,11 @@
    "top": false
   },
   {
-   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-   "desc": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-   "link": "https://www.bbc.com/news/articles/ck8dz1me439no",
-   "time": "2026-10-15T13:25:17+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
    "desc": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
    "link": "https://www.bbc.com/news/articles/cqzjx448vxkgo",
    "time": "2026-10-15T11:34:55+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "BBC News channel launches on YouTube for viewers in UK and US",
-   "desc": "The move forms part of the BBC's wider strategy to reach digitally-native new and younger audiences.",
-   "link": "https://www.bbc.com/news/articles/c60merk2je80o",
-   "time": "2026-10-15T11:26:30+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -586,34 +618,10 @@
    "top": false
   },
   {
-   "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
-   "desc": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
-   "link": "https://www.bbc.com/news/articles/cvwy761zyx7eo",
-   "time": "2026-10-14T23:35:40+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "How backlash against data centres could shape the US midterm elections",
    "desc": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
    "link": "https://www.bbc.com/news/articles/c0rezqpnekro",
    "time": "2026-10-14T23:02:57+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "How much is the minimum wage?",
-   "desc": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-   "link": "https://www.bbc.com/news/articles/cy7e8mpdxpro",
-   "time": "2026-10-14T23:01:11+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-   "desc": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-   "link": "https://www.bbc.com/news/articles/cwp8gynk13rro",
-   "time": "2026-10-14T17:46:30+00:00",
    "cat": "biz",
    "top": false
   },
