@@ -1,19 +1,99 @@
 {
- "updated": "2026-10-18T16:43:17.821783+00:00",
+ "updated": "2026-10-18T19:16:50.450900+00:00",
  "items": [
   {
-   "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
-   "desc": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cvglwz05j6l4o",
-   "time": "2026-10-18T16:27:51+00:00",
+   "title": "Bournemouth pick up first league victory with win over Sunderland",
+   "desc": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+   "link": "https://www.bbc.com/sport/football/videos/cme8rz8x6pw8o",
+   "time": "2026-10-18T18:59:15+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
-   "desc": "Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton.",
-   "link": "https://www.bbc.com/sport/football/videos/cqrly0ly7j59o",
-   "time": "2026-10-18T16:13:45+00:00",
+   "title": "Leeds extend Man Utd's winless run to six games",
+   "desc": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+   "link": "https://www.bbc.com/sport/football/videos/cw4g1dgr2v93o",
+   "time": "2026-10-18T18:59:10+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+   "desc": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+   "link": "https://www.bbc.com/sport/football/videos/cm70px0l7p7no",
+   "time": "2026-10-18T18:59:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+   "desc": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+   "link": "https://www.bbc.com/sport/football/videos/ckm23z2qem45o",
+   "time": "2026-10-18T18:59:02+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Boy, 14, stabbed in shopping centre attack",
+   "desc": "Greater Manchester Police say the boy's injuries were not thought to be life threatening or life changing.",
+   "link": "https://www.bbc.com/news/articles/c6z983n5qp33o",
+   "time": "2026-10-18T18:51:18+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'Maybe we became arrogant' - Sunderland struggles continue",
+   "desc": "Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term.",
+   "link": "https://www.bbc.com/sport/football/articles/c6073pmddk0ko",
+   "time": "2026-10-18T18:49:00+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+   "desc": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+   "link": "https://www.bbc.com/sport/football/articles/cmwyd05wj00do",
+   "time": "2026-10-18T18:33:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+   "desc": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cw62ynq8jz2no",
+   "time": "2026-10-18T18:23:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+   "desc": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+   "link": "https://www.bbc.com/sport/football/articles/c62kezneyq8vo",
+   "time": "2026-10-18T18:22:50+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "What we know so far about deadly fire at Canadian military base",
+   "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
+   "link": "https://www.bbc.com/news/articles/cmgelrq8x92do",
+   "time": "2026-10-18T17:48:53+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
+   "desc": "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
+   "link": "https://www.bbc.com/sport/football/articles/ck5yn33jgx84o",
+   "time": "2026-10-18T17:35:44+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+   "desc": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+   "link": "https://www.bbc.com/sport/football/articles/c699zmgmx9vzo",
+   "time": "2026-10-18T17:24:45+00:00",
    "cat": "sport",
    "top": false
   },
@@ -21,7 +101,7 @@
    "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
    "desc": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
    "link": "https://www.bbc.com/news/articles/cmx23p5w7123o",
-   "time": "2026-10-18T15:59:29+00:00",
+   "time": "2026-10-18T17:00:42+00:00",
    "cat": "uk",
    "top": true
   },
@@ -39,14 +119,6 @@
    "link": "https://www.bbc.com/news/articles/cmkg7jl1wxvgo",
    "time": "2026-10-18T15:30:49+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Chacarra wins in India to take Race to Dubai lead",
-   "desc": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
-   "link": "https://www.bbc.com/sport/golf/articles/cw98zlldrpj0o",
-   "time": "2026-10-18T15:11:51+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -146,14 +218,6 @@
    "top": true
   },
   {
-   "title": "Watch: Pope thanks well-wishers in first event after cancer surgery",
-   "desc": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-   "link": "https://www.bbc.com/news/videos/cq70px6pjkg5o",
-   "time": "2026-10-18T11:09:32+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "NHS data breaches a disgrace, health secretary says",
    "desc": "A total of 15 NHS staff have been sacked for accessing records of the Nottingham attacks victims.",
    "link": "https://www.bbc.com/news/articles/cq2e9nw82ljdo",
@@ -167,14 +231,6 @@
    "link": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
    "time": "2026-10-18T10:22:17+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-   "desc": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-   "link": "https://www.bbc.com/sport/boxing/articles/ck3r59ywz99ro",
-   "time": "2026-10-18T09:55:31+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -207,22 +263,6 @@
    "link": "https://www.bbc.com/news/articles/c6y8ln9831v3o",
    "time": "2026-10-18T08:12:17+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Boy, 14, stabbed in shopping centre attack",
-   "desc": "Greater Manchester Police say the boy's injuries were not thought to be life threatening or life changing.",
-   "link": "https://www.bbc.com/news/articles/c6z983n5qp33o",
-   "time": "2026-10-18T07:36:10+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Devastating & dramatic' - Dubois stops Wardley to retain title",
-   "desc": "Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley to retain his WBO title in London.",
-   "link": "https://www.bbc.com/sport/boxing/videos/cr1exjnlgv29o",
-   "time": "2026-10-18T07:11:58+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -319,46 +359,6 @@
    "link": "https://www.bbc.com/news/articles/c6vgjnk8nw2wo",
    "time": "2026-10-17T19:13:21+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Manzambi heads Villa to victory at Newcastle",
-   "desc": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-   "link": "https://www.bbc.com/sport/football/videos/cwdd897vvl8vo",
-   "time": "2026-10-17T19:12:02+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Liverpool come from behind to beat nine-man Brentford",
-   "desc": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and  Vitaly Janelt.",
-   "link": "https://www.bbc.com/sport/football/videos/c65yn28p859wo",
-   "time": "2026-10-17T19:00:13+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Haaland nets double as Man City go six points clear at the top",
-   "desc": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-   "link": "https://www.bbc.com/sport/football/videos/c6pwgx89djn2o",
-   "time": "2026-10-17T19:00:09+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Iwobi delivers Fulham's first win of season",
-   "desc": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
-   "link": "https://www.bbc.com/sport/football/videos/c6rmy7w1kdgeo",
-   "time": "2026-10-17T19:00:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Neto scores twice as Chelsea win at Everton",
-   "desc": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
-   "link": "https://www.bbc.com/sport/football/videos/cq146nz03k16o",
-   "time": "2026-10-17T19:00:03+00:00",
-   "cat": "sport",
    "top": false
   },
   {
