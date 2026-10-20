@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-20T00:56:45.225623+00:00",
+ "updated": "2026-10-20T05:49:15.050269+00:00",
  "items": [
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/cm4g1er9vdvyo",
+   "time": "2026-10-20T05:32:59+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "England unchanged to face France after Tonga defeat",
+   "desc": "England men's coach Brian McDermott names an unchanged 19-man squad for their Rugby League World Cup match against France in Perth on Saturday.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cmd6d3gj2znxo",
+   "time": "2026-10-20T05:29:02+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+   "desc": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
+   "link": "https://www.bbc.com/news/articles/cxzd6j5q0g7eo",
+   "time": "2026-10-20T05:27:15+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "How is the US economy really doing under President Trump?",
+   "desc": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+   "link": "https://www.bbc.com/news/articles/cv98ze40jz18o",
+   "time": "2026-10-20T05:00:45+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "We asked teens what schools should teach them about work. This is what they said",
+   "desc": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
+   "link": "https://www.bbc.com/news/articles/c6m2dmdxgz2xo",
+   "time": "2026-10-20T05:00:14+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+   "desc": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+   "link": "https://www.bbc.com/news/articles/cq398rjewd1jo",
+   "time": "2026-10-20T03:10:39+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Seventh day of violent clashes between Albanian protesters and police",
+   "desc": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+   "link": "https://www.bbc.com/news/articles/cmy4xjlpqgd3o",
+   "time": "2026-10-20T02:45:05+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+   "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+   "link": "https://www.bbc.com/news/articles/c50me4w4x1vyo",
+   "time": "2026-10-20T01:31:09+00:00",
+   "cat": "uk",
+   "top": true
+  },
   {
    "title": "US church on frontline of battle against drug known as 'tranq'",
    "desc": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
@@ -38,7 +102,7 @@
    "desc": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
    "link": "https://www.bbc.com/weather/articles/c6dx07dznpyyo",
    "time": "2026-10-19T23:08:25+00:00",
-   "cat": "world",
+   "cat": "sci",
    "top": true
   },
   {
@@ -91,7 +155,7 @@
   },
   {
    "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-   "desc": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+   "desc": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
    "link": "https://www.bbc.com/news/articles/cx30ez03djyqo",
    "time": "2026-10-19T21:14:53+00:00",
    "cat": "world",
@@ -103,7 +167,7 @@
    "link": "https://www.bbc.com/news/articles/c6gel2dlyxvyo",
    "time": "2026-10-19T21:12:30+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Maddison shines on return - Tottenham v Coventry ratings",
@@ -146,12 +210,20 @@
    "top": false
   },
   {
+   "title": "Watch: Ukraine says it carried out first drone airlift of wounded soldier from front line",
+   "desc": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+   "link": "https://www.bbc.com/news/videos/c3vgx05p149wo",
+   "time": "2026-10-19T20:00:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
    "title": "Mission blasts off for Mars to grab a piece of its moon",
    "desc": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
    "link": "https://www.bbc.com/news/articles/cmvgxvkv54w1o",
    "time": "2026-10-19T19:45:46+00:00",
-   "cat": "sci",
-   "top": true
+   "cat": "world",
+   "top": false
   },
   {
    "title": "Palace manager Sage facing fight to keep his job",
@@ -162,20 +234,12 @@
    "top": false
   },
   {
-   "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-   "desc": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-   "link": "https://www.bbc.com/news/articles/ckj0ly6qnp1lo",
-   "time": "2026-10-19T18:22:48+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
    "desc": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
    "link": "https://www.bbc.com/news/articles/cvj6jylk3456o",
    "time": "2026-10-19T18:22:06+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
@@ -226,14 +290,6 @@
    "top": false
   },
   {
-   "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
-   "desc": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
-   "link": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
-   "time": "2026-10-19T16:55:57+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
    "desc": "The network's chief international anchor has covered wars including Rwanda, Afghanistan, Ukraine and Iran.",
    "link": "https://www.bbc.com/news/articles/c83vqzkrr9zeo",
@@ -250,14 +306,6 @@
    "top": false
   },
   {
-   "title": "Araujo the stopgap solution fixing Liverpool's problems",
-   "desc": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
-   "link": "https://www.bbc.com/sport/football/articles/ck8dz7pp4089o",
-   "time": "2026-10-19T16:29:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
    "desc": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
    "link": "https://www.bbc.com/news/articles/cv0ld6lrr2zeo",
@@ -266,7 +314,7 @@
    "top": false
   },
   {
-   "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+   "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
    "desc": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
    "link": "https://www.bbc.com/news/articles/cr15jl7dd42vo",
    "time": "2026-10-19T16:16:51+00:00",
@@ -286,7 +334,7 @@
    "desc": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
    "link": "https://www.bbc.com/news/articles/c9zrdpg7256yo",
    "time": "2026-10-19T15:44:53+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -378,14 +426,6 @@
    "top": false
   },
   {
-   "title": "Personal attacks fire up debate before Brazil's run-off vote",
-   "desc": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-   "link": "https://www.bbc.com/news/articles/ck98zlzyqle3o",
-   "time": "2026-10-19T11:41:24+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Man accused of mass train stabbing admits wounding",
    "desc": "Anthony Williams is in court after multiple stabbings on a train that was forced to stop in Huntingdon.",
    "link": "https://www.bbc.com/news/articles/cvgdd2yevd3o",
@@ -399,14 +439,6 @@
    "link": "https://www.bbc.com/news/articles/cm8xz5kxkkkqo",
    "time": "2026-10-19T10:37:13+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "People playing loud music on buses could face £100 fine",
-   "desc": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-   "link": "https://www.bbc.com/news/articles/cm89z008x7xdo",
-   "time": "2026-10-19T09:49:58+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -446,7 +478,7 @@
    "desc": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
    "link": "https://www.bbc.com/news/articles/c60rl1xvjv89o",
    "time": "2026-10-18T23:24:59+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
