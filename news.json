@@ -1,11 +1,75 @@
 {
- "updated": "2026-10-19T21:40:25.704688+00:00",
+ "updated": "2026-10-20T00:56:45.225623+00:00",
  "items": [
+  {
+   "title": "US church on frontline of battle against drug known as 'tranq'",
+   "desc": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+   "link": "https://www.bbc.com/news/videos/cqd097z3epvno",
+   "time": "2026-10-20T00:02:32+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "England coach should be English, suggests Fleming",
+   "desc": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cq398r1gxw02o",
+   "time": "2026-10-19T23:29:19+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Who has made Troy's Premier League team of the week?",
+   "desc": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "link": "https://www.bbc.com/sport/football/articles/cqgm0zy4d23po",
+   "time": "2026-10-19T23:22:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Criminals detained in hospital set to lose benefits",
+   "desc": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+   "link": "https://www.bbc.com/news/articles/cv62yzddy6dpo",
+   "time": "2026-10-19T23:21:38+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Five ways El Niño is affecting the weather around the world",
+   "desc": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+   "link": "https://www.bbc.com/weather/articles/c6dx07dznpyyo",
+   "time": "2026-10-19T23:08:25+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+   "desc": "The BBC hears from people who think dating events are better value for money than dating apps.",
+   "link": "https://www.bbc.com/news/articles/cj62y9dnd6pwo",
+   "time": "2026-10-19T23:00:21+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Maddison's magic moment for Spurs - 18 months in the making",
+   "desc": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+   "link": "https://www.bbc.com/sport/football/articles/cwz0v8le7y3eo",
+   "time": "2026-10-19T22:35:55+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
    "desc": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
    "link": "https://www.bbc.com/sport/football/articles/ck9qznlywy8no",
    "time": "2026-10-19T21:34:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Spurs beat Coventry to earn first league win of the season",
+   "desc": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
+   "link": "https://www.bbc.com/sport/football/videos/c9x28pyg05vyo",
+   "time": "2026-10-19T21:33:07+00:00",
    "cat": "sport",
    "top": false
   },
@@ -50,11 +114,11 @@
    "top": false
   },
   {
-   "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+   "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
    "desc": "The two top tennis pros married in 2021 and have one child together.",
    "link": "https://www.bbc.com/news/articles/ckd7qy12j148o",
    "time": "2026-10-19T21:02:33+00:00",
-   "cat": "sport",
+   "cat": "world",
    "top": false
   },
   {
@@ -130,14 +194,6 @@
    "top": false
   },
   {
-   "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-   "desc": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-   "link": "https://www.bbc.com/sport/football/articles/ckwyqdvedj32o",
-   "time": "2026-10-19T18:13:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
    "desc": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons.",
    "link": "https://www.bbc.com/news/articles/cm93zkqj7z39o",
@@ -159,7 +215,7 @@
    "link": "https://www.bbc.com/news/articles/ckd6d2l3dz4xo",
    "time": "2026-10-19T17:18:04+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Tom Cullen says he doesn't take playing LGBT roles lightly",
@@ -199,14 +255,6 @@
    "link": "https://www.bbc.com/sport/football/articles/ck8dz7pp4089o",
    "time": "2026-10-19T16:29:34+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Schools 'explosive device' email a hoax, say police",
-   "desc": "Assistant Chief Constable Ryan Henderson said police consider the risk to the public \"as low\".",
-   "link": "https://www.bbc.com/news/articles/cw1m4pvdzzj0o",
-   "time": "2026-10-19T16:28:44+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -250,30 +298,6 @@
    "top": false
   },
   {
-   "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
-   "desc": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
-   "link": "https://www.bbc.com/news/articles/cq0melgpre23o",
-   "time": "2026-10-19T14:59:32+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Are free-scoring Brighton genuine title contenders?",
-   "desc": "Brighton's start to the season has surprised many outsiders. But how high could they finish?",
-   "link": "https://www.bbc.com/sport/football/articles/cwn8d48je057o",
-   "time": "2026-10-19T14:52:01+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
-   "desc": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
-   "link": "https://www.bbc.com/sport/football/articles/c5djv21rkekwo",
-   "time": "2026-10-19T14:36:36+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Southport killer faces trial for alleged prison attacks",
    "desc": "Axel Rudakubana appeared at Monday's hearing via a videolink from Broadmoor Hospital.",
    "link": "https://www.bbc.com/news/articles/cjx23p2q6rl5o",
@@ -290,27 +314,19 @@
    "top": false
   },
   {
-   "title": "Australian MP critically injured after being hit by car in apparent attack",
-   "desc": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-   "link": "https://www.bbc.com/news/articles/cwp9g43g2p07o",
-   "time": "2026-10-19T14:09:54+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-   "desc": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-   "link": "https://www.bbc.com/news/articles/cxvgd0ymgzgyo",
-   "time": "2026-10-19T13:44:57+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Exiled critic of Rwandan president found beheaded",
    "desc": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
    "link": "https://www.bbc.com/news/articles/c3lylj78777do",
    "time": "2026-10-19T13:42:41+00:00",
    "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Charging battery believed to have caused house fire",
+   "desc": "The fire caused extensive damage to the property, especially in the kitchen, officials say.",
+   "link": "https://www.bbc.com/news/articles/cmglwnw2d3d8o",
+   "time": "2026-10-19T13:34:58+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -362,14 +378,6 @@
    "top": false
   },
   {
-   "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-   "desc": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
-   "link": "https://www.bbc.com/news/videos/cmlyljlzw487o",
-   "time": "2026-10-19T12:12:02+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Personal attacks fire up debate before Brazil's run-off vote",
    "desc": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
    "link": "https://www.bbc.com/news/articles/ck98zlzyqle3o",
@@ -386,8 +394,8 @@
    "top": false
   },
   {
-   "title": "You Can See Everything documentary seen by many on huge box office debut",
-   "desc": "Fraudster Elizabeth Holmes invites a sceptical Nathan Fielder into her home before she's sent to prison.",
+   "title": "You Can See Everything seen by many on huge box office debut",
+   "desc": "The documentary sees convicted fraudster Elizabeth Holmes invite a sceptical film crew into her home.",
    "link": "https://www.bbc.com/news/articles/cm8xz5kxkkkqo",
    "time": "2026-10-19T10:37:13+00:00",
    "cat": "cul",
@@ -410,27 +418,11 @@
    "top": false
   },
   {
-   "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-   "desc": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-   "link": "https://www.bbc.com/news/articles/cmq5n8x106jdo",
-   "time": "2026-10-19T09:11:42+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Selena Gomez says vaping has affected her voice",
    "desc": "The 34-year-old says vaping nicotine \"a lot\" permanently affected her singing and speaking voice.",
    "link": "https://www.bbc.com/news/articles/cxly435ym787o",
    "time": "2026-10-19T08:57:40+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Best images of F1 in the US through the years",
-   "desc": "A selection of images from F1 races in the US, from Indianapolis, Watkins Glen and Long Beach to the streets of Dallas and the Caesars Palace car park.",
-   "link": "https://www.bbc.com/sport/formula1/articles/cqm24nezmy23o",
-   "time": "2026-10-19T06:17:28+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -447,14 +439,6 @@
    "link": "https://www.bbc.com/news/videos/cm9wzye55j4xo",
    "time": "2026-10-19T01:57:02+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "desc": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-   "link": "https://www.bbc.com/news/articles/cwdd8z6gyy96o",
-   "time": "2026-10-18T23:28:45+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -607,14 +591,6 @@
    "link": "https://www.bbc.com/news/articles/cr6240q1w136o",
    "time": "2026-10-15T23:18:21+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-   "desc": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
-   "link": "https://www.bbc.com/news/articles/crk661074ejo",
-   "time": "2026-10-15T15:42:37+00:00",
-   "cat": "sci",
    "top": false
   }
  ]
