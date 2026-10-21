@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-20T22:58:51.798535+00:00",
+ "updated": "2026-10-21T01:27:13.524355+00:00",
  "items": [
+  {
+   "title": "France is divided over who to blame for and what to learn from weekend riots",
+   "desc": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+   "link": "https://www.bbc.com/news/articles/cq0me4g9p970o",
+   "time": "2026-10-21T01:22:51+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Elon Musk says Tesla-SpaceX merger being considered",
+   "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "link": "https://www.bbc.com/news/articles/cmlyl09xjke4o",
+   "time": "2026-10-20T23:24:47+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "The tech helping crack decades-old cold cases",
+   "desc": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+   "link": "https://www.bbc.com/news/articles/c370pzdkw77jo",
+   "time": "2026-10-20T23:13:24+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
+   "desc": "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027.",
+   "link": "https://www.bbc.com/news/articles/c3x2wxnrpk78o",
+   "time": "2026-10-20T23:06:07+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "No jeopardy but loads of fun - Champions League sets new goals record",
+   "desc": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.",
+   "link": "https://www.bbc.com/sport/football/articles/ckg5je34l0q5o",
+   "time": "2026-10-20T23:03:11+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
    "desc": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
@@ -8,14 +48,6 @@
    "time": "2026-10-20T22:56:55+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Elon Musk says Tesla-SpaceX merger being considered",
-   "desc": "Musk says special committees within both companies have been formed to look a possible mega-merger.",
-   "link": "https://www.bbc.com/news/articles/cmlyl09xjke4o",
-   "time": "2026-10-20T22:43:56+00:00",
-   "cat": "biz",
-   "top": true
   },
   {
    "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
@@ -38,8 +70,16 @@
    "desc": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\"",
    "link": "https://www.bbc.com/news/articles/cke8r0me3y9vo",
    "time": "2026-10-20T22:29:24+00:00",
-   "cat": "world",
+   "cat": "uk",
    "top": true
+  },
+  {
+   "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+   "desc": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+   "link": "https://www.bbc.com/news/articles/cr62ylj832vxo",
+   "time": "2026-10-20T22:22:17+00:00",
+   "cat": "world",
+   "top": false
   },
   {
    "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
@@ -62,14 +102,6 @@
    "desc": "Lawrence Johnson has been charged with the murder of Alisha Samuels who died on Thursday.",
    "link": "https://www.bbc.com/news/articles/cqjdm1g31z4no",
    "time": "2026-10-20T21:21:22+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Second Labour MP suspended over Covid loan repayments",
-   "desc": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
-   "link": "https://www.bbc.com/news/articles/cqgkvnp0lkv5o",
-   "time": "2026-10-20T21:20:28+00:00",
    "cat": "uk",
    "top": false
   },
@@ -194,14 +226,6 @@
    "top": false
   },
   {
-   "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-   "desc": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-   "link": "https://www.bbc.com/news/articles/cxr5yqqd7nlpo",
-   "time": "2026-10-20T16:59:06+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
    "desc": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
    "link": "https://www.bbc.com/sport/cricket/articles/crx2d3y6gd80o",
@@ -298,27 +322,11 @@
    "top": false
   },
   {
-   "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-   "desc": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
-   "link": "https://www.bbc.com/news/articles/ckr5yqe1r1llo",
-   "time": "2026-10-20T13:54:35+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Huge fin whale filmed off Welsh coast",
    "desc": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
    "link": "https://www.bbc.com/news/videos/cxly491v6p7yo",
    "time": "2026-10-20T13:42:22+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-   "desc": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-   "link": "https://www.bbc.com/news/articles/c6d7q2rxqxgxo",
-   "time": "2026-10-20T13:23:32+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -335,14 +343,6 @@
    "link": "https://www.bbc.com/news/articles/cqm26zzl0k12o",
    "time": "2026-10-20T12:29:24+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-   "desc": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
-   "link": "https://www.bbc.com/news/articles/cm5ynkk570pno",
-   "time": "2026-10-20T12:08:06+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -378,14 +378,6 @@
    "top": false
   },
   {
-   "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-   "desc": "The BBC hears from people who think dating events are better value for money than dating apps.",
-   "link": "https://www.bbc.com/news/articles/cj62y9dnd6pwo",
-   "time": "2026-10-20T10:28:36+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
    "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
    "link": "https://www.bbc.com/news/articles/c50me4w4x1vyo",
@@ -415,14 +407,6 @@
    "link": "https://www.bbc.com/weather/articles/cm17knj9kpv8o",
    "time": "2026-10-20T06:31:04+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-   "desc": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-   "link": "https://www.bbc.com/sport/articles/ck054n5nqlv5o",
-   "time": "2026-10-20T05:45:34+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -598,22 +582,6 @@
    "desc": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
    "link": "https://www.bbc.com/news/articles/cv8ez40yz950o",
    "time": "2026-10-17T20:24:32+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-   "desc": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-   "link": "https://www.bbc.com/news/articles/cwr7y8er1n8vo",
-   "time": "2026-10-16T18:11:29+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Russian man linked to deadly London hospitals hack arrested",
-   "desc": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
-   "link": "https://www.bbc.com/news/articles/c9vgr61kml3mo",
-   "time": "2026-10-16T15:31:33+00:00",
    "cat": "tech",
    "top": false
   }
