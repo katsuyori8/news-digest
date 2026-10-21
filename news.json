@@ -1,29 +1,245 @@
 {
- "updated": "2026-10-21T12:16:16.723728+00:00",
+ "updated": "2026-10-21T17:33:43.723797+00:00",
  "items": [
   {
-   "title": "Cyber chiefs tell websites to make critical safety update or go offline",
-   "desc": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
-   "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
-   "time": "2026-10-21T12:14:10+00:00",
+   "title": "Burnham proposes plan to cut standing charges from gas bills",
+   "desc": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+   "link": "https://www.bbc.com/news/articles/cw0541p65dyzo",
+   "time": "2026-10-21T17:06:16+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Tributes paid to 'bravest' woman who died of 'stab wounds' after crash",
+   "desc": "It is understood Eleanor Barnfield, from Bridgend, had been stabbed before the crash.",
+   "link": "https://www.bbc.com/news/articles/cm62y0kw1eyxo",
+   "time": "2026-10-21T17:04:41+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+   "desc": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+   "link": "https://www.bbc.com/news/articles/crz981p0klvgo",
+   "time": "2026-10-21T17:04:13+00:00",
    "cat": "tech",
    "top": false
   },
   {
-   "title": "Civil servant denies 'criminal intent' after juggling five government jobs",
+   "title": "Family of prison officer killed by IRA receives state apology",
+   "desc": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+   "link": "https://www.bbc.com/news/articles/ck20rver1j31o",
+   "time": "2026-10-21T16:58:16+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "'Playing for their careers' - Australia reeling after extraordinary day",
+   "desc": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+   "link": "https://www.bbc.com/sport/cricket/articles/ckzd6r577qvdo",
+   "time": "2026-10-21T16:52:25+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+   "desc": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+   "link": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
+   "time": "2026-10-21T16:38:06+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Can a giant tunnel save Windermere?",
+   "desc": "A £3.6bn proposal to stop sewage being discharged into Windermere, England's largest lake, has been unveiled.",
+   "link": "https://www.bbc.com/news/videos/ck4g1j7nnqvjo",
+   "time": "2026-10-21T16:30:54+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Will Jackdaw cut your energy bills?",
+   "desc": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills.",
+   "link": "https://www.bbc.com/news/videos/cqvg0ke2v9njo",
+   "time": "2026-10-21T16:17:49+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Websites taken down worldwide as critical cyber-security update issued",
+   "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+   "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
+   "time": "2026-10-21T16:07:19+00:00",
+   "cat": "tech",
+   "top": true
+  },
+  {
+   "title": "MNEK cancels tour over lack of ticket sales and high production costs",
+   "desc": "The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month.",
+   "link": "https://www.bbc.com/news/articles/cwe8lz018pe1o",
+   "time": "2026-10-21T16:06:35+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
    "desc": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
    "link": "https://www.bbc.com/news/articles/cmze4w63ly42o",
-   "time": "2026-10-21T12:08:44+00:00",
-   "cat": "biz",
+   "time": "2026-10-21T15:58:05+00:00",
+   "cat": "uk",
    "top": false
+  },
+  {
+   "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+   "desc": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
+   "link": "https://www.bbc.com/news/articles/crgj9d4zgj5yo",
+   "time": "2026-10-21T15:56:03+00:00",
+   "cat": "uk",
+   "top": true
   },
   {
    "title": "Teenage boy guilty of trying to murder girl, 15, in school",
    "desc": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
    "link": "https://www.bbc.com/news/articles/cm0j0q9znzdlo",
-   "time": "2026-10-21T12:03:52+00:00",
+   "time": "2026-10-21T15:47:51+00:00",
    "cat": "uk",
    "top": true
+  },
+  {
+   "title": "Orionid meteor shower to peak in UK skies into Thursday",
+   "desc": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week.",
+   "link": "https://www.bbc.com/weather/articles/cm17knj9kpv8o",
+   "time": "2026-10-21T15:44:20+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Google staff resign in backlash over its AI contracts with military",
+   "desc": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+   "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+   "time": "2026-10-21T15:41:25+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+   "desc": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+   "link": "https://www.bbc.com/news/articles/cy4zdgk081eo",
+   "time": "2026-10-21T15:36:31+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Anderson, 44, not offered new Lancashire contract",
+   "desc": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cmy0ek8vnxzko",
+   "time": "2026-10-21T15:35:42+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Glastonbury coach tickets oversold in admin error",
+   "desc": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
+   "link": "https://www.bbc.com/news/articles/cm5ynqkgwr69o",
+   "time": "2026-10-21T15:30:57+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+   "desc": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
+   "link": "https://www.bbc.com/news/articles/cq39870ypgl7o",
+   "time": "2026-10-21T15:24:23+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Former Open champion Oosthuizen quits LIV Golf",
+   "desc": "Former Open Championship winner Louis Oosthuizen becomes the latest high-profile player to quit LIV Golf.",
+   "link": "https://www.bbc.com/sport/golf/articles/ck62y977vm33o",
+   "time": "2026-10-21T15:18:40+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Andrews died of tear in artery around heart - autopsy",
+   "desc": "Former Sale player Hyron Andrews - who was found dead at his new team's hotel base before a Champions Cup match - died of natural causes, an autopsy finds.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cmx234p2xwpzo",
+   "time": "2026-10-21T14:39:26+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
+   "desc": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
+   "link": "https://www.bbc.com/news/articles/c6x2vpn4xy0yo",
+   "time": "2026-10-21T14:38:22+00:00",
+   "cat": "cul",
+   "top": true
+  },
+  {
+   "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+   "desc": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+   "link": "https://www.bbc.com/news/articles/c94g1pjmxg0ko",
+   "time": "2026-10-21T14:26:24+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Belfast comedian criticised for rape 'joke' about assault victim",
+   "desc": "Vittorio Angelone referred to content creator Rebecca Goodwin in a remark about rape.",
+   "link": "https://www.bbc.com/news/articles/c6m2dw39jx1do",
+   "time": "2026-10-21T14:19:28+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Macron accuses foreign leaders of exploiting French riots",
+   "desc": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+   "link": "https://www.bbc.com/news/articles/ckjrw044ggxgo",
+   "time": "2026-10-21T14:04:28+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Why do Man City fans boo pre-match anthems?",
+   "desc": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium.",
+   "link": "https://www.bbc.com/sport/football/articles/cvx28yk1j6z0o",
+   "time": "2026-10-21T13:57:59+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+   "desc": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+   "link": "https://www.bbc.com/news/articles/cmje5k3q9ello",
+   "time": "2026-10-21T13:47:51+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Barca condemn PSG tifo inciting 'violence and hatred'",
+   "desc": "Barcelona report Paris Saint-Germain to Uefa after a tifo featuring a message which they say \"incites violence and hatred in sport\" was displayed ahead of Tuesday's Champions League match.",
+   "link": "https://www.bbc.com/sport/football/articles/cm4g1jwp9827o",
+   "time": "2026-10-21T13:12:20+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Kildunne drops to bench as England ring changes",
+   "desc": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/c3ewe42q4jqzo",
+   "time": "2026-10-21T12:47:48+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Nigeria confirms Ebola case linked to East Africa",
+   "desc": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+   "link": "https://www.bbc.com/news/articles/cm2l4xw7xpjgo",
+   "time": "2026-10-21T12:39:34+00:00",
+   "cat": "world",
+   "top": false
   },
   {
    "title": "Why has Lord's dug up its pitch and what comes next?",
@@ -42,43 +258,11 @@
    "top": false
   },
   {
-   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-   "desc": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
-   "link": "https://www.bbc.com/news/articles/c6m24l9v3745o",
-   "time": "2026-10-21T12:00:33+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
    "desc": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
    "link": "https://www.bbc.com/news/articles/cq4g13pplyzzo",
    "time": "2026-10-21T11:57:49+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Irish weather warning ahead of Storm Austen",
-   "desc": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption.",
-   "link": "https://www.bbc.com/news/articles/ck98z6e4l725o",
-   "time": "2026-10-21T11:48:46+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-   "desc": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
-   "link": "https://www.bbc.com/news/articles/cmje5k3q9ello",
-   "time": "2026-10-21T11:47:01+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Overton would consider Ashes return if Root asks",
-   "desc": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cj62y0l5ed1vo",
-   "time": "2026-10-21T11:46:17+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -98,19 +282,19 @@
    "top": false
   },
   {
-   "title": "Man in court after three Jewish women assaulted",
-   "desc": "One of the women was pushing her baby in a pram when she was allegedly assaulted, a court hears.",
-   "link": "https://www.bbc.com/news/articles/c60rl0vdr87eo",
-   "time": "2026-10-21T11:15:41+00:00",
+   "title": "Residents report Bayeux Tapestry ticket issues",
+   "desc": "The British Museum says residents were offered tickets on a \"first come, first served\" basis.",
+   "link": "https://www.bbc.com/news/articles/cqly0zlvxey6o",
+   "time": "2026-10-21T11:39:41+00:00",
    "cat": "uk",
    "top": false
   },
   {
-   "title": "Hackers steal children's data after company used 'Password1' to protect old account",
-   "desc": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.",
-   "link": "https://www.bbc.com/news/articles/c6r7y03e9m3ro",
-   "time": "2026-10-21T10:56:47+00:00",
-   "cat": "uk",
+   "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+   "desc": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
+   "link": "https://www.bbc.com/news/videos/c6n4e0vj018qo",
+   "time": "2026-10-21T11:21:58+00:00",
+   "cat": "world",
    "top": true
   },
   {
@@ -127,7 +311,7 @@
    "link": "https://www.bbc.com/weather/articles/c6m24ln2j43go",
    "time": "2026-10-21T10:55:32+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
@@ -135,14 +319,6 @@
    "link": "https://www.bbc.com/news/articles/c6wyd53yg9n1o",
    "time": "2026-10-21T10:45:06+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "MNEK cancels tour over lack of ticket sales and high production costs",
-   "desc": "The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month.",
-   "link": "https://www.bbc.com/news/articles/cwe8lz018pe1o",
-   "time": "2026-10-21T10:31:01+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -159,14 +335,6 @@
    "link": "https://www.bbc.com/news/articles/c6gel2xv4493o",
    "time": "2026-10-21T10:16:17+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Storm Austen to batter Wales coast with 70mph winds",
-   "desc": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
-   "link": "https://www.bbc.com/news/articles/cm3wv9pdj33zo",
-   "time": "2026-10-21T10:10:40+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -210,28 +378,12 @@
    "top": false
   },
   {
-   "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
-   "desc": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
-   "link": "https://www.bbc.com/news/videos/ckq6n56e5qrqo",
-   "time": "2026-10-21T08:19:32+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Boulter wins in under an hour to reach quarters",
-   "desc": "Katie Boulter moves into the quarter-finals of the Japan Open after she beat Viktorija Golubic in less than an hour.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cx4g17l00qmjo",
-   "time": "2026-10-21T08:18:35+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Australian MP loses both legs after alleged car attack, husband says",
    "desc": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
    "link": "https://www.bbc.com/news/articles/ckwyqdqxw6d0o",
    "time": "2026-10-21T07:56:30+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Crystal Palace urged to retire bald eagle mascot",
@@ -239,14 +391,6 @@
    "link": "https://www.bbc.com/sport/football/articles/cmx2302r04r4o",
    "time": "2026-10-21T07:24:35+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-   "desc": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-   "link": "https://www.bbc.com/news/articles/cq0me4g9p970o",
-   "time": "2026-10-21T06:50:40+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -266,14 +410,6 @@
    "top": false
   },
   {
-   "title": "LeBron James' 76ers beat Knicks on NBA opening night",
-   "desc": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season.",
-   "link": "https://www.bbc.com/sport/basketball/articles/c6vgj4g913wyo",
-   "time": "2026-10-21T06:34:15+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
    "desc": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
    "link": "https://www.bbc.com/news/articles/ckdd8m1z1z3yo",
@@ -282,51 +418,19 @@
    "top": false
   },
   {
-   "title": "Fabregas and Como prepare for historic Man Utd tie",
-   "desc": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
-   "link": "https://www.bbc.com/sport/football/articles/cmpwg17ev9xxo",
-   "time": "2026-10-21T05:26:05+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
-   "desc": "It was one of Wales' darkest days that changed a mining community forever.",
-   "link": "https://www.bbc.com/news/articles/cr9dzpx2xl0lo",
-   "time": "2026-10-21T05:22:15+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Watch: Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-   "desc": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
-   "link": "https://www.bbc.com/news/videos/cm93z1j33dkpo",
-   "time": "2026-10-21T05:00:54+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
    "title": "Lawyer caught offering to make illegal-worker fine go away",
    "desc": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
    "link": "https://www.bbc.com/news/articles/c30rln4pz58xo",
    "time": "2026-10-21T05:00:35+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
    "desc": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
    "link": "https://www.bbc.com/news/articles/cr5yn4pky527o",
    "time": "2026-10-21T04:44:56+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
-   "desc": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
-   "link": "https://www.bbc.com/news/articles/c8040qgryqd3o",
-   "time": "2026-10-21T01:28:16+00:00",
-   "cat": "uk",
+   "cat": "sci",
    "top": false
   },
   {
@@ -354,15 +458,7 @@
    "top": false
   },
   {
-   "title": "Man Utd revisit deal for Hall - Wednesday gossip",
-   "desc": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
-   "link": "https://www.bbc.com/sport/football/articles/ck62yq0rd0vvo",
-   "time": "2026-10-20T20:17:15+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+   "title": "Trump and Zelensky at loggerheads despite new optimism",
    "desc": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
    "link": "https://www.bbc.com/news/articles/ckrey51jrgnro",
    "time": "2026-10-20T20:00:57+00:00",
@@ -390,7 +486,7 @@
    "desc": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
    "link": "https://www.bbc.com/news/articles/cqrkyj13m588o",
    "time": "2026-10-20T19:30:05+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -418,43 +514,11 @@
    "top": false
   },
   {
-   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "desc": "The government increased taxes on online casino and sports betting in last year's Budget.",
-   "link": "https://www.bbc.com/news/articles/cqzrdpkm3g84o",
-   "time": "2026-10-20T15:53:13+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
    "desc": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
    "link": "https://www.bbc.com/news/articles/c63eln34yle3o",
    "time": "2026-10-20T15:14:58+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "McCartney and Starr back new Beatles attraction",
-   "desc": "The surviving Beatles have welcomed plans for an immersive visitor experience in Liverpool.",
-   "link": "https://www.bbc.com/news/articles/cr3wv555ew6lo",
-   "time": "2026-10-20T14:58:48+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Union attacks NatWest plans to get workers back to the office",
-   "desc": "The bank says workers will be required to attend the office at least two days a week from February.",
-   "link": "https://www.bbc.com/news/articles/cmly0qwnlgdvo",
-   "time": "2026-10-20T14:50:19+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Huge fin whale filmed off Welsh coast",
-   "desc": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
-   "link": "https://www.bbc.com/news/videos/cxly491v6p7yo",
-   "time": "2026-10-20T13:42:22+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -482,14 +546,6 @@
    "top": false
   },
   {
-   "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-   "desc": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-   "link": "https://www.bbc.com/news/articles/cmvg6qv1jdydo",
-   "time": "2026-10-20T11:45:49+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Storm Austen to bring severe gales to UK as weather warning issued",
    "desc": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.",
    "link": "https://www.bbc.com/weather/articles/c9rkyjzgp6kdo",
@@ -498,11 +554,11 @@
    "top": false
   },
   {
-   "title": "Orionid meteor shower to peak in UK skies this week",
-   "desc": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week.",
-   "link": "https://www.bbc.com/weather/articles/cm17knj9kpv8o",
-   "time": "2026-10-20T06:31:04+00:00",
-   "cat": "sci",
+   "title": "What is the Budget and what could be in it?",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "link": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
+   "time": "2026-10-20T08:31:36+00:00",
+   "cat": "biz",
    "top": false
   },
   {
@@ -511,14 +567,6 @@
    "link": "https://www.bbc.com/news/articles/cxzd6j5q0g7eo",
    "time": "2026-10-20T05:27:15+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "'Alice Cooper is a character, like Jekyll and Hyde'",
-   "desc": "Alice Cooper reflects on faith, fame and addiction ahead of his Wolverhampton book tour appearance.",
-   "link": "https://www.bbc.com/news/articles/c59vz78kvgv9o",
-   "time": "2026-10-20T05:09:13+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -562,14 +610,6 @@
    "top": false
   },
   {
-   "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
-   "desc": "The network's chief international anchor has covered wars including Rwanda, Afghanistan, Ukraine and Iran.",
-   "link": "https://www.bbc.com/news/articles/c83vqzkrr9zeo",
-   "time": "2026-10-19T16:48:36+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Uber wins bid to throw out £200m black cab claims",
    "desc": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
    "link": "https://www.bbc.com/news/articles/cv5ynp1j45x2o",
@@ -586,19 +626,19 @@
    "top": false
   },
   {
-   "title": "China's growth accelerates as AI boom helps boost exports",
-   "desc": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-   "link": "https://www.bbc.com/news/articles/cm5yn098xz8lo",
-   "time": "2026-10-19T06:08:02+00:00",
-   "cat": "tech",
+   "title": "BBC visits wildfire front in haze-choked Indonesia",
+   "desc": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+   "link": "https://www.bbc.com/news/videos/cm9wzye55j4xo",
+   "time": "2026-10-19T01:57:02+00:00",
+   "cat": "sci",
    "top": false
   },
   {
-   "title": "Europe's next great coach? How Fabregas led Como into Champions League",
-   "desc": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
-   "link": "https://www.bbc.com/sport/football/videos/c86xjn97ve2o",
-   "time": "2026-09-08T07:35:25+00:00",
-   "cat": "sport",
+   "title": "Fears for protected bats if glamping pod plans are approved",
+   "desc": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says.",
+   "link": "https://www.bbc.com/news/articles/c6dxwg50pq8lo",
+   "time": "2026-10-18T19:22:31+00:00",
+   "cat": "sci",
    "top": false
   }
  ]
