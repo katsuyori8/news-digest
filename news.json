@@ -1,6 +1,182 @@
 {
- "updated": "2026-10-22T05:13:28.062868+00:00",
+ "updated": "2026-10-22T10:28:01.488979+00:00",
  "items": [
+  {
+   "title": "Two European women held captive for more than a year in Niger freed in Libya",
+   "desc": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+   "link": "https://www.bbc.com/news/articles/cq62y0v7434yo",
+   "time": "2026-10-22T10:26:06+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Legendary video game studio BioWare closed after 31 years",
+   "desc": "The influential studio that made Mass Effect and Dragon Age announces it is closing its doors.",
+   "link": "https://www.bbc.com/news/articles/cq8jzrxlkmwmo",
+   "time": "2026-10-22T10:25:33+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "El Salvador's president threatens Haitian gangs over military hostages",
+   "desc": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+   "link": "https://www.bbc.com/news/articles/cq33xpjekve4o",
+   "time": "2026-10-22T10:17:48+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+   "desc": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+   "link": "https://www.bbc.com/news/articles/cw98z6qlyvg3o",
+   "time": "2026-10-22T10:17:26+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+   "desc": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+   "link": "https://www.bbc.com/news/articles/cr3wv99614deo",
+   "time": "2026-10-22T10:16:35+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "NI secretary arrives at Stormont ahead of budget meetings",
+   "desc": "The Stormont executive maintains it cannot balance the books without more support from London.",
+   "link": "https://www.bbc.com/news/articles/cq98znln7l8po",
+   "time": "2026-10-22T10:15:10+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'500 new vulnerabilities' found in government, says AI minister",
+   "desc": "'500 new vulnerabilities' found in government, says AI minister",
+   "link": "https://www.bbc.com/news/videos/c6y8lvg2p50po",
+   "time": "2026-10-22T10:08:44+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Two storms in two days as Austen and Boelo target UK",
+   "desc": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
+   "link": "https://www.bbc.com/weather/articles/ckx2qpy2d13ro",
+   "time": "2026-10-22T10:05:41+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+   "desc": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+   "link": "https://www.bbc.com/news/articles/cry83vyw3y4lo",
+   "time": "2026-10-22T09:47:54+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "desc": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+   "link": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
+   "time": "2026-10-22T09:37:58+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
+   "desc": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim.",
+   "link": "https://www.bbc.com/news/articles/cr74p0zkd4jjo",
+   "time": "2026-10-22T09:28:04+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "How do Israel's elections work and who are the main contenders?",
+   "desc": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+   "link": "https://www.bbc.com/news/articles/cx8dz75633vjo",
+   "time": "2026-10-22T09:27:10+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+   "desc": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+   "link": "https://www.bbc.com/news/articles/cqwy71ww156ro",
+   "time": "2026-10-22T09:14:48+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "UK working to identify exposure after global cyber-security warning",
+   "desc": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+   "link": "https://www.bbc.com/news/articles/cmx23d0k57d3o",
+   "time": "2026-10-22T08:23:42+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Weekly sports quiz: How much was Ronaldo fined by Portugal?",
+   "desc": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+   "link": "https://www.bbc.com/sport/articles/c51kdwym8ej3o",
+   "time": "2026-10-22T07:29:51+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
+   "desc": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
+   "link": "https://www.bbc.com/news/articles/c6ly09v09lnjo",
+   "time": "2026-10-22T06:41:29+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
+   "time": "2026-10-22T06:24:59+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
+   "desc": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic.",
+   "link": "https://www.bbc.com/news/videos/cxnv0emj06v1o",
+   "time": "2026-10-22T06:09:44+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Leicester hit their lowest ebb - but is Martin turning things around?",
+   "desc": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?",
+   "link": "https://www.bbc.com/sport/football/articles/cq073zrgv8vvo",
+   "time": "2026-10-22T06:01:48+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "How Arab parties could hold critical balance of power in Israeli election",
+   "desc": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+   "link": "https://www.bbc.com/news/articles/cx8dzrp768j8o",
+   "time": "2026-10-22T05:30:22+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Vickery's journey from World Cup winner to bodybuilder at 50",
+   "desc": "Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/ckdd8re793zdo",
+   "time": "2026-10-22T05:14:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Women targeted by police who 'abused the badge'",
+   "desc": "Two women preyed upon by serving police officers describe their ordeals and why they are speaking out.",
+   "link": "https://www.bbc.com/news/articles/ckr5y20n96jdo",
+   "time": "2026-10-22T05:13:37+00:00",
+   "cat": "uk",
+   "top": false
+  },
   {
    "title": "NI risks missing 2030 energy goals, says Stormont committee",
    "desc": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated.",
@@ -10,42 +186,18 @@
    "top": false
   },
   {
-   "title": "UK working to identify exposure after global cyber-security warning",
-   "desc": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-   "link": "https://www.bbc.com/news/articles/cmx23d0k57d3o",
-   "time": "2026-10-22T05:03:47+00:00",
-   "cat": "tech",
-   "top": true
+   "title": "Is an 'AI war' complicating your job search?",
+   "desc": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
+   "link": "https://www.bbc.com/news/articles/cm9qzgg5z89no",
+   "time": "2026-10-22T05:01:31+00:00",
+   "cat": "biz",
+   "top": false
   },
   {
-   "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
-   "desc": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
-   "link": "https://www.bbc.com/news/articles/c6ly09v09lnjo",
-   "time": "2026-10-22T05:01:01+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "No purchase, no seats: Starbucks China rolls out new policy",
+   "title": "No order, no seat: Starbucks China rolls out new store policy",
    "desc": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
    "link": "https://www.bbc.com/news/articles/ckzd6rjmlzvmo",
    "time": "2026-10-22T04:02:29+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
-   "time": "2026-10-22T03:48:50+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "US embassy accuses Canada of election meddling ahead of midterms",
-   "desc": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
-   "link": "https://www.bbc.com/news/articles/cmn06g29522lo",
-   "time": "2026-10-22T03:05:28+00:00",
    "cat": "world",
    "top": false
   },
@@ -55,31 +207,15 @@
    "link": "https://www.bbc.com/news/articles/cmj471wgpky7o",
    "time": "2026-10-22T02:09:21+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-   "desc": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
-   "link": "https://www.bbc.com/news/articles/cr74p0zkd4jjo",
-   "time": "2026-10-22T01:17:25+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-   "desc": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-   "link": "https://www.bbc.com/news/articles/c6x2vpk93770o",
-   "time": "2026-10-22T01:07:34+00:00",
-   "cat": "world",
    "top": false
   },
   {
-   "title": "The real reasons US politicians are getting older",
-   "desc": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
-   "link": "https://www.bbc.com/news/articles/cmde8rr2d6eno",
-   "time": "2026-10-21T23:52:12+00:00",
-   "cat": "world",
-   "top": true
+   "title": "South Africa chase win over Australia on final day - scorecard",
+   "desc": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
+   "link": "https://www.bbc.com/sport/cricket/scorecard/e-236998",
+   "time": "2026-10-22T00:00:00+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "The 'trillion pound' oil fund the government believes Britain could have built",
@@ -87,7 +223,7 @@
    "link": "https://www.bbc.com/news/articles/cm4g1zrl2nrqo",
    "time": "2026-10-21T23:27:05+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "The grads ditching the UK for a fresh start abroad",
@@ -127,15 +263,15 @@
    "link": "https://www.bbc.com/news/articles/c69wzv5pg447o",
    "time": "2026-10-21T23:02:45+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
-   "title": "The four locations in the running to be UK City of Culture 2029",
+   "title": "Four locations in the running to be UK City of Culture 2029",
    "desc": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
    "link": "https://www.bbc.com/news/articles/c6jrw03njgxzo",
    "time": "2026-10-21T23:02:37+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
@@ -143,7 +279,7 @@
    "link": "https://www.bbc.com/news/articles/cqlye4v721nwo",
    "time": "2026-10-21T23:02:30+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
@@ -162,14 +298,6 @@
    "top": false
   },
   {
-   "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-   "desc": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
-   "link": "https://www.bbc.com/news/articles/cqx287g8714lo",
-   "time": "2026-10-21T22:20:22+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
    "desc": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
    "link": "https://www.bbc.com/news/videos/cmx2302xe931o",
@@ -182,7 +310,15 @@
    "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
    "link": "https://www.bbc.com/news/articles/cqdr8zxrr3dxo",
    "time": "2026-10-21T21:49:07+00:00",
-   "cat": "biz",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings",
+   "desc": "It is the latest heated debate in the Senedd on a Wednesday prompted by Reform MSs.",
+   "link": "https://www.bbc.com/news/articles/cmd7qrew7z72o",
+   "time": "2026-10-21T21:45:57+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -234,23 +370,15 @@
    "top": false
   },
   {
-   "title": "Pope does not need further treatment after lung cancer surgery",
-   "desc": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-   "link": "https://www.bbc.com/news/articles/cqrly2dg5xzzo",
-   "time": "2026-10-21T20:09:10+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+   "title": "Man Utd captain Fernandes rounds on boss Carrick after Champions League humiliation",
    "desc": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
    "link": "https://www.bbc.com/sport/football/articles/cq74pjn80x4wo",
    "time": "2026-10-21T19:59:30+00:00",
-   "cat": "sport",
-   "top": false
+   "cat": "uk",
+   "top": true
   },
   {
-   "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+   "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
    "desc": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
    "link": "https://www.bbc.com/news/articles/cm98zn5j89kdo",
    "time": "2026-10-21T19:58:06+00:00",
@@ -262,15 +390,7 @@
    "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
    "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
    "time": "2026-10-21T19:54:57+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "'Playing for their careers' - Australia reeling after extraordinary day",
-   "desc": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
-   "link": "https://www.bbc.com/sport/cricket/articles/ckzd6r577qvdo",
-   "time": "2026-10-21T19:46:45+00:00",
-   "cat": "sport",
+   "cat": "biz",
    "top": false
   },
   {
@@ -290,14 +410,6 @@
    "top": false
   },
   {
-   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-   "desc": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-   "link": "https://www.bbc.com/news/articles/cmgr8q88r5eqo",
-   "time": "2026-10-21T18:10:42+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Radio presenter's 'wobbles' over Children in Need cycling challenge",
    "desc": "Owain Wyn Evans says the 400-mile challenge doesn't \"feel like a thing I'm able to do\".",
    "link": "https://www.bbc.com/news/articles/cwrkylee5px0o",
@@ -306,27 +418,19 @@
    "top": false
   },
   {
-   "title": "Burnham proposes plan to cut standing charges from gas bills",
-   "desc": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-   "link": "https://www.bbc.com/news/articles/cw0541p65dyzo",
-   "time": "2026-10-21T17:06:16+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Tributes paid to 'bravest' woman who died of 'stab wounds' after crash",
-   "desc": "It is understood Eleanor Barnfield, from Bridgend, had been stabbed before the crash.",
-   "link": "https://www.bbc.com/news/articles/cm62y0kw1eyxo",
-   "time": "2026-10-21T17:04:41+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Just Eat apologises for AI food mistakes after social media ridicule",
    "desc": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
    "link": "https://www.bbc.com/news/articles/crz981p0klvgo",
    "time": "2026-10-21T17:04:13+00:00",
-   "cat": "biz",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "How Jackdaw ignites row over climate and costs",
+   "desc": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact.",
+   "link": "https://www.bbc.com/news/videos/c65ynpx07djvo",
+   "time": "2026-10-21T16:51:10+00:00",
+   "cat": "sci",
    "top": false
   },
   {
@@ -346,43 +450,11 @@
    "top": false
   },
   {
-   "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-   "desc": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-   "link": "https://www.bbc.com/news/articles/crgj9d4zgj5yo",
-   "time": "2026-10-21T15:56:03+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-   "desc": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
-   "link": "https://www.bbc.com/news/articles/cm0j0q9znzdlo",
-   "time": "2026-10-21T15:47:51+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Orionid meteor shower to peak in UK skies into Thursday",
    "desc": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week.",
    "link": "https://www.bbc.com/weather/articles/cm17knj9kpv8o",
    "time": "2026-10-21T15:44:20+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-   "desc": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
-   "link": "https://www.bbc.com/news/articles/cy4zdgk081eo",
-   "time": "2026-10-21T15:36:31+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Anderson, 44, not offered new Lancashire contract",
-   "desc": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cmy0ek8vnxzko",
-   "time": "2026-10-21T15:35:42+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -394,35 +466,11 @@
    "top": false
   },
   {
-   "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-   "desc": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
-   "link": "https://www.bbc.com/news/articles/cq39870ypgl7o",
-   "time": "2026-10-21T15:24:23+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Andrews died of tear in artery around heart - autopsy",
-   "desc": "Former Sale player Hyron Andrews - who was found dead at his new team's hotel base before a Champions Cup match - died of natural causes, an autopsy finds.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cmx234p2xwpzo",
-   "time": "2026-10-21T14:39:26+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
    "desc": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
    "link": "https://www.bbc.com/news/articles/c6x2vpn4xy0yo",
    "time": "2026-10-21T14:38:22+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-   "desc": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
-   "link": "https://www.bbc.com/news/articles/c94g1pjmxg0ko",
-   "time": "2026-10-21T14:26:24+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -447,14 +495,6 @@
    "link": "https://www.bbc.com/news/articles/cmje5k3q9ello",
    "time": "2026-10-21T13:47:51+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Kildunne drops to bench as England ring changes",
-   "desc": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c3ewe42q4jqzo",
-   "time": "2026-10-21T12:47:48+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -530,14 +570,6 @@
    "top": false
   },
   {
-   "title": "Christina Applegate says she was wrongly diagnosed with MS",
-   "desc": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-   "link": "https://www.bbc.com/news/articles/cqlyel3wnxmxo",
-   "time": "2026-10-20T20:00:10+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
    "desc": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
    "link": "https://www.bbc.com/news/articles/c94g1502el58o",
@@ -550,30 +582,6 @@
    "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
    "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
    "time": "2026-10-20T18:03:19+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
-   "desc": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
-   "link": "https://www.bbc.com/news/articles/c63eln34yle3o",
-   "time": "2026-10-20T15:14:58+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-   "desc": "The closures are announced as the corporation continues to try to save £500m over two years.",
-   "link": "https://www.bbc.com/news/articles/cqx2v800nnr2o",
-   "time": "2026-10-20T13:10:43+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "UK asks Apple to widen access to its payment tech",
-   "desc": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-   "link": "https://www.bbc.com/news/articles/cqm26zzl0k12o",
-   "time": "2026-10-20T12:29:24+00:00",
    "cat": "tech",
    "top": false
   },
@@ -591,30 +599,6 @@
    "link": "https://www.bbc.com/weather/articles/c9rkyjzgp6kdo",
    "time": "2026-10-20T09:42:56+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
-   "desc": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
-   "link": "https://www.bbc.com/news/articles/cxzd6j5q0g7eo",
-   "time": "2026-10-20T05:27:15+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Five ways El Niño is affecting the weather around the world",
-   "desc": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-   "link": "https://www.bbc.com/weather/articles/c6dx07dznpyyo",
-   "time": "2026-10-19T23:08:25+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-   "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-   "link": "https://www.bbc.com/news/articles/c6gel2dlyxvyo",
-   "time": "2026-10-19T21:12:30+00:00",
-   "cat": "tech",
    "top": false
   }
  ]
