@@ -1,6 +1,134 @@
 {
- "updated": "2026-10-21T21:22:50.726865+00:00",
+ "updated": "2026-10-22T00:07:47.538932+00:00",
  "items": [
+  {
+   "title": "The real reasons US politicians are getting older",
+   "desc": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+   "link": "https://www.bbc.com/news/articles/cmde8rr2d6eno",
+   "time": "2026-10-21T23:52:12+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+   "desc": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+   "link": "https://www.bbc.com/news/articles/cm4g1zrl2nrqo",
+   "time": "2026-10-21T23:27:05+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "The grads ditching the UK for a fresh start abroad",
+   "desc": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+   "link": "https://www.bbc.com/news/articles/cmzxj4e8w44vo",
+   "time": "2026-10-21T23:12:06+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+   "desc": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+   "link": "https://www.bbc.com/sport/football/articles/ck79p7qq1q9ro",
+   "time": "2026-10-21T23:11:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Trump's green card curbs test Indian tech workers' American dream",
+   "desc": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+   "link": "https://www.bbc.com/news/articles/cqj34j7dk771o",
+   "time": "2026-10-21T23:06:37+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "desc": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+   "link": "https://www.bbc.com/news/articles/cr93z1e87e0do",
+   "time": "2026-10-21T23:04:03+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Only one female scientist named in GCSEs, research finds",
+   "desc": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
+   "link": "https://www.bbc.com/news/articles/c69wzv5pg447o",
+   "time": "2026-10-21T23:02:45+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "The four locations in the running to be UK City of Culture 2029",
+   "desc": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+   "link": "https://www.bbc.com/news/articles/c6jrw03njgxzo",
+   "time": "2026-10-21T23:02:37+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+   "desc": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+   "link": "https://www.bbc.com/news/articles/cqlye4v721nwo",
+   "time": "2026-10-21T23:02:30+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+   "desc": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+   "link": "https://www.bbc.com/news/articles/c6n049gg75r4o",
+   "time": "2026-10-21T22:54:58+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+   "desc": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+   "link": "https://www.bbc.com/sport/football/articles/ckg5j1zdn4m3o",
+   "time": "2026-10-21T22:51:56+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+   "desc": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+   "link": "https://www.bbc.com/news/videos/cmx2302xe931o",
+   "time": "2026-10-21T22:02:18+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Meta fined $25bn for 'lies' over user data privacy",
+   "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+   "link": "https://www.bbc.com/news/articles/cqdr8zxrr3dxo",
+   "time": "2026-10-21T21:49:07+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Real Madrid dominate Leipzig for third straight win",
+   "desc": "Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since moving from Manchester City in the summer.",
+   "link": "https://www.bbc.com/sport/football/videos/c3qjnerzngkqo",
+   "time": "2026-10-21T21:38:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "desc": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+   "link": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
+   "time": "2026-10-21T21:27:41+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Villa maintain perfect Champions League start with Viking victory",
+   "desc": "Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league phase.",
+   "link": "https://www.bbc.com/sport/football/videos/cmj47yxry4k9o",
+   "time": "2026-10-21T21:19:00+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Rice strikes to earn Arsenal draw at Bayern",
    "desc": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
@@ -10,34 +138,10 @@
    "top": false
   },
   {
-   "title": "PSG come out on top in six-goal thriller against Barcelona",
-   "desc": "Desire Doue, Lamine Yamal and Vitinha score superb individual goals as Champions League holders Paris St-Germain overcome Barcelona in a breathless encounter at Parc des Princes.",
-   "link": "https://www.bbc.com/sport/football/videos/cm74p9jd5zkko",
-   "time": "2026-10-21T21:01:03+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Foden nets hat-trick as Man City beat AEK Athens",
-   "desc": "Phil Foden scores a sublime hat-trick as he produces a virtuoso display to help Manchester City return to winning ways in the Champions League group phase by easing past Greek side AEK Athens.",
-   "link": "https://www.bbc.com/sport/football/videos/cmrly5r1jp41o",
-   "time": "2026-10-21T21:00:44+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
    "desc": "Rio Ngumoha provides the spark as Liverpool come from two goals down to beat Villarreal at Anfield in the Champions League.",
    "link": "https://www.bbc.com/sport/football/videos/cmvg6qxp6lj7o",
    "time": "2026-10-21T21:00:28+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'What a goal, what a moment' - Rice snatches late equaliser against Bayern",
-   "desc": "Declan Rice sends the travelling Arsenal support into raptures with his late equaliser in their heavyweight Champions League clash with Bayern Munich.",
-   "link": "https://www.bbc.com/sport/football/videos/cwvgd7nvrgp4o",
-   "time": "2026-10-21T21:00:05+00:00",
    "cat": "sport",
    "top": false
   },
@@ -55,22 +159,6 @@
    "link": "https://www.bbc.com/news/articles/cm62y095260go",
    "time": "2026-10-21T20:54:38+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-   "desc": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
-   "link": "https://www.bbc.com/sport/football/articles/cqrly2d6jnp7o",
-   "time": "2026-10-21T20:46:40+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "New lab to become centre for investigating uplands",
-   "desc": "The research facility in Penrith will also help train the next generation of environmental scientists.",
-   "link": "https://www.bbc.com/news/articles/cmg473555gzko",
-   "time": "2026-10-21T20:36:12+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -99,7 +187,7 @@
   },
   {
    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-   "desc": "Russia's President Putin does not feel under pressure right now to end the war.",
+   "desc": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
    "link": "https://www.bbc.com/news/articles/cm98zn5j89kdo",
    "time": "2026-10-21T19:58:06+00:00",
    "cat": "world",
@@ -110,16 +198,8 @@
    "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
    "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
    "time": "2026-10-21T19:54:57+00:00",
-   "cat": "tech",
+   "cat": "biz",
    "top": true
-  },
-  {
-   "title": "Meta fined $25bn for 'lies' over user data privacy",
-   "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-   "link": "https://www.bbc.com/news/articles/cqdr8zxrr3dxo",
-   "time": "2026-10-21T19:54:16+00:00",
-   "cat": "world",
-   "top": false
   },
   {
    "title": "'Playing for their careers' - Australia reeling after extraordinary day",
@@ -178,14 +258,6 @@
    "top": true
   },
   {
-   "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-   "desc": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-   "link": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
-   "time": "2026-10-21T17:42:34+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Radio presenter's 'wobbles' over Children in Need cycling challenge",
    "desc": "Owain Wyn Evans says the 400-mile challenge doesn't \"feel like a thing I'm able to do\".",
    "link": "https://www.bbc.com/news/articles/cwrkylee5px0o",
@@ -222,7 +294,7 @@
    "desc": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
    "link": "https://www.bbc.com/news/articles/crz981p0klvgo",
    "time": "2026-10-21T17:04:13+00:00",
-   "cat": "tech",
+   "cat": "biz",
    "top": false
   },
   {
@@ -263,7 +335,7 @@
    "link": "https://www.bbc.com/news/articles/crgj9d4zgj5yo",
    "time": "2026-10-21T15:56:03+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Teenage boy guilty of trying to murder girl, 15, in school",
@@ -280,14 +352,6 @@
    "time": "2026-10-21T15:44:20+00:00",
    "cat": "sci",
    "top": false
-  },
-  {
-   "title": "Google staff resign in backlash over its AI contracts with military",
-   "desc": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
-   "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-   "time": "2026-10-21T15:41:25+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
@@ -335,7 +399,7 @@
    "link": "https://www.bbc.com/news/articles/c6x2vpn4xy0yo",
    "time": "2026-10-21T14:38:22+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
@@ -343,7 +407,7 @@
    "link": "https://www.bbc.com/news/articles/c94g1pjmxg0ko",
    "time": "2026-10-21T14:26:24+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Belfast comedian criticised for rape 'joke' about assault victim",
@@ -359,7 +423,7 @@
    "link": "https://www.bbc.com/news/articles/ckjrw044ggxgo",
    "time": "2026-10-21T14:04:28+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
@@ -426,27 +490,11 @@
    "top": false
   },
   {
-   "title": "What is happening to UK prices?",
-   "desc": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-   "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo",
-   "time": "2026-10-21T08:35:47+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Ali G is back. But is the character past its sell-by date?",
    "desc": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
    "link": "https://www.bbc.com/news/articles/ckge4vn2rnxgo",
    "time": "2026-10-21T06:43:31+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "desc": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-   "link": "https://www.bbc.com/news/articles/cr93z1e87e0do",
-   "time": "2026-10-21T06:36:39+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -478,7 +526,7 @@
    "desc": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
    "link": "https://www.bbc.com/news/articles/c370pzdkw77jo",
    "time": "2026-10-20T23:13:24+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -498,19 +546,11 @@
    "top": false
   },
   {
-   "title": "Trump sued over Canadian tariffs in latest legal challenge",
-   "desc": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-   "link": "https://www.bbc.com/news/articles/cqrkyj13m588o",
-   "time": "2026-10-20T19:30:05+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Google resolves cloud outage affecting UK banks and websites",
    "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
    "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
    "time": "2026-10-20T18:03:19+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -606,14 +646,6 @@
    "desc": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
    "link": "https://www.bbc.com/news/articles/cv5ynp1j45x2o",
    "time": "2026-10-19T12:58:39+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Musk and Anthropic pledge public share giveaways",
-   "desc": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-   "link": "https://www.bbc.com/news/articles/cm2kez327gdko",
-   "time": "2026-10-19T09:38:25+00:00",
    "cat": "tech",
    "top": false
   }
