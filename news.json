@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-22T00:07:47.538932+00:00",
+ "updated": "2026-10-22T05:13:28.062868+00:00",
  "items": [
+  {
+   "title": "NI risks missing 2030 energy goals, says Stormont committee",
+   "desc": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated.",
+   "link": "https://www.bbc.com/news/articles/c623d18dl3v0o",
+   "time": "2026-10-22T05:09:52+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "UK working to identify exposure after global cyber-security warning",
+   "desc": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+   "link": "https://www.bbc.com/news/articles/cmx23d0k57d3o",
+   "time": "2026-10-22T05:03:47+00:00",
+   "cat": "tech",
+   "top": true
+  },
+  {
+   "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
+   "desc": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
+   "link": "https://www.bbc.com/news/articles/c6ly09v09lnjo",
+   "time": "2026-10-22T05:01:01+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "No purchase, no seats: Starbucks China rolls out new policy",
+   "desc": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+   "link": "https://www.bbc.com/news/articles/ckzd6rjmlzvmo",
+   "time": "2026-10-22T04:02:29+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
+   "time": "2026-10-22T03:48:50+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "US embassy accuses Canada of election meddling ahead of midterms",
+   "desc": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+   "link": "https://www.bbc.com/news/articles/cmn06g29522lo",
+   "time": "2026-10-22T03:05:28+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+   "desc": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
+   "link": "https://www.bbc.com/news/articles/cmj471wgpky7o",
+   "time": "2026-10-22T02:09:21+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+   "desc": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+   "link": "https://www.bbc.com/news/articles/cr74p0zkd4jjo",
+   "time": "2026-10-22T01:17:25+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "desc": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+   "link": "https://www.bbc.com/news/articles/c6x2vpk93770o",
+   "time": "2026-10-22T01:07:34+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "The real reasons US politicians are getting older",
    "desc": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
@@ -10,12 +82,12 @@
    "top": true
   },
   {
-   "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
    "desc": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
    "link": "https://www.bbc.com/news/articles/cm4g1zrl2nrqo",
    "time": "2026-10-21T23:27:05+00:00",
    "cat": "biz",
-   "top": false
+   "top": true
   },
   {
    "title": "The grads ditching the UK for a fresh start abroad",
@@ -54,15 +126,15 @@
    "desc": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
    "link": "https://www.bbc.com/news/articles/c69wzv5pg447o",
    "time": "2026-10-21T23:02:45+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "The four locations in the running to be UK City of Culture 2029",
    "desc": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
    "link": "https://www.bbc.com/news/articles/c6jrw03njgxzo",
    "time": "2026-10-21T23:02:37+00:00",
-   "cat": "world",
+   "cat": "uk",
    "top": true
   },
   {
@@ -70,7 +142,7 @@
    "desc": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
    "link": "https://www.bbc.com/news/articles/cqlye4v721nwo",
    "time": "2026-10-21T23:02:30+00:00",
-   "cat": "world",
+   "cat": "uk",
    "top": true
   },
   {
@@ -78,8 +150,8 @@
    "desc": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
    "link": "https://www.bbc.com/news/articles/c6n049gg75r4o",
    "time": "2026-10-21T22:54:58+00:00",
-   "cat": "biz",
-   "top": true
+   "cat": "world",
+   "top": false
   },
   {
    "title": "Saka injury 'does not look good' - how will Arsenal cope?",
@@ -87,6 +159,14 @@
    "link": "https://www.bbc.com/sport/football/articles/ckg5j1zdn4m3o",
    "time": "2026-10-21T22:51:56+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+   "desc": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+   "link": "https://www.bbc.com/news/articles/cqx287g8714lo",
+   "time": "2026-10-21T22:20:22+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -102,7 +182,7 @@
    "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
    "link": "https://www.bbc.com/news/articles/cqdr8zxrr3dxo",
    "time": "2026-10-21T21:49:07+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -119,7 +199,7 @@
    "link": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
    "time": "2026-10-21T21:27:41+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Villa maintain perfect Champions League start with Viking victory",
@@ -154,22 +234,6 @@
    "top": false
   },
   {
-   "title": "Attempted murder arrests after boy, 16, attacked",
-   "desc": "Two boys aged 15 and 16 were being questioned after the teenager was found injured in Everton, Liverpool.",
-   "link": "https://www.bbc.com/news/articles/cm62y095260go",
-   "time": "2026-10-21T20:54:38+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-   "desc": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-   "link": "https://www.bbc.com/news/articles/ckx2qpw4rjd7o",
-   "time": "2026-10-21T20:19:51+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Pope does not need further treatment after lung cancer surgery",
    "desc": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
    "link": "https://www.bbc.com/news/articles/cqrly2dg5xzzo",
@@ -198,8 +262,8 @@
    "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
    "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
    "time": "2026-10-21T19:54:57+00:00",
-   "cat": "biz",
-   "top": true
+   "cat": "world",
+   "top": false
   },
   {
    "title": "'Playing for their careers' - Australia reeling after extraordinary day",
@@ -218,22 +282,6 @@
    "top": false
   },
   {
-   "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-   "desc": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-   "link": "https://www.bbc.com/news/articles/c62kepvg2x9lo",
-   "time": "2026-10-21T19:29:40+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "MP harassed for 'being English' by man who took axe to pub",
-   "desc": "Michael Glover left a note on MP Henry Tufnell's office door and claimed he knew where he lived.",
-   "link": "https://www.bbc.com/news/articles/cvde8glk94neo",
-   "time": "2026-10-21T18:46:37+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Fuel leak which killed fish in River Taff stopped",
    "desc": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby.",
    "link": "https://www.bbc.com/news/articles/c6y8lvxzp59vo",
@@ -242,20 +290,12 @@
    "top": false
   },
   {
-   "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-   "desc": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
-   "link": "https://www.bbc.com/news/articles/c674p0xepljeo",
-   "time": "2026-10-21T18:22:28+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
    "desc": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
    "link": "https://www.bbc.com/news/articles/cmgr8q88r5eqo",
    "time": "2026-10-21T18:10:42+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Radio presenter's 'wobbles' over Children in Need cycling challenge",
@@ -270,14 +310,6 @@
    "desc": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
    "link": "https://www.bbc.com/news/articles/cw0541p65dyzo",
    "time": "2026-10-21T17:06:16+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Mindset shift' needed within government on No10 North, says deputy",
-   "desc": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\".",
-   "link": "https://www.bbc.com/news/articles/cqx28yp532r0o",
-   "time": "2026-10-21T17:05:09+00:00",
    "cat": "uk",
    "top": false
   },
@@ -298,14 +330,6 @@
    "top": false
   },
   {
-   "title": "Family of prison officer killed by IRA receives state apology",
-   "desc": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-   "link": "https://www.bbc.com/news/articles/ck20rver1j31o",
-   "time": "2026-10-21T16:58:16+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Will Jackdaw cut your energy bills?",
    "desc": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills.",
    "link": "https://www.bbc.com/news/videos/cqvg0ke2v9njo",
@@ -319,14 +343,6 @@
    "link": "https://www.bbc.com/news/articles/cwe8lz018pe1o",
    "time": "2026-10-21T16:06:35+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-   "desc": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-   "link": "https://www.bbc.com/news/articles/cmze4w63ly42o",
-   "time": "2026-10-21T15:58:05+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -430,7 +446,7 @@
    "desc": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
    "link": "https://www.bbc.com/news/articles/cmje5k3q9ello",
    "time": "2026-10-21T13:47:51+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -486,7 +502,7 @@
    "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "link": "https://www.bbc.com/news/articles/cmlyl09xjke4o",
    "time": "2026-10-21T08:42:49+00:00",
-   "cat": "world",
+   "cat": "tech",
    "top": false
   },
   {
@@ -495,22 +511,6 @@
    "link": "https://www.bbc.com/news/articles/ckge4vn2rnxgo",
    "time": "2026-10-21T06:43:31+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-   "desc": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-   "link": "https://www.bbc.com/news/articles/ckdd8m1z1z3yo",
-   "time": "2026-10-21T05:46:33+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Lawyer caught offering to make illegal-worker fine go away",
-   "desc": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
-   "link": "https://www.bbc.com/news/articles/c30rln4pz58xo",
-   "time": "2026-10-21T05:00:35+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -594,14 +594,6 @@
    "top": false
   },
   {
-   "title": "What is the Budget and what could be in it?",
-   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "link": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
-   "time": "2026-10-20T08:31:36+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
    "desc": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
    "link": "https://www.bbc.com/news/articles/cxzd6j5q0g7eo",
@@ -622,30 +614,6 @@
    "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
    "link": "https://www.bbc.com/news/articles/c6gel2dlyxvyo",
    "time": "2026-10-19T21:12:30+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Mission blasts off for Mars to grab a piece of its moon",
-   "desc": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-   "link": "https://www.bbc.com/news/articles/cmvgxvkv54w1o",
-   "time": "2026-10-19T19:45:46+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "US bans China's DeepSeek from government in race for AI dominance",
-   "desc": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
-   "link": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
-   "time": "2026-10-19T18:21:54+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Uber wins bid to throw out £200m black cab claims",
-   "desc": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
-   "link": "https://www.bbc.com/news/articles/cv5ynp1j45x2o",
-   "time": "2026-10-19T12:58:39+00:00",
    "cat": "tech",
    "top": false
   }
