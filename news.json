@@ -1,13 +1,117 @@
 {
- "updated": "2026-10-23T21:07:37.424185+00:00",
+ "updated": "2026-10-23T23:55:18.569492+00:00",
  "items": [
+  {
+   "title": "Leclerc fastest from Antonelli in US GP practice",
+   "desc": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cm5ynle2n082o",
+   "time": "2026-10-23T23:40:33+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+   "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
+   "time": "2026-10-23T22:54:57+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+   "desc": "A newly earned special power left one contestant with a big decision to make in Friday's episode.",
+   "link": "https://www.bbc.com/news/articles/c6jdmrz00v7lo",
+   "time": "2026-10-23T22:52:40+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+   "desc": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+   "link": "https://www.bbc.com/news/articles/crgj9ndwvj9jo",
+   "time": "2026-10-23T22:47:07+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
+   "desc": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
+   "link": "https://www.bbc.com/sport/football/videos/ckrey3ndyyw0o",
+   "time": "2026-10-23T22:21:51+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+   "desc": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches.",
+   "link": "https://www.bbc.com/sport/football/videos/c8ly03l6klzpo",
+   "time": "2026-10-23T22:15:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Impressive Gloucester beat rivals Bath in Prem",
+   "desc": "Gloucester storm to their first win over Bath in the Prem at Kingsholm since April 2022 with a 23-5 victory built on an immense defensive display.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cqe9l3krgjvro",
+   "time": "2026-10-23T22:00:27+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Wade equals Prem try-scoring record as Newcastle beat Sale",
+   "desc": "Christian Wade equals Chris Ashton's Prem try-scoring record with a 101st score as Newcastle post their first league win of their season against Sale.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cqwy7e08jlxpo",
+   "time": "2026-10-23T21:55:47+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+   "desc": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
+   "link": "https://www.bbc.com/sport/football/videos/c9ly0dgy2r2eo",
+   "time": "2026-10-23T21:54:54+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Littler through as Van Gerwen suffers early Euros exit",
+   "desc": "World champion Luke Littler makes it through to the second round of the European Championship with a win over William O'Connor but Michael van Gerwen is knocked out of the tournament at the first-round stage.",
+   "link": "https://www.bbc.com/sport/darts/articles/c977p3zn6185o",
+   "time": "2026-10-23T21:51:18+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
+   "desc": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
+   "link": "https://www.bbc.com/sport/football/articles/cwn73kzzr8veo",
+   "time": "2026-10-23T21:32:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Man dies after car crashes into Lidl supermarket",
    "desc": "West Midlands Police said the man was pronounced dead at the scene with others requiring treatment.",
    "link": "https://www.bbc.com/news/articles/cwrky7j13r4vo",
-   "time": "2026-10-23T21:06:36+00:00",
+   "time": "2026-10-23T21:16:38+00:00",
    "cat": "uk",
    "top": false
+  },
+  {
+   "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+   "desc": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+   "link": "https://www.bbc.com/news/articles/cxj0l193y0l8o",
+   "time": "2026-10-23T21:10:47+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Watch: Trees ripped up as Storm Austen batters Britain",
+   "desc": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.",
+   "link": "https://www.bbc.com/news/videos/c6x2qdpnn35po",
+   "time": "2026-10-23T21:01:31+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Argentina drops investigation into President Milei over crypto fraud",
@@ -15,30 +119,6 @@
    "link": "https://www.bbc.com/news/articles/c64g1eplpvddo",
    "time": "2026-10-23T20:59:39+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Wade equals Prem record as Newcastle beat Sale",
-   "desc": "Christian Wade equals Chris Ashton's Prem try-scoring record with a 101st score as Newcastle post their first league win of their season against Sale.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cqwy7e08jlxpo",
-   "time": "2026-10-23T20:50:22+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "White House says the US is lifting tariffs on some Canadian goods",
-   "desc": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
-   "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
-   "time": "2026-10-23T20:39:39+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Kinsella nails floor routine in all-around final",
-   "desc": "Alice Kinsella completes her return from a year out of gymnastics after giving birth, with a \"brilliant\" floor routine in the women's all-around final at the Artistic Gymnastics World Championships in Rotterdam.",
-   "link": "https://www.bbc.com/sport/gymnastics/videos/c9146vp0jddro",
-   "time": "2026-10-23T20:20:49+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -87,7 +167,7 @@
    "link": "https://www.bbc.com/news/articles/cr5ynl415j79o",
    "time": "2026-10-23T19:23:10+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
@@ -98,36 +178,12 @@
    "top": false
   },
   {
-   "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-   "desc": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday.",
-   "link": "https://www.bbc.com/news/articles/cxj0l193y0l8o",
-   "time": "2026-10-23T18:48:18+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
-   "desc": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize.",
-   "link": "https://www.bbc.com/news/videos/c6q8nd7n91eyo",
-   "time": "2026-10-23T18:42:38+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
    "desc": "The Duchess of Sussex issues a statement following reports her estranged father is being investigated over child sex abuse images in the Philippines.",
    "link": "https://www.bbc.com/news/articles/c6x2wpgejjkjo",
    "time": "2026-10-23T18:17:06+00:00",
    "cat": "uk",
    "top": true
-  },
-  {
-   "title": "Superb Samoa run riot to inflict heavy defeat on woeful Wales",
-   "desc": "Samoa score 14 unaswered tries as they thrash Wales 76-0 to secure their first win in Pool A at the 2026 Women's Rugby League World Cup, whilst the result leaves Wales with two defeats from two.",
-   "link": "https://www.bbc.com/sport/rugby-league/videos/cqm2d1v0jr48o",
-   "time": "2026-10-23T17:43:46+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "Green councillors face Labour deadline to disown Zionism policy",
@@ -151,14 +207,6 @@
    "link": "https://www.bbc.com/news/articles/cry4x7n5yje0o",
    "time": "2026-10-23T17:27:20+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Spygate put me in difficult position - Southampton technical chief",
-   "desc": "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a \"difficult position\" over the summer.",
-   "link": "https://www.bbc.com/sport/football/articles/cmjrwjl1j27do",
-   "time": "2026-10-23T17:23:21+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -215,7 +263,7 @@
    "link": "https://www.bbc.com/news/articles/cq4g1p974wxko",
    "time": "2026-10-23T15:37:07+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Oil spill washes up on UAE beaches after tanker strike",
@@ -239,14 +287,6 @@
    "link": "https://www.bbc.com/news/articles/c6lykzwjkj1eo",
    "time": "2026-10-23T15:15:13+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Derby day - when Chelsea and Spurs meet, is chaos guaranteed?",
-   "desc": "Chelsea face Tottenham Hotspur in the Premier League this weekend - and BBC Sport looks back at five memorable matches between the London rivals.",
-   "link": "https://www.bbc.com/sport/football/videos/c50mex301jjno",
-   "time": "2026-10-23T14:49:59+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -274,14 +314,6 @@
    "top": false
   },
   {
-   "title": "PM defends Gogglebox appearance after Badenoch criticism",
-   "desc": "Burnham says he \"makes no apology\" for the move as Kemi Badenoch says she is \"amazed\" he has time.",
-   "link": "https://www.bbc.com/news/articles/cm4g140585ngo",
-   "time": "2026-10-23T14:13:43+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Arsenal fear Saka could be out for two months",
    "desc": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
    "link": "https://www.bbc.com/sport/football/articles/cmwyql6v5q82o",
@@ -294,14 +326,6 @@
    "desc": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
    "link": "https://www.bbc.com/sport/football/articles/cq78pv0073dlo",
    "time": "2026-10-23T13:55:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "England balancing points chase and discipline at World Cup",
-   "desc": "England winger Matty Ashton stresses the need to balance the chase for points with retaining their discipline when they face France in Perth on Saturday in their second Rugby League World Cup group fixture.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/ck9qzewgz1g3o",
-   "time": "2026-10-23T13:53:02+00:00",
    "cat": "sport",
    "top": false
   },
@@ -359,14 +383,6 @@
    "link": "https://www.bbc.com/news/articles/c6n8dex0zeg9o",
    "time": "2026-10-23T11:48:04+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Burden & Williams star as Bears hold off Patriots",
-   "desc": "Luther Burden and Caleb Williams star as the Chicago Bears hold off the New England Patriots to go 5-2 in the NFC North.",
-   "link": "https://www.bbc.com/sport/american-football/videos/cw30ejmvq7q7o",
-   "time": "2026-10-23T10:20:56+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -535,14 +551,6 @@
    "link": "https://www.bbc.com/news/articles/c9j34zgmkxx1o",
    "time": "2026-10-22T17:12:51+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
-   "desc": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
-   "link": "https://www.bbc.com/news/articles/c9e8lz4mrg88o",
-   "time": "2026-10-22T16:45:09+00:00",
-   "cat": "cul",
    "top": false
   },
   {
