@@ -1,13 +1,141 @@
 {
- "updated": "2026-10-23T01:45:39.314589+00:00",
+ "updated": "2026-10-23T07:07:31.804691+00:00",
  "items": [
+  {
+   "title": "James enjoys dream home debut in 76ers comeback win",
+   "desc": "LeBron James says his home debut was \"everything that I dreamed of and more\" after the Philadelphia 76ers turned boos into cheers by overhauling a 29-point deficit to beat the Cleveland Cavaliers 114-106.",
+   "link": "https://www.bbc.com/sport/basketball/articles/cqn73kr2k284o",
+   "time": "2026-10-23T06:50:32+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Lights will stay on this winter, grid operator says after concerns",
+   "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+   "link": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
+   "time": "2026-10-23T06:47:10+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Flat-track bullies Celtic continue descent into European irrelevance",
+   "desc": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions.",
+   "link": "https://www.bbc.com/sport/football/articles/crp3gde84j4zo",
+   "time": "2026-10-23T06:26:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Have Man Utd become the unmanageable club?",
+   "desc": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
+   "link": "https://www.bbc.com/sport/football/articles/c6y0ek284pdgo",
+   "time": "2026-10-23T05:56:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/cre3x9e7gyq7o",
+   "time": "2026-10-23T05:32:12+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Matilda celebrates 15 years as West End success story",
+   "desc": "The musical is seen by more than 12 million people worldwide after starting in Stratford-upon-Avon.",
+   "link": "https://www.bbc.com/news/articles/c84g1zxeg9r4o",
+   "time": "2026-10-23T05:19:28+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+   "desc": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+   "link": "https://www.bbc.com/news/articles/ck5ynd1z6e83o",
+   "time": "2026-10-23T05:16:37+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+   "desc": "The Met Office has issued a yellow warning for rain across Scotland on Friday, followed by a wind warning on Saturday.",
+   "link": "https://www.bbc.com/news/articles/cwkgjz3dpyj6o",
+   "time": "2026-10-23T05:12:55+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "What books had people turning pages and turning up the volume this year?",
+   "desc": "Thrillers, self-help books and Harry Potter were the big winners for readers from Libraries NI data.",
+   "link": "https://www.bbc.com/news/articles/cqe8rgp8g1k2o",
+   "time": "2026-10-23T05:12:20+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Monk on Caldey Island gave naked photos of himself to visitors",
+   "desc": "The monk denies sexually assaulting a visitor, who says he also gave her naked photos of himself.",
+   "link": "https://www.bbc.com/news/articles/cwr7yz12g2vpo",
+   "time": "2026-10-23T05:11:25+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'Shock' of first England farmer hit by bird flu this season",
+   "desc": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens.",
+   "link": "https://www.bbc.com/news/articles/crpdg235g76no",
+   "time": "2026-10-23T05:10:30+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+   "desc": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+   "link": "https://www.bbc.com/news/videos/ck240lmvqjyjo",
+   "time": "2026-10-23T05:05:03+00:00",
+   "cat": "sci",
+   "top": true
+  },
+  {
+   "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m",
+   "desc": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
+   "link": "https://www.bbc.com/news/articles/cm5ynpywq1e3o",
+   "time": "2026-10-23T05:00:32+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+   "desc": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+   "link": "https://www.bbc.com/news/videos/c3wyv7lr15nvo",
+   "time": "2026-10-23T05:00:12+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+   "desc": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+   "link": "https://www.bbc.com/news/articles/ckdd83dz0153o",
+   "time": "2026-10-23T05:00:05+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+   "desc": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+   "link": "https://www.bbc.com/news/articles/cmwy4wlzqz3zo",
+   "time": "2026-10-23T04:54:25+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "Trump ordered to answer questions under oath in BBC lawsuit",
    "desc": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
    "link": "https://www.bbc.com/news/articles/cmy0ryjx7741o",
    "time": "2026-10-23T01:38:44+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
@@ -23,18 +151,18 @@
    "link": "https://www.bbc.com/weather/articles/cq8ezy256e42o",
    "time": "2026-10-23T00:08:43+00:00",
    "cat": "sci",
-   "top": true
+   "top": false
   },
   {
-   "title": "Private care home investors a risk to public sector, regulator says",
-   "desc": "US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service.",
+   "title": "Rapid changes to care market risk to National Care Service, regulator says",
+   "desc": "Concerns raised as big private firms buy up care homes and home help fragmenting in England.",
    "link": "https://www.bbc.com/news/articles/cke8r6543gplo",
    "time": "2026-10-22T23:20:05+00:00",
    "cat": "uk",
    "top": false
   },
   {
-   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
    "desc": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
    "link": "https://www.bbc.com/news/articles/c54g1kxw4nvvo",
    "time": "2026-10-22T23:16:16+00:00",
@@ -50,35 +178,11 @@
    "top": true
   },
   {
-   "title": "Grid operator says lights will stay on this winter after concerns",
-   "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-   "link": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
-   "time": "2026-10-22T23:04:38+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-   "desc": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
-   "link": "https://www.bbc.com/sport/football/articles/cqx287ekvvvpo",
-   "time": "2026-10-22T22:52:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
    "desc": "The murder in plain sight victim was revealed ahead of another difficult round table.",
    "link": "https://www.bbc.com/news/articles/cmqxn3133rdwo",
    "time": "2026-10-22T22:48:44+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Approach African GP with humility, says Hamilton",
-   "desc": "Lewis Hamilton addresses concerns on human rights grounds about holding an African Grand Prix in Rwanda by saying people should \"approach it with humility\".",
-   "link": "https://www.bbc.com/sport/formula1/articles/c6vgxd2xyv7do",
-   "time": "2026-10-22T22:47:30+00:00",
-   "cat": "sport",
+   "cat": "cul",
    "top": false
   },
   {
@@ -90,35 +194,11 @@
    "top": false
   },
   {
-   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
    "desc": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
    "link": "https://www.bbc.com/news/articles/cvglwgwpgrlpo",
    "time": "2026-10-22T22:27:53+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
-   "desc": "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday.",
-   "link": "https://www.bbc.com/news/articles/cwkgjz3dpyj6o",
-   "time": "2026-10-22T21:59:43+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Man Utd chief keen on Howe - Friday's gossip",
-   "desc": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
-   "link": "https://www.bbc.com/sport/football/articles/c63elp2kz4exo",
-   "time": "2026-10-22T21:53:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Counties interested in Anderson after Lancashire exit",
-   "desc": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cm8xz10571lro",
-   "time": "2026-10-22T21:47:51+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -143,7 +223,7 @@
    "link": "https://www.bbc.com/news/articles/cwd094x57p32o",
    "time": "2026-10-22T21:29:44+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
@@ -151,6 +231,14 @@
    "link": "https://www.bbc.com/news/articles/c30rlpkglkwpo",
    "time": "2026-10-22T21:21:22+00:00",
    "cat": "sci",
+   "top": true
+  },
+  {
+   "title": "US actor Tom Skerritt, star of Top Gun, Steel Magnolias and Alien, dies aged 93",
+   "desc": "The moustachioed star of several 20th Century hit films died on Wednesday of natural causes, his family says.",
+   "link": "https://www.bbc.com/news/articles/cqrkyly2p54xo",
+   "time": "2026-10-22T21:10:36+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -162,35 +250,11 @@
    "top": false
   },
   {
-   "title": "GB's Fraser wins world bronze in all-around final",
-   "desc": "Watch Great Britain's Joe Fraser earn a bronze medal at the World Gymnastics Championships after a tense finish to the men's all-around final",
-   "link": "https://www.bbc.com/sport/gymnastics/videos/c9kgjzjjnlzyo",
-   "time": "2026-10-22T20:28:43+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-   "desc": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-   "link": "https://www.bbc.com/news/articles/cvde8g40xx42o",
-   "time": "2026-10-22T19:25:26+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
    "desc": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
    "link": "https://www.bbc.com/news/articles/cqvgjk3j0j9wo",
    "time": "2026-10-22T18:48:59+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Lockerbie bombing accused loses bid to have case thrown out",
-   "desc": "Abu Agila Mas'ud al-Marimi had claimed he was victim of an illegal rendition when he was transferred into US custody.",
-   "link": "https://www.bbc.com/news/articles/cw1l3q1z8358o",
-   "time": "2026-10-22T18:30:56+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -202,18 +266,18 @@
    "top": false
   },
   {
-   "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
-   "desc": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cmd93kw9q5v3o",
-   "time": "2026-10-22T17:52:45+00:00",
+   "title": "Fernandes' home burgled while in Italy with Man Utd",
+   "desc": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como.",
+   "link": "https://www.bbc.com/sport/football/articles/cq9vz19p41x8o",
+   "time": "2026-10-22T18:04:21+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "What next for Australia after chastening defeat by South Africa?",
-   "desc": "Problems mounting up for Australia after their humbling against South Africa in second Test.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cmg473p9vz6xo",
-   "time": "2026-10-22T17:25:22+00:00",
+   "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+   "desc": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cmd93kw9q5v3o",
+   "time": "2026-10-22T17:52:45+00:00",
    "cat": "sport",
    "top": false
   },
@@ -223,7 +287,7 @@
    "link": "https://www.bbc.com/news/articles/c9j34zgmkxx1o",
    "time": "2026-10-22T17:12:51+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
@@ -258,11 +322,11 @@
    "top": false
   },
   {
-   "title": "Map thief leads 'merry dance' with return promises",
-   "desc": "The 1684 world map, cut from an atlas at the National Maritime Museum’s library, has not been found.",
-   "link": "https://www.bbc.com/news/articles/c9rkyl50l28lo",
-   "time": "2026-10-22T16:26:17+00:00",
-   "cat": "uk",
+   "title": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
+   "desc": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+   "link": "https://www.bbc.com/sport/football/articles/c3y0eqkneze4o",
+   "time": "2026-10-22T16:30:41+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -274,19 +338,19 @@
    "top": false
   },
   {
-   "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
-   "desc": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
-   "link": "https://www.bbc.com/sport/football/articles/cqe8rglz8p90o",
-   "time": "2026-10-22T16:19:30+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Crowd of 50 beats foreigner to death in South Africa",
    "desc": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
    "link": "https://www.bbc.com/news/articles/ck5yn9z3vnego",
    "time": "2026-10-22T16:15:25+00:00",
    "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Treadmill World Champs - What are they and how to compete",
+   "desc": "A brand-new World Athletics event where runners around the globe compete on a treadmill",
+   "link": "https://www.bbc.com/programmes/p0pj2cln",
+   "time": "2026-10-22T16:03:38+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -330,14 +394,6 @@
    "top": false
   },
   {
-   "title": "Big Brother fans still not happy as housemate called out on behaviour",
-   "desc": "Ofcom received thousands of complaints related to Omar El Mayer's behaviour in the Big Brother house.",
-   "link": "https://www.bbc.com/news/articles/cv36941yn1e9o",
-   "time": "2026-10-22T14:30:48+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
    "desc": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
    "link": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
@@ -346,11 +402,11 @@
    "top": false
   },
   {
-   "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-   "desc": "The teacher said she could not help children because she was badly injured by the attacker.",
-   "link": "https://www.bbc.com/news/articles/cqvgrmzdzgr7o",
-   "time": "2026-10-22T14:09:54+00:00",
-   "cat": "world",
+   "title": "Prime Minister swaps dispatch box for Gogglebox",
+   "desc": "Andy Burnham is taking part in a Stand Up 2 Cancer Gogglebox special with his friend Steve Rotheram.",
+   "link": "https://www.bbc.com/news/articles/cm3wv9ye603xo",
+   "time": "2026-10-22T14:07:49+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -367,6 +423,14 @@
    "link": "https://www.bbc.com/news/articles/cm70pj51zdk4o",
    "time": "2026-10-22T13:45:19+00:00",
    "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Retired decorator's Pokémon cards sell for £1.5m",
+   "desc": "He says he found treasure in his attic where the collection had been stored for 15 years.",
+   "link": "https://www.bbc.com/news/articles/cvp8gy1zwxxwo",
+   "time": "2026-10-22T13:31:04+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -391,14 +455,6 @@
    "link": "https://www.bbc.com/weather/articles/ckx2qpy2d13ro",
    "time": "2026-10-22T10:34:17+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Legendary video game studio BioWare closes after 31 years",
-   "desc": "The influential studio that made Mass Effect and Dragon Age announces it is closing its doors.",
-   "link": "https://www.bbc.com/news/articles/cq8jzrxlkmwmo",
-   "time": "2026-10-22T10:25:33+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -431,30 +487,6 @@
    "link": "https://www.bbc.com/news/articles/cmx23d0k57d3o",
    "time": "2026-10-22T08:23:42+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
-   "desc": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
-   "link": "https://www.bbc.com/news/articles/c6ly09v09lnjo",
-   "time": "2026-10-22T06:41:29+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Is the UK set to green-light a huge untapped oil field?",
-   "desc": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic.",
-   "link": "https://www.bbc.com/news/videos/cxnv0emj06v1o",
-   "time": "2026-10-22T06:09:44+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "NI risks missing 2030 energy goals, says Stormont committee",
-   "desc": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated.",
-   "link": "https://www.bbc.com/news/articles/c623d18dl3v0o",
-   "time": "2026-10-22T05:09:52+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -527,38 +559,6 @@
    "link": "https://www.bbc.com/news/articles/crz981p0klvgo",
    "time": "2026-10-21T17:04:13+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-   "desc": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-   "link": "https://www.bbc.com/news/articles/c6x2vpn4xy0yo",
-   "time": "2026-10-21T14:38:22+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-   "desc": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
-   "link": "https://www.bbc.com/news/articles/cmje5k3q9ello",
-   "time": "2026-10-21T13:47:51+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
-   "desc": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
-   "link": "https://www.bbc.com/news/articles/c6wyd53yg9n1o",
-   "time": "2026-10-21T10:45:06+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
-   "desc": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
-   "link": "https://www.bbc.com/news/articles/cm9wzvj0v4q9o",
-   "time": "2026-10-21T09:35:31+00:00",
-   "cat": "cul",
    "top": false
   },
   {
