@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-23T23:55:18.569492+00:00",
+ "updated": "2026-10-24T03:47:12.546682+00:00",
  "items": [
+  {
+   "title": "Met investigates reports of letter detailing claims about Meghan's father",
+   "desc": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
+   "link": "https://www.bbc.com/news/articles/cmlylkkzl2neo",
+   "time": "2026-10-24T03:17:24+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+   "desc": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
+   "link": "https://www.bbc.com/news/articles/c63r5779vyl9o",
+   "time": "2026-10-24T02:52:10+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+   "desc": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+   "link": "https://www.bbc.com/weather/articles/cv8ez97k0wnlo",
+   "time": "2026-10-24T02:25:54+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Australian MP's condition improves after alleged car attack",
+   "desc": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+   "link": "https://www.bbc.com/news/articles/c670pr1ryxyno",
+   "time": "2026-10-24T01:55:15+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "England suffer back-to-back losses to Canada",
+   "desc": "Watch highlights as England were beaten by Canada for the second time in as many weeks, losing 31-22 in their WXV Global Series match in Ottawa, Canada.",
+   "link": "https://www.bbc.com/sport/rugby-union/videos/cmx235877eexo",
+   "time": "2026-10-24T01:53:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+   "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
+   "time": "2026-10-24T00:36:47+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "How does the UK state pension compare with other countries?",
+   "desc": "Do British pensioners have it better or worse than those in other countries?",
+   "link": "https://www.bbc.com/news/articles/c3gr84w85glyo",
+   "time": "2026-10-24T00:09:12+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+   "link": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
+   "time": "2026-10-24T00:05:45+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+   "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+   "link": "https://www.bbc.com/news/articles/cqr7yeed1ed7o",
+   "time": "2026-10-23T23:50:45+00:00",
+   "cat": "uk",
+   "top": false
+  },
   {
    "title": "Leclerc fastest from Antonelli in US GP practice",
    "desc": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
@@ -10,11 +82,19 @@
    "top": false
   },
   {
-   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-   "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-   "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
-   "time": "2026-10-23T22:54:57+00:00",
-   "cat": "biz",
+   "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
+   "desc": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
+   "link": "https://www.bbc.com/news/articles/c5zjxp1rjne8o",
+   "time": "2026-10-23T23:15:47+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "The artist dropping her debut album after a billion streams",
+   "desc": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
+   "link": "https://www.bbc.com/news/articles/cwj0leg7ng67o",
+   "time": "2026-10-23T23:08:55+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -32,14 +112,6 @@
    "time": "2026-10-23T22:47:07+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
-   "desc": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/ckrey3ndyyw0o",
-   "time": "2026-10-23T22:21:51+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
@@ -102,16 +174,8 @@
    "desc": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
    "link": "https://www.bbc.com/news/articles/cxj0l193y0l8o",
    "time": "2026-10-23T21:10:47+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-   "desc": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.",
-   "link": "https://www.bbc.com/news/videos/c6x2qdpnn35po",
-   "time": "2026-10-23T21:01:31+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "sci",
+   "top": false
   },
   {
    "title": "Argentina drops investigation into President Milei over crypto fraud",
@@ -135,11 +199,11 @@
    "link": "https://www.bbc.com/news/articles/ck87zlpzny15o",
    "time": "2026-10-23T19:46:30+00:00",
    "cat": "world",
-   "top": false
+   "top": true
   },
   {
    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "desc": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+   "desc": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
    "link": "https://www.bbc.com/news/articles/c6ev38dj1g8zo",
    "time": "2026-10-23T19:42:08+00:00",
    "cat": "world",
@@ -159,7 +223,7 @@
    "link": "https://www.bbc.com/news/articles/c6vgxkvl4w5eo",
    "time": "2026-10-23T19:30:19+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "GP says she was forced out of job after raising concerns about gender treatment",
@@ -167,7 +231,7 @@
    "link": "https://www.bbc.com/news/articles/cr5ynl415j79o",
    "time": "2026-10-23T19:23:10+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
@@ -176,14 +240,6 @@
    "time": "2026-10-23T18:52:17+00:00",
    "cat": "world",
    "top": false
-  },
-  {
-   "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-   "desc": "The Duchess of Sussex issues a statement following reports her estranged father is being investigated over child sex abuse images in the Philippines.",
-   "link": "https://www.bbc.com/news/articles/c6x2wpgejjkjo",
-   "time": "2026-10-23T18:17:06+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Green councillors face Labour deadline to disown Zionism policy",
@@ -218,22 +274,6 @@
    "top": false
   },
   {
-   "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
-   "desc": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
-   "link": "https://www.bbc.com/news/articles/ck3r5798p43eo",
-   "time": "2026-10-23T16:58:14+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Police yet to receive £2m after A66 crash, says commissioner",
-   "desc": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash.",
-   "link": "https://www.bbc.com/news/articles/cwe8lzl0ydy8o",
-   "time": "2026-10-23T16:48:02+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Wales plans to ban steel pylons as government launches consultation",
    "desc": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
    "link": "https://www.bbc.com/news/articles/c9x28dgj2r0go",
@@ -247,7 +287,7 @@
    "link": "https://www.bbc.com/sport/football/articles/ck3r5792en7go",
    "time": "2026-10-23T16:39:03+00:00",
    "cat": "sport",
-   "top": true
+   "top": false
   },
   {
    "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
@@ -271,14 +311,6 @@
    "link": "https://www.bbc.com/news/articles/c6rey3n974g5o",
    "time": "2026-10-23T15:30:47+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Trial set for men accused of synagogue bomb plot",
-   "desc": "The Iranian men are alleged to have identified Heaton Park Synagogue and the Jewish Museum as targets.",
-   "link": "https://www.bbc.com/news/articles/cq62y3n1jj8mo",
-   "time": "2026-10-23T15:29:10+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -343,7 +375,7 @@
    "link": "https://www.bbc.com/news/articles/ckr5yz2pqqppo",
    "time": "2026-10-23T12:41:10+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "October's full Hunter's Moon to light up night sky this weekend",
@@ -442,14 +474,6 @@
    "top": false
   },
   {
-   "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
-   "desc": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
-   "link": "https://www.bbc.com/news/articles/cq0ld9g9e913o",
-   "time": "2026-10-23T07:49:02+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Lights will stay on this winter, grid operator says after concerns",
    "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
    "link": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
@@ -463,22 +487,6 @@
    "link": "https://www.bbc.com/news/articles/c84g1zxeg9r4o",
    "time": "2026-10-23T05:19:28+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "What books had people turning pages and turning up the volume this year?",
-   "desc": "Thrillers, self-help books and Harry Potter were the big winners for readers from Libraries NI data.",
-   "link": "https://www.bbc.com/news/articles/cqe8rgp8g1k2o",
-   "time": "2026-10-23T05:12:20+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "'Shock' of first England farmer hit by bird flu this season",
-   "desc": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens.",
-   "link": "https://www.bbc.com/news/articles/crpdg235g76no",
-   "time": "2026-10-23T05:10:30+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -570,22 +578,6 @@
    "top": false
   },
   {
-   "title": "Prime Minister swaps dispatch box for Gogglebox",
-   "desc": "Andy Burnham is taking part in a Stand Up To Cancer Gogglebox special with his friend Steve Rotheram.",
-   "link": "https://www.bbc.com/news/articles/cm3wv9ye603xo",
-   "time": "2026-10-22T14:07:49+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Tank barrel production returns to UK after 20 years",
-   "desc": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-   "link": "https://www.bbc.com/news/articles/cm70pj51zdk4o",
-   "time": "2026-10-22T13:45:19+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
    "desc": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
    "link": "https://www.bbc.com/news/articles/cw98z6qlyvg3o",
@@ -610,14 +602,6 @@
    "top": false
   },
   {
-   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-   "desc": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-   "link": "https://www.bbc.com/news/articles/cm4g1zrl2nrqo",
-   "time": "2026-10-21T23:27:05+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Trump's green card curbs test Indian tech workers' American dream",
    "desc": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
    "link": "https://www.bbc.com/news/articles/cqj34j7dk771o",
@@ -638,14 +622,6 @@
    "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
    "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
    "time": "2026-10-21T19:54:57+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-   "desc": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
-   "link": "https://www.bbc.com/news/articles/crz981p0klvgo",
-   "time": "2026-10-21T17:04:13+00:00",
    "cat": "tech",
    "top": false
   }
