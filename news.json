@@ -1,12 +1,124 @@
 {
- "updated": "2026-10-24T13:09:34.401720+00:00",
+ "updated": "2026-10-24T16:49:26.671536+00:00",
  "items": [
   {
    "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
    "desc": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
    "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
-   "time": "2026-10-24T13:08:05+00:00",
+   "time": "2026-10-24T16:45:32+00:00",
    "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
+   "desc": "Keith Brymer Jones and Marj Hogarth are to marry in their chapel home in Pwllheli in May 2027.",
+   "link": "https://www.bbc.com/news/articles/cw30ej25lvypo",
+   "time": "2026-10-24T15:59:18+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+   "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+   "link": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
+   "time": "2026-10-24T15:45:46+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
+   "desc": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
+   "link": "https://www.bbc.com/sport/football/articles/cm93zw44d33do",
+   "time": "2026-10-24T15:40:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "desc": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "link": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
+   "time": "2026-10-24T15:21:44+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Jarman makes British gymnastics history with World floor silver",
+   "desc": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
+   "link": "https://www.bbc.com/sport/gymnastics/videos/c6zxjpv95ey8o",
+   "time": "2026-10-24T15:14:14+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+   "desc": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
+   "link": "https://www.bbc.com/sport/football/articles/c6kg7z700k7jo",
+   "time": "2026-10-24T15:05:45+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+   "desc": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
+   "link": "https://www.bbc.com/sport/football/videos/cw62ylp68m4po",
+   "time": "2026-10-24T15:03:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+   "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+   "link": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
+   "time": "2026-10-24T14:45:30+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Amber weather warning as Storm Boelo hits Scotland",
+   "desc": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
+   "link": "https://www.bbc.com/news/videos/cmqlnkq6p6y7o",
+   "time": "2026-10-24T14:40:18+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
+   "desc": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
+   "link": "https://www.bbc.com/sport/football/videos/cmy0r7epegd4o",
+   "time": "2026-10-24T14:20:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "England crush France 82-0 to stay in World Cup contention",
+   "desc": "England thrash France 82-0 in Perth to keep their World Cup hopes alive but they still need to beat Papua New Guinea on Friday and require Tonga to defeat Samoa next Sunday to reach the semi-finals.",
+   "link": "https://www.bbc.com/sport/rugby-league/videos/c6vg0r05ypyeo",
+   "time": "2026-10-24T14:19:54+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'We had to change after Vegas' - but England suffer another humbling",
+   "desc": "A new-look England side's hopes of getting closer to Australia were dashed as the ruthless defending champions dismantled them at the Women's Rugby League World Cup.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cv5yn9nw17d0o",
+   "time": "2026-10-24T14:02:38+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
+   "desc": "How Aston Villa and Man City players rated following their Premier League match.",
+   "link": "https://www.bbc.com/sport/football/articles/ck4g14j85y9xo",
+   "time": "2026-10-24T13:25:59+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
+   "desc": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c6wyvpz0epywo",
+   "time": "2026-10-24T13:12:45+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -42,44 +154,12 @@
    "top": false
   },
   {
-   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "link": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
-   "time": "2026-10-24T11:23:59+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Poor England suffer another Australia humiliation",
-   "desc": "England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c5y43x20y0wjo",
-   "time": "2026-10-24T11:09:57+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Between quick wins and big dreams lies Burnham's biggest test",
    "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
    "link": "https://www.bbc.com/news/articles/cwq6n09qpy90o",
    "time": "2026-10-24T11:03:57+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-   "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-   "link": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
-   "time": "2026-10-24T11:00:48+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "New British number one Boulter loses Japan semi-final",
-   "desc": "New British number one Katie Boulter loses 6-1 6-4 to Czech doubles specialist Katerina Siniakova in the Japan Open semi-finals.",
-   "link": "https://www.bbc.com/sport/tennis/articles/ck4g15ql8gr8o",
-   "time": "2026-10-24T10:54:58+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "Infantino says he is backed by 'vast majority'",
@@ -95,14 +175,6 @@
    "link": "https://www.bbc.com/news/articles/c9x28dgj2r0go",
    "time": "2026-10-24T10:04:29+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "England thrash France to keep alive World Cup hopes",
-   "desc": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cr93zwx9pzv9o",
-   "time": "2026-10-24T10:01:42+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -130,6 +202,14 @@
    "top": false
   },
   {
+   "title": "Three released without charge after fatal arson attack in Ireland",
+   "desc": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+   "link": "https://www.bbc.com/news/articles/cv0ld9571511o",
+   "time": "2026-10-24T09:38:28+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
    "title": "No panic for England but Mitchell issues PWR warning",
    "desc": "A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible.",
    "link": "https://www.bbc.com/sport/rugby-union/articles/cv0ld9y3g426o",
@@ -143,22 +223,6 @@
    "link": "https://www.bbc.com/news/articles/c83vqn2x54v1o",
    "time": "2026-10-24T08:28:49+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-   "link": "https://www.bbc.com/news/articles/c6vgxkvl4w5eo",
-   "time": "2026-10-24T07:17:44+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Smith v Puello world title fight predictions",
-   "desc": "Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cwe9ldpmeljyo",
-   "time": "2026-10-24T06:35:17+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -178,14 +242,6 @@
    "top": false
   },
   {
-   "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-   "desc": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-   "link": "https://www.bbc.com/news/articles/ck20rery78lro",
-   "time": "2026-10-24T05:31:01+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
    "desc": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
    "link": "https://www.bbc.com/news/articles/c63r5779vyl9o",
@@ -202,14 +258,6 @@
    "top": false
   },
   {
-   "title": "England suffer back-to-back losses to Canada",
-   "desc": "Watch highlights as England were beaten by Canada for the second time in as many weeks, losing 31-22 in their WXV Global Series match in Ottawa, Canada.",
-   "link": "https://www.bbc.com/sport/rugby-union/videos/cmx235877eexo",
-   "time": "2026-10-24T01:53:24+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
    "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
    "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
@@ -223,7 +271,7 @@
    "link": "https://www.bbc.com/news/articles/c3gr84w85glyo",
    "time": "2026-10-24T00:09:12+00:00",
    "cat": "biz",
-   "top": false
+   "top": true
   },
   {
    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -250,18 +298,10 @@
    "top": true
   },
   {
-   "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+   "title": "California considers imposing 'world's first' tax on billionaires",
    "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
    "link": "https://www.bbc.com/news/articles/ck4g1jg4n9dno",
    "time": "2026-10-23T23:11:31+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-   "desc": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
-   "link": "https://www.bbc.com/news/articles/cxyvrged14d0o",
-   "time": "2026-10-23T23:09:16+00:00",
    "cat": "world",
    "top": true
   },
@@ -298,22 +338,6 @@
    "top": false
   },
   {
-   "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
-   "desc": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/ckrey3ndyyw0o",
-   "time": "2026-10-23T22:21:51+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-   "desc": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches.",
-   "link": "https://www.bbc.com/sport/football/videos/c8ly03l6klzpo",
-   "time": "2026-10-23T22:15:29+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
    "desc": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
    "link": "https://www.bbc.com/sport/football/videos/c9ly0dgy2r2eo",
@@ -327,14 +351,6 @@
    "link": "https://www.bbc.com/news/articles/cxj0l193y0l8o",
    "time": "2026-10-23T21:10:47+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Kinsella nails floor routine in all-around final",
-   "desc": "Alice Kinsella completes her return from a year out of gymnastics after giving birth, with a \"brilliant\" floor routine in the women's all-around final at the Artistic Gymnastics World Championships in Rotterdam.",
-   "link": "https://www.bbc.com/sport/gymnastics/videos/c9146vp0jddro",
-   "time": "2026-10-23T20:20:49+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -474,14 +490,6 @@
    "top": false
   },
   {
-   "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-   "desc": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-   "link": "https://www.bbc.com/news/videos/cmzxlgkyl3vpo",
-   "time": "2026-10-23T08:26:47+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "The Indian workers filming their work to train AI",
    "desc": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
    "link": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
@@ -527,14 +535,6 @@
    "link": "https://www.bbc.com/news/articles/c63r5xpezz51o",
    "time": "2026-10-22T23:20:38+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
-   "desc": "The murder in plain sight victim was revealed ahead of another difficult round table.",
-   "link": "https://www.bbc.com/news/articles/cmqxn3133rdwo",
-   "time": "2026-10-22T22:48:44+00:00",
-   "cat": "cul",
    "top": false
   },
   {
