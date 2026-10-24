@@ -1,12 +1,116 @@
 {
- "updated": "2026-10-24T16:49:26.671536+00:00",
+ "updated": "2026-10-24T19:17:46.766689+00:00",
  "items": [
+  {
+   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+   "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+   "link": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
+   "time": "2026-10-24T19:12:51+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "'Best performance since I arrived' - De Zerbi praises Spurs after win",
+   "desc": "Tottenham manager Roberto De Zerbi describes his side's 2-0 victory over Chelsea at Stamford Bridge as \"the best since he arrived at the club\", adding the win was special given it was against their local rivals.",
+   "link": "https://www.bbc.com/sport/football/videos/cqkg5m3lnr5zo",
+   "time": "2026-10-24T19:12:19+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Hayen sacked by Burnley after just 14 games",
+   "desc": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
+   "link": "https://www.bbc.com/sport/football/articles/cm4gv830j73do",
+   "time": "2026-10-24T19:01:03+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Arsenal beat Everton to go level on points with leaders Man City",
+   "desc": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+   "link": "https://www.bbc.com/sport/football/videos/cm79pxqdlwelo",
+   "time": "2026-10-24T18:59:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+   "desc": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park, to secure a fourth successive win in all competitions whilst also ending City's 100% start to the Premier League season.",
+   "link": "https://www.bbc.com/sport/football/videos/c6j47qe970x7o",
+   "time": "2026-10-24T18:59:27+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Bobb's late strike secures Fulham win at Coventry",
+   "desc": "Fulham's Oscar Bobb scores in the 80th minute in their match against Coventry, as the London side earn back-to-back victories in the Premier League.",
+   "link": "https://www.bbc.com/sport/football/videos/cx7vpmrzr04do",
+   "time": "2026-10-24T18:59:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+   "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+   "link": "https://www.bbc.com/news/articles/cmr4ydglq9r3o",
+   "time": "2026-10-24T18:56:46+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
    "desc": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
    "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
-   "time": "2026-10-24T16:45:32+00:00",
+   "time": "2026-10-24T18:26:46+00:00",
    "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+   "desc": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+   "link": "https://www.bbc.com/sport/football/articles/cqwy7x6e672eo",
+   "time": "2026-10-24T18:26:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'A massive storage of images': Arteta has technical area receipts",
+   "desc": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+   "link": "https://www.bbc.com/sport/football/articles/cwgkv8yx4dg8o",
+   "time": "2026-10-24T17:59:48+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Two rescued after Nairobi building collapse with five still missing",
+   "desc": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+   "link": "https://www.bbc.com/news/articles/c317kxyknwp2o",
+   "time": "2026-10-24T17:25:46+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+   "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+   "link": "https://www.bbc.com/news/articles/cqd09k1k7532o",
+   "time": "2026-10-24T17:21:42+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+   "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+   "link": "https://www.bbc.com/news/articles/cm86z5n0yvy6o",
+   "time": "2026-10-24T17:11:56+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+   "desc": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
+   "link": "https://www.bbc.com/sport/football/articles/c6p9gkdzzpnro",
+   "time": "2026-10-24T16:58:27+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -23,7 +127,7 @@
    "link": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
    "time": "2026-10-24T15:45:46+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
@@ -42,14 +146,6 @@
    "top": false
   },
   {
-   "title": "Jarman makes British gymnastics history with World floor silver",
-   "desc": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-   "link": "https://www.bbc.com/sport/gymnastics/videos/c6zxjpv95ey8o",
-   "time": "2026-10-24T15:14:14+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
    "desc": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
    "link": "https://www.bbc.com/sport/football/articles/c6kg7z700k7jo",
@@ -58,59 +154,11 @@
    "top": false
   },
   {
-   "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-   "desc": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
-   "link": "https://www.bbc.com/sport/football/videos/cw62ylp68m4po",
-   "time": "2026-10-24T15:03:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-   "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-   "link": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
-   "time": "2026-10-24T14:45:30+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Amber weather warning as Storm Boelo hits Scotland",
    "desc": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
    "link": "https://www.bbc.com/news/videos/cmqlnkq6p6y7o",
    "time": "2026-10-24T14:40:18+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-   "desc": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-   "link": "https://www.bbc.com/sport/football/videos/cmy0r7epegd4o",
-   "time": "2026-10-24T14:20:04+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "England crush France 82-0 to stay in World Cup contention",
-   "desc": "England thrash France 82-0 in Perth to keep their World Cup hopes alive but they still need to beat Papua New Guinea on Friday and require Tonga to defeat Samoa next Sunday to reach the semi-finals.",
-   "link": "https://www.bbc.com/sport/rugby-league/videos/c6vg0r05ypyeo",
-   "time": "2026-10-24T14:19:54+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'We had to change after Vegas' - but England suffer another humbling",
-   "desc": "A new-look England side's hopes of getting closer to Australia were dashed as the ruthless defending champions dismantled them at the Women's Rugby League World Cup.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cv5yn9nw17d0o",
-   "time": "2026-10-24T14:02:38+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-   "desc": "How Aston Villa and Man City players rated following their Premier League match.",
-   "link": "https://www.bbc.com/sport/football/articles/ck4g14j85y9xo",
-   "time": "2026-10-24T13:25:59+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -162,11 +210,11 @@
    "top": true
   },
   {
-   "title": "Infantino says he is backed by 'vast majority'",
+   "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
    "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
    "link": "https://www.bbc.com/sport/football/articles/c6q8nd9g9n72o",
    "time": "2026-10-24T10:30:08+00:00",
-   "cat": "sport",
+   "cat": "world",
    "top": true
   },
   {
@@ -186,35 +234,11 @@
    "top": false
   },
   {
-   "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-   "desc": "The children were subsequently rescued from the water, police say.",
-   "link": "https://www.bbc.com/news/articles/cm86z5n0yvy6o",
-   "time": "2026-10-24T09:45:47+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-   "desc": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-   "link": "https://www.bbc.com/news/articles/c317kxyknwp2o",
-   "time": "2026-10-24T09:44:01+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Three released without charge after fatal arson attack in Ireland",
    "desc": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
    "link": "https://www.bbc.com/news/articles/cv0ld9571511o",
    "time": "2026-10-24T09:38:28+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "No panic for England but Mitchell issues PWR warning",
-   "desc": "A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cv0ld9y3g426o",
-   "time": "2026-10-24T09:22:07+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -271,7 +295,7 @@
    "link": "https://www.bbc.com/news/articles/c3gr84w85glyo",
    "time": "2026-10-24T00:09:12+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -283,7 +307,7 @@
   },
   {
    "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-   "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+   "desc": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
    "link": "https://www.bbc.com/news/articles/cqr7yeed1ed7o",
    "time": "2026-10-23T23:50:45+00:00",
    "cat": "world",
@@ -359,14 +383,6 @@
    "link": "https://www.bbc.com/news/articles/cr5ynl415j79o",
    "time": "2026-10-23T19:23:10+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Trump administration sues to block certification of upcoming Alaska election",
-   "desc": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-   "link": "https://www.bbc.com/news/articles/c678pv4krx37o",
-   "time": "2026-10-23T18:49:14+00:00",
-   "cat": "world",
    "top": false
   },
   {
