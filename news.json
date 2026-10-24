@@ -1,6 +1,118 @@
 {
- "updated": "2026-10-24T03:47:12.546682+00:00",
+ "updated": "2026-10-24T08:43:25.492582+00:00",
  "items": [
+  {
+   "title": "Weather warnings in place ahead of Storm Boelo",
+   "desc": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
+   "link": "https://www.bbc.com/news/articles/c83vqn2x54v1o",
+   "time": "2026-10-24T08:28:49+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Fastest pitch in World Series history as Brewers win opener",
+   "desc": "The Milwaukee Brewers beat the Tampa Bay Rays 3-2 in the opening game of the best-of-seven World Series as both sides aim for their first title.",
+   "link": "https://www.bbc.com/sport/baseball/articles/cwe8lnp78jgko",
+   "time": "2026-10-24T07:27:31+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "link": "https://www.bbc.com/news/articles/c6vgxkvl4w5eo",
+   "time": "2026-10-24T07:17:44+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Volkanovski nears featherweight immortality as record beckons",
+   "desc": "Alexander Volkanovski will stake his claim to be the greatest featherweight of all time if he beats Movsar Evloev at UFC 333 in Abu Dhabi on Saturday.",
+   "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cq5ynjgkn68vo",
+   "time": "2026-10-24T06:52:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Canada inflict back-to-back losses on England",
+   "desc": "England suffer back-to-back defeats for the first time in a decade as Canada win 31-22 in Ottawa, including a hat-trick for captain Sophie de Goede.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cm79p7x79wl9o",
+   "time": "2026-10-24T06:46:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
+   "desc": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+   "link": "https://www.bbc.com/weather/articles/cv8ez97k0wnlo",
+   "time": "2026-10-24T06:40:39+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Smith v Puello world title fight predictions",
+   "desc": "Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello.",
+   "link": "https://www.bbc.com/sport/boxing/articles/cwe9ldpmeljyo",
+   "time": "2026-10-24T06:35:17+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "France prepares for day of protest a week after nationwide riots",
+   "desc": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+   "link": "https://www.bbc.com/news/articles/cj62yv5k0w4yo",
+   "time": "2026-10-24T06:19:46+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
+   "desc": "Tyrell Malacia opens up on his time at Manchester United after moving to FC Cincinnati to restart his career in Major League Soccer.",
+   "link": "https://www.bbc.com/sport/football/articles/cjx23d4p2v3go",
+   "time": "2026-10-24T06:19:26+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+   "desc": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+   "link": "https://www.bbc.com/sport/football/articles/ck240l3n774zo",
+   "time": "2026-10-24T06:02:44+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "The people on standby when a storm strikes",
+   "desc": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it.",
+   "link": "https://www.bbc.com/news/articles/c6gqwz79ylw4o",
+   "time": "2026-10-24T05:44:22+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/cknv01g9n27do",
+   "time": "2026-10-24T05:41:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+   "desc": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+   "link": "https://www.bbc.com/news/articles/ck20rery78lro",
+   "time": "2026-10-24T05:31:01+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+   "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "link": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
+   "time": "2026-10-24T03:51:25+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "Met investigates reports of letter detailing claims about Meghan's father",
    "desc": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
@@ -18,20 +130,12 @@
    "top": false
   },
   {
-   "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-   "desc": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-   "link": "https://www.bbc.com/weather/articles/cv8ez97k0wnlo",
-   "time": "2026-10-24T02:25:54+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
    "title": "Australian MP's condition improves after alleged car attack",
-   "desc": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+   "desc": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
    "link": "https://www.bbc.com/news/articles/c670pr1ryxyno",
    "time": "2026-10-24T01:55:15+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "England suffer back-to-back losses to Canada",
@@ -46,7 +150,7 @@
    "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
    "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
    "time": "2026-10-24T00:36:47+00:00",
-   "cat": "biz",
+   "cat": "world",
    "top": false
   },
   {
@@ -66,12 +170,20 @@
    "top": true
   },
   {
+   "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+   "desc": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+   "link": "https://www.bbc.com/news/articles/c6x2355448eyo",
+   "time": "2026-10-24T00:05:43+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
    "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
    "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
    "link": "https://www.bbc.com/news/articles/cqr7yeed1ed7o",
    "time": "2026-10-23T23:50:45+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Leclerc fastest from Antonelli in US GP practice",
@@ -87,7 +199,31 @@
    "link": "https://www.bbc.com/news/articles/c5zjxp1rjne8o",
    "time": "2026-10-23T23:15:47+00:00",
    "cat": "cul",
+   "top": true
+  },
+  {
+   "title": "'Best team in the Championship' - Boro lay down marker",
+   "desc": "Middlesbrough thrash Bolton 5-1 to go top of the Championship and confirm their place among the promotion favourites.",
+   "link": "https://www.bbc.com/sport/football/articles/c65ynq95xdw5o",
+   "time": "2026-10-23T23:14:00+00:00",
+   "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+   "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+   "link": "https://www.bbc.com/news/articles/ck4g1jg4n9dno",
+   "time": "2026-10-23T23:11:31+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+   "desc": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+   "link": "https://www.bbc.com/news/articles/cxyvrged14d0o",
+   "time": "2026-10-23T23:09:16+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "The artist dropping her debut album after a billion streams",
@@ -95,6 +231,14 @@
    "link": "https://www.bbc.com/news/articles/cwj0leg7ng67o",
    "time": "2026-10-23T23:08:55+00:00",
    "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+   "desc": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+   "link": "https://www.bbc.com/news/articles/cm1dwz311476o",
+   "time": "2026-10-23T23:08:23+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -106,7 +250,7 @@
    "top": true
   },
   {
-   "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+   "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
    "desc": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
    "link": "https://www.bbc.com/news/articles/crgj9ndwvj9jo",
    "time": "2026-10-23T22:47:07+00:00",
@@ -114,50 +258,10 @@
    "top": true
   },
   {
-   "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-   "desc": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches.",
-   "link": "https://www.bbc.com/sport/football/videos/c8ly03l6klzpo",
-   "time": "2026-10-23T22:15:29+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Impressive Gloucester beat rivals Bath in Prem",
-   "desc": "Gloucester storm to their first win over Bath in the Prem at Kingsholm since April 2022 with a 23-5 victory built on an immense defensive display.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cqe9l3krgjvro",
-   "time": "2026-10-23T22:00:27+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Wade equals Prem try-scoring record as Newcastle beat Sale",
-   "desc": "Christian Wade equals Chris Ashton's Prem try-scoring record with a 101st score as Newcastle post their first league win of their season against Sale.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cqwy7e08jlxpo",
-   "time": "2026-10-23T21:55:47+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
    "desc": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
    "link": "https://www.bbc.com/sport/football/videos/c9ly0dgy2r2eo",
    "time": "2026-10-23T21:54:54+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Littler through as Van Gerwen suffers early Euros exit",
-   "desc": "World champion Luke Littler makes it through to the second round of the European Championship with a win over William O'Connor but Michael van Gerwen is knocked out of the tournament at the first-round stage.",
-   "link": "https://www.bbc.com/sport/darts/articles/c977p3zn6185o",
-   "time": "2026-10-23T21:51:18+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
-   "desc": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
-   "link": "https://www.bbc.com/sport/football/articles/cwn73kzzr8veo",
-   "time": "2026-10-23T21:32:04+00:00",
    "cat": "sport",
    "top": false
   },
@@ -178,36 +282,12 @@
    "top": false
   },
   {
-   "title": "Argentina drops investigation into President Milei over crypto fraud",
-   "desc": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
-   "link": "https://www.bbc.com/news/articles/c64g1eplpvddo",
-   "time": "2026-10-23T20:59:39+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-   "desc": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-   "link": "https://www.bbc.com/news/articles/cx7vpmn6qzmlo",
-   "time": "2026-10-23T20:18:13+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
    "desc": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
    "link": "https://www.bbc.com/news/articles/ck87zlpzny15o",
    "time": "2026-10-23T19:46:30+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "desc": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-   "link": "https://www.bbc.com/news/articles/c6ev38dj1g8zo",
-   "time": "2026-10-23T19:42:08+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
@@ -218,26 +298,18 @@
    "top": false
   },
   {
-   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-   "link": "https://www.bbc.com/news/articles/c6vgxkvl4w5eo",
-   "time": "2026-10-23T19:30:19+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "GP says she was forced out of job after raising concerns about gender treatment",
    "desc": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
    "link": "https://www.bbc.com/news/articles/cr5ynl415j79o",
    "time": "2026-10-23T19:23:10+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
-   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "desc": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-   "link": "https://www.bbc.com/news/articles/cq74pjpmx0e8o",
-   "time": "2026-10-23T18:52:17+00:00",
+   "title": "Trump administration sues to block certification of upcoming Alaska election",
+   "desc": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+   "link": "https://www.bbc.com/news/articles/c678pv4krx37o",
+   "time": "2026-10-23T18:49:14+00:00",
    "cat": "world",
    "top": false
   },
@@ -248,14 +320,6 @@
    "time": "2026-10-23T17:37:14+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "Meghan statement offers answers after years of questions about her relationship with father",
-   "desc": "Today, without exactly using the word, Meghan claimed vindication.",
-   "link": "https://www.bbc.com/news/articles/cm70p9r04r8wo",
-   "time": "2026-10-23T17:27:50+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
@@ -282,14 +346,6 @@
    "top": false
   },
   {
-   "title": "Kompany taken to hospital after collapsing at training",
-   "desc": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
-   "link": "https://www.bbc.com/sport/football/articles/ck3r5792en7go",
-   "time": "2026-10-23T16:39:03+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
    "desc": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
    "link": "https://www.bbc.com/news/articles/cwkgjz3dpyj6o",
@@ -310,7 +366,7 @@
    "desc": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
    "link": "https://www.bbc.com/news/articles/c6rey3n974g5o",
    "time": "2026-10-23T15:30:47+00:00",
-   "cat": "world",
+   "cat": "sci",
    "top": false
   },
   {
@@ -319,38 +375,6 @@
    "link": "https://www.bbc.com/news/articles/c6lykzwjkj1eo",
    "time": "2026-10-23T15:15:13+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Poulter & Hatton leave LIV as exodus continues",
-   "desc": "Englishmen Ian Poulter and Tyrrell Hatton are the latest star names to confirm they are quitting LIV Golf - leaving the breakaway tour's future looking increasingly uncertain.",
-   "link": "https://www.bbc.com/sport/golf/articles/cjp3g4nyv44lo",
-   "time": "2026-10-23T14:41:19+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Weather warnings in place ahead of Storm Boelo",
-   "desc": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
-   "link": "https://www.bbc.com/news/articles/c83vqn2x54v1o",
-   "time": "2026-10-23T14:37:05+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "PSG v Lyon moved as Paris prepares for more protests",
-   "desc": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-   "link": "https://www.bbc.com/sport/football/articles/cw8rz3eyn26po",
-   "time": "2026-10-23T14:18:41+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Arsenal fear Saka could be out for two months",
-   "desc": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
-   "link": "https://www.bbc.com/sport/football/articles/cmwyql6v5q82o",
-   "time": "2026-10-23T14:09:36+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -394,14 +418,6 @@
    "top": false
   },
   {
-   "title": "Denmark to ban mink farming in government U-turn",
-   "desc": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-   "link": "https://www.bbc.com/news/articles/c59vzjm118j1o",
-   "time": "2026-10-23T12:17:45+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
    "desc": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
    "link": "https://www.bbc.com/news/articles/cxnv025d8qpmo",
@@ -415,22 +431,6 @@
    "link": "https://www.bbc.com/news/articles/c6n8dex0zeg9o",
    "time": "2026-10-23T11:48:04+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-   "desc": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
-   "link": "https://www.bbc.com/news/articles/c875p1yy90ryo",
-   "time": "2026-10-23T10:14:37+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-   "desc": "Her husband is currently in isolation but has not developed any symptoms,  Swiss officials say.",
-   "link": "https://www.bbc.com/news/articles/cmwy4wlzqz3zo",
-   "time": "2026-10-23T10:14:33+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -471,6 +471,14 @@
    "link": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
    "time": "2026-10-23T08:04:17+00:00",
    "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+   "desc": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
+   "link": "https://www.bbc.com/news/articles/cq0ld9g9e913o",
+   "time": "2026-10-23T07:49:02+00:00",
+   "cat": "uk",
    "top": false
   },
   {
