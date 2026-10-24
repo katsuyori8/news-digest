@@ -1,28 +1,84 @@
 {
- "updated": "2026-10-24T19:17:46.766689+00:00",
+ "updated": "2026-10-24T21:45:51.021428+00:00",
  "items": [
+  {
+   "title": "Watch: Match of the Day",
+   "desc": "Highlights from five Premier League games, with last season’s top two both in action.",
+   "link": "https://www.bbc.com/iplayer/live/bbcone",
+   "time": "2026-10-25T09:00:00+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Thousands of people gather in support of Drumcree Orangemen",
+   "desc": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather.",
+   "link": "https://www.bbc.com/news/articles/c6eq313dnzzeo",
+   "time": "2026-10-24T21:44:39+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Man Utd not an unmanageable club - Carrick",
+   "desc": "Michael Carrick says it is possible to manage Manchester United effectively as he clings onto his job with Bournemouth visiting Old Trafford on Sunday.",
+   "link": "https://www.bbc.com/sport/football/articles/c9ly0dxxgp7lo",
+   "time": "2026-10-24T21:34:19+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+   "desc": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+   "link": "https://www.bbc.com/sport/football/articles/cqev38dz34vxo",
+   "time": "2026-10-24T21:14:42+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "desc": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+   "link": "https://www.bbc.com/news/articles/c95ynd587ynzo",
+   "time": "2026-10-24T21:09:27+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
+   "desc": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+   "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
+   "time": "2026-10-24T20:46:57+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+   "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+   "link": "https://www.bbc.com/news/articles/cmr4ydglq9r3o",
+   "time": "2026-10-24T20:30:43+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+   "desc": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+   "link": "https://www.bbc.com/news/videos/cm89zqw9lx1do",
+   "time": "2026-10-24T19:37:35+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+   "desc": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+   "link": "https://www.bbc.com/sport/football/videos/ckly0dnqz0r7o",
+   "time": "2026-10-24T19:17:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
    "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
    "link": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
    "time": "2026-10-24T19:12:51+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "'Best performance since I arrived' - De Zerbi praises Spurs after win",
-   "desc": "Tottenham manager Roberto De Zerbi describes his side's 2-0 victory over Chelsea at Stamford Bridge as \"the best since he arrived at the club\", adding the win was special given it was against their local rivals.",
-   "link": "https://www.bbc.com/sport/football/videos/cqkg5m3lnr5zo",
-   "time": "2026-10-24T19:12:19+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Hayen sacked by Burnley after just 14 games",
-   "desc": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-   "link": "https://www.bbc.com/sport/football/articles/cm4gv830j73do",
-   "time": "2026-10-24T19:01:03+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -35,7 +91,7 @@
   },
   {
    "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-   "desc": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park, to secure a fourth successive win in all competitions whilst also ending City's 100% start to the Premier League season.",
+   "desc": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
    "link": "https://www.bbc.com/sport/football/videos/c6j47qe970x7o",
    "time": "2026-10-24T18:59:27+00:00",
    "cat": "sport",
@@ -43,34 +99,18 @@
   },
   {
    "title": "Bobb's late strike secures Fulham win at Coventry",
-   "desc": "Fulham's Oscar Bobb scores in the 80th minute in their match against Coventry, as the London side earn back-to-back victories in the Premier League.",
+   "desc": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
    "link": "https://www.bbc.com/sport/football/videos/cx7vpmrzr04do",
    "time": "2026-10-24T18:59:22+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
-   "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-   "link": "https://www.bbc.com/news/articles/cmr4ydglq9r3o",
-   "time": "2026-10-24T18:56:46+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-   "desc": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-   "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
-   "time": "2026-10-24T18:26:46+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-   "desc": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-   "link": "https://www.bbc.com/sport/football/articles/cqwy7x6e672eo",
-   "time": "2026-10-24T18:26:29+00:00",
-   "cat": "sport",
+   "title": "Murder charge after body found in wheelie bin",
+   "desc": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai.",
+   "link": "https://www.bbc.com/news/articles/c6vg7p3qrpgdo",
+   "time": "2026-10-24T18:20:56+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -82,15 +122,7 @@
    "top": false
   },
   {
-   "title": "Two rescued after Nairobi building collapse with five still missing",
-   "desc": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
-   "link": "https://www.bbc.com/news/articles/c317kxyknwp2o",
-   "time": "2026-10-24T17:25:46+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
    "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
    "link": "https://www.bbc.com/news/articles/cqd09k1k7532o",
    "time": "2026-10-24T17:21:42+00:00",
@@ -104,14 +136,6 @@
    "time": "2026-10-24T17:11:56+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-   "desc": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-   "link": "https://www.bbc.com/sport/football/articles/c6p9gkdzzpnro",
-   "time": "2026-10-24T16:58:27+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
@@ -162,11 +186,27 @@
    "top": false
   },
   {
+   "title": "Habitat destroyed by Cairngorms fire to be restored with government funding",
+   "desc": "The funding will also support habitat, species and river restoration, control of invasive non-native species and deer management across Scotland.",
+   "link": "https://www.bbc.com/news/articles/cmqlnkwnlv6po",
+   "time": "2026-10-24T14:29:47+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
    "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
    "desc": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
    "link": "https://www.bbc.com/sport/rugby-league/articles/c6wyvpz0epywo",
    "time": "2026-10-24T13:12:45+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Reward offered over murder in flat used as brothel",
+   "desc": "Jinming Zhang had been stabbed multiple times before he was found on 9 February 2022.",
+   "link": "https://www.bbc.com/news/articles/c615j787ee82o",
+   "time": "2026-10-24T13:00:13+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -202,18 +242,18 @@
    "top": false
   },
   {
+   "title": "Could Somerset pub be the oldest in England?",
+   "desc": "Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub.",
+   "link": "https://www.bbc.com/news/articles/cm5yn0rv6k90o",
+   "time": "2026-10-24T11:32:46+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
    "title": "Between quick wins and big dreams lies Burnham's biggest test",
    "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
    "link": "https://www.bbc.com/news/articles/cwq6n09qpy90o",
    "time": "2026-10-24T11:03:57+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-   "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-   "link": "https://www.bbc.com/sport/football/articles/c6q8nd9g9n72o",
-   "time": "2026-10-24T10:30:08+00:00",
    "cat": "world",
    "top": true
   },
@@ -250,10 +290,10 @@
    "top": false
   },
   {
-   "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
-   "desc": "Arif Patel \"should not be beyond the reach of the justice system,\" says the PM’s anti-corruption champion.",
-   "link": "https://www.bbc.com/news/articles/cmy83v286571o",
-   "time": "2026-10-24T06:32:35+00:00",
+   "title": "What a spectre - Bond boys bounce around London",
+   "desc": "Are Jack Lowden, Callum Turner and Josh O'Connor shaking, not stirring, through London in a bid to become the next Bond?",
+   "link": "https://www.bbc.com/news/articles/cmde869e8k34o",
+   "time": "2026-10-24T07:04:47+00:00",
    "cat": "uk",
    "top": false
   },
@@ -263,14 +303,6 @@
    "link": "https://www.bbc.com/news/articles/c6gqwz79ylw4o",
    "time": "2026-10-24T05:44:22+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
-   "desc": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
-   "link": "https://www.bbc.com/news/articles/c63r5779vyl9o",
-   "time": "2026-10-24T02:52:10+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -335,7 +367,7 @@
    "link": "https://www.bbc.com/news/articles/cwj0leg7ng67o",
    "time": "2026-10-23T23:08:55+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
@@ -350,7 +382,7 @@
    "desc": "A newly earned special power left one contestant with a big decision to make in Friday's episode.",
    "link": "https://www.bbc.com/news/articles/c6jdmrz00v7lo",
    "time": "2026-10-23T22:52:40+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -375,30 +407,6 @@
    "link": "https://www.bbc.com/news/articles/cxj0l193y0l8o",
    "time": "2026-10-23T21:10:47+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "GP says she was forced out of job after raising concerns about gender treatment",
-   "desc": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
-   "link": "https://www.bbc.com/news/articles/cr5ynl415j79o",
-   "time": "2026-10-23T19:23:10+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Green councillors face Labour deadline to disown Zionism policy",
-   "desc": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote.",
-   "link": "https://www.bbc.com/news/articles/c81dwz4ygz94o",
-   "time": "2026-10-23T17:37:14+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
-   "desc": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field.",
-   "link": "https://www.bbc.com/news/articles/cry4x7n5yje0o",
-   "time": "2026-10-23T17:27:20+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -439,14 +447,6 @@
    "link": "https://www.bbc.com/news/articles/cred3xnj0j0qo",
    "time": "2026-10-23T13:30:32+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Burnham suggests stocking up on tinned food and bottled water",
-   "desc": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
-   "link": "https://www.bbc.com/news/articles/ckr5yz2pqqppo",
-   "time": "2026-10-23T12:41:10+00:00",
-   "cat": "uk",
    "top": false
   },
   {
