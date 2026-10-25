@@ -1,12 +1,100 @@
 {
- "updated": "2026-10-24T21:45:51.021428+00:00",
+ "updated": "2026-10-25T00:03:59.989728+00:00",
  "items": [
   {
-   "title": "Watch: Match of the Day",
-   "desc": "Highlights from five Premier League games, with last season’s top two both in action.",
-   "link": "https://www.bbc.com/iplayer/live/bbcone",
-   "time": "2026-10-25T09:00:00+00:00",
+   "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+   "desc": "Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+   "link": "https://www.bbc.com/news/articles/cxp8g21j4648o",
+   "time": "2026-10-24T23:50:02+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Rosebank: Life on the oil field at the centre of a political storm",
+   "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+   "link": "https://www.bbc.com/news/articles/cqy8ljkle97ro",
+   "time": "2026-10-24T23:15:18+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Why the charts are full of old songs - and so are your playlists",
+   "desc": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+   "link": "https://www.bbc.com/news/articles/c6kg50nnj0x4o",
+   "time": "2026-10-24T23:05:41+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "The bitter row over military service that could shape Israel's future",
+   "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+   "link": "https://www.bbc.com/news/articles/cmvg7w0x742do",
+   "time": "2026-10-24T23:03:21+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+   "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+   "link": "https://www.bbc.com/news/articles/ckzd6gvg1r2jo",
+   "time": "2026-10-24T23:03:09+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+   "desc": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+   "link": "https://www.bbc.com/news/articles/cx62y9j1zyjvo",
+   "time": "2026-10-24T23:02:51+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+   "link": "https://www.bbc.com/news/articles/cqd09k1k7532o",
+   "time": "2026-10-24T23:02:06+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+   "desc": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+   "link": "https://www.bbc.com/news/articles/c65yn97xe7ypo",
+   "time": "2026-10-24T23:00:08+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Antonelli takes US pole on weekend he can win title",
+   "desc": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cqy7lvp7n57lo",
+   "time": "2026-10-24T22:51:51+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+   "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+   "link": "https://www.bbc.com/news/articles/cmr4ydglq9r3o",
+   "time": "2026-10-24T22:44:36+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Watch Match of the Day on iPlayer",
+   "desc": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+   "link": "https://www.bbc.com/iplayer/episode/m0033jlx",
+   "time": "2026-10-24T22:40:55+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
+   "desc": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+   "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
+   "time": "2026-10-24T22:39:52+00:00",
+   "cat": "sci",
    "top": false
   },
   {
@@ -18,8 +106,16 @@
    "top": false
   },
   {
+   "title": "Britain's Smith retains title in split-decision win over Puello",
+   "desc": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+   "link": "https://www.bbc.com/sport/boxing/articles/cqn73k05xjx6o",
+   "time": "2026-10-24T21:44:12+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "Man Utd not an unmanageable club - Carrick",
-   "desc": "Michael Carrick says it is possible to manage Manchester United effectively as he clings onto his job with Bournemouth visiting Old Trafford on Sunday.",
+   "desc": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
    "link": "https://www.bbc.com/sport/football/articles/c9ly0dxxgp7lo",
    "time": "2026-10-24T21:34:19+00:00",
    "cat": "sport",
@@ -39,22 +135,6 @@
    "link": "https://www.bbc.com/news/articles/c95ynd587ynzo",
    "time": "2026-10-24T21:09:27+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
-   "desc": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-   "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
-   "time": "2026-10-24T20:46:57+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-   "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-   "link": "https://www.bbc.com/news/articles/cmr4ydglq9r3o",
-   "time": "2026-10-24T20:30:43+00:00",
-   "cat": "uk",
    "top": true
   },
   {
@@ -114,7 +194,7 @@
    "top": false
   },
   {
-   "title": "'A massive storage of images': Arteta has technical area receipts",
+   "title": "'A massive storage of images' - Arteta has technical area receipts",
    "desc": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
    "link": "https://www.bbc.com/sport/football/articles/cwgkv8yx4dg8o",
    "time": "2026-10-24T17:59:48+00:00",
@@ -122,20 +202,12 @@
    "top": false
   },
   {
-   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-   "link": "https://www.bbc.com/news/articles/cqd09k1k7532o",
-   "time": "2026-10-24T17:21:42+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
    "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
    "link": "https://www.bbc.com/news/articles/cm86z5n0yvy6o",
    "time": "2026-10-24T17:11:56+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
@@ -151,14 +223,6 @@
    "link": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
    "time": "2026-10-24T15:45:46+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-   "desc": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-   "link": "https://www.bbc.com/sport/football/articles/cm93zw44d33do",
-   "time": "2026-10-24T15:40:01+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -290,14 +354,6 @@
    "top": false
   },
   {
-   "title": "What a spectre - Bond boys bounce around London",
-   "desc": "Are Jack Lowden, Callum Turner and Josh O'Connor shaking, not stirring, through London in a bid to become the next Bond?",
-   "link": "https://www.bbc.com/news/articles/cmde869e8k34o",
-   "time": "2026-10-24T07:04:47+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "The people on standby when a storm strikes",
    "desc": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it.",
    "link": "https://www.bbc.com/news/articles/c6gqwz79ylw4o",
@@ -338,28 +394,12 @@
    "top": false
   },
   {
-   "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-   "desc": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
-   "link": "https://www.bbc.com/news/articles/cqr7yeed1ed7o",
-   "time": "2026-10-23T23:50:45+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
    "desc": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
    "link": "https://www.bbc.com/news/articles/c5zjxp1rjne8o",
    "time": "2026-10-23T23:15:47+00:00",
    "cat": "cul",
-   "top": true
-  },
-  {
-   "title": "California considers imposing 'world's first' tax on billionaires",
-   "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-   "link": "https://www.bbc.com/news/articles/ck4g1jg4n9dno",
-   "time": "2026-10-23T23:11:31+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "The artist dropping her debut album after a billion streams",
@@ -391,14 +431,6 @@
    "link": "https://www.bbc.com/news/articles/crgj9ndwvj9jo",
    "time": "2026-10-23T22:47:07+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
-   "desc": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
-   "link": "https://www.bbc.com/sport/football/videos/c9ly0dgy2r2eo",
-   "time": "2026-10-23T21:54:54+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -450,14 +482,6 @@
    "top": false
   },
   {
-   "title": "October's full Hunter's Moon to light up night sky this weekend",
-   "desc": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?",
-   "link": "https://www.bbc.com/weather/articles/cw4g19dll8jlo",
-   "time": "2026-10-23T12:24:20+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
    "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
@@ -490,22 +514,6 @@
    "top": false
   },
   {
-   "title": "Storm Austen hits UK as yellow wind warnings in effect",
-   "desc": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
-   "link": "https://www.bbc.com/weather/articles/cq8ezy256e42o",
-   "time": "2026-10-23T09:30:03+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Call of Duty promises a return to form - but can it compete with GTA?",
-   "desc": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
-   "link": "https://www.bbc.com/news/articles/cm369kkg92x6o",
-   "time": "2026-10-23T08:27:21+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "The Indian workers filming their work to train AI",
    "desc": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
    "link": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
@@ -519,14 +527,6 @@
    "link": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
    "time": "2026-10-23T06:47:10+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Matilda celebrates 15 years as West End success story",
-   "desc": "The musical is seen by more than 12 million people worldwide after starting in Stratford-upon-Avon.",
-   "link": "https://www.bbc.com/news/articles/c84g1zxeg9r4o",
-   "time": "2026-10-23T05:19:28+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -598,14 +598,6 @@
    "desc": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
    "link": "https://www.bbc.com/news/articles/cmx23dwp3qzro",
    "time": "2026-10-22T15:05:47+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "desc": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-   "link": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
-   "time": "2026-10-22T14:28:59+00:00",
    "cat": "biz",
    "top": false
   },
