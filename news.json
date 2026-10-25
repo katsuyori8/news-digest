@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-25T20:31:10.727150+00:00",
+ "updated": "2026-10-25T23:03:07.679239+00:00",
  "items": [
+  {
+   "title": "Watch: Match of the Day",
+   "desc": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
+   "link": "https://www.bbc.com/iplayer/live/bbcone",
+   "time": "2026-10-25T23:46:55+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "link": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
+   "time": "2026-10-25T22:54:57+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+   "desc": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+   "link": "https://www.bbc.com/news/articles/c3n04yxn2yqro",
+   "time": "2026-10-25T22:37:36+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+   "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+   "link": "https://www.bbc.com/news/articles/cxdd8gr1vje0o",
+   "time": "2026-10-25T22:24:16+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Who has made Troy's Premier League team of the week?",
+   "desc": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "link": "https://www.bbc.com/sport/football/articles/c804013klnn0o",
+   "time": "2026-10-25T22:16:14+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Antonelli wins in US but has to wait to secure title",
+   "desc": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cm20w8154wn0o",
+   "time": "2026-10-25T22:13:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Deeply divided Israel braces for pivotal election",
+   "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+   "link": "https://www.bbc.com/news/articles/ckpdgy6pl7xlo",
+   "time": "2026-10-25T22:11:13+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "What have Man Utd changed to turn around WSL form?",
+   "desc": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
+   "link": "https://www.bbc.com/sport/football/articles/cm5ynpjx170zo",
+   "time": "2026-10-25T21:38:59+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+   "desc": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+   "link": "https://www.bbc.com/sport/football/articles/cwm24jk9743yo",
+   "time": "2026-10-25T21:24:21+00:00",
+   "cat": "sport",
+   "top": true
+  },
+  {
+   "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+   "desc": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+   "link": "https://www.bbc.com/news/articles/cmewe8ndn1q4o",
+   "time": "2026-10-25T21:11:43+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+   "desc": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
+   "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
+   "time": "2026-10-25T21:09:58+00:00",
+   "cat": "sci",
+   "top": false
+  },
   {
    "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
    "desc": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
@@ -10,24 +98,8 @@
    "top": false
   },
   {
-   "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
-   "desc": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
-   "link": "https://www.bbc.com/news/articles/cxdd8gr1vje0o",
-   "time": "2026-10-25T20:08:09+00:00",
-   "cat": "sci",
-   "top": true
-  },
-  {
-   "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-   "desc": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-   "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
-   "time": "2026-10-25T20:05:30+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-   "desc": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+   "desc": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
    "link": "https://www.bbc.com/sport/football/videos/cq0mepm1d774o",
    "time": "2026-10-25T20:00:19+00:00",
    "cat": "sport",
@@ -43,7 +115,7 @@
   },
   {
    "title": "Sage continues to struggle as Palace lose at home to Newcastle",
-   "desc": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+   "desc": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
    "link": "https://www.bbc.com/sport/football/videos/c9gkvellmxg1o",
    "time": "2026-10-25T19:59:46+00:00",
    "cat": "sport",
@@ -62,22 +134,6 @@
    "desc": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
    "link": "https://www.bbc.com/sport/football/videos/cj75pv5zp95po",
    "time": "2026-10-25T19:59:07+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Early reports suggest record high turnout in Serbia elections",
-   "desc": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-   "link": "https://www.bbc.com/news/articles/c6jdmj1ej715o",
-   "time": "2026-10-25T19:55:15+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Late own goal gives Liverpool point against London City Lionesses",
-   "desc": "A stoppage time own goal from Jana Fernandez sees Liverpool snatch a point against London City Lionesses, as the two sides draw 2-2 in the Women's Super League.",
-   "link": "https://www.bbc.com/sport/football/videos/cmp3g9ee4e1lo",
-   "time": "2026-10-25T19:54:45+00:00",
    "cat": "sport",
    "top": false
   },
@@ -114,20 +170,12 @@
    "top": true
   },
   {
-   "title": "Pressure grows on Sage as fans turn on Palace boss",
-   "desc": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
-   "link": "https://www.bbc.com/sport/football/articles/c6kg5jmrzd2jo",
-   "time": "2026-10-25T18:36:12+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Long queues after power surge at Stansted Airport",
    "desc": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
    "link": "https://www.bbc.com/news/articles/c64g14481n7qo",
    "time": "2026-10-25T18:35:57+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "Venezuelan opposition leader María Machado returns after months in exile",
@@ -162,22 +210,6 @@
    "top": false
   },
   {
-   "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-   "desc": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-   "link": "https://www.bbc.com/sport/football/videos/cr5ynqy55l68o",
-   "time": "2026-10-25T17:02:59+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Carrick future under major threat - can he survive?",
-   "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-   "link": "https://www.bbc.com/sport/football/articles/crgj9wnpd1lvo",
-   "time": "2026-10-25T16:51:48+00:00",
-   "cat": "sport",
-   "top": true
-  },
-  {
    "title": "England lose to Pakistan after improbable last-wicket stand",
    "desc": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
    "link": "https://www.bbc.com/sport/cricket/articles/cq0mek4de4xno",
@@ -210,27 +242,11 @@
    "top": true
   },
   {
-   "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-   "desc": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-   "link": "https://www.bbc.com/sport/olympics/articles/cmq5ny00gzy0o",
-   "time": "2026-10-25T14:34:33+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Four-year-old girl dies after fall from tower block",
    "desc": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.",
    "link": "https://www.bbc.com/news/articles/cwj34vzrj865o",
    "time": "2026-10-25T14:00:37+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
-   "desc": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.",
-   "link": "https://www.bbc.com/sport/football/articles/cmrlye5w3p79o",
-   "time": "2026-10-25T13:26:13+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -294,7 +310,7 @@
    "desc": "The Geordie singer appears to have lowered ticket prices ahead of his upcoming tour.",
    "link": "https://www.bbc.com/news/articles/c6p3g9kle8pgo",
    "time": "2026-10-25T09:21:25+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -398,38 +414,6 @@
    "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
    "link": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
    "time": "2026-10-24T15:45:46+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "desc": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "link": "https://www.bbc.com/news/articles/cr93zwjw1k4qo",
-   "time": "2026-10-24T15:21:44+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Amber weather warning as Storm Boelo hits Scotland",
-   "desc": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
-   "link": "https://www.bbc.com/news/videos/cmqlnkq6p6y7o",
-   "time": "2026-10-24T14:40:18+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Habitat destroyed by Cairngorms fire to be restored with government funding",
-   "desc": "The funding will also support habitat, species and river restoration, control of invasive non-native species and deer management across Scotland.",
-   "link": "https://www.bbc.com/news/articles/cmqlnkwnlv6po",
-   "time": "2026-10-24T14:29:47+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Reward offered over murder in flat used as brothel",
-   "desc": "Jinming Zhang had been stabbed multiple times before he was found on 9 February 2022.",
-   "link": "https://www.bbc.com/news/articles/c615j787ee82o",
-   "time": "2026-10-24T13:00:13+00:00",
    "cat": "uk",
    "top": false
   },
