@@ -1,37 +1,157 @@
 {
- "updated": "2026-10-25T17:48:16.366885+00:00",
+ "updated": "2026-10-25T20:31:10.727150+00:00",
  "items": [
+  {
+   "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
+   "desc": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
+   "link": "https://www.bbc.com/news/articles/c84g10r00221o",
+   "time": "2026-10-25T20:15:55+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+   "desc": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+   "link": "https://www.bbc.com/news/articles/cxdd8gr1vje0o",
+   "time": "2026-10-25T20:08:09+00:00",
+   "cat": "sci",
+   "top": true
+  },
   {
    "title": "Man killed by falling tree as Storm Boelo batters Scotland",
    "desc": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
    "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
-   "time": "2026-10-25T17:37:35+00:00",
+   "time": "2026-10-25T20:05:30+00:00",
    "cat": "sci",
    "top": false
   },
   {
-   "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
-   "desc": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
-   "link": "https://www.bbc.com/news/articles/cxdd8gr1vje0o",
-   "time": "2026-10-25T17:27:28+00:00",
+   "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+   "desc": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+   "link": "https://www.bbc.com/sport/football/videos/cq0mepm1d774o",
+   "time": "2026-10-25T20:00:19+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+   "desc": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+   "link": "https://www.bbc.com/sport/football/videos/cm3vq1vpv6zno",
+   "time": "2026-10-25T20:00:09+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+   "desc": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+   "link": "https://www.bbc.com/sport/football/videos/c9gkvellmxg1o",
+   "time": "2026-10-25T19:59:46+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Hull draw third consecutive home game after being held by Brentford",
+   "desc": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+   "link": "https://www.bbc.com/sport/football/videos/cmlylkydwl78o",
+   "time": "2026-10-25T19:59:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Sunderland stay bottom after goalless draw with Leeds",
+   "desc": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
+   "link": "https://www.bbc.com/sport/football/videos/cj75pv5zp95po",
+   "time": "2026-10-25T19:59:07+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Early reports suggest record high turnout in Serbia elections",
+   "desc": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+   "link": "https://www.bbc.com/news/articles/c6jdmj1ej715o",
+   "time": "2026-10-25T19:55:15+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Late own goal gives Liverpool point against London City Lionesses",
+   "desc": "A stoppage time own goal from Jana Fernandez sees Liverpool snatch a point against London City Lionesses, as the two sides draw 2-2 in the Women's Super League.",
+   "link": "https://www.bbc.com/sport/football/videos/cmp3g9ee4e1lo",
+   "time": "2026-10-25T19:54:45+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "The aftermath of Storm Boelo across Scotland",
+   "desc": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
+   "link": "https://www.bbc.com/news/videos/cr3wvzl947q7o",
+   "time": "2026-10-25T19:31:36+00:00",
    "cat": "sci",
    "top": false
   },
   {
-   "title": "Smith stars as Quins beat Saracens for first win",
-   "desc": "Marcus Smith sets the tone on his 200th Quins appearance as the Prem's bottom club topple London rivals Saracens 33-15.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/crjwe6j90p9lo",
-   "time": "2026-10-25T17:18:38+00:00",
+   "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+   "desc": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+   "link": "https://www.bbc.com/news/articles/cq1kdlm1ze7do",
+   "time": "2026-10-25T19:14:27+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Travel disruption and power cuts after back-to-back storms",
+   "desc": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
+   "link": "https://www.bbc.com/news/articles/c6n9rzde1n80o",
+   "time": "2026-10-25T18:50:09+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+   "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+   "link": "https://www.bbc.com/news/articles/c60qk44w9wglo",
+   "time": "2026-10-25T18:38:17+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Pressure grows on Sage as fans turn on Palace boss",
+   "desc": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+   "link": "https://www.bbc.com/sport/football/articles/c6kg5jmrzd2jo",
+   "time": "2026-10-25T18:36:12+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Jarman claims historic second silver at Worlds",
-   "desc": "Jake Jarman becomes the first British male gymnast to win two individual medals at the same World Gymnastics Championships as he claims silver in the vault final.",
-   "link": "https://www.bbc.com/sport/gymnastics/articles/cmz7xynx81lwo",
-   "time": "2026-10-25T17:17:04+00:00",
+   "title": "Long queues after power surge at Stansted Airport",
+   "desc": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
+   "link": "https://www.bbc.com/news/articles/c64g14481n7qo",
+   "time": "2026-10-25T18:35:57+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
+   "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "link": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
+   "time": "2026-10-25T18:29:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+   "desc": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+   "link": "https://www.bbc.com/sport/football/articles/cmj47lq7e5e7o",
+   "time": "2026-10-25T18:13:55+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Board of Deputies of British Jews declares Greens to be racist party",
+   "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+   "link": "https://www.bbc.com/news/articles/ckx2qyd17eqvo",
+   "time": "2026-10-25T18:05:17+00:00",
+   "cat": "uk",
+   "top": true
   },
   {
    "title": "When will the weather settle after Storm Boelo?",
@@ -55,7 +175,7 @@
    "link": "https://www.bbc.com/sport/football/articles/crgj9wnpd1lvo",
    "time": "2026-10-25T16:51:48+00:00",
    "cat": "sport",
-   "top": false
+   "top": true
   },
   {
    "title": "England lose to Pakistan after improbable last-wicket stand",
@@ -66,75 +186,11 @@
    "top": false
   },
   {
-   "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "link": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
-   "time": "2026-10-25T16:21:40+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Early reports suggest record high turnout in Serbia elections",
-   "desc": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-   "link": "https://www.bbc.com/news/articles/c6jdmj1ej715o",
-   "time": "2026-10-25T16:05:15+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-   "desc": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-   "link": "https://www.bbc.com/sport/football/articles/c9ly0mz745dno",
-   "time": "2026-10-25T16:04:13+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Travel disruption and power cuts after back-to-back storms",
-   "desc": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
-   "link": "https://www.bbc.com/news/articles/c6n9rzde1n80o",
-   "time": "2026-10-25T15:58:33+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-   "desc": "How Liverpool and Brighton's players rated following their Premier League match.",
-   "link": "https://www.bbc.com/sport/football/articles/crwyd857p00yo",
-   "time": "2026-10-25T15:58:26+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Australia survive scare to beat Fiji and reach World Cup semi-finals",
-   "desc": "Defending champions Australia survive a scare to come from behind and beat Fiji 36-22 in their second pool match at the Rugby League World Cup; a victory which secures their place in the semi-finals with one pool match to spare.",
-   "link": "https://www.bbc.com/sport/rugby-league/videos/cmy0e9kqplx8o",
-   "time": "2026-10-25T15:53:11+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
    "desc": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
    "link": "https://www.bbc.com/news/articles/c6e3xek2457wo",
    "time": "2026-10-25T15:32:51+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Jarman wins historic second Worlds silver in vault final",
-   "desc": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam.",
-   "link": "https://www.bbc.com/sport/gymnastics/videos/c574pv1nk0jgo",
-   "time": "2026-10-25T15:25:16+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Flight disruption and thousands without electricity after Storm Boelo",
-   "desc": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
-   "link": "https://www.bbc.com/news/articles/c84g10r00221o",
-   "time": "2026-10-25T15:14:26+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -247,15 +303,7 @@
    "link": "https://www.bbc.com/news/articles/cvx28ljp8n4xo",
    "time": "2026-10-25T09:00:00+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Meghan broke contact with father in letter citing abuse claims",
-   "desc": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
-   "link": "https://www.bbc.com/news/articles/cqzjxg7l19yxo",
-   "time": "2026-10-25T08:05:31+00:00",
-   "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Rosebank: Life on the oil field at the centre of a political storm",
@@ -279,21 +327,13 @@
    "link": "https://www.bbc.com/news/articles/c65yn9p55np2o",
    "time": "2026-10-25T06:00:15+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
    "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
    "link": "https://www.bbc.com/news/articles/c6y93ylpl5p2o",
    "time": "2026-10-25T05:15:52+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-   "desc": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-   "link": "https://www.bbc.com/news/articles/cq1kdlm1ze7do",
-   "time": "2026-10-25T03:20:16+00:00",
    "cat": "world",
    "top": false
   },
@@ -311,7 +351,7 @@
    "link": "https://www.bbc.com/news/articles/c6kg50nnj0x4o",
    "time": "2026-10-24T23:05:41+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
@@ -330,22 +370,6 @@
    "top": false
   },
   {
-   "title": "Should Palmer have been sent off earlier than he was?",
-   "desc": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with the decision and suggesting Palmer was lucky not to receive a straight red for an early incident.",
-   "link": "https://www.bbc.com/sport/football/videos/cmd93enq4z20o",
-   "time": "2026-10-24T22:43:33+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
-   "desc": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City, with Keown describing him as a \"special talent\".",
-   "link": "https://www.bbc.com/sport/football/videos/cmzxj1r8j7p2o",
-   "time": "2026-10-24T22:43:17+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Thousands of people gather in support of Drumcree Orangemen",
    "desc": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather.",
    "link": "https://www.bbc.com/news/articles/c6eq313dnzzeo",
@@ -359,14 +383,6 @@
    "link": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
    "time": "2026-10-24T19:12:51+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Murder charge after body found in wheelie bin",
-   "desc": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai.",
-   "link": "https://www.bbc.com/news/articles/c6vg7p3qrpgdo",
-   "time": "2026-10-24T18:20:56+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -415,14 +431,6 @@
    "link": "https://www.bbc.com/news/articles/c615j787ee82o",
    "time": "2026-10-24T13:00:13+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
-   "desc": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-   "link": "https://www.bbc.com/weather/articles/cv8ez97k0wnlo",
-   "time": "2026-10-24T11:48:58+00:00",
-   "cat": "sci",
    "top": false
   },
   {
