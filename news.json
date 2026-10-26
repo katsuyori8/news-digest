@@ -1,6 +1,230 @@
 {
- "updated": "2026-10-26T07:31:06.053018+00:00",
+ "updated": "2026-10-26T14:55:39.880648+00:00",
  "items": [
+  {
+   "title": "Part of Antarctica named after former BBC science correspondent",
+   "desc": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+   "link": "https://www.bbc.com/news/articles/ckvg7w919x09o",
+   "time": "2026-10-26T14:54:40+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Drivers who killed mum and girl while racing jailed",
+   "desc": "Hardeep Bhachu and Jasskamal Riyat are warned of the 'irreversible' consequences of their actions.",
+   "link": "https://www.bbc.com/news/articles/cqy0r3n17gjyo",
+   "time": "2026-10-26T14:53:24+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "link": "https://www.bbc.com/news/articles/cq398p1wd1evo",
+   "time": "2026-10-26T14:41:45+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "link": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
+   "time": "2026-10-26T14:34:52+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+   "desc": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+   "link": "https://www.bbc.com/news/articles/crx2dyd24188o",
+   "time": "2026-10-26T14:27:32+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Ireland prop Furlong cited over alleged groin grab",
+   "desc": "Ireland prop Tadhg Furlong is cited over an alleged groin grab in Leinster's United Rugby Championship win over Munster on Saturday.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cwg5jn7845jdo",
+   "time": "2026-10-26T14:22:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+   "desc": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+   "link": "https://www.bbc.com/news/articles/cq3dje4g4d5jo",
+   "time": "2026-10-26T14:16:09+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "US Marine indicted for murder and robbery of woman in Japan",
+   "desc": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+   "link": "https://www.bbc.com/news/articles/c3vgxjex1z9wo",
+   "time": "2026-10-26T14:13:18+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "'The storm didn't ruin our wedding, it made it'",
+   "desc": "Leigh and Paul Hutchinson unexpectedly had their first dance in the iconic Blackpool Tower ballroom.",
+   "link": "https://www.bbc.com/news/articles/cqvgj83vr2xno",
+   "time": "2026-10-26T14:03:48+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Lula wins fourth term in dramatic Brazil election comeback",
+   "desc": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+   "link": "https://www.bbc.com/news/articles/ckm23y3mg1yyo",
+   "time": "2026-10-26T13:54:21+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Racecourse fined after jockey taken to A&E in horsebox",
+   "desc": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
+   "link": "https://www.bbc.com/sport/horse-racing/articles/c6lykg4l72xlo",
+   "time": "2026-10-26T13:50:26+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Excitement grows for new ACOTAR book",
+   "desc": "Dozens will be gathering at Wolverhampton Arts Centre to celebrate the series' newest release.",
+   "link": "https://www.bbc.com/news/articles/ck4g1vgj6q39o",
+   "time": "2026-10-26T13:40:52+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "desc": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+   "link": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
+   "time": "2026-10-26T13:18:57+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Smotherman beats Ireland's Power in delayed PGA Tour finish",
+   "desc": "Austin Smotherman claims his second PGA Tour title with a Monday play-off victory over Seamus Power at the weather-hit Bermuda Championship.",
+   "link": "https://www.bbc.com/sport/golf/articles/c6x29gmyz21ko",
+   "time": "2026-10-26T13:07:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Burnham leaves door open to referendum on EU free movement",
+   "desc": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
+   "link": "https://www.bbc.com/news/articles/cx240dpzv009o",
+   "time": "2026-10-26T12:20:41+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Borthwick's autumn questions as World Cup looms",
+   "desc": "The upcoming Nations Championship matches present a selection dilemma for Steve Borthwick's England with just nine matches to go until the World Cup.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/ck20wj7znqy8o",
+   "time": "2026-10-26T12:14:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+   "desc": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+   "link": "https://www.bbc.com/news/articles/cqm264jxxnxzo",
+   "time": "2026-10-26T12:00:20+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "What is walking down the newly pedestrianised Oxford Street like?",
+   "desc": "The first phase of the overhaul is expected to be finished by spring 2027.",
+   "link": "https://www.bbc.com/news/videos/c5pvg8y8lk2mo",
+   "time": "2026-10-26T11:50:34+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Consultant doctors in England to strike next month",
+   "desc": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
+   "link": "https://www.bbc.com/news/articles/c69wzxw2pvv0o",
+   "time": "2026-10-26T11:45:48+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Nix's 62-yard touchdown & 'vintage Rodgers' - NFL best plays",
+   "desc": "\"Vintage\" Aaron Rodgers and Bo Nix's 62-yard touchdown feature in the best action from week seven of the NFL.",
+   "link": "https://www.bbc.com/sport/american-football/videos/crp3g25vv4qyo",
+   "time": "2026-10-26T11:30:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Stunning photos capture October's Hunter's Moon around the world",
+   "desc": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
+   "link": "https://www.bbc.com/weather/articles/c6zjxgj83n80o",
+   "time": "2026-10-26T11:27:39+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Storm Boelo clears but more wind and rain bear down on UK",
+   "desc": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.",
+   "link": "https://www.bbc.com/weather/articles/cqwy7w8dryrxo",
+   "time": "2026-10-26T11:21:24+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+   "desc": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+   "link": "https://www.bbc.com/news/articles/c3n04yxn2yqro",
+   "time": "2026-10-26T11:21:04+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+   "desc": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+   "link": "https://www.bbc.com/news/articles/c60rlp8kkz1zo",
+   "time": "2026-10-26T10:48:46+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Healey to shield low-income pensioners from income tax in the Budget",
+   "desc": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+   "link": "https://www.bbc.com/news/articles/ck98zp7zeq65o",
+   "time": "2026-10-26T10:28:12+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
+   "desc": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the  Camp Nou in the first El Clasico of the season.",
+   "link": "https://www.bbc.com/sport/football/videos/crje5zewk52no",
+   "time": "2026-10-26T09:41:25+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Will anyone end Spain's domination of women's Ballon d'Or?",
+   "desc": "Spanish players have dominated the Women's Ballon d'Or for the past five years, so will they be celebrating again on Monday?",
+   "link": "https://www.bbc.com/sport/football/articles/cq5ynp680jm1o",
+   "time": "2026-10-26T09:21:17+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
+   "desc": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.",
+   "link": "https://www.bbc.com/sport/football/articles/cqdr8e81xjy7o",
+   "time": "2026-10-26T07:36:20+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Vikings are last unbeaten team as Chiefs lose - NFL week seven",
    "desc": "The Kansas City Chiefs and San Francisco 49ers lost in week seven of the NFL, leaving the Minnesota Vikings as this season's last unbeaten team.",
@@ -10,12 +234,20 @@
    "top": false
   },
   {
+   "title": "Daughter wins £127k claim for caring for mum at home",
+   "desc": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply sad\".",
+   "link": "https://www.bbc.com/news/articles/cr93zp78g580o",
+   "time": "2026-10-26T06:23:01+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
    "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
    "desc": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
    "link": "https://www.bbc.com/sport/football/articles/cqjdmn0ndxjxo",
    "time": "2026-10-26T06:19:12+00:00",
    "cat": "sport",
-   "top": false
+   "top": true
   },
   {
    "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
@@ -39,7 +271,7 @@
    "link": "https://www.bbc.com/news/articles/c65ynjkrjq4wo",
    "time": "2026-10-26T06:00:04+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Photos show potholes days before fatal crash",
@@ -63,15 +295,15 @@
    "link": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
    "time": "2026-10-26T05:20:19+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
    "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
    "link": "https://www.bbc.com/news/articles/cxdd8gr1vje0o",
    "time": "2026-10-26T04:41:36+00:00",
-   "cat": "uk",
-   "top": true
+   "cat": "sci",
+   "top": false
   },
   {
    "title": "Australian murderer loses bid to eat Vegemite in prison",
@@ -80,14 +312,6 @@
    "time": "2026-10-26T04:05:28+00:00",
    "cat": "world",
    "top": false
-  },
-  {
-   "title": "Watch: How Lula turned it around to beat former president's son",
-   "desc": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
-   "link": "https://www.bbc.com/news/videos/cmp8g0x4l11yo",
-   "time": "2026-10-26T02:53:00+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "What is the Budget and what could be in it?",
@@ -103,31 +327,15 @@
    "link": "https://www.bbc.com/news/articles/c6g7xn8p2n0ro",
    "time": "2026-10-26T01:40:39+00:00",
    "cat": "cul",
-   "top": true
-  },
-  {
-   "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
-   "desc": "Kimi Antonelli's Austin win was \"the best he has delivered\", according to Mercedes boss Toto Wolff, even if it wasn't quite enough to give him the title.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c6wyvnlx0erxo",
-   "time": "2026-10-26T01:24:51+00:00",
-   "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-   "link": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
-   "time": "2026-10-26T01:07:05+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
    "desc": "The economic is positive now but come January things could become trickier for the Labour government",
    "link": "https://www.bbc.com/news/articles/ck87z4ng2l03o",
    "time": "2026-10-26T00:26:49+00:00",
-   "cat": "uk",
-   "top": true
+   "cat": "biz",
+   "top": false
   },
   {
    "title": "From agriculture to AI-griculture: How tech is changing farming",
@@ -138,8 +346,8 @@
    "top": false
   },
   {
-   "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
-   "desc": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+   "title": "A late goal and a knee slide - how Mourinho returned to haunt Barca",
+   "desc": "La Liga's season has switched from predictable to fascinating as Jose Mourinho's El Clasico midas touch continues in the Nou Camp.",
    "link": "https://www.bbc.com/sport/football/articles/cr3wvz20pglqo",
    "time": "2026-10-26T00:07:16+00:00",
    "cat": "sport",
@@ -154,7 +362,7 @@
    "top": false
   },
   {
-   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
    "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
    "link": "https://www.bbc.com/news/articles/cq2e9we7w2ejo",
    "time": "2026-10-25T23:44:34+00:00",
@@ -170,20 +378,12 @@
    "top": false
   },
   {
-   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-   "desc": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-   "link": "https://www.bbc.com/news/articles/c3n04yxn2yqro",
-   "time": "2026-10-25T22:37:36+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
    "title": "Deeply divided Israel braces for pivotal election",
    "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
    "link": "https://www.bbc.com/news/articles/ckpdgy6pl7xlo",
    "time": "2026-10-25T22:11:13+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
@@ -210,54 +410,6 @@
    "top": false
   },
   {
-   "title": "Howe open to Man Utd talks - Monday's gossip",
-   "desc": "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more.",
-   "link": "https://www.bbc.com/sport/football/articles/cq1j3e889rg8o",
-   "time": "2026-10-25T21:09:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-   "desc": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
-   "link": "https://www.bbc.com/sport/football/videos/cq0mepm1d774o",
-   "time": "2026-10-25T20:00:19+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Liverpool earn first league win at Anfield with victory over Brighton",
-   "desc": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
-   "link": "https://www.bbc.com/sport/football/videos/cm3vq1vpv6zno",
-   "time": "2026-10-25T20:00:09+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Sage continues to struggle as Palace lose at home to Newcastle",
-   "desc": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
-   "link": "https://www.bbc.com/sport/football/videos/c9gkvellmxg1o",
-   "time": "2026-10-25T19:59:46+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Hull draw third consecutive home game after being held by Brentford",
-   "desc": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/cmlylkydwl78o",
-   "time": "2026-10-25T19:59:29+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Sunderland stay bottom after goalless draw with Leeds",
-   "desc": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
-   "link": "https://www.bbc.com/sport/football/videos/cj75pv5zp95po",
-   "time": "2026-10-25T19:59:07+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "The aftermath of Storm Boelo across Scotland",
    "desc": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
    "link": "https://www.bbc.com/news/videos/cr3wvzl947q7o",
@@ -274,122 +426,10 @@
    "top": false
   },
   {
-   "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-   "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-   "link": "https://www.bbc.com/news/articles/c60qk44w9wglo",
-   "time": "2026-10-25T18:38:17+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Isak finally living up to price tag as Liverpool patience rewarded",
-   "desc": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
-   "link": "https://www.bbc.com/sport/football/articles/cmj47lq7e5e7o",
-   "time": "2026-10-25T18:13:55+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Board of Deputies of British Jews declares Greens to be racist party",
-   "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-   "link": "https://www.bbc.com/news/articles/ckx2qyd17eqvo",
-   "time": "2026-10-25T18:05:17+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "When will the weather settle after Storm Boelo?",
    "desc": "Gillian Smart has the weather forecast after the worst of Storm Boelo.",
    "link": "https://www.bbc.com/news/videos/cmrlyeekzldpo",
    "time": "2026-10-25T17:04:32+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Body found in search for man who fell overboard from ferry",
-   "desc": "Formal identification is yet to take place but the family of 82-year-old Jim Wither has been informed.",
-   "link": "https://www.bbc.com/news/articles/cm4g1394e3kvo",
-   "time": "2026-10-25T16:14:36+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-   "desc": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-   "link": "https://www.bbc.com/news/articles/c6e3xek2457wo",
-   "time": "2026-10-25T15:32:51+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Dead whale found washed up on beach in storm",
-   "desc": "People are asked to keep away from the juvenile northern bottlenose whale on Flimby beach.",
-   "link": "https://www.bbc.com/news/articles/cmvg7pwdx0vxo",
-   "time": "2026-10-25T14:59:07+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Gabon says access to social media restored after eight-month ban",
-   "desc": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-   "link": "https://www.bbc.com/news/articles/c6x2w0ngejneo",
-   "time": "2026-10-25T14:39:47+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Couple were celebrating anniversary before Bahamas tragedy",
-   "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-   "link": "https://www.bbc.com/news/articles/c623drpx31xzo",
-   "time": "2026-10-25T14:38:51+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-   "desc": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-   "link": "https://www.bbc.com/sport/olympics/articles/cmq5ny00gzy0o",
-   "time": "2026-10-25T14:34:33+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Four-year-old girl dies after fall from tower block",
-   "desc": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.",
-   "link": "https://www.bbc.com/news/articles/cwj34vzrj865o",
-   "time": "2026-10-25T14:00:37+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Police using AI risks making discrimination worse, researchers warn",
-   "desc": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.",
-   "link": "https://www.bbc.com/news/articles/ckpdg4pl7pgvo",
-   "time": "2026-10-25T12:18:56+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "'What was in the Clyde is basically now on the shore'",
-   "desc": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country.",
-   "link": "https://www.bbc.com/news/videos/cmg47e2znpzpo",
-   "time": "2026-10-25T11:42:17+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-   "desc": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-   "link": "https://www.bbc.com/news/articles/c8ly097zw1xwo",
-   "time": "2026-10-25T10:55:33+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "More wet and windy weather to follow stormy weekend",
-   "desc": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week.",
-   "link": "https://www.bbc.com/weather/articles/cwdd858z8ynlo",
-   "time": "2026-10-25T10:16:20+00:00",
    "cat": "sci",
    "top": false
   },
@@ -407,14 +447,6 @@
    "link": "https://www.bbc.com/news/articles/c6p3g9kle8pgo",
    "time": "2026-10-25T09:21:25+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-   "link": "https://www.bbc.com/news/articles/cvx28ljp8n4xo",
-   "time": "2026-10-25T09:00:00+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -442,27 +474,11 @@
    "top": false
   },
   {
-   "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-   "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-   "link": "https://www.bbc.com/news/articles/c6y93ylpl5p2o",
-   "time": "2026-10-25T05:15:52+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Why the charts are full of old songs - and so are your playlists",
    "desc": "The chart is full of old music and classic songs are dominating streaming services. But why?",
    "link": "https://www.bbc.com/news/articles/c6kg50nnj0x4o",
    "time": "2026-10-24T23:05:41+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-   "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-   "link": "https://www.bbc.com/news/articles/c60qk573yzz8o",
-   "time": "2026-10-24T00:36:47+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -478,7 +494,7 @@
    "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
    "link": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
    "time": "2026-10-24T00:05:45+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -530,35 +546,11 @@
    "top": false
   },
   {
-   "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-   "desc": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-   "link": "https://www.bbc.com/news/articles/c6n8dex0zeg9o",
-   "time": "2026-10-23T11:48:04+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Final James Bond screen tests to take place this weekend, reports say",
-   "desc": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
-   "link": "https://www.bbc.com/news/articles/c50mep10dek7o",
-   "time": "2026-10-23T09:41:44+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "The Indian workers filming their work to train AI",
    "desc": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
    "link": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
    "time": "2026-10-23T08:04:17+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
-   "desc": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
-   "link": "https://www.bbc.com/news/articles/cw073mj02v72o",
-   "time": "2026-10-23T00:14:08+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -606,14 +598,6 @@
    "desc": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
    "link": "https://www.bbc.com/news/articles/cqj34j7dk771o",
    "time": "2026-10-21T23:06:37+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "desc": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-   "link": "https://www.bbc.com/news/articles/cr93z1e87e0do",
-   "time": "2026-10-21T23:04:03+00:00",
    "cat": "tech",
    "top": false
   }
