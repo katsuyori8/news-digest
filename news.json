@@ -1,19 +1,67 @@
 {
- "updated": "2026-10-25T23:03:07.679239+00:00",
+ "updated": "2026-10-26T01:30:12.557256+00:00",
  "items": [
   {
-   "title": "Watch: Match of the Day",
-   "desc": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
-   "link": "https://www.bbc.com/iplayer/live/bbcone",
-   "time": "2026-10-25T23:46:55+00:00",
+   "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+   "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "link": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
+   "time": "2026-10-26T01:07:05+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+   "desc": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+   "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+   "time": "2026-10-26T00:45:10+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+   "link": "https://www.bbc.com/news/articles/ck87z4ng2l03o",
+   "time": "2026-10-26T00:26:49+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "From agriculture to AI-griculture: How tech is changing farming",
+   "desc": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+   "link": "https://www.bbc.com/news/articles/cw80zk9k51j1o",
+   "time": "2026-10-26T00:13:09+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+   "desc": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+   "link": "https://www.bbc.com/sport/football/articles/cr3wvz20pglqo",
+   "time": "2026-10-26T00:07:16+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-   "link": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
-   "time": "2026-10-25T22:54:57+00:00",
+   "title": "Majority of homes in NI have power restored after Storm Boelo",
+   "desc": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
+   "link": "https://www.bbc.com/news/articles/c84g10r00221o",
+   "time": "2026-10-25T23:53:04+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "link": "https://www.bbc.com/news/articles/cq2e9we7w2ejo",
+   "time": "2026-10-25T23:44:34+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
+   "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "link": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
+   "time": "2026-10-25T23:33:14+00:00",
    "cat": "world",
    "top": true
   },
@@ -34,14 +82,6 @@
    "top": true
   },
   {
-   "title": "Who has made Troy's Premier League team of the week?",
-   "desc": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "link": "https://www.bbc.com/sport/football/articles/c804013klnn0o",
-   "time": "2026-10-25T22:16:14+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Antonelli wins in US but has to wait to secure title",
    "desc": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
    "link": "https://www.bbc.com/sport/formula1/articles/cm20w8154wn0o",
@@ -58,6 +98,14 @@
    "top": true
   },
   {
+   "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+   "desc": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+   "link": "https://www.bbc.com/news/articles/cw33xpl5xl8mo",
+   "time": "2026-10-25T21:58:00+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
    "title": "What have Man Utd changed to turn around WSL form?",
    "desc": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
    "link": "https://www.bbc.com/sport/football/articles/cm5ynpjx170zo",
@@ -71,7 +119,7 @@
    "link": "https://www.bbc.com/sport/football/articles/cwm24jk9743yo",
    "time": "2026-10-25T21:24:21+00:00",
    "cat": "sport",
-   "top": true
+   "top": false
   },
   {
    "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
@@ -86,14 +134,6 @@
    "desc": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
    "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
    "time": "2026-10-25T21:09:58+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-   "desc": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
-   "link": "https://www.bbc.com/news/articles/c84g10r00221o",
-   "time": "2026-10-25T20:15:55+00:00",
    "cat": "sci",
    "top": false
   },
@@ -170,20 +210,20 @@
    "top": true
   },
   {
+   "title": "Pressure grows on Sage as fans turn on Palace boss",
+   "desc": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+   "link": "https://www.bbc.com/sport/football/articles/c6kg5jmrzd2jo",
+   "time": "2026-10-25T18:36:12+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "Long queues after power surge at Stansted Airport",
    "desc": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
    "link": "https://www.bbc.com/news/articles/c64g14481n7qo",
    "time": "2026-10-25T18:35:57+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "link": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
-   "time": "2026-10-25T18:29:00+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Isak finally living up to price tag as Liverpool patience rewarded",
@@ -218,11 +258,27 @@
    "top": false
   },
   {
+   "title": "Body found in search for man who fell overboard from ferry",
+   "desc": "Formal identification is yet to take place but the family of 82-year-old Jim Wither has been informed.",
+   "link": "https://www.bbc.com/news/articles/cm4g1394e3kvo",
+   "time": "2026-10-25T16:14:36+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
    "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
    "desc": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
    "link": "https://www.bbc.com/news/articles/c6e3xek2457wo",
    "time": "2026-10-25T15:32:51+00:00",
    "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Dead whale found washed up on beach in storm",
+   "desc": "People are asked to keep away from the juvenile northern bottlenose whale on Flimby beach.",
+   "link": "https://www.bbc.com/news/articles/cmvg7pwdx0vxo",
+   "time": "2026-10-25T14:59:07+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -239,7 +295,7 @@
    "link": "https://www.bbc.com/news/articles/c623drpx31xzo",
    "time": "2026-10-25T14:38:51+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Four-year-old girl dies after fall from tower block",
@@ -263,7 +319,7 @@
    "link": "https://www.bbc.com/news/articles/c8e36kyk1qx5o",
    "time": "2026-10-25T12:11:23+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "'What was in the Clyde is basically now on the shore'",
@@ -370,30 +426,6 @@
    "top": false
   },
   {
-   "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-   "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-   "link": "https://www.bbc.com/news/articles/ckzd6gvg1r2jo",
-   "time": "2026-10-24T23:03:09+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-   "desc": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
-   "link": "https://www.bbc.com/news/articles/cx62y9j1zyjvo",
-   "time": "2026-10-24T23:02:51+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Thousands of people gather in support of Drumcree Orangemen",
-   "desc": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather.",
-   "link": "https://www.bbc.com/news/articles/c6eq313dnzzeo",
-   "time": "2026-10-24T21:44:39+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
    "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
    "link": "https://www.bbc.com/news/articles/cm1dwzvn6227o",
@@ -407,14 +439,6 @@
    "link": "https://www.bbc.com/news/articles/cw30ej25lvypo",
    "time": "2026-10-24T15:59:18+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-   "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-   "link": "https://www.bbc.com/news/articles/cv98z92ekg9zo",
-   "time": "2026-10-24T15:45:46+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -482,14 +506,6 @@
    "top": false
   },
   {
-   "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "desc": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-   "link": "https://www.bbc.com/news/articles/c6lykzwjkj1eo",
-   "time": "2026-10-23T15:15:13+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
    "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
@@ -527,22 +543,6 @@
    "link": "https://www.bbc.com/news/articles/ckvgyml6pdm9o",
    "time": "2026-10-23T08:04:17+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Lights will stay on this winter, grid operator says after concerns",
-   "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-   "link": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
-   "time": "2026-10-23T06:47:10+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-   "desc": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-   "link": "https://www.bbc.com/news/articles/cmy0ryjx7741o",
-   "time": "2026-10-23T01:38:44+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -622,14 +622,6 @@
    "desc": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "link": "https://www.bbc.com/news/articles/cr93z1e87e0do",
    "time": "2026-10-21T23:04:03+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Websites taken down worldwide as critical cyber-security update issued",
-   "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-   "link": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
-   "time": "2026-10-21T19:54:57+00:00",
    "cat": "tech",
    "top": false
   }
