@@ -1,21 +1,205 @@
 {
- "updated": "2026-10-27T04:50:53.665586+00:00",
+ "updated": "2026-10-27T10:15:05.334691+00:00",
  "items": [
+  {
+   "title": "Israel heads to polls for pivotal election defined by security and democracy",
+   "desc": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+   "link": "https://www.bbc.com/news/articles/c3j47l4kdez4o",
+   "time": "2026-10-27T10:14:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+   "desc": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+   "link": "https://www.bbc.com/news/articles/c6d93gq1xdgno",
+   "time": "2026-10-27T10:10:31+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Two charged with national security offences over RAF Fairford incident",
+   "desc": "One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.",
+   "link": "https://www.bbc.com/news/articles/cqly3v5vz4kko",
+   "time": "2026-10-27T10:04:14+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "UK and EU officials to discuss freedom of movement",
+   "desc": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.",
+   "link": "https://www.bbc.com/news/articles/cmqlngkz0elxo",
+   "time": "2026-10-27T09:55:56+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+   "desc": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+   "link": "https://www.bbc.com/news/articles/c893zwlev2xpo",
+   "time": "2026-10-27T09:37:55+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Quiz: Kane and who else? Name every men's Ballon d'Or winner",
+   "desc": "Do you know every winner since the very first recipient of the Ballon d'Or, way back in 1956?",
+   "link": "https://www.bbc.com/sport/football/articles/cn5q170dnwlo",
+   "time": "2026-10-27T09:31:58+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "desc": "The ceasefire in Oleshky, secured by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+   "link": "https://www.bbc.com/news/articles/ck20wjnv3w0jo",
+   "time": "2026-10-27T09:18:44+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ballon d'Or winner Kane explains how his game has evolved",
+   "desc": "Speaking in August, Harry Kane tells Umir Irfan how he has evolved in recent seasons - leading him to winning the coveted Ballon d'Or.",
+   "link": "https://www.bbc.com/sport/football/videos/cwg7xevnyrjpo",
+   "time": "2026-10-27T08:53:55+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Sir Tom Jones 'truly sorry' as he cancels two shows due to illness",
+   "desc": "Sir Tom has pushed back two concerts in the US on doctor's advice, due to \"a bad case of the flu\".",
+   "link": "https://www.bbc.com/news/articles/c699zj38k9ero",
+   "time": "2026-10-27T08:37:39+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Independent review announced into murder of student Henry Nowak",
+   "desc": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+   "link": "https://www.bbc.com/news/articles/cv70pnw784x7o",
+   "time": "2026-10-27T07:51:57+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'It's massive for England': Harry Kane on his Ballon d'Or win",
+   "desc": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
+   "link": "https://www.bbc.com/news/videos/cm9wznvx1l17o",
+   "time": "2026-10-27T07:22:41+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
+   "desc": "Arsenal's defensive form is testament to the performances of Ezri Konsa, who has stepped up in William Saliba's absence and been given his chance to shine.",
+   "link": "https://www.bbc.com/sport/football/articles/cw5ynr87jdr0o",
+   "time": "2026-10-27T07:22:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+   "desc": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+   "link": "https://www.bbc.com/news/articles/cv62yg0erp8zo",
+   "time": "2026-10-27T07:15:08+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "How much of Antonelli's success is down to his ability? - F1 Q&A",
+   "desc": "BBC F1 correspondent Andrew Benson answers your latest questions after the United States Grand Prix.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cmde8xjl3xpwo",
+   "time": "2026-10-27T07:00:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'Living next door to anti-social behaviour has been hell'",
+   "desc": "Man calls for better support after seven years of anti-social behaviour from neighbours.",
+   "link": "https://www.bbc.com/news/articles/cewr4j0qqwpo",
+   "time": "2026-10-27T06:58:40+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+   "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+   "link": "https://www.bbc.com/news/articles/cmx235r9wr3yo",
+   "time": "2026-10-27T06:48:50+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "New weather warnings as third storm set to hit Scotland",
+   "desc": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+   "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
+   "time": "2026-10-27T06:35:26+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+   "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+   "link": "https://www.bbc.com/news/articles/c5rmy84np001o",
+   "time": "2026-10-27T06:33:11+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Litten and Knowles in for England as O'Neill drops out",
+   "desc": "Jez Litten and Morgan Knowles are brought into the starting line-up for England's must-win Rugby League World Cup match against Papua New Guinea - with Brad O'Neill dropping out.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/crz65e9dng0wo",
+   "time": "2026-10-27T06:31:14+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'A way to escape': Fan excitement as new ACOTAR book hits shelves",
+   "desc": "About 40 fans of A Court of Thorns and Roses series celebrated at a \"lock-in\" event in Carrickfergus.",
+   "link": "https://www.bbc.com/news/articles/crly0z4gpddwo",
+   "time": "2026-10-27T06:21:38+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+   "desc": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?",
+   "link": "https://www.bbc.com/sport/football/articles/ckx2qdxgzzz7o",
+   "time": "2026-10-27T06:20:58+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+   "desc": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+   "link": "https://www.bbc.com/sport/american-football/articles/cm3el5dnpxp2o",
+   "time": "2026-10-27T06:15:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Donald Trump's biggest economic problem looks strangely familiar",
+   "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+   "link": "https://www.bbc.com/news/articles/cwvg0ddz1z77o",
+   "time": "2026-10-27T06:01:11+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Jay-Z to perform at Super Bowl half-time show",
+   "desc": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+   "link": "https://www.bbc.com/news/articles/cq8ezg4364epo",
+   "time": "2026-10-27T05:05:15+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "Meghan to co-host Junior MasterChef Australia",
    "desc": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
    "link": "https://www.bbc.com/news/articles/crgqwg3ll1v1o",
    "time": "2026-10-27T04:43:56+00:00",
-   "cat": "uk",
+   "cat": "world",
    "top": false
-  },
-  {
-   "title": "Sharp rise in sales of essential goods after government call to stock up",
-   "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-   "link": "https://www.bbc.com/news/articles/c5rmy84np001o",
-   "time": "2026-10-27T04:29:52+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
@@ -23,23 +207,7 @@
    "link": "https://www.bbc.com/news/articles/cqm264jxxnxzo",
    "time": "2026-10-27T04:13:56+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Jay-Z to perform at Super Bowl half-time show",
-   "desc": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
-   "link": "https://www.bbc.com/news/articles/cq8ezg4364epo",
-   "time": "2026-10-27T03:10:55+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-   "desc": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
-   "link": "https://www.bbc.com/news/articles/ck20wjnv3w0jo",
-   "time": "2026-10-27T02:58:48+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
@@ -58,26 +226,10 @@
    "top": false
   },
   {
-   "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
-   "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-   "link": "https://www.bbc.com/news/articles/c6d93gq1xdgno",
-   "time": "2026-10-27T01:57:48+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-   "desc": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-   "link": "https://www.bbc.com/news/articles/c893zwlev2xpo",
-   "time": "2026-10-27T01:48:04+00:00",
-   "cat": "biz",
-   "top": true
-  },
-  {
-   "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-   "desc": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
-   "link": "https://www.bbc.com/news/articles/c8vgx3pvdeq1o",
-   "time": "2026-10-27T00:31:11+00:00",
+   "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+   "desc": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+   "link": "https://www.bbc.com/news/articles/cq62yg6rggj0o",
+   "time": "2026-10-27T01:46:38+00:00",
    "cat": "world",
    "top": false
   },
@@ -87,38 +239,6 @@
    "link": "https://www.bbc.com/news/articles/cqkgl82nm43po",
    "time": "2026-10-27T00:11:27+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-   "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-   "link": "https://www.bbc.com/news/articles/cmx235r9wr3yo",
-   "time": "2026-10-27T00:01:00+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "DUP MLA joins Lockhart's call for O'Neill's removal as first minister",
-   "desc": "Diane Forsythe backs Carla Lockhart and says there must be \"profound consequences\" for Sinn Féin.",
-   "link": "https://www.bbc.com/news/articles/cq8jzxgewrvpo",
-   "time": "2026-10-27T00:00:05+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Fighters exploited & forgotten in failing system - Smith",
-   "desc": "Fighters are being \"hurt, exploited or forgotten\" in a failing system, says former boxer Paul Smith, who has criticised a lack of support for athletes.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cwm24xnxv4zdo",
-   "time": "2026-10-26T23:59:14+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
-   "desc": "Harry Kane's dream of winning the Ballon d'Or came true on Monday, but a few hours earlier organisers prematurely released an article claiming he had clinched the award.",
-   "link": "https://www.bbc.com/sport/football/articles/cmly0g2y7q2zo",
-   "time": "2026-10-26T23:35:27+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -138,22 +258,6 @@
    "top": true
   },
   {
-   "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
-   "desc": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
-   "link": "https://www.bbc.com/news/articles/c317k85r5lglo",
-   "time": "2026-10-26T23:03:14+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "New weather warnings as third storm set to hit Scotland",
-   "desc": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
-   "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
-   "time": "2026-10-26T23:00:14+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Lancashire consider Anderson farewell amid fan unrest",
    "desc": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
    "link": "https://www.bbc.com/sport/cricket/articles/cme8rw2gkd9go",
@@ -170,18 +274,18 @@
    "top": false
   },
   {
+   "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
+   "desc": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.",
+   "link": "https://www.bbc.com/sport/football/articles/cj3vq7l22yk9o",
+   "time": "2026-10-26T21:38:42+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "'Maxxing' selected as Dictionary.com word of the year",
    "desc": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
    "link": "https://www.bbc.com/news/articles/cmy4xwp22xyqo",
    "time": "2026-10-26T21:31:53+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Lula wins fourth term in dramatic Brazil election comeback",
-   "desc": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-   "link": "https://www.bbc.com/news/articles/ckm23y3mg1yyo",
-   "time": "2026-10-26T21:02:47+00:00",
    "cat": "world",
    "top": false
   },
@@ -202,34 +306,10 @@
    "top": false
   },
   {
-   "title": "Ballon d'Or winner Kane's best Bundesliga goals",
-   "desc": "Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.",
-   "link": "https://www.bbc.com/sport/football/videos/cmd93gqn8119o",
-   "time": "2026-10-26T19:29:35+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Trump administration illegally fired James Comey's daughter, judge rules",
    "desc": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
    "link": "https://www.bbc.com/news/articles/ck78px6glw3lo",
    "time": "2026-10-26T19:27:21+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
-   "desc": "Bristol Bears have signed 21-year-old Samoan forward Totoa Auvaa, two weeks after he was sacked by Saracens.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c95yn672rx64o",
-   "time": "2026-10-26T19:03:22+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
-   "desc": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
-   "link": "https://www.bbc.com/news/articles/cjr4y5rq46p2o",
-   "time": "2026-10-26T18:46:19+00:00",
    "cat": "world",
    "top": false
   },
@@ -282,28 +362,12 @@
    "top": false
   },
   {
-   "title": "McDowell becomes latest major champion to exit LIV",
-   "desc": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
-   "link": "https://www.bbc.com/sport/golf/articles/ck78px63l923o",
-   "time": "2026-10-26T17:17:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Army officer killed by reversing Warrior with faulty alarm - inquest",
    "desc": "Second Lt Max George, 26, died during a training exercise on Salisbury Plain, an inquest is told.",
    "link": "https://www.bbc.com/news/articles/c6vgxjedkn5ro",
    "time": "2026-10-26T16:55:02+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "Israel and the US are both going to the polls - the consequences will be global",
-   "desc": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-   "link": "https://www.bbc.com/news/articles/crlykey9jywqo",
-   "time": "2026-10-26T16:30:34+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -314,43 +378,11 @@
    "top": false
   },
   {
-   "title": "Independent review announced into murder of student Henry Nowak",
-   "desc": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
-   "link": "https://www.bbc.com/news/articles/cv70pnw784x7o",
-   "time": "2026-10-26T16:15:16+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Cutting doubles would destroy careers' - angry players urge ATP rethink",
-   "desc": "More than 150 doubles players - including Wimbledon champions and tennis legends - urge the ATP to rethink \"drastic\" cuts which they believe could kill the format.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cr78pxd66d47o",
-   "time": "2026-10-26T16:07:20+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-   "desc": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-   "link": "https://www.bbc.com/news/articles/cw8rz1d286v3o",
-   "time": "2026-10-26T15:46:31+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Drivers who killed mum and girl while racing jailed",
    "desc": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
    "link": "https://www.bbc.com/news/articles/cqy0r3n17gjyo",
    "time": "2026-10-26T15:39:39+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
-   "desc": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
-   "link": "https://www.bbc.com/sport/football/articles/cqdr8zv5dg42o",
-   "time": "2026-10-26T15:34:23+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -394,22 +426,6 @@
    "top": false
   },
   {
-   "title": "US Marine indicted for murder and robbery of woman in Japan",
-   "desc": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-   "link": "https://www.bbc.com/news/articles/c3vgxjex1z9wo",
-   "time": "2026-10-26T14:13:18+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Racecourse fined after jockey taken to A&E in horsebox",
-   "desc": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
-   "link": "https://www.bbc.com/sport/horse-racing/articles/c6lykg4l72xlo",
-   "time": "2026-10-26T13:50:26+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Stunning photos capture October's Hunter's Moon around the world",
    "desc": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
    "link": "https://www.bbc.com/weather/articles/c6zjxgj83n80o",
@@ -426,27 +442,11 @@
    "top": false
   },
   {
-   "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-   "desc": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-   "link": "https://www.bbc.com/news/articles/c60rlp8kkz1zo",
-   "time": "2026-10-26T10:48:46+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Healey to shield low-income pensioners from income tax in the Budget",
    "desc": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
    "link": "https://www.bbc.com/news/articles/ck98zp7zeq65o",
    "time": "2026-10-26T10:28:12+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-   "desc": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-   "link": "https://www.bbc.com/news/articles/cwzd6q630vjeo",
-   "time": "2026-10-26T06:16:15+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -463,14 +463,6 @@
    "link": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
    "time": "2026-10-26T02:16:37+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
-   "desc": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
-   "link": "https://www.bbc.com/news/articles/c6g7xn8p2n0ro",
-   "time": "2026-10-26T01:40:39+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -519,30 +511,6 @@
    "link": "https://www.bbc.com/news/articles/c60qk5lw1z8wo",
    "time": "2026-10-25T21:09:58+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Sam Fender calls out ticket prices ahead of tour",
-   "desc": "The Geordie singer appears to have lowered ticket prices ahead of his upcoming tour.",
-   "link": "https://www.bbc.com/news/articles/c6p3g9kle8pgo",
-   "time": "2026-10-25T09:21:25+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Rosebank: Life on the oil field at the centre of a political storm",
-   "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-   "link": "https://www.bbc.com/news/articles/cqy8ljkle97ro",
-   "time": "2026-10-25T07:15:38+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Will a new code end 'rip-off parking charges'?",
-   "desc": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-   "link": "https://www.bbc.com/news/articles/ckjwe90z56ewo",
-   "time": "2026-10-25T07:05:30+00:00",
-   "cat": "biz",
    "top": false
   },
   {
