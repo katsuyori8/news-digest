@@ -1,6 +1,118 @@
 {
- "updated": "2026-10-26T23:59:47.979890+00:00",
+ "updated": "2026-10-27T04:50:53.665586+00:00",
  "items": [
+  {
+   "title": "Meghan to co-host Junior MasterChef Australia",
+   "desc": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+   "link": "https://www.bbc.com/news/articles/crgqwg3ll1v1o",
+   "time": "2026-10-27T04:43:56+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Sharp rise in sales of essential goods after government call to stock up",
+   "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+   "link": "https://www.bbc.com/news/articles/c5rmy84np001o",
+   "time": "2026-10-27T04:29:52+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+   "desc": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+   "link": "https://www.bbc.com/news/articles/cqm264jxxnxzo",
+   "time": "2026-10-27T04:13:56+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Jay-Z to perform at Super Bowl half-time show",
+   "desc": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+   "link": "https://www.bbc.com/news/articles/cq8ezg4364epo",
+   "time": "2026-10-27T03:10:55+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
+   "desc": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
+   "link": "https://www.bbc.com/news/articles/ck20wjnv3w0jo",
+   "time": "2026-10-27T02:58:48+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+   "desc": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+   "link": "https://www.bbc.com/news/articles/cq8ezg6dy6xlo",
+   "time": "2026-10-27T02:40:17+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Ex-FBI chief James Comey faces federal charges for third time",
+   "desc": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+   "link": "https://www.bbc.com/news/articles/ckly0xqjnlwvo",
+   "time": "2026-10-27T02:01:27+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+   "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+   "link": "https://www.bbc.com/news/articles/c6d93gq1xdgno",
+   "time": "2026-10-27T01:57:48+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+   "desc": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+   "link": "https://www.bbc.com/news/articles/c893zwlev2xpo",
+   "time": "2026-10-27T01:48:04+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+   "desc": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+   "link": "https://www.bbc.com/news/articles/c8vgx3pvdeq1o",
+   "time": "2026-10-27T00:31:11+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
+   "desc": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+   "link": "https://www.bbc.com/news/articles/cqkgl82nm43po",
+   "time": "2026-10-27T00:11:27+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+   "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+   "link": "https://www.bbc.com/news/articles/cmx235r9wr3yo",
+   "time": "2026-10-27T00:01:00+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "DUP MLA joins Lockhart's call for O'Neill's removal as first minister",
+   "desc": "Diane Forsythe backs Carla Lockhart and says there must be \"profound consequences\" for Sinn Féin.",
+   "link": "https://www.bbc.com/news/articles/cq8jzxgewrvpo",
+   "time": "2026-10-27T00:00:05+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Fighters exploited & forgotten in failing system - Smith",
+   "desc": "Fighters are being \"hurt, exploited or forgotten\" in a failing system, says former boxer Paul Smith, who has criticised a lack of support for athletes.",
+   "link": "https://www.bbc.com/sport/boxing/articles/cwm24xnxv4zdo",
+   "time": "2026-10-26T23:59:14+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
    "desc": "Harry Kane's dream of winning the Ballon d'Or came true on Monday, but a few hours earlier organisers prematurely released an article claiming he had clinched the award.",
@@ -22,7 +134,7 @@
    "desc": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
    "link": "https://www.bbc.com/sport/football/articles/cqlye4jpzzxyo",
    "time": "2026-10-26T23:10:59+00:00",
-   "cat": "sport",
+   "cat": "uk",
    "top": true
   },
   {
@@ -30,7 +142,7 @@
    "desc": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
    "link": "https://www.bbc.com/news/articles/c317k85r5lglo",
    "time": "2026-10-26T23:03:14+00:00",
-   "cat": "world",
+   "cat": "uk",
    "top": true
   },
   {
@@ -50,35 +162,11 @@
    "top": false
   },
   {
-   "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-   "desc": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-   "link": "https://www.bbc.com/news/articles/cqm264jxxnxzo",
-   "time": "2026-10-26T22:43:44+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-   "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-   "link": "https://www.bbc.com/news/articles/c6d93gq1xdgno",
-   "time": "2026-10-26T22:30:02+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
    "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
    "desc": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
    "link": "https://www.bbc.com/news/articles/cm0rljq0dzvxo",
    "time": "2026-10-26T22:07:26+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
-   "desc": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-   "link": "https://www.bbc.com/news/articles/cqkgl82nm43po",
-   "time": "2026-10-26T21:53:05+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -103,7 +191,7 @@
    "link": "https://www.bbc.com/news/articles/crwydxw0we8yo",
    "time": "2026-10-26T20:16:45+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
@@ -127,15 +215,7 @@
    "link": "https://www.bbc.com/news/articles/ck78px6glw3lo",
    "time": "2026-10-26T19:27:21+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Heavenly Creatures killer Pauline Parker dies in Orkney, aged 88",
-   "desc": "The death of the convicted murderer in Orkney at the age of 88 brings to an end a 70-year story that inspired an acclaimed film.",
-   "link": "https://www.bbc.com/news/articles/cwj3425g5381o",
-   "time": "2026-10-26T19:11:54+00:00",
-   "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
@@ -143,6 +223,14 @@
    "link": "https://www.bbc.com/sport/rugby-union/articles/c95yn672rx64o",
    "time": "2026-10-26T19:03:22+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+   "desc": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+   "link": "https://www.bbc.com/news/articles/cjr4y5rq46p2o",
+   "time": "2026-10-26T18:46:19+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -191,7 +279,7 @@
    "link": "https://www.bbc.com/news/articles/cx240dpzv009o",
    "time": "2026-10-26T17:50:00+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "McDowell becomes latest major champion to exit LIV",
@@ -202,27 +290,11 @@
    "top": false
   },
   {
-   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-   "desc": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-   "link": "https://www.bbc.com/news/articles/cm4g14n1e5wko",
-   "time": "2026-10-26T17:00:09+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Army officer killed by reversing Warrior with faulty alarm - inquest",
    "desc": "Second Lt Max George, 26, died during a training exercise on Salisbury Plain, an inquest is told.",
    "link": "https://www.bbc.com/news/articles/c6vgxjedkn5ro",
    "time": "2026-10-26T16:55:02+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-   "desc": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
-   "link": "https://www.bbc.com/news/articles/cm4g175dgdx2o",
-   "time": "2026-10-26T16:31:09+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -239,7 +311,7 @@
    "link": "https://www.bbc.com/news/articles/cq398p1wd1evo",
    "time": "2026-10-26T16:27:17+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Independent review announced into murder of student Henry Nowak",
@@ -271,15 +343,7 @@
    "link": "https://www.bbc.com/news/articles/cqy0r3n17gjyo",
    "time": "2026-10-26T15:39:39+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-   "desc": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-   "link": "https://www.bbc.com/news/articles/cwz0vg4v3ndeo",
-   "time": "2026-10-26T15:37:33+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
@@ -294,7 +358,7 @@
    "desc": "Helen Berger said she left her job working for Brand after she became \"sick of him.\"",
    "link": "https://www.bbc.com/news/articles/cwly02l45ny3o",
    "time": "2026-10-26T14:57:11+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -322,19 +386,11 @@
    "top": false
   },
   {
-   "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-   "desc": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-   "link": "https://www.bbc.com/news/articles/crx2dyd24188o",
-   "time": "2026-10-26T14:27:32+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
    "desc": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
    "link": "https://www.bbc.com/news/articles/cq3dje4g4d5jo",
    "time": "2026-10-26T14:16:09+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": false
   },
   {
@@ -351,30 +407,6 @@
    "link": "https://www.bbc.com/sport/horse-racing/articles/c6lykg4l72xlo",
    "time": "2026-10-26T13:50:26+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Excitement grows for new ACOTAR book",
-   "desc": "Dozens will be gathering at Wolverhampton Arts Centre to celebrate the series' newest release.",
-   "link": "https://www.bbc.com/news/articles/ck4g1vgj6q39o",
-   "time": "2026-10-26T13:40:52+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Borthwick's autumn questions as World Cup looms",
-   "desc": "The upcoming Nations Championship matches present a selection dilemma for Steve Borthwick's England with just nine matches to go until the World Cup.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/ck20wj7znqy8o",
-   "time": "2026-10-26T12:14:29+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Consultant doctors in England to strike next month",
-   "desc": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
-   "link": "https://www.bbc.com/news/articles/c69wzxw2pvv0o",
-   "time": "2026-10-26T11:45:48+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -410,27 +442,11 @@
    "top": false
   },
   {
-   "title": "Daughter wins £127k claim for caring for mum at home",
-   "desc": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply sad\".",
-   "link": "https://www.bbc.com/news/articles/cr93zp78g580o",
-   "time": "2026-10-26T06:23:01+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
    "desc": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
    "link": "https://www.bbc.com/news/articles/cwzd6q630vjeo",
    "time": "2026-10-26T06:16:15+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "link": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
-   "time": "2026-10-26T05:20:19+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -506,14 +522,6 @@
    "top": false
   },
   {
-   "title": "Budget to include £1bn for social and affordable housing",
-   "desc": "The move will take funding for the 10-year programme to more than £40bn.",
-   "link": "https://www.bbc.com/news/articles/cqm24j9y9zn7o",
-   "time": "2026-10-25T10:03:17+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Sam Fender calls out ticket prices ahead of tour",
    "desc": "The Geordie singer appears to have lowered ticket prices ahead of his upcoming tour.",
    "link": "https://www.bbc.com/news/articles/c6p3g9kle8pgo",
@@ -543,14 +551,6 @@
    "link": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
    "time": "2026-10-24T00:05:45+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-   "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-   "link": "https://www.bbc.com/news/articles/ck4g1jg4n9dno",
-   "time": "2026-10-23T23:11:31+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -606,14 +606,6 @@
    "desc": "'500 new vulnerabilities' found in government, says AI minister",
    "link": "https://www.bbc.com/news/videos/c6y8lvg2p50po",
    "time": "2026-10-22T10:08:44+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "UK working to identify exposure after global cyber-security warning",
-   "desc": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-   "link": "https://www.bbc.com/news/articles/cmx23d0k57d3o",
-   "time": "2026-10-22T08:23:42+00:00",
    "cat": "tech",
    "top": false
   }
