@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-28T00:17:20.659165+00:00",
+ "updated": "2026-10-28T06:03:42.873569+00:00",
  "items": [
+  {
+   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+   "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+   "link": "https://www.bbc.com/news/articles/cmwyv8ld22z1o",
+   "time": "2026-10-28T04:32:36+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Watch: What happens now after close vote in Israeli election?",
+   "desc": "Polls have closed in the Israeli election, but there is no clear winner.",
+   "link": "https://www.bbc.com/news/videos/cm79p5pxqey2o",
+   "time": "2026-10-28T04:22:59+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "desc": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+   "link": "https://www.bbc.com/news/articles/cwj342k62exyo",
+   "time": "2026-10-28T03:43:38+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Thick fog to create dangerous driving conditions for UK commuters",
+   "desc": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.",
+   "link": "https://www.bbc.com/weather/articles/c6x2wr0dwzx1o",
+   "time": "2026-10-28T03:29:29+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+   "desc": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+   "link": "https://www.bbc.com/news/articles/ckly0xpxp243o",
+   "time": "2026-10-28T02:47:45+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
+   "desc": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
+   "link": "https://www.bbc.com/news/articles/cqr7y3d0dvm5o",
+   "time": "2026-10-28T02:44:50+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "desc": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "link": "https://www.bbc.com/news/articles/cqn498mng08ro",
+   "time": "2026-10-28T02:20:25+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+   "desc": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+   "link": "https://www.bbc.com/news/articles/cq1kdgxw302zo",
+   "time": "2026-10-28T02:09:11+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Suspicious package sent to hotel contained explosive device",
+   "desc": "Police condemn the \"reckless and targeted attack\" after the explosive was sent to a Londonderry hotel.",
+   "link": "https://www.bbc.com/news/articles/c6lykg0nkll0o",
+   "time": "2026-10-28T01:16:25+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'Biggest night in club's history' for fearless Fleetwood",
+   "desc": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
+   "link": "https://www.bbc.com/sport/football/articles/cqgkv2vxeengo",
+   "time": "2026-10-28T00:39:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+   "desc": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+   "link": "https://www.bbc.com/sport/football/articles/cmg47g7dngxlo",
+   "time": "2026-10-28T00:34:31+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
    "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
@@ -26,12 +114,12 @@
    "top": false
   },
   {
-   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-   "desc": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-   "link": "https://www.bbc.com/news/articles/cqn498mng08ro",
-   "time": "2026-10-27T23:41:23+00:00",
-   "cat": "world",
-   "top": true
+   "title": "NI patient living in 'horrific pain' due to UK-wide drugs shortage",
+   "desc": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
+   "link": "https://www.bbc.com/news/articles/cr20w5vx39peo",
+   "time": "2026-10-28T00:01:03+00:00",
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
@@ -50,14 +138,6 @@
    "top": false
   },
   {
-   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-   "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-   "link": "https://www.bbc.com/news/articles/cmwyv8ld22z1o",
-   "time": "2026-10-27T22:34:02+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
    "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
    "desc": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
    "link": "https://www.bbc.com/news/articles/c6y43wkln1k2o",
@@ -71,15 +151,7 @@
    "link": "https://www.bbc.com/news/articles/c6lye1w9p2l8o",
    "time": "2026-10-27T22:11:08+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-   "desc": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-   "link": "https://www.bbc.com/news/articles/ckeq3vezxlx1o",
-   "time": "2026-10-27T21:46:43+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Barcelona fined £503 over approach for Alvarez",
@@ -95,14 +167,6 @@
    "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
    "time": "2026-10-27T21:20:52+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
-   "desc": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.",
-   "link": "https://www.bbc.com/sport/football/articles/ck7vpjqyd4pmo",
-   "time": "2026-10-27T21:10:47+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -135,7 +199,7 @@
    "link": "https://www.bbc.com/news/articles/crwyq90gwg8jo",
    "time": "2026-10-27T19:30:37+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Ballon d'Or in London - the most chaotic ever?",
@@ -183,7 +247,7 @@
    "link": "https://www.bbc.com/news/articles/cqly3v5vz4kko",
    "time": "2026-10-27T18:32:54+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Adventurer completes 400-mile expedition after losing contact with team",
@@ -231,7 +295,7 @@
    "link": "https://www.bbc.com/news/articles/c5m2d83kmkkyo",
    "time": "2026-10-27T17:34:27+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "UK and EU officials to discuss freedom of movement",
@@ -239,14 +303,6 @@
    "link": "https://www.bbc.com/news/articles/cmqlngkz0elxo",
    "time": "2026-10-27T17:20:40+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
-   "desc": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?",
-   "link": "https://www.bbc.com/sport/football/articles/cmj47zzy4778o",
-   "time": "2026-10-27T17:15:11+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -278,7 +334,7 @@
    "desc": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.",
    "link": "https://www.bbc.com/news/articles/cm74p7w4dwpko",
    "time": "2026-10-27T16:46:03+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -327,7 +383,7 @@
    "link": "https://www.bbc.com/news/articles/c6d93gq1xdgno",
    "time": "2026-10-27T15:01:27+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
@@ -351,14 +407,6 @@
    "link": "https://www.bbc.com/news/articles/cv62yg0erp8zo",
    "time": "2026-10-27T13:25:54+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Parents who killed their baby have sentences increased",
-   "desc": "Klevi Pirjani, 38, and 35-year-old Nivalda Pirjani, murdered their baby, Miguel in 2024.",
-   "link": "https://www.bbc.com/news/articles/cmvgxjjxwl1yo",
-   "time": "2026-10-27T13:24:40+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -442,14 +490,6 @@
    "top": false
   },
   {
-   "title": "Boy who stabbed girl at school was radicalised online, says father",
-   "desc": "A father calls for tighter controls on extreme material after his son's attempted murder conviction.",
-   "link": "https://www.bbc.com/news/articles/cmj6j950ywp1o",
-   "time": "2026-10-27T05:33:25+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Jay-Z to perform at Super Bowl half-time show",
    "desc": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
    "link": "https://www.bbc.com/news/articles/cq8ezg4364epo",
@@ -526,7 +566,7 @@
    "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
    "link": "https://www.bbc.com/news/articles/cq398p1wd1evo",
    "time": "2026-10-26T16:27:17+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
