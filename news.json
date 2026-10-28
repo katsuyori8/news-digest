@@ -1,40 +1,136 @@
 {
- "updated": "2026-10-27T20:34:52.094032+00:00",
+ "updated": "2026-10-28T00:17:20.659165+00:00",
  "items": [
   {
-   "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-   "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-   "link": "https://www.bbc.com/sport/football/articles/cmqlngxw6lv3o",
-   "time": "2026-10-27T20:26:31+00:00",
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "link": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
+   "time": "2026-10-28T00:03:10+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+   "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+   "link": "https://www.bbc.com/news/articles/cmx235r9wr3yo",
+   "time": "2026-10-28T00:03:05+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+   "link": "https://www.bbc.com/news/articles/ck1exgejq3xvo",
+   "time": "2026-10-28T00:01:10+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "desc": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "link": "https://www.bbc.com/news/articles/cqn498mng08ro",
+   "time": "2026-10-27T23:41:23+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+   "desc": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+   "link": "https://www.bbc.com/sport/football/articles/cq62y7yzjdmzo",
+   "time": "2026-10-27T23:35:11+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-   "link": "https://www.bbc.com/news/articles/c6lye1w9p2l8o",
-   "time": "2026-10-27T20:19:53+00:00",
-   "cat": "world",
-   "top": true
+   "title": "China's families are now supporting more old people than kids",
+   "desc": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+   "link": "https://www.bbc.com/news/articles/cr20wzwyzl1qo",
+   "time": "2026-10-27T23:16:08+00:00",
+   "cat": "biz",
+   "top": false
   },
   {
    "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
    "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
    "link": "https://www.bbc.com/news/articles/cmwyv8ld22z1o",
-   "time": "2026-10-27T20:14:59+00:00",
-   "cat": "world",
+   "time": "2026-10-27T22:34:02+00:00",
+   "cat": "uk",
    "top": true
   },
   {
    "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
    "desc": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
    "link": "https://www.bbc.com/news/articles/c6y43wkln1k2o",
-   "time": "2026-10-27T19:41:05+00:00",
+   "time": "2026-10-27T22:30:09+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+   "link": "https://www.bbc.com/news/articles/c6lye1w9p2l8o",
+   "time": "2026-10-27T22:11:08+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+   "desc": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+   "link": "https://www.bbc.com/news/articles/ckeq3vezxlx1o",
+   "time": "2026-10-27T21:46:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Barcelona fined £503 over approach for Alvarez",
+   "desc": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+   "link": "https://www.bbc.com/sport/football/articles/cmpwg0lqxkd4o",
+   "time": "2026-10-27T21:38:20+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Weather warning lifted as third storm to hit Scotland eases off",
+   "desc": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+   "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
+   "time": "2026-10-27T21:20:52+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
+   "desc": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.",
+   "link": "https://www.bbc.com/sport/football/articles/ck7vpjqyd4pmo",
+   "time": "2026-10-27T21:10:47+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+   "desc": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+   "link": "https://www.bbc.com/news/articles/c6e3xgq11jqlo",
+   "time": "2026-10-27T21:09:12+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Landline switchover could cut people off in emergency, minister warned",
+   "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+   "link": "https://www.bbc.com/news/articles/c6x29g1nlr51o",
+   "time": "2026-10-27T20:54:48+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+   "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+   "link": "https://www.bbc.com/news/articles/cw8rz14k1jvxo",
+   "time": "2026-10-27T20:44:40+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Dutch zookeeper dies after being mauled by leopard",
    "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
    "link": "https://www.bbc.com/news/articles/crwyq90gwg8jo",
    "time": "2026-10-27T19:30:37+00:00",
@@ -66,28 +162,12 @@
    "top": false
   },
   {
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "link": "https://www.bbc.com/news/articles/c6x2zrjl7kjno",
-   "time": "2026-10-27T18:45:56+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
    "desc": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
    "link": "https://www.bbc.com/news/articles/cwz0vg2j442lo",
    "time": "2026-10-27T18:43:41+00:00",
    "cat": "world",
    "top": false
-  },
-  {
-   "title": "Landline switchover could cut people off in emergency, minister warned",
-   "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-   "link": "https://www.bbc.com/news/articles/c6x29g1nlr51o",
-   "time": "2026-10-27T18:40:19+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Controversial Islamic cleric shot dead in northern Nigeria",
@@ -106,12 +186,20 @@
    "top": true
   },
   {
+   "title": "Adventurer completes 400-mile expedition after losing contact with team",
+   "desc": "Ash Dykes is trying to complete six back-to-back expeditions in a variety of extreme environments.",
+   "link": "https://www.bbc.com/news/articles/crq5n7e1jjjzo",
+   "time": "2026-10-27T18:31:07+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
    "title": "Norway and Finland leaders hold rare call with Putin",
    "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
    "link": "https://www.bbc.com/news/articles/c6vgj813mlelo",
    "time": "2026-10-27T18:28:23+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Chancellor to promise £15m to tackle misogyny in Budget",
@@ -119,14 +207,6 @@
    "link": "https://www.bbc.com/news/articles/cme36gez2d3qo",
    "time": "2026-10-27T18:23:09+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Weather warning lifted as third storm to hit Scotland eases off",
-   "desc": "Several thousand properties in the north of Scotland are still without power after days of high winds and heavy rain.",
-   "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
-   "time": "2026-10-27T18:09:24+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -152,14 +232,6 @@
    "time": "2026-10-27T17:34:27+00:00",
    "cat": "uk",
    "top": true
-  },
-  {
-   "title": "Police failings in friends' death on mountain ridge could risk lives, coroner warns",
-   "desc": "Jayden Long and Eddie Hill died after police failed to adequately escalate a dropped 999 call.",
-   "link": "https://www.bbc.com/news/articles/cw20348xyjg2o",
-   "time": "2026-10-27T17:25:29+00:00",
-   "cat": "uk",
-   "top": false
   },
   {
    "title": "UK and EU officials to discuss freedom of movement",
@@ -194,14 +266,6 @@
    "top": false
   },
   {
-   "title": "Captain Xhaka allowed to play for Switzerland again",
-   "desc": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
-   "link": "https://www.bbc.com/sport/football/articles/ck3wvl2ygd77o",
-   "time": "2026-10-27T17:00:58+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
    "desc": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
    "link": "https://www.bbc.com/news/articles/c6j47z0g4nwpo",
@@ -215,22 +279,14 @@
    "link": "https://www.bbc.com/news/articles/cm74p7w4dwpko",
    "time": "2026-10-27T16:46:03+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-   "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-   "link": "https://www.bbc.com/news/articles/cw8rz14k1jvxo",
-   "time": "2026-10-27T16:11:35+00:00",
-   "cat": "world",
    "top": false
   },
   {
-   "title": "West warns of famine risk in Sudan as civil war grinds on",
-   "desc": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-   "link": "https://www.bbc.com/news/articles/cj5ynkk6v3pzo",
-   "time": "2026-10-27T15:41:46+00:00",
-   "cat": "world",
+   "title": "Funeral assault dad arrested after court no-show",
+   "desc": "Gye Worthy is arrested after failing to appear for sentencing over an attack at his son's funeral.",
+   "link": "https://www.bbc.com/news/articles/cqj9k8r00829o",
+   "time": "2026-10-27T16:02:57+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -306,22 +362,6 @@
    "top": false
   },
   {
-   "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-   "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-   "link": "https://www.bbc.com/news/articles/cmx235r9wr3yo",
-   "time": "2026-10-27T13:08:26+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "How 'anti-superstar' Kane defied doubters to become world's best",
-   "desc": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.",
-   "link": "https://www.bbc.com/sport/football/articles/cqvg01jyy84xo",
-   "time": "2026-10-27T12:46:39+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Lawrie, 15, eyes £501,000 live TV win over Littler",
    "desc": "Mitchell Lawrie, 15, one of 24 amateur players taking part in live TV special Beat Luke Littler, has his sights on a £501,000 bullseye should he beat the world darts champion.",
    "link": "https://www.bbc.com/sport/darts/articles/cq33xj8yyd5do",
@@ -350,7 +390,7 @@
    "desc": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday.",
    "link": "https://www.bbc.com/news/articles/cqm264jxxnxzo",
    "time": "2026-10-27T10:30:40+00:00",
-   "cat": "uk",
+   "cat": "sci",
    "top": false
   },
   {
@@ -426,14 +466,6 @@
    "top": false
   },
   {
-   "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-   "desc": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-   "link": "https://www.bbc.com/news/articles/cq8ezg6dy6xlo",
-   "time": "2026-10-27T02:40:17+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
    "desc": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
    "link": "https://www.bbc.com/news/articles/cq62yg6rggj0o",
@@ -506,14 +538,6 @@
    "top": false
   },
   {
-   "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-   "desc": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-   "link": "https://www.bbc.com/news/articles/cq3dje4g4d5jo",
-   "time": "2026-10-26T14:16:09+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Stunning photos capture October's Hunter's Moon around the world",
    "desc": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
    "link": "https://www.bbc.com/weather/articles/c6zjxgj83n80o",
@@ -530,27 +554,11 @@
    "top": false
   },
   {
-   "title": "Healey to shield low-income pensioners from income tax in the Budget",
-   "desc": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-   "link": "https://www.bbc.com/news/articles/ck98zp7zeq65o",
-   "time": "2026-10-26T10:28:12+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-   "desc": "The economic is positive now but come January things could become trickier for the Labour government",
-   "link": "https://www.bbc.com/news/articles/ck87z4ng2l03o",
-   "time": "2026-10-26T00:26:49+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
    "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
    "link": "https://www.bbc.com/news/articles/cq2e9we7w2ejo",
    "time": "2026-10-25T23:44:34+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -606,14 +614,6 @@
    "desc": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
    "link": "https://www.bbc.com/news/articles/cw98z6qlyvg3o",
    "time": "2026-10-22T10:17:26+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "'500 new vulnerabilities' found in government, says AI minister",
-   "desc": "'500 new vulnerabilities' found in government, says AI minister",
-   "link": "https://www.bbc.com/news/videos/c6y8lvg2p50po",
-   "time": "2026-10-22T10:08:44+00:00",
    "cat": "tech",
    "top": false
   }
