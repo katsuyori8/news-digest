@@ -1,20 +1,188 @@
 {
- "updated": "2026-10-28T18:59:21.058999+00:00",
+ "updated": "2026-10-28T23:06:51.867547+00:00",
  "items": [
   {
-   "title": "Five ways the Budget will affect you if you are under 25",
-   "desc": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-   "link": "https://www.bbc.com/news/articles/c60e05yn3w9zo",
-   "time": "2026-10-28T18:55:56+00:00",
+   "title": "Fleetwood to face Everton or Newcastle in last eight",
+   "desc": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
+   "link": "https://www.bbc.com/sport/football/articles/cmp3glnle0wdo",
+   "time": "2026-10-28T22:45:35+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Russo scores hat-trick as Arsenal beat Benfica",
+   "desc": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+   "link": "https://www.bbc.com/sport/football/videos/crd6dzxwlqjlo",
+   "time": "2026-10-28T22:19:57+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+   "link": "https://www.bbc.com/news/articles/c6kglwe4lxwzo",
+   "time": "2026-10-28T22:13:35+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "desc": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+   "link": "https://www.bbc.com/news/articles/cq8jzkpjr28vo",
+   "time": "2026-10-28T22:12:43+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Girl seriously injured in wolf attack at German wildlife park",
+   "desc": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+   "link": "https://www.bbc.com/news/articles/c678prm55gzzo",
+   "time": "2026-10-28T22:08:52+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "King Charles shows off dance moves on second day of Caribbean tour",
+   "desc": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+   "link": "https://www.bbc.com/news/articles/ckzd670vpj09o",
+   "time": "2026-10-28T21:58:27+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "High-speed train crash kills at least 68 people in Spain",
+   "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+   "link": "https://www.bbc.com/news/articles/c6p3g84kjqjlo",
+   "time": "2026-10-28T21:38:54+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Kompany discharged from hospital following collapse",
+   "desc": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board member.",
+   "link": "https://www.bbc.com/sport/football/articles/c678prmye8xvo",
+   "time": "2026-10-28T21:37:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Sancho rejects Getafe - Thursday's gossip",
+   "desc": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+   "link": "https://www.bbc.com/sport/football/articles/ckyvr1q72v84o",
+   "time": "2026-10-28T21:34:36+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+   "desc": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+   "link": "https://www.bbc.com/news/articles/cm9qzd47ng98o",
+   "time": "2026-10-28T21:24:41+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+   "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+   "link": "https://www.bbc.com/news/articles/c6lylxjkkp0vo",
+   "time": "2026-10-28T21:16:30+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Chiefs coach defends decision to sign kicker Tucker",
+   "desc": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+   "link": "https://www.bbc.com/sport/american-football/articles/c9e8l47grpz4o",
+   "time": "2026-10-28T20:55:11+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Chelsea continue unbeaten start with win over Roma",
+   "desc": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
+   "link": "https://www.bbc.com/sport/football/videos/cm17k8x994edo",
+   "time": "2026-10-28T20:36:25+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "link": "https://www.bbc.com/news/articles/cmdx3knq1xexo",
+   "time": "2026-10-28T20:24:39+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "What we now know about the UK economy in four charts",
+   "desc": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+   "link": "https://www.bbc.com/news/articles/c9x28350ly07o",
+   "time": "2026-10-28T20:08:45+00:00",
    "cat": "biz",
    "top": false
   },
   {
-   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-   "desc": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-   "link": "https://www.bbc.com/news/articles/c6kglwe4lxwzo",
-   "time": "2026-10-28T18:42:45+00:00",
-   "cat": "world",
+   "title": "What the Budget offers for under 25s - and what it leaves out",
+   "desc": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+   "link": "https://www.bbc.com/news/articles/c60e05yn3w9zo",
+   "time": "2026-10-28T20:02:38+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Sesko ruled out until January with shin injury",
+   "desc": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+   "link": "https://www.bbc.com/sport/football/articles/cq33xl50vyj2o",
+   "time": "2026-10-28T19:57:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Djokovic celebrates 'big win' on return to Basel",
+   "desc": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cmd93vlz4k11o",
+   "time": "2026-10-28T19:51:14+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+   "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+   "link": "https://www.bbc.com/news/articles/cqe9l4px0yzxo",
+   "time": "2026-10-28T19:51:01+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
+   "link": "https://www.bbc.com/news/articles/c63djl148n3eo",
+   "time": "2026-10-28T19:15:58+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Healey tells departments to make 1% cuts to fund defence",
+   "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+   "link": "https://www.bbc.com/news/articles/c65ynl0px107o",
+   "time": "2026-10-28T19:01:34+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Red Roses make six changes but Kildunne on bench again",
+   "desc": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cq1m4kn84gk2o",
+   "time": "2026-10-28T19:00:51+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+   "link": "https://www.bbc.com/news/articles/cqpvgxz3y49go",
+   "time": "2026-10-28T18:45:09+00:00",
+   "cat": "uk",
    "top": true
   },
   {
@@ -34,14 +202,6 @@
    "top": false
   },
   {
-   "title": "Burnley appoint ex-Basel boss Celestini as head coach",
-   "desc": "Burnley appoint Fabio Celestini as their head coach, four days after the departure of Nicky Hayen.",
-   "link": "https://www.bbc.com/sport/football/articles/ckzd67v45523o",
-   "time": "2026-10-28T18:16:58+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
    "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
    "link": "https://www.bbc.com/news/articles/clydn7r5pn1o",
@@ -58,20 +218,12 @@
    "top": false
   },
   {
-   "title": "Healey tells departments to make 1% cuts to fund defence",
-   "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-   "link": "https://www.bbc.com/news/articles/c65ynl0px107o",
-   "time": "2026-10-28T17:52:48+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Will I get the £100 energy payment and when will I receive it?",
    "desc": "Here is what you need to know about the payment that millions will receive from January.",
    "link": "https://www.bbc.com/news/articles/c35yn8x748e9o",
    "time": "2026-10-28T17:47:37+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "Russell Brand tells trial sexual consent is 'fundamental'",
@@ -79,7 +231,7 @@
    "link": "https://www.bbc.com/news/articles/cmvgxl5kdgrzo",
    "time": "2026-10-28T17:42:10+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Government minister calls for review of 'unacceptable' BBC Scotland channel closure",
@@ -96,22 +248,6 @@
    "time": "2026-10-28T17:33:41+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-   "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-   "link": "https://www.bbc.com/news/articles/cqe9l4px0yzxo",
-   "time": "2026-10-28T17:32:51+00:00",
-   "cat": "biz",
-   "top": true
-  },
-  {
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-   "link": "https://www.bbc.com/news/articles/cmdx3knq1xexo",
-   "time": "2026-10-28T16:59:47+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Budget 2026: Key points at a glance",
@@ -146,22 +282,6 @@
    "top": false
   },
   {
-   "title": "Davies crossing divide between pitch and boardroom",
-   "desc": "Ben Davies hopes to bridge the gap between those who execute the strategy on the pitch and those who draft it in the boardroom.",
-   "link": "https://www.bbc.com/sport/football/articles/cmx2w477qwjpo",
-   "time": "2026-10-28T16:35:19+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "The main announcements from the Budget - and how they will be funded",
-   "desc": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-   "link": "https://www.bbc.com/news/videos/ck0j06zl28wzo",
-   "time": "2026-10-28T16:12:57+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Perez signs multi-year extension with Cadillac",
    "desc": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
    "link": "https://www.bbc.com/sport/formula1/articles/cqde852ww04ko",
@@ -183,7 +303,7 @@
    "link": "https://www.bbc.com/news/articles/cq2d6z36pp53o",
    "time": "2026-10-28T15:53:16+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Huntingdon train attacker asked man 'do you want to die?', trial hears",
@@ -191,22 +311,6 @@
    "link": "https://www.bbc.com/news/articles/c98rz185z4nno",
    "time": "2026-10-28T15:52:14+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "What we know about the crash so far",
-   "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-   "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-   "time": "2026-10-28T15:36:11+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-   "desc": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-   "link": "https://www.bbc.com/sport/football/articles/cky831qxdzydo",
-   "time": "2026-10-28T15:34:02+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -234,67 +338,11 @@
    "top": false
   },
   {
-   "title": "All Spanish cup matches suspended after Madrid train collision",
-   "desc": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.",
-   "link": "https://www.bbc.com/sport/football/articles/crgj902p68gno",
-   "time": "2026-10-28T13:25:48+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Patient living in 'horrific pain' due to UK-wide drugs shortage",
-   "desc": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
-   "link": "https://www.bbc.com/news/articles/cr20w5vx39peo",
-   "time": "2026-10-28T12:39:42+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-   "desc": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-   "link": "https://www.bbc.com/sport/football/articles/cm369r0n0zk5o",
-   "time": "2026-10-28T12:13:23+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Terminally ill mum who can't talk, walk or dress herself refused Pip payment",
    "desc": "Rachael Field, from Rhondda Cynon Taf, had her tongue and voicebox removed and windpipe reconstructed.",
    "link": "https://www.bbc.com/news/articles/ckqxndjqdddro",
    "time": "2026-10-28T12:07:04+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Arsenal to appeal against Dowman red card",
-   "desc": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-   "link": "https://www.bbc.com/sport/football/articles/c3dxwdnjqj17o",
-   "time": "2026-10-28T11:55:21+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Carrick and Fernandes hold clear-the-air talks",
-   "desc": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-   "link": "https://www.bbc.com/sport/football/articles/cje36dn5nx36o",
-   "time": "2026-10-28T11:48:28+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Serrano to end career in Puerto Rico in January",
-   "desc": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cqn8denld133o",
-   "time": "2026-10-28T11:11:53+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'I earned my spot' - Lewis can be England hero after controversial selection",
-   "desc": "Mikey Lewis knows his selection for England's squad at the 2026 Rugby League World Cup was divisive but he's ready to take his chance in Australia.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c5djv7e49lwmo",
-   "time": "2026-10-28T11:06:27+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -311,7 +359,7 @@
    "link": "https://www.bbc.com/news/articles/cwj342k62exyo",
    "time": "2026-10-28T10:31:22+00:00",
    "cat": "world",
-   "top": false
+   "top": true
   },
   {
    "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
@@ -346,10 +394,10 @@
    "top": false
   },
   {
-   "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-   "desc": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-   "link": "https://www.bbc.com/sport/tennis/articles/crlykgp51ej4o",
-   "time": "2026-10-28T07:14:18+00:00",
+   "title": "Lawlor delighted after beating 'best team in the country'",
+   "desc": "Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.",
+   "link": "https://www.bbc.com/sport/football/videos/cr93z7p02743o",
+   "time": "2026-10-28T07:28:41+00:00",
    "cat": "sport",
    "top": false
   },
@@ -378,14 +426,6 @@
    "top": false
   },
   {
-   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-   "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-   "link": "https://www.bbc.com/news/articles/cmwyv8ld22z1o",
-   "time": "2026-10-28T04:32:36+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Neil Young sues Trump campaign again for playing Rockin' in the Free World at rally",
    "desc": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
    "link": "https://www.bbc.com/news/articles/cqr7y3d0dvm5o",
@@ -399,14 +439,6 @@
    "link": "https://www.bbc.com/news/articles/ck1exgejq3xvo",
    "time": "2026-10-28T00:01:10+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "China's families are now supporting more old people than kids",
-   "desc": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-   "link": "https://www.bbc.com/news/articles/cr20wzwyzl1qo",
-   "time": "2026-10-27T23:16:08+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -426,14 +458,6 @@
    "top": false
   },
   {
-   "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-   "desc": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-   "link": "https://www.bbc.com/news/articles/c6e3xgq11jqlo",
-   "time": "2026-10-27T21:09:12+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Landline switchover could cut people off in emergency, minister warned",
    "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
    "link": "https://www.bbc.com/news/articles/c6x29g1nlr51o",
@@ -442,27 +466,11 @@
    "top": false
   },
   {
-   "title": "Dutch zookeeper dies after being mauled by leopard",
-   "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-   "link": "https://www.bbc.com/news/articles/crwyq90gwg8jo",
-   "time": "2026-10-27T19:30:37+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Adventurer completes 400-mile expedition after losing contact with team",
    "desc": "Ash Dykes is trying to complete six back-to-back expeditions in a variety of extreme environments.",
    "link": "https://www.bbc.com/news/articles/crq5n7e1jjjzo",
    "time": "2026-10-27T18:31:07+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Norway and Finland leaders hold rare call with Putin",
-   "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-   "link": "https://www.bbc.com/news/articles/c6vgj813mlelo",
-   "time": "2026-10-27T18:28:23+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -486,14 +494,6 @@
    "desc": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
    "link": "https://www.bbc.com/news/articles/c6j47z0g4nwpo",
    "time": "2026-10-27T16:59:23+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Russell Brand told police he never had non-consensual sex",
-   "desc": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.",
-   "link": "https://www.bbc.com/news/articles/cm74p7w4dwpko",
-   "time": "2026-10-27T16:46:03+00:00",
    "cat": "cul",
    "top": false
   },
@@ -543,22 +543,6 @@
    "link": "https://www.bbc.com/news/articles/c893zwlev2xpo",
    "time": "2026-10-27T09:37:55+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Donald Trump's biggest economic problem looks strangely familiar",
-   "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-   "link": "https://www.bbc.com/news/articles/cwvg0ddz1z77o",
-   "time": "2026-10-27T06:01:11+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-   "desc": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-   "link": "https://www.bbc.com/news/articles/cq62yg6rggj0o",
-   "time": "2026-10-27T01:46:38+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -662,22 +646,6 @@
    "desc": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
    "link": "https://www.bbc.com/news/articles/cky83vwnyglno",
    "time": "2026-10-22T18:26:56+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Race to update services' computer systems after cyber-security flaw found",
-   "desc": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-   "link": "https://www.bbc.com/news/articles/c9j34zgmkxx1o",
-   "time": "2026-10-22T17:12:51+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-   "desc": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
-   "link": "https://www.bbc.com/news/articles/cw98z6qlyvg3o",
-   "time": "2026-10-22T10:17:26+00:00",
    "cat": "tech",
    "top": false
   }
