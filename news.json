@@ -1,27 +1,131 @@
 {
- "updated": "2026-10-29T16:42:23.458945+00:00",
+ "updated": "2026-10-29T21:36:58.821596+00:00",
  "items": [
   {
    "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
    "desc": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
    "link": "https://www.bbc.com/news/articles/c8vgx0zrpk6no",
-   "time": "2026-10-29T16:26:02+00:00",
+   "time": "2026-10-29T21:31:12+00:00",
    "cat": "world",
    "top": false
   },
   {
-   "title": "Jury shown CCTV of train staff using frying pan in defence",
-   "desc": "Witnesses say Samir Zitouni is a 'real-life hero' who told attacker \"We love you, we can help you\".",
+   "title": "Wall Street's AI fears slash Google value by $500bn",
+   "desc": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+   "time": "2026-10-29T21:29:51+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "What have we learned from first round of Premiership?",
+   "desc": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.",
+   "link": "https://www.bbc.com/sport/football/articles/cwvgd4yegyepo",
+   "time": "2026-10-29T20:53:07+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
+   "desc": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+   "link": "https://www.bbc.com/news/videos/c6vgjeg0myzgo",
+   "time": "2026-10-29T20:50:25+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
+   "desc": "As the King left the Bahamas his spokesman said the islands had \"a special place in the King's heart\".",
+   "link": "https://www.bbc.com/news/articles/c893zev54341o",
+   "time": "2026-10-29T20:35:05+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Cundy's 20-year reign as world champion ends",
+   "desc": "Jody Cundy's 20-year reign as para cycling's C4 kilo time trial world champion was ended by Australian Korey Boddington.",
+   "link": "https://www.bbc.com/sport/cycling/articles/cxj0lv0vzv7do",
+   "time": "2026-10-29T20:27:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Zverev seals world number one spot after win",
+   "desc": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cwdr8m8g4jz2o",
+   "time": "2026-10-29T20:25:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+   "desc": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+   "link": "https://www.bbc.com/news/articles/cye0l23lx15o",
+   "time": "2026-10-29T20:24:59+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+   "desc": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+   "link": "https://www.bbc.com/news/articles/ckdd8qdl9e0eo",
+   "time": "2026-10-29T20:21:54+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+   "desc": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+   "link": "https://www.bbc.com/news/articles/ck1l393pyrylo",
+   "time": "2026-10-29T20:05:57+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "CCTV shows frying pan used to stop train attacker",
+   "desc": "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears.",
    "link": "https://www.bbc.com/news/articles/ckdd8qpdeym4o",
-   "time": "2026-10-29T16:17:09+00:00",
+   "time": "2026-10-29T20:02:27+00:00",
    "cat": "uk",
    "top": true
   },
   {
-   "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
-   "desc": "The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill.",
-   "link": "https://www.bbc.com/news/articles/cwly300mxym3o",
-   "time": "2026-10-29T16:11:24+00:00",
+   "title": "Grealish dropped by Everton after 'breach of club discipline'",
+   "desc": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".",
+   "link": "https://www.bbc.com/sport/football/articles/cmwy4vyl9nplo",
+   "time": "2026-10-29T19:31:36+00:00",
+   "cat": "sport",
+   "top": true
+  },
+  {
+   "title": "Dream win to set up WNBA Finals decider",
+   "desc": "Atlanta Dream deny the Golden State Valkyries their first WNBA Finals victory after an 80-69 win forces the series into a seventh and deciding game on Sunday.",
+   "link": "https://www.bbc.com/sport/basketball/articles/cr4g181v4q4wo",
+   "time": "2026-10-29T19:12:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+   "desc": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+   "link": "https://www.bbc.com/news/articles/cqrky1p4dlm7o",
+   "time": "2026-10-29T19:11:10+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Firefighters celebrate rain during Indonesia wildfires",
+   "desc": "A number of clips show firefighters celebrating in the rain.",
+   "link": "https://www.bbc.com/news/videos/cm93zere04plo",
+   "time": "2026-10-29T18:31:27+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Ex-Top Gear host Richard Hammond's 'brave' new Welsh life wild swimming and running",
+   "desc": "The former Top Gear star bought a 19th Century Georgian mansion near Abergavenny in November 2025.",
+   "link": "https://www.bbc.com/news/articles/c39wznnxyy27o",
+   "time": "2026-10-29T18:29:49+00:00",
    "cat": "uk",
    "top": false
   },
@@ -29,9 +133,81 @@
    "title": "George Michael's Faith guitar sells for £180k after auction row",
    "desc": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
    "link": "https://www.bbc.com/news/articles/cmr4y51gd5yro",
-   "time": "2026-10-29T15:58:05+00:00",
+   "time": "2026-10-29T18:26:42+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Met refers itself to police watchdog over letter about Meghan's father",
+   "desc": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
+   "link": "https://www.bbc.com/news/articles/ck30e91r9z0jo",
+   "time": "2026-10-29T17:58:18+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Lib Dems and Reform UK in war of words over alleged shove",
+   "desc": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\".",
+   "link": "https://www.bbc.com/news/articles/cwg7x3kegymvo",
+   "time": "2026-10-29T17:46:15+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Scottish football could pave way for 3pm TV blackout to end",
+   "desc": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.",
+   "link": "https://www.bbc.com/sport/football/articles/cmgr8l87edyjo",
+   "time": "2026-10-29T17:43:53+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Dowman to miss three matches after appeal rejected",
+   "desc": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+   "link": "https://www.bbc.com/sport/football/articles/c6kgq9qg28dno",
+   "time": "2026-10-29T17:19:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "US interest rates held steady and economy grows - what it means for you",
+   "desc": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+   "link": "https://www.bbc.com/news/articles/cr15jxzv4w24o",
+   "time": "2026-10-29T17:15:05+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Hundreds of GP practices lose online services after collapse of tech firm",
+   "desc": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
+   "link": "https://www.bbc.com/news/articles/cq146562ld3no",
+   "time": "2026-10-29T17:13:40+00:00",
    "cat": "uk",
    "top": true
+  },
+  {
+   "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+   "desc": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+   "link": "https://www.bbc.com/news/articles/cq8ezj7jylrzo",
+   "time": "2026-10-29T17:02:59+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Careless dismissals give Australia route to series win in South Africa",
+   "desc": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cwz0vevng3n0o",
+   "time": "2026-10-29T16:53:40+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Duckett and Dawson deliver in England's consolation win",
+   "desc": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cjg4700703rxo",
+   "time": "2026-10-29T16:37:15+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
@@ -66,22 +242,6 @@
    "top": true
   },
   {
-   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "desc": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-   "link": "https://www.bbc.com/news/articles/cqrky1p4dlm7o",
-   "time": "2026-10-29T15:25:08+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
-   "desc": "From Sunday anyone weighing more than 19st 7Ib (124kg) will be banned from flying to an offshore platform.",
-   "link": "https://www.bbc.com/news/articles/cmpqgx8w0537o",
-   "time": "2026-10-29T15:18:10+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Bereaved families will not face tax bill over pension delays under new rules",
    "desc": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
    "link": "https://www.bbc.com/news/articles/cr5yn9zwnp3qo",
@@ -95,14 +255,6 @@
    "link": "https://www.bbc.com/news/articles/c61wv4ygj5wno",
    "time": "2026-10-29T15:16:29+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-   "desc": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-   "link": "https://www.bbc.com/news/articles/cq8ezj7jylrzo",
-   "time": "2026-10-29T15:14:34+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -127,7 +279,7 @@
    "link": "https://www.bbc.com/news/articles/c3x2w4109pj8o",
    "time": "2026-10-29T14:58:28+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "'Fully committed' Fernandes to remain Man Utd captain",
@@ -143,7 +295,7 @@
    "link": "https://www.bbc.com/news/articles/c9p8gdlz1p2ko",
    "time": "2026-10-29T14:17:35+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
@@ -159,7 +311,7 @@
    "link": "https://www.bbc.com/news/articles/cm0j06y3pn75o",
    "time": "2026-10-29T13:25:07+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Is the double drop from the Premier League becoming more common?",
@@ -179,7 +331,7 @@
   },
   {
    "title": "Chancellor's £30m pledge for train station is insult to the people of Wales, minister says",
-   "desc": "Wales' transport minister says the cash is a \"tiny fraction\" of what is needed for Cardiff Parkway.",
+   "desc": "Wales' transport minister says the cash is a \"tiny fraction\" of what is needed for the country's rail.",
    "link": "https://www.bbc.com/news/articles/c69wzq0d1w00o",
    "time": "2026-10-29T13:10:20+00:00",
    "cat": "uk",
@@ -191,7 +343,7 @@
    "link": "https://www.bbc.com/news/articles/cky93127nyepo",
    "time": "2026-10-29T12:52:50+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
@@ -218,59 +370,19 @@
    "top": false
   },
   {
-   "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-   "desc": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-   "link": "https://www.bbc.com/news/articles/cm87zw51qw0jo",
-   "time": "2026-10-29T11:25:16+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-   "desc": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+   "desc": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
    "link": "https://www.bbc.com/news/articles/cmqxnl312v34o",
    "time": "2026-10-29T11:07:35+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "'Hungrier than ever' - Paul to return on 24 December",
-   "desc": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cvkgkx496e0ko",
-   "time": "2026-10-29T11:06:04+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Watch the moment bridge hit at least 45 times is driven into again",
-   "desc": "Despite sensors and warnings,  Trafle Mill bridge in Gowerton is often crashed into.",
+   "desc": "Despite sensors and warnings, Trafle Mill bridge in Gowerton is often crashed into.",
    "link": "https://www.bbc.com/news/articles/c6y0e189e9xgo",
    "time": "2026-10-29T11:01:21+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Sometimes managers need sacking for own good - Neville",
-   "desc": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
-   "link": "https://www.bbc.com/sport/football/articles/cjvgx0ek6rz2o",
-   "time": "2026-10-29T11:00:53+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "England boss McDermott urges patience in PNG points chase",
-   "desc": "England boss Brian McDermott has urged his players not to panic as they chase points against Papua New Guinea in Wollongong on Friday in a bid to keep alive their Rugby League World Cup hopes.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cm8xz7we02dyo",
-   "time": "2026-10-29T10:57:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'Amazing achievement' as Rybakina clinches year-end number one ranking",
-   "desc": "Elena Rybakina secures the year-end women's singles number one spot by beating Yulia Putintseva in the last 16 of the Pan Pacific Open in Tokyo.",
-   "link": "https://www.bbc.com/sport/tennis/articles/c6x2qr1v11xyo",
-   "time": "2026-10-29T10:38:08+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -290,43 +402,11 @@
    "top": false
   },
   {
-   "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
-   "desc": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
-   "link": "https://www.bbc.com/sport/football/articles/crly062vd0z7o",
-   "time": "2026-10-29T08:07:22+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Is the Ulster forward with farmer's strength Ireland's next big star?",
-   "desc": "Ulster back row James McNabney speaks about horse riding, his ACL injury and his dad's reaction to his first Ireland call-up.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c6dxwzpeydk5o",
-   "time": "2026-10-29T07:58:56+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Brewers win first World Series in 57-year history",
-   "desc": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-   "link": "https://www.bbc.com/sport/baseball/articles/c5x2v991l0lvo",
-   "time": "2026-10-29T07:56:38+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
    "desc": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
    "link": "https://www.bbc.com/news/articles/cry4x177jlnyo",
    "time": "2026-10-29T07:54:33+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Weekly sports quiz: Which league are Fleetwood in?",
-   "desc": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
-   "link": "https://www.bbc.com/sport/articles/cmrly1jy31p1o",
-   "time": "2026-10-29T06:53:33+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -338,27 +418,11 @@
    "top": false
   },
   {
-   "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-   "desc": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
-   "link": "https://www.bbc.com/sport/football/articles/cx05487d6r9vo",
-   "time": "2026-10-29T06:27:10+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "AI microdrama edit of Neighbours worries actors and crew",
    "desc": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
    "link": "https://www.bbc.com/news/articles/cj1dw9znd1q1o",
    "time": "2026-10-29T03:15:35+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "King Charles shows off dance moves on second day of Caribbean tour",
-   "desc": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
-   "link": "https://www.bbc.com/news/articles/ckzd670vpj09o",
-   "time": "2026-10-29T01:41:36+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -418,27 +482,11 @@
    "top": false
   },
   {
-   "title": "Healey provides some breathing space but things still set to get worse for most",
-   "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-   "link": "https://www.bbc.com/news/articles/cqe9l4px0yzxo",
-   "time": "2026-10-28T19:51:01+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
    "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
    "link": "https://www.bbc.com/news/articles/c63djl148n3eo",
    "time": "2026-10-28T19:15:58+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-   "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-   "link": "https://www.bbc.com/news/articles/cqpvgxz3y49go",
-   "time": "2026-10-28T18:45:09+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -462,22 +510,6 @@
    "desc": "The BBC announced the dedicated Scotland channel would move online as part of measures to make savings of £500m.",
    "link": "https://www.bbc.com/news/articles/cqkglwy3nd7zo",
    "time": "2026-10-28T17:41:38+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
-   "desc": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
-   "link": "https://www.bbc.com/news/articles/c6x2qggrdxqeo",
-   "time": "2026-10-28T09:56:13+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "6 Music Festival 2027 heads to Newcastle",
-   "desc": "The station's flagship festival will return to Tyneside after 12 years.",
-   "link": "https://www.bbc.com/news/articles/cm62ygw1e99xo",
-   "time": "2026-10-28T06:03:56+00:00",
    "cat": "cul",
    "top": false
   },
@@ -586,14 +618,6 @@
    "top": false
   },
   {
-   "title": "Part of Antarctica named after former BBC science correspondent",
-   "desc": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-   "link": "https://www.bbc.com/news/articles/ckvg7w919x09o",
-   "time": "2026-10-26T14:54:40+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
    "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
    "link": "https://www.bbc.com/news/articles/cq2e9we7w2ejo",
@@ -614,14 +638,6 @@
    "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
    "time": "2026-10-23T12:24:17+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-   "desc": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-   "link": "https://www.bbc.com/news/articles/cxnv025d8qpmo",
-   "time": "2026-10-23T12:00:25+00:00",
    "cat": "tech",
    "top": false
   }
