@@ -1,20 +1,100 @@
 {
- "updated": "2026-10-29T21:36:58.821596+00:00",
+ "updated": "2026-10-30T01:39:17.803055+00:00",
  "items": [
+  {
+   "title": "Crypto worth billions frozen after suspected Binance hack",
+   "desc": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+   "link": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+   "time": "2026-10-30T01:20:57+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+   "desc": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+   "link": "https://www.bbc.com/news/articles/cye0l23lx15o",
+   "time": "2026-10-30T01:20:13+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Biggest fibre boost could be scraps in your bin, experts say",
+   "desc": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
+   "link": "https://www.bbc.com/news/articles/cw5ynver15jeo",
+   "time": "2026-10-30T00:40:30+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Student-backed election winners demand sweeping resignations in Serbia",
+   "desc": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+   "link": "https://www.bbc.com/news/articles/cmx2dwzp0z0vo",
+   "time": "2026-10-30T00:17:28+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+   "desc": "Could the faithfuls finally come good in Thursday's penultimate episode?",
+   "link": "https://www.bbc.com/news/articles/ckr5y12r081zo",
+   "time": "2026-10-30T00:16:59+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "desc": "A new generation is embracing eye-catching patching and visible mends.",
+   "link": "https://www.bbc.com/news/articles/cmwy9qe5r1z3o",
+   "time": "2026-10-30T00:00:35+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+   "desc": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
+   "link": "https://www.bbc.com/news/articles/c6gr8l15k744o",
+   "time": "2026-10-29T23:03:39+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "PSG score late to hold struggling Man City",
+   "desc": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
+   "link": "https://www.bbc.com/sport/football/videos/ckeq3v1wgxy4o",
+   "time": "2026-10-29T22:40:17+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "desc": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+   "time": "2026-10-29T22:17:52+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+   "desc": "Over seven decades, Sir Patrick received multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.",
+   "link": "https://www.bbc.com/news/videos/c6qxnlxn0n15o",
+   "time": "2026-10-29T21:57:04+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+   "desc": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
+   "link": "https://www.bbc.com/sport/football/articles/ck1l396jqv4zo",
+   "time": "2026-10-29T21:40:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
    "desc": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
    "link": "https://www.bbc.com/news/articles/c8vgx0zrpk6no",
    "time": "2026-10-29T21:31:12+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Wall Street's AI fears slash Google value by $500bn",
-   "desc": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-   "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-   "time": "2026-10-29T21:29:51+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -34,14 +114,6 @@
    "top": true
   },
   {
-   "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
-   "desc": "As the King left the Bahamas his spokesman said the islands had \"a special place in the King's heart\".",
-   "link": "https://www.bbc.com/news/articles/c893zev54341o",
-   "time": "2026-10-29T20:35:05+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Cundy's 20-year reign as world champion ends",
    "desc": "Jody Cundy's 20-year reign as para cycling's C4 kilo time trial world champion was ended by Australian Korey Boddington.",
    "link": "https://www.bbc.com/sport/cycling/articles/cxj0lv0vzv7do",
@@ -55,14 +127,6 @@
    "link": "https://www.bbc.com/sport/tennis/articles/cwdr8m8g4jz2o",
    "time": "2026-10-29T20:25:37+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-   "desc": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
-   "link": "https://www.bbc.com/news/articles/cye0l23lx15o",
-   "time": "2026-10-29T20:24:59+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -87,15 +151,23 @@
    "link": "https://www.bbc.com/news/articles/ckdd8qpdeym4o",
    "time": "2026-10-29T20:02:27+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
-   "title": "Grealish dropped by Everton after 'breach of club discipline'",
-   "desc": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".",
+   "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+   "desc": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+   "link": "https://www.bbc.com/sport/football/articles/cq1m4j79x50jo",
+   "time": "2026-10-29T19:55:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Grealish dropped over 'breach of club discipline' - what now?",
+   "desc": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
    "link": "https://www.bbc.com/sport/football/articles/cmwy4vyl9nplo",
    "time": "2026-10-29T19:31:36+00:00",
    "cat": "sport",
-   "top": true
+   "top": false
   },
   {
    "title": "Dream win to set up WNBA Finals decider",
@@ -138,10 +210,10 @@
    "top": false
   },
   {
-   "title": "Met refers itself to police watchdog over letter about Meghan's father",
-   "desc": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
-   "link": "https://www.bbc.com/news/articles/ck30e91r9z0jo",
-   "time": "2026-10-29T17:58:18+00:00",
+   "title": "What are the government's options for reducing welfare spending?",
+   "desc": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
+   "link": "https://www.bbc.com/news/articles/cwy7l1lrkmk2o",
+   "time": "2026-10-29T17:59:57+00:00",
    "cat": "world",
    "top": true
   },
@@ -162,14 +234,6 @@
    "top": false
   },
   {
-   "title": "Dowman to miss three matches after appeal rejected",
-   "desc": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
-   "link": "https://www.bbc.com/sport/football/articles/c6kgq9qg28dno",
-   "time": "2026-10-29T17:19:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "US interest rates held steady and economy grows - what it means for you",
    "desc": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
    "link": "https://www.bbc.com/news/articles/cr15jxzv4w24o",
@@ -183,7 +247,7 @@
    "link": "https://www.bbc.com/news/articles/cq146562ld3no",
    "time": "2026-10-29T17:13:40+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
@@ -210,14 +274,6 @@
    "top": false
   },
   {
-   "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
-   "desc": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour.",
-   "link": "https://www.bbc.com/sport/golf/articles/cw3djl7mz90zo",
-   "time": "2026-10-29T15:55:55+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Faisal Islam: This Budget was micro and that was deliberate",
    "desc": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
    "link": "https://www.bbc.com/news/articles/cwx283zynnv3o",
@@ -226,20 +282,12 @@
    "top": false
   },
   {
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "desc": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-   "link": "https://www.bbc.com/news/articles/cmdx3knq1xexo",
-   "time": "2026-10-29T15:47:20+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
    "desc": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
    "link": "https://www.bbc.com/news/articles/c6x2w4zy15nwo",
    "time": "2026-10-29T15:42:56+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Bereaved families will not face tax bill over pension delays under new rules",
@@ -258,14 +306,6 @@
    "top": false
   },
   {
-   "title": "Your pay, energy bills and savings: How the Budget affects you",
-   "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-   "link": "https://www.bbc.com/news/articles/cr0j05vxlwjzo",
-   "time": "2026-10-29T15:11:35+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
    "desc": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
    "link": "https://www.bbc.com/news/articles/cm79pjg2l57yo",
@@ -279,14 +319,6 @@
    "link": "https://www.bbc.com/news/articles/c3x2w4109pj8o",
    "time": "2026-10-29T14:58:28+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "'Fully committed' Fernandes to remain Man Utd captain",
-   "desc": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
-   "link": "https://www.bbc.com/sport/football/articles/ckz7x8z1e9y9o",
-   "time": "2026-10-29T14:31:52+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -327,7 +359,7 @@
    "link": "https://www.bbc.com/news/articles/c6z7x8214np7o",
    "time": "2026-10-29T13:19:24+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Chancellor's £30m pledge for train station is insult to the people of Wales, minister says",
@@ -375,14 +407,6 @@
    "link": "https://www.bbc.com/news/articles/cmqxnl312v34o",
    "time": "2026-10-29T11:07:35+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Watch the moment bridge hit at least 45 times is driven into again",
-   "desc": "Despite sensors and warnings, Trafle Mill bridge in Gowerton is often crashed into.",
-   "link": "https://www.bbc.com/news/articles/c6y0e189e9xgo",
-   "time": "2026-10-29T11:01:21+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -391,14 +415,6 @@
    "link": "https://www.bbc.com/news/articles/c6ly3027820lo",
    "time": "2026-10-29T09:31:44+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-   "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-   "link": "https://www.bbc.com/news/articles/cqwy78elyrlzo",
-   "time": "2026-10-29T09:30:03+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -506,14 +522,6 @@
    "top": false
   },
   {
-   "title": "Government minister calls for review of 'unacceptable' BBC Scotland channel closure",
-   "desc": "The BBC announced the dedicated Scotland channel would move online as part of measures to make savings of £500m.",
-   "link": "https://www.bbc.com/news/articles/cqkglwy3nd7zo",
-   "time": "2026-10-28T17:41:38+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "'An annoying buzz': The search for stealthier drones",
    "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
    "link": "https://www.bbc.com/news/articles/ck1exgejq3xvo",
@@ -602,14 +610,6 @@
    "top": false
   },
   {
-   "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
-   "desc": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
-   "link": "https://www.bbc.com/news/articles/cqe9lykm93jmo",
-   "time": "2026-10-26T18:09:39+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
    "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
    "link": "https://www.bbc.com/news/articles/cq398p1wd1evo",
@@ -630,14 +630,6 @@
    "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
    "link": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
    "time": "2026-10-24T00:05:45+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "link": "https://www.bbc.com/news/articles/c3qjnwye0ep5o",
-   "time": "2026-10-23T12:24:17+00:00",
    "cat": "tech",
    "top": false
   }
