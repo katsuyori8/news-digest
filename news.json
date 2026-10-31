@@ -1,11 +1,107 @@
 {
- "updated": "2026-10-30T23:38:01.282514+00:00",
+ "updated": "2026-10-31T04:36:39.040879+00:00",
  "items": [
   {
-   "title": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
-   "desc": "Ferrari's Charles Leclerc goes fastest in Friday practice at the Mexico City Grand Prix.",
+   "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
+   "desc": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
    "link": "https://www.bbc.com/sport/formula1/articles/cqde8p6j9ye7o",
-   "time": "2026-10-30T23:11:31+00:00",
+   "time": "2026-10-31T03:18:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Burnham 'open' to calls for slavery apology but not reparations",
+   "desc": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+   "link": "https://www.bbc.com/news/articles/c5398239je88o",
+   "time": "2026-10-31T03:12:08+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+   "desc": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+   "link": "https://www.bbc.com/news/articles/cmly016ep243o",
+   "time": "2026-10-31T02:39:25+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Celebrity Traitors comes to a climax in nail-biting final",
+   "desc": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+   "link": "https://www.bbc.com/news/articles/cw4g17z11l45o",
+   "time": "2026-10-31T02:18:59+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+   "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
+   "time": "2026-10-31T02:12:19+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Global nature talks reach deal but money remains an issue",
+   "desc": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+   "link": "https://www.bbc.com/news/articles/cw1l32qyj8pqo",
+   "time": "2026-10-31T01:27:05+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Police deployed during stand-off over control of top Poland court",
+   "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+   "link": "https://www.bbc.com/news/articles/crz9824d5e88o",
+   "time": "2026-10-31T01:11:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+   "link": "https://www.bbc.com/news/articles/c3vgxznlx7jzo",
+   "time": "2026-10-31T00:40:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "UK could see 10 days without rain after 'wettest week in two years'",
+   "desc": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+   "link": "https://www.bbc.com/weather/articles/cq98zrwd42jzo",
+   "time": "2026-10-31T00:06:31+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+   "desc": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+   "link": "https://www.bbc.com/news/articles/cq8rz38jr50go",
+   "time": "2026-10-31T00:04:06+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Why MPs keep talking about an early election despite Burnham's denials",
+   "desc": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+   "link": "https://www.bbc.com/news/articles/cm5yn7d0qx1do",
+   "time": "2026-10-31T00:00:15+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Sherrock upsets Littler to claim £501,000 prize",
+   "desc": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
+   "link": "https://www.bbc.com/sport/darts/articles/crkg7p1z3p3lo",
+   "time": "2026-10-30T23:38:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "England see off USA to return to winning ways",
+   "desc": "England's Red Roses return to winning ways, but without entirely vanquishing doubts over their position at the top of the women's game, as they see off the United States.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cq98zrj5dj6ro",
+   "time": "2026-10-30T23:15:38+00:00",
    "cat": "sport",
    "top": false
   },
@@ -16,30 +112,6 @@
    "time": "2026-10-30T23:05:45+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Celebrity Traitors comes to a climax in nail-biting final",
-   "desc": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers.",
-   "link": "https://www.bbc.com/news/articles/cw4g17z11l45o",
-   "time": "2026-10-30T22:52:33+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "King visits Guyanese slave rebellion site on Caribbean tour",
-   "desc": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
-   "link": "https://www.bbc.com/news/articles/c693zxw11x1wo",
-   "time": "2026-10-30T22:24:03+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "US approves sale of 500 Patriot missiles to Ukraine",
-   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-   "link": "https://www.bbc.com/news/articles/c3vgxznlx7jzo",
-   "time": "2026-10-30T22:20:52+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -90,14 +162,6 @@
    "top": false
   },
   {
-   "title": "Police deployed during stand-off over control of top Poland court",
-   "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-   "link": "https://www.bbc.com/news/articles/crz9824d5e88o",
-   "time": "2026-10-30T20:52:01+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
    "desc": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
    "link": "https://www.bbc.com/news/articles/cmewepdr109do",
@@ -138,20 +202,12 @@
    "top": false
   },
   {
-   "title": "County Down man among three jailed for planning mosque attack",
-   "desc": "The three men pleaded guilty to attempting to engage in terrorist activity in November 2025.",
-   "link": "https://www.bbc.com/news/articles/c8zxl20lq97wo",
-   "time": "2026-10-30T17:14:10+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
    "desc": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
    "link": "https://www.bbc.com/news/articles/ck62ydn7dj9eo",
    "time": "2026-10-30T17:07:19+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
@@ -159,14 +215,6 @@
    "link": "https://www.bbc.com/sport/cricket/articles/c6n8dpvyyy71o",
    "time": "2026-10-30T17:03:40+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-   "desc": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-   "link": "https://www.bbc.com/news/articles/cwdd8q8e9e9yo",
-   "time": "2026-10-30T17:00:32+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -191,14 +239,6 @@
    "link": "https://www.bbc.com/news/articles/c60me298k1yeo",
    "time": "2026-10-30T16:26:11+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
-   "desc": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cmy832jv00p1o",
-   "time": "2026-10-30T16:22:55+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -218,27 +258,11 @@
    "top": false
   },
   {
-   "title": "Burnham's Number 10 North goes on multi-million pound hiring spree",
-   "desc": "The new government office in Manchester has launched 50 job adverts for roles including a \"rewiring the state deputy director\".",
-   "link": "https://www.bbc.com/news/articles/cqm24pdylmm2o",
-   "time": "2026-10-30T15:57:43+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
    "desc": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
    "link": "https://www.bbc.com/news/articles/cx4g1ve5ylg7o",
    "time": "2026-10-30T15:49:25+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
-   "desc": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
-   "link": "https://www.bbc.com/sport/football/articles/c875p940g5v2o",
-   "time": "2026-10-30T15:41:43+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -255,7 +279,7 @@
    "link": "https://www.bbc.com/news/articles/c6e3xg5we9eyo",
    "time": "2026-10-30T15:27:40+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Six dead after helicopter crashes in northern Indian state",
@@ -263,14 +287,6 @@
    "link": "https://www.bbc.com/news/articles/cr93zxyn9eqeo",
    "time": "2026-10-30T15:06:05+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "desc": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-   "link": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo",
-   "time": "2026-10-30T15:03:39+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -327,7 +343,7 @@
    "link": "https://www.bbc.com/news/videos/cv2d62e34rw5o",
    "time": "2026-10-30T12:27:28+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "Google value plunges by $500bn as its own AI search hits ad sales",
@@ -423,14 +439,6 @@
    "link": "https://www.bbc.com/news/articles/cye0l23lx15o",
    "time": "2026-10-30T03:57:06+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-   "desc": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-   "link": "https://www.bbc.com/news/articles/ck8dz8j5n993o",
-   "time": "2026-10-30T01:35:40+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -583,30 +591,6 @@
    "link": "https://www.bbc.com/news/articles/cmx28de233r2o",
    "time": "2026-10-27T17:10:15+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-   "desc": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
-   "link": "https://www.bbc.com/news/articles/c62ke84qwl1vo",
-   "time": "2026-10-27T15:32:40+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "What's happening to our rubbish?",
-   "desc": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish.",
-   "link": "https://www.bbc.com/news/videos/c9ly02pj4kdjo",
-   "time": "2026-10-27T15:30:50+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Apple to replace iPhone Duos affected by screen problem",
-   "desc": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-   "link": "https://www.bbc.com/news/articles/c893zwlev2xpo",
-   "time": "2026-10-27T09:37:55+00:00",
-   "cat": "tech",
    "top": false
   }
  ]
