@@ -1,69 +1,141 @@
 {
- "updated": "2026-10-31T19:52:43.626036+00:00",
+ "updated": "2026-10-31T23:09:23.364468+00:00",
  "items": [
   {
-   "title": "Saints come from behind to beat in-form Gloucester",
-   "desc": "Late tries from George Hendy and Rory Hutchison gift Northampton Saints victory over stubborn Gloucester.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cj5ynk53x39eo",
-   "time": "2026-10-31T19:52:21+00:00",
+   "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+   "desc": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c6reyl8zp3jwo",
+   "time": "2026-10-31T23:07:02+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Clashes erupt between police and protesters in Paris",
-   "desc": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-   "link": "https://www.bbc.com/news/videos/ck0j0y87j303o",
-   "time": "2026-10-31T19:37:43+00:00",
-   "cat": "world",
+   "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+   "desc": "The King will deliver a speech to Commonwealth Heads of Government Meeting as he concludes his nine-day Caribbean tour.",
+   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
+   "time": "2026-10-31T22:56:15+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+   "desc": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+   "link": "https://www.bbc.com/sport/football/videos/ckn8w20nn9g7o",
+   "time": "2026-10-31T22:30:16+00:00",
+   "cat": "sport",
    "top": false
   },
   {
-   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-   "desc": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
-   "link": "https://www.bbc.com/news/articles/cqglw3k7djp1o",
-   "time": "2026-10-31T19:22:26+00:00",
+   "title": "Brighton pick up first away league victory over Man City",
+   "desc": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
+   "link": "https://www.bbc.com/sport/football/videos/cqx28l2gdepxo",
+   "time": "2026-10-31T22:30:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Coventry out of bottom three after win over struggling Sunderland",
+   "desc": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
+   "link": "https://www.bbc.com/sport/football/videos/cm93zv0zkjqlo",
+   "time": "2026-10-31T22:29:50+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Enciso's stunning goal earns Ipswich draw at Hull",
+   "desc": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the  MKM Stadium.",
+   "link": "https://www.bbc.com/sport/football/videos/c8qln4qq2656o",
+   "time": "2026-10-31T22:29:40+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Spurs revival continues with victory over 10-man Crystal Palace",
+   "desc": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.",
+   "link": "https://www.bbc.com/sport/football/videos/cxvgdrg33m72o",
+   "time": "2026-10-31T22:29:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Evanilson scores again as Bournemouth beat Leeds",
+   "desc": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.",
+   "link": "https://www.bbc.com/sport/football/videos/c6zxj1vzwx1xo",
+   "time": "2026-10-31T22:29:21+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Thiago on target as Brentford beat Forest",
+   "desc": "Igor Thiago's second-half goal helps Brentford to their first win in five as they beat Nottingham Forest 2-0 at the Gtech Community Stadium.",
+   "link": "https://www.bbc.com/sport/football/videos/ck1l3z063n8vo",
+   "time": "2026-10-31T22:29:11+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Suzuki mistake gifts Fulham point at Villa",
+   "desc": "Aston Villa goalkeeper Zion Suzuki's second-half mistake sees Fulham secure a 1-1 draw at Villa Park after Nicolas Jackson had given the hosts the lead.",
+   "link": "https://www.bbc.com/sport/football/videos/cmwy9rylr0e6o",
+   "time": "2026-10-31T22:29:02+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "desc": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "link": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
+   "time": "2026-10-31T22:11:45+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "Maresca's big test is to address mounting Man City issues",
-   "desc": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
-   "link": "https://www.bbc.com/sport/football/articles/cve8rkd8r302o",
-   "time": "2026-10-31T19:05:41+00:00",
+   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+   "desc": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+   "link": "https://www.bbc.com/news/articles/cry8317pdp5yo",
+   "time": "2026-10-31T22:07:56+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Why did this Korean content creator throw a divorce ceremony?",
+   "desc": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
+   "link": "https://www.bbc.com/news/videos/c51kd2jyjr1eo",
+   "time": "2026-10-31T22:01:39+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "desc": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+   "link": "https://www.bbc.com/news/videos/ck0j0y87j303o",
+   "time": "2026-10-31T21:29:01+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Are De Zerbi's Spurs finding elusive consistency?",
+   "desc": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
+   "link": "https://www.bbc.com/sport/football/articles/c6n04v897qe4o",
+   "time": "2026-10-31T21:16:11+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "It's not time to make compromises - Glasner",
-   "desc": "Nottingham Forest manager Oliver Glasner says he needs to \"make some changes\" after his side lost 2-0 to Brentford.",
-   "link": "https://www.bbc.com/sport/football/videos/cmzxj5glve9no",
-   "time": "2026-10-31T18:48:24+00:00",
-   "cat": "sport",
+   "title": "Fireworks and fancy dress at Derry's 40th Halloween festival",
+   "desc": "Tens of thousands of revellers took to the streets of Londonderry for the city's annual Halloween parade.",
+   "link": "https://www.bbc.com/news/articles/cmly095jjnwlo",
+   "time": "2026-10-31T21:06:08+00:00",
+   "cat": "uk",
    "top": false
   },
   {
-   "title": "Watch: Youth Olympics Opening Ceremony",
-   "desc": "Follow for live coverage of the Youth Olympics Opening Ceremony from Dakar, Senegal.",
-   "link": "https://www.bbc.com/iplayer/episode/l00590gm",
-   "time": "2026-10-31T18:16:27+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
-   "desc": "Former undisputed heavyweight champion Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez before retiring from boxing, says his adviser.",
-   "link": "https://www.bbc.com/sport/boxing/articles/crpdg3qwjg4eo",
-   "time": "2026-10-31T18:11:22+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "18-year-old Mfuni 'will go a long way' - Lampard",
-   "desc": "Coventry manager Frank Lampard gives his reaction to his side 3-1 victory over Sunderland as they move out of the relegation zone.",
-   "link": "https://www.bbc.com/sport/football/videos/c60qkyzeqz44o",
-   "time": "2026-10-31T18:00:05+00:00",
-   "cat": "sport",
-   "top": false
+   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "desc": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+   "link": "https://www.bbc.com/news/articles/cqglw3k7djp1o",
+   "time": "2026-10-31T19:22:26+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -90,35 +162,11 @@
    "top": true
   },
   {
-   "title": "Emotional reunions with loved ones for Oleshky evacuees",
-   "desc": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
-   "link": "https://www.bbc.com/news/videos/cmy83w0jwznpo",
-   "time": "2026-10-31T16:55:47+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
    "desc": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
    "link": "https://www.bbc.com/news/articles/cm4g18l8l4wgo",
    "time": "2026-10-31T16:49:18+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Returning Estevao brings X-factor to strikerless Chelsea",
-   "desc": "Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.",
-   "link": "https://www.bbc.com/sport/football/articles/cwnv0p143qzyo",
-   "time": "2026-10-31T16:34:42+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "desc": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-   "link": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
-   "time": "2026-10-31T16:32:08+00:00",
-   "cat": "world",
    "top": true
   },
   {
@@ -130,27 +178,11 @@
    "top": false
   },
   {
-   "title": "Alonso praises Estevao response to lack of gametime",
-   "desc": "Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/cr5ynzdpjnn9o",
-   "time": "2026-10-31T15:20:53+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
    "desc": "Government data shows that more than 10,000 people have contracted the rare virus.",
    "link": "https://www.bbc.com/news/articles/cj5ynryyep2yo",
    "time": "2026-10-31T15:16:20+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Carrick bemoans Man Utd defending in Chelsea loss",
-   "desc": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/cqrlywrdjdzyo",
-   "time": "2026-10-31T15:13:43+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -178,28 +210,12 @@
    "top": false
   },
   {
-   "title": "Burnham 'open' to calls for slavery apology but not reparations",
-   "desc": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
-   "link": "https://www.bbc.com/news/articles/c5398239je88o",
-   "time": "2026-10-31T13:28:40+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
-   "desc": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cmdx3p354v04o",
-   "time": "2026-10-31T13:23:15+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
    "desc": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies.",
    "link": "https://www.bbc.com/news/articles/cxnv0p4l7rjlo",
    "time": "2026-10-31T13:20:39+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Motorcyclist dies after falling into sea in cliffside beauty spot crash",
@@ -242,14 +258,6 @@
    "top": false
   },
   {
-   "title": "How man's Halloween house display has become bittersweet tradition",
-   "desc": "Dave Barron, 61, from Bramhall, says his Halloween displays raise money for a charity and are a tribute to his late wife.",
-   "link": "https://www.bbc.com/news/articles/cq1465xn76ggo",
-   "time": "2026-10-31T08:36:22+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "UK has 'no authority' over case of woman killed by father in US",
    "desc": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing.",
    "link": "https://www.bbc.com/news/articles/cm9dz48g24yzo",
@@ -287,7 +295,7 @@
    "link": "https://www.bbc.com/news/articles/cmly016ep243o",
    "time": "2026-10-31T02:39:25+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "The final reveal of the Celebrity Traitors",
@@ -346,10 +354,10 @@
    "top": false
   },
   {
-   "title": "Moloney-MacDonald scores four tries as England thump USA",
-   "desc": "Watch highlights as England bounce back from defeats to Canada with a 55-12 win over USA in the WXV Global Series.",
-   "link": "https://www.bbc.com/sport/rugby-union/videos/c65yn0w2w152o",
-   "time": "2026-10-30T23:56:59+00:00",
+   "title": "Watch: Match of the Day",
+   "desc": "Highlights from eight Premier League matches, including Manchester City against Brighton.",
+   "link": "https://www.bbc.com/iplayer/live/bbcone",
+   "time": "2026-10-31T00:00:00+00:00",
    "cat": "sport",
    "top": false
   },
@@ -638,14 +646,6 @@
    "desc": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
    "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
    "time": "2026-10-27T21:20:52+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Will a new strategy help protect Northern Ireland's nature?",
-   "desc": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-   "link": "https://www.bbc.com/news/articles/cq0megg87n3po",
-   "time": "2026-10-27T17:51:13+00:00",
    "cat": "sci",
    "top": false
   }
