@@ -1,27 +1,139 @@
 {
- "updated": "2026-10-31T15:58:12.921318+00:00",
+ "updated": "2026-10-31T19:52:43.626036+00:00",
  "items": [
   {
-   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-   "desc": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-   "link": "https://www.bbc.com/news/articles/cqx2818elrnzo",
-   "time": "2026-10-31T15:50:41+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Pogacar 'happy to be alive' after 'scary' crash",
-   "desc": "Five-time Tour de France champion Tadej Pogacar says he is \"just happy to be alive\", two months after suffering three fractured vertebrae in a crash.",
-   "link": "https://www.bbc.com/sport/cycling/articles/cwg5j38gzy69o",
-   "time": "2026-10-31T15:26:18+00:00",
+   "title": "Saints come from behind to beat in-form Gloucester",
+   "desc": "Late tries from George Hendy and Rory Hutchison gift Northampton Saints victory over stubborn Gloucester.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cj5ynk53x39eo",
+   "time": "2026-10-31T19:52:21+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
-   "desc": "Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.",
-   "link": "https://www.bbc.com/sport/football/articles/c6073yeg52xeo",
-   "time": "2026-10-31T15:21:24+00:00",
+   "title": "Clashes erupt between police and protesters in Paris",
+   "desc": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+   "link": "https://www.bbc.com/news/videos/ck0j0y87j303o",
+   "time": "2026-10-31T19:37:43+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+   "desc": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+   "link": "https://www.bbc.com/news/articles/cqglw3k7djp1o",
+   "time": "2026-10-31T19:22:26+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Maresca's big test is to address mounting Man City issues",
+   "desc": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
+   "link": "https://www.bbc.com/sport/football/articles/cve8rkd8r302o",
+   "time": "2026-10-31T19:05:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "It's not time to make compromises - Glasner",
+   "desc": "Nottingham Forest manager Oliver Glasner says he needs to \"make some changes\" after his side lost 2-0 to Brentford.",
+   "link": "https://www.bbc.com/sport/football/videos/cmzxj5glve9no",
+   "time": "2026-10-31T18:48:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Watch: Youth Olympics Opening Ceremony",
+   "desc": "Follow for live coverage of the Youth Olympics Opening Ceremony from Dakar, Senegal.",
+   "link": "https://www.bbc.com/iplayer/episode/l00590gm",
+   "time": "2026-10-31T18:16:27+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
+   "desc": "Former undisputed heavyweight champion Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez before retiring from boxing, says his adviser.",
+   "link": "https://www.bbc.com/sport/boxing/articles/crpdg3qwjg4eo",
+   "time": "2026-10-31T18:11:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "18-year-old Mfuni 'will go a long way' - Lampard",
+   "desc": "Coventry manager Frank Lampard gives his reaction to his side 3-1 victory over Sunderland as they move out of the relegation zone.",
+   "link": "https://www.bbc.com/sport/football/videos/c60qkyzeqz44o",
+   "time": "2026-10-31T18:00:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+   "desc": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+   "link": "https://www.bbc.com/news/articles/cqx2818elrnzo",
+   "time": "2026-10-31T17:53:35+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+   "desc": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
+   "link": "https://www.bbc.com/sport/football/articles/ckvg64xp1e1eo",
+   "time": "2026-10-31T17:27:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Healey risks breaking minimum wage promise for younger workers",
+   "desc": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+   "link": "https://www.bbc.com/news/articles/cv369266644lo",
+   "time": "2026-10-31T17:26:29+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Emotional reunions with loved ones for Oleshky evacuees",
+   "desc": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+   "link": "https://www.bbc.com/news/videos/cmy83w0jwznpo",
+   "time": "2026-10-31T16:55:47+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+   "desc": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
+   "link": "https://www.bbc.com/news/articles/cm4g18l8l4wgo",
+   "time": "2026-10-31T16:49:18+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Returning Estevao brings X-factor to strikerless Chelsea",
+   "desc": "Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.",
+   "link": "https://www.bbc.com/sport/football/articles/cwnv0p143qzyo",
+   "time": "2026-10-31T16:34:42+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "desc": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+   "link": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
+   "time": "2026-10-31T16:32:08+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Everton striker's relief family not home during burglary",
+   "desc": "The French striker says he is relieved his family were not at home as he played against Newcastle United.",
+   "link": "https://www.bbc.com/news/articles/cwm26rnyrk23o",
+   "time": "2026-10-31T15:27:55+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Alonso praises Estevao response to lack of gametime",
+   "desc": "Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.",
+   "link": "https://www.bbc.com/sport/football/videos/cr5ynzdpjnn9o",
+   "time": "2026-10-31T15:20:53+00:00",
    "cat": "sport",
    "top": false
   },
@@ -42,22 +154,6 @@
    "top": false
   },
   {
-   "title": "Parsons hat-trick as Irish seal South Africa series win",
-   "desc": "Beibhinn Parsons scores a hat-trick of tries as Ireland close out their WXV Global Series campaign by securing back-to-back wins over South Africa in Cape Town.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cwe8lp875engo",
-   "time": "2026-10-31T15:12:40+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Hirakawa replaces Ocon for Mexico City Grand Prix",
-   "desc": "Ryo Hirakawa will race for Haas at the Mexico City Grand Prix, replacing Esteban Ocon.",
-   "link": "https://www.bbc.com/sport/formula1/articles/crwydk35zlnvo",
-   "time": "2026-10-31T15:05:11+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "'Greedy' solicitor used fake will-writing invoices to defraud cancer charity out of thousands",
    "desc": "The money paid to Michael Fogg could have been used by Cancer Research UK to pay for 48 biopsies.",
    "link": "https://www.bbc.com/news/articles/cmvg7zgrzdjzo",
@@ -66,27 +162,11 @@
    "top": false
   },
   {
-   "title": "A 3/10 that might be generous - player ratings for Chelsea v Man Utd",
-   "desc": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
-   "link": "https://www.bbc.com/sport/football/articles/c3j47prvlz04o",
-   "time": "2026-10-31T14:35:50+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Ethiopian PM puts ministers through military training",
    "desc": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
    "link": "https://www.bbc.com/news/articles/cmwyv2y7g9l8o",
    "time": "2026-10-31T14:28:15+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Carragher apologises to Villa for 'wrong' language",
-   "desc": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.",
-   "link": "https://www.bbc.com/sport/football/articles/cqj6jp63k87zo",
-   "time": "2026-10-31T13:51:00+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -103,7 +183,7 @@
    "link": "https://www.bbc.com/news/articles/c5398239je88o",
    "time": "2026-10-31T13:28:40+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
@@ -114,28 +194,12 @@
    "top": false
   },
   {
-   "title": "I'm 87 and I've finished 400 Parkruns",
-   "desc": "David Carbert has been running for 10 years and completed the 5k Humber Bridge Parkrun on Saturday.",
-   "link": "https://www.bbc.com/news/articles/cmy832693309o",
-   "time": "2026-10-31T12:40:44+00:00",
+   "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+   "desc": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies.",
+   "link": "https://www.bbc.com/news/articles/cxnv0p4l7rjlo",
+   "time": "2026-10-31T13:20:39+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "New Zealand into semis with statement win over Fiji",
-   "desc": "New Zealand deliver a statement victory as they thrash Fiji 78-0 to book their place in the Rugby League World Cup semi-finals.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/ck8dz8z712pno",
-   "time": "2026-10-31T12:25:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "US approves sale of 500 Patriot missiles to Ukraine",
-   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-   "link": "https://www.bbc.com/news/articles/c3vgxznlx7jzo",
-   "time": "2026-10-31T12:21:25+00:00",
-   "cat": "world",
-   "top": false
+   "top": true
   },
   {
    "title": "Motorcyclist dies after falling into sea in cliffside beauty spot crash",
@@ -146,20 +210,12 @@
    "top": false
   },
   {
-   "title": "Briton Dart reaches first WTA Tour singles final",
-   "desc": "A tearful Harriet Dart said it \"means the world\" to her to qualify for her maiden WTA Tour singles final after battling past to beat China's Sun Xinran at the Guangzhou Open.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cqwyr2r3jggno",
-   "time": "2026-10-31T11:37:55+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Celebrity Traitors comes to a climax in nail-biting final",
    "desc": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
    "link": "https://www.bbc.com/news/articles/cw4g17z11l45o",
    "time": "2026-10-31T10:54:56+00:00",
-   "cat": "uk",
-   "top": true
+   "cat": "cul",
+   "top": false
   },
   {
    "title": "Black Doves actress says she loved playing 'a very Welsh assassin'",
@@ -202,14 +258,6 @@
    "top": false
   },
   {
-   "title": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
-   "desc": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
-   "link": "https://www.bbc.com/sport/football/articles/cwkg5l822k3no",
-   "time": "2026-10-31T06:23:58+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Call for lottery gambling controls after dad's death",
    "desc": "A coroner says there is a risk of further deaths unless the National Lottery is included in the scheme.",
    "link": "https://www.bbc.com/news/articles/cm79p4q8gn31o",
@@ -234,20 +282,12 @@
    "top": false
   },
   {
-   "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
-   "desc": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
-   "link": "https://www.bbc.com/sport/formula1/articles/cqde8p6j9ye7o",
-   "time": "2026-10-31T03:18:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "The fight to save Canadian town threatened by Trump's tariffs",
    "desc": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
    "link": "https://www.bbc.com/news/articles/cmly016ep243o",
    "time": "2026-10-31T02:39:25+00:00",
    "cat": "world",
-   "top": false
+   "top": true
   },
   {
    "title": "The final reveal of the Celebrity Traitors",
@@ -255,15 +295,15 @@
    "link": "https://www.bbc.com/news/videos/cmeq3ppg7wrno",
    "time": "2026-10-31T02:20:46+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
    "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
    "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
    "time": "2026-10-31T02:12:19+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "tech",
+   "top": false
   },
   {
    "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
@@ -302,24 +342,16 @@
    "desc": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
    "link": "https://www.bbc.com/weather/articles/cq98zrwd42jzo",
    "time": "2026-10-31T00:06:31+00:00",
-   "cat": "uk",
+   "cat": "sci",
    "top": false
   },
   {
-   "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
-   "desc": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
-   "link": "https://www.bbc.com/news/articles/cq8rz38jr50go",
-   "time": "2026-10-31T00:04:06+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Why MPs keep talking about an early election despite Burnham's denials",
-   "desc": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
-   "link": "https://www.bbc.com/news/articles/cm5yn7d0qx1do",
-   "time": "2026-10-31T00:00:15+00:00",
-   "cat": "world",
-   "top": true
+   "title": "Moloney-MacDonald scores four tries as England thump USA",
+   "desc": "Watch highlights as England bounce back from defeats to Canada with a 55-12 win over USA in the WXV Global Series.",
+   "link": "https://www.bbc.com/sport/rugby-union/videos/c65yn0w2w152o",
+   "time": "2026-10-30T23:56:59+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
@@ -342,7 +374,7 @@
    "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
    "link": "https://www.bbc.com/news/articles/cwe8lp7zy07zo",
    "time": "2026-10-30T21:13:14+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -559,14 +591,6 @@
    "link": "https://www.bbc.com/news/articles/c6ly3027820lo",
    "time": "2026-10-29T09:31:44+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-   "desc": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
-   "link": "https://www.bbc.com/news/articles/cry4x177jlnyo",
-   "time": "2026-10-29T07:54:33+00:00",
-   "cat": "cul",
    "top": false
   },
   {
