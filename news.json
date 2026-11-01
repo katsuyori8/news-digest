@@ -1,12 +1,164 @@
 {
- "updated": "2026-11-01T09:37:01.856373+00:00",
+ "updated": "2026-11-01T16:37:20.467470+00:00",
  "items": [
+  {
+   "title": "Henry Nowak's family tell of trauma of seeing son handcuffed as he lay dying",
+   "desc": "His family describe the night police told them of his death, and watching him being handcuffed.",
+   "link": "https://www.bbc.com/news/articles/c68xz297kqleo",
+   "time": "2026-11-01T16:16:45+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Alcaraz wins Vienna Open to maintain perfect record",
+   "desc": "Carlos Alcaraz extends his winning run in ATP 500 events with a straight-set victory over Alex de Minaur at the Vienna Open.",
+   "link": "https://www.bbc.com/sport/tennis/articles/crd6dezj8v86o",
+   "time": "2026-11-01T16:10:39+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "How Dart revived career with help of Wimbledon champion",
+   "desc": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cmrlyw2y0gxzo",
+   "time": "2026-11-01T15:55:46+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Green Party at 'crossroads' after Zionism vote, says former co-leader",
+   "desc": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues.",
+   "link": "https://www.bbc.com/news/articles/c6x2wkp7e0q9o",
+   "time": "2026-11-01T15:52:51+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Defeat for London City against Man City - but is Europe a real possibility?",
+   "desc": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+   "link": "https://www.bbc.com/sport/football/articles/cj93z2nk2694o",
+   "time": "2026-11-01T15:49:47+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Referee accidentally fractures college football player's leg",
+   "desc": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls.",
+   "link": "https://www.bbc.com/sport/american-football/articles/ck30ey1ezmyqo",
+   "time": "2026-11-01T15:17:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Five teenagers stabbed at Halloween party",
+   "desc": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+   "link": "https://www.bbc.com/news/articles/c6n4ed1l2pn1o",
+   "time": "2026-11-01T15:01:31+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
+   "time": "2026-11-01T14:11:35+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Seven arrested after city centre firework disorder",
+   "desc": "Those arrested are being held on suspicion of offences including assault and possession of fireworks.",
+   "link": "https://www.bbc.com/news/articles/c8p3g64xn9nwo",
+   "time": "2026-11-01T13:58:34+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "The plan England's rugby league bosses hope avoids repeat of World Cup pain",
+   "desc": "After England exit the Men's and Women's Rugby League World Cups at the group stage, the RFL announces plans designed to prevent a repeat.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c5y439xp22n7o",
+   "time": "2026-11-01T13:56:16+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Yamaha will not travel to Qatar for MotoGP race",
+   "desc": "Yamaha withdraw from the Qatar MotoGP race - could there be implications for Formula 1, with two races currently scheduled in the Middle East to end the season?",
+   "link": "https://www.bbc.com/sport/formula1/articles/cm98z2966128o",
+   "time": "2026-11-01T13:51:53+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Cambridge scientist dies in Spanish train crash",
+   "desc": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+   "link": "https://www.bbc.com/news/articles/cq5ynzvkn1d8o",
+   "time": "2026-11-01T13:41:05+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+   "desc": "More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.",
+   "link": "https://www.bbc.com/news/articles/c98rz23ed781o",
+   "time": "2026-11-01T13:41:00+00:00",
+   "cat": "uk",
+   "top": false
+  },
   {
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
    "desc": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
    "link": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
-   "time": "2026-11-01T09:28:06+00:00",
+   "time": "2026-11-01T13:11:37+00:00",
    "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "link": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
+   "time": "2026-11-01T11:57:48+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Sir Tom Jones mentors Cardiff singer to victory on The Voice UK",
+   "desc": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
+   "link": "https://www.bbc.com/news/articles/c8y56vp10075o",
+   "time": "2026-11-01T11:46:17+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Healey risks breaking minimum wage promise for younger workers",
+   "desc": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+   "link": "https://www.bbc.com/news/articles/cv369266644lo",
+   "time": "2026-11-01T11:05:40+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Reeves says UK's future should be inside the EU",
+   "desc": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
+   "link": "https://www.bbc.com/news/articles/c62l4yz0eexpo",
+   "time": "2026-11-01T10:47:03+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Former European champion and two-time Olympian Mageean dies aged 34",
+   "desc": "Ciara Mageean, who won a European title and twice represented Ireland at the Olympics, dies aged 34.",
+   "link": "https://www.bbc.com/sport/athletics/articles/cn81px29032o",
+   "time": "2026-11-01T10:45:42+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Northern Lights dance across UK sky on Halloween night",
+   "desc": "Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night.",
+   "link": "https://www.bbc.com/weather/articles/c3pwge119lnvo",
+   "time": "2026-11-01T10:16:27+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -15,46 +167,6 @@
    "link": "https://www.bbc.com/news/videos/crwyd2lyj15go",
    "time": "2026-11-01T08:57:56+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Shops looted as German cost of living protests turn violent",
-   "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "link": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
-   "time": "2026-11-01T08:43:00+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Second night of drone disruption at Jersey Airport",
-   "desc": "Jersey Airport said it was \"experiencing disruption.... affecting inbound flights as a result of further drone activity\".",
-   "link": "https://www.bbc.com/news/articles/cqkgl4nmp8lyo",
-   "time": "2026-11-01T08:31:59+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
-   "desc": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
-   "link": "https://www.bbc.com/news/articles/ck1exyj525d9o",
-   "time": "2026-11-01T08:09:26+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Third-choice? Inside Alexander-Arnold's struggles in Madrid",
-   "desc": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
-   "link": "https://www.bbc.com/sport/football/articles/c9e8lp357je7o",
-   "time": "2026-11-01T07:42:08+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
-   "desc": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
-   "link": "https://www.bbc.com/sport/football/articles/ckzd6217j7pgo",
-   "time": "2026-11-01T07:38:15+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -75,26 +187,10 @@
   },
   {
    "title": "India's opposition holds mega rally seeking election chief's resignation",
-   "desc": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "desc": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
    "link": "https://www.bbc.com/news/articles/c60qk92dvlwgo",
    "time": "2026-11-01T07:00:55+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Wales hit by Australia century in World Cup record defeat",
-   "desc": "Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cked34glxp0no",
-   "time": "2026-11-01T06:57:05+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Thick fog to create hazardous driving conditions into next week",
-   "desc": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week.",
-   "link": "https://www.bbc.com/weather/articles/c3n04pl19zzqo",
-   "time": "2026-11-01T06:51:06+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -112,38 +208,6 @@
    "time": "2026-11-01T06:35:37+00:00",
    "cat": "sci",
    "top": false
-  },
-  {
-   "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
-   "desc": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
-   "link": "https://www.bbc.com/sport/cricket/articles/cm1j3yd6994yo",
-   "time": "2026-11-01T06:29:50+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-   "desc": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-   "link": "https://www.bbc.com/news/articles/cmy0r2y6zeddo",
-   "time": "2026-11-01T06:03:57+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-   "desc": "The supermodel and TV host provided a gory new shock at her New York event.",
-   "link": "https://www.bbc.com/news/videos/cj040yd1xdrlo",
-   "time": "2026-11-01T05:26:02+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Reeves says UK's future should be inside the EU",
-   "desc": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
-   "link": "https://www.bbc.com/news/articles/c62l4yz0eexpo",
-   "time": "2026-11-01T02:57:34+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
@@ -170,11 +234,27 @@
    "top": true
   },
   {
-   "title": "On 'tense' Antonelli's big weekend, this was Hamilton's day",
-   "desc": "As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.",
-   "link": "https://www.bbc.com/sport/formula1/articles/cje36e0gze4ko",
-   "time": "2026-11-01T00:35:28+00:00",
-   "cat": "sport",
+   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "desc": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+   "link": "https://www.bbc.com/news/articles/cmwyq2gg1yzzo",
+   "time": "2026-11-01T00:46:12+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+   "desc": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+   "link": "https://www.bbc.com/news/articles/cwr5yj2lj9myo",
+   "time": "2026-11-01T00:41:24+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Judge orders Trump administration to stop threatening US election officials",
+   "desc": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+   "link": "https://www.bbc.com/news/articles/c8qln1539y37o",
+   "time": "2026-11-01T00:27:33+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -194,52 +274,12 @@
    "top": true
   },
   {
-   "title": "Are Manchester United really at risk of a relegation scrap?",
-   "desc": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-   "link": "https://www.bbc.com/sport/football/articles/c8g47wl06vkqo",
-   "time": "2026-10-31T23:52:28+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Ocon denies reports of physical altercation behind dropping",
-   "desc": "Esteban Ocon denies reports that his being dropped by Haas at the Mexico City Grand Prix was a consequence of a row with team principal Ayao Komatsu descending into a physical confrontation.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c3n04vjjpkv4o",
-   "time": "2026-10-31T23:43:41+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Canelo reclaims title with vintage win over Mbilli",
-   "desc": "Saul 'Canelo' Alvarez reclaims the WBC super-middleweight title with a vintage performance against Christian Mbilli in Riyadh.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cmy4xey44yqno",
-   "time": "2026-10-31T23:42:30+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home to Sri Lanka",
+   "title": "I've been stuck on a tiny Pacific island for years because of visa rules",
    "desc": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
    "link": "https://www.bbc.com/news/articles/cmq5npz5l5geo",
    "time": "2026-10-31T23:06:13+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
-   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
-   "time": "2026-10-31T22:56:15+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "McInnes demands more after delivering Rangers' trophy chance",
-   "desc": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
-   "link": "https://www.bbc.com/sport/football/articles/c83vqypr511po",
-   "time": "2026-10-31T22:40:38+00:00",
-   "cat": "sport",
-   "top": false
   },
   {
    "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
@@ -258,19 +298,27 @@
    "top": false
   },
   {
-   "title": "Thousands demonstrate in Paris as protests spread across Europe",
-   "desc": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-   "link": "https://www.bbc.com/news/videos/ck0j0y87j303o",
-   "time": "2026-10-31T21:29:01+00:00",
-   "cat": "world",
+   "title": "Coventry out of bottom three with win over struggling Sunderland",
+   "desc": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
+   "link": "https://www.bbc.com/sport/football/videos/cm93zv0zkjqlo",
+   "time": "2026-10-31T22:29:50+00:00",
+   "cat": "sport",
    "top": false
   },
   {
-   "title": "Fireworks and fancy dress at Derry's 40th Halloween festival",
-   "desc": "Tens of thousands of revellers took to the streets of Londonderry for the city's annual Halloween parade.",
-   "link": "https://www.bbc.com/news/articles/cmly095jjnwlo",
-   "time": "2026-10-31T21:06:08+00:00",
-   "cat": "uk",
+   "title": "Enciso's stunning goal earns Ipswich draw at Hull",
+   "desc": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the  MKM Stadium.",
+   "link": "https://www.bbc.com/sport/football/videos/c8qln4qq2656o",
+   "time": "2026-10-31T22:29:40+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Spurs revival continues with victory over 10-man Crystal Palace",
+   "desc": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.",
+   "link": "https://www.bbc.com/sport/football/videos/cxvgdrg33m72o",
+   "time": "2026-10-31T22:29:29+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -282,14 +330,6 @@
    "top": false
   },
   {
-   "title": "Maresca's big test is to address mounting Man City issues",
-   "desc": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
-   "link": "https://www.bbc.com/sport/football/articles/cve8rkd8r302o",
-   "time": "2026-10-31T19:05:41+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
    "desc": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
    "link": "https://www.bbc.com/news/articles/cqx2818elrnzo",
@@ -298,35 +338,11 @@
    "top": false
   },
   {
-   "title": "Healey risks breaking minimum wage promise for younger workers",
-   "desc": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
-   "link": "https://www.bbc.com/news/articles/cv369266644lo",
-   "time": "2026-10-31T17:26:29+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Watch: Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
-   "desc": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
-   "link": "https://www.bbc.com/news/videos/cmy83w0jwznpo",
-   "time": "2026-10-31T16:55:47+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
    "desc": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
    "link": "https://www.bbc.com/news/articles/cm4g18l8l4wgo",
    "time": "2026-10-31T16:49:18+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Everton striker's relief family not home during burglary",
-   "desc": "The French striker says he is relieved his family were not at home as he played against Newcastle United.",
-   "link": "https://www.bbc.com/news/articles/cwm26rnyrk23o",
-   "time": "2026-10-31T15:27:55+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -351,14 +367,6 @@
    "link": "https://www.bbc.com/news/articles/c9rkypk1g7k0o",
    "time": "2026-10-31T13:41:07+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
-   "desc": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies.",
-   "link": "https://www.bbc.com/news/articles/cxnv0p4l7rjlo",
-   "time": "2026-10-31T13:20:39+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -394,14 +402,6 @@
    "top": false
   },
   {
-   "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-   "desc": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
-   "link": "https://www.bbc.com/news/articles/cm62yxxd992eo",
-   "time": "2026-10-31T05:16:01+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
    "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
    "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
@@ -414,15 +414,7 @@
    "desc": "Countries have been trying to get a global agreement to halt nature decline back on track.",
    "link": "https://www.bbc.com/news/articles/cw1l32qyj8pqo",
    "time": "2026-10-31T01:27:05+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Police deployed during stand-off over control of top Poland court",
-   "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-   "link": "https://www.bbc.com/news/articles/crz9824d5e88o",
-   "time": "2026-10-31T01:11:43+00:00",
-   "cat": "world",
+   "cat": "sci",
    "top": false
   },
   {
@@ -510,7 +502,7 @@
    "desc": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
    "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
    "time": "2026-10-30T12:04:02+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -615,14 +607,6 @@
    "link": "https://www.bbc.com/news/videos/cm93zere04plo",
    "time": "2026-10-29T18:31:27+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "George Michael's Faith guitar sells for £180k after auction row",
-   "desc": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
-   "link": "https://www.bbc.com/news/articles/cmr4y51gd5yro",
-   "time": "2026-10-29T18:26:42+00:00",
-   "cat": "cul",
    "top": false
   },
   {
