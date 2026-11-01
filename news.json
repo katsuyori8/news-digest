@@ -1,17 +1,97 @@
 {
- "updated": "2026-10-31T23:09:23.364468+00:00",
+ "updated": "2026-11-01T02:28:08.619235+00:00",
  "items": [
+  {
+   "title": "Second night of drone disruption at Jersey Airport",
+   "desc": "Jersey Airport said it was \"experiencing disruption.... affecting inbound flights as a result of further drone activity\".",
+   "link": "https://www.bbc.com/news/articles/cqkgl4nmp8lyo",
+   "time": "2026-11-01T01:52:00+00:00",
+   "cat": "uk",
+   "top": false
+  },
   {
    "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
    "desc": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
    "link": "https://www.bbc.com/sport/formula1/articles/c6reyl8zp3jwo",
-   "time": "2026-10-31T23:07:02+00:00",
+   "time": "2026-11-01T01:37:50+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+   "desc": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+   "link": "https://www.bbc.com/news/articles/cje36degrgv5o",
+   "time": "2026-11-01T01:37:26+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+   "desc": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+   "link": "https://www.bbc.com/news/articles/c893z699q401o",
+   "time": "2026-11-01T00:55:06+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "On 'tense' Antonelli's big weekend, this was Hamilton's day",
+   "desc": "As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cje36e0gze4ko",
+   "time": "2026-11-01T00:35:28+00:00",
    "cat": "sport",
    "top": false
   },
   {
+   "title": "Thick fog to create hazardous driving conditions into next week",
+   "desc": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week.",
+   "link": "https://www.bbc.com/weather/articles/c3n04pl19zzqo",
+   "time": "2026-11-01T00:33:04+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+   "desc": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+   "link": "https://www.bbc.com/news/articles/ckjwez8g5dyeo",
+   "time": "2026-11-01T00:17:05+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "desc": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "link": "https://www.bbc.com/news/articles/c60qk92dvlwgo",
+   "time": "2026-11-01T00:12:07+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Who are the real winners of Celebrity Traitors?",
+   "desc": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+   "link": "https://www.bbc.com/news/articles/cmx2qg0nezrgo",
+   "time": "2026-11-01T00:06:01+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Are Manchester United really at risk of a relegation scrap?",
+   "desc": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+   "link": "https://www.bbc.com/sport/football/articles/c8g47wl06vkqo",
+   "time": "2026-10-31T23:52:28+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "desc": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+   "link": "https://www.bbc.com/news/articles/cmq5npz5l5geo",
+   "time": "2026-10-31T23:06:13+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
    "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-   "desc": "The King will deliver a speech to Commonwealth Heads of Government Meeting as he concludes his nine-day Caribbean tour.",
+   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
    "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
    "time": "2026-10-31T22:56:15+00:00",
    "cat": "uk",
@@ -98,14 +178,6 @@
    "top": false
   },
   {
-   "title": "Why did this Korean content creator throw a divorce ceremony?",
-   "desc": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
-   "link": "https://www.bbc.com/news/videos/c51kd2jyjr1eo",
-   "time": "2026-10-31T22:01:39+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Thousands demonstrate in Paris as protests spread across Europe",
    "desc": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
    "link": "https://www.bbc.com/news/videos/ck0j0y87j303o",
@@ -138,19 +210,19 @@
    "top": true
   },
   {
+   "title": "Maresca's big test is to address mounting Man City issues",
+   "desc": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
+   "link": "https://www.bbc.com/sport/football/articles/cve8rkd8r302o",
+   "time": "2026-10-31T19:05:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
    "desc": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
    "link": "https://www.bbc.com/news/articles/cqx2818elrnzo",
    "time": "2026-10-31T17:53:35+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-   "desc": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
-   "link": "https://www.bbc.com/sport/football/articles/ckvg64xp1e1eo",
-   "time": "2026-10-31T17:27:06+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -167,7 +239,7 @@
    "link": "https://www.bbc.com/news/articles/cm4g18l8l4wgo",
    "time": "2026-10-31T16:49:18+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Everton striker's relief family not home during burglary",
@@ -183,14 +255,6 @@
    "link": "https://www.bbc.com/news/articles/cj5ynryyep2yo",
    "time": "2026-10-31T15:16:20+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "'Greedy' solicitor used fake will-writing invoices to defraud cancer charity out of thousands",
-   "desc": "The money paid to Michael Fogg could have been used by Cancer Research UK to pay for 48 biopsies.",
-   "link": "https://www.bbc.com/news/articles/cmvg7zgrzdjzo",
-   "time": "2026-10-31T14:59:36+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -242,14 +306,6 @@
    "top": false
   },
   {
-   "title": "Man guilty of rape after woman's phone recording",
-   "desc": "Police said the recording, in which she is heard saying \"no\", provided key evidence.",
-   "link": "https://www.bbc.com/news/articles/c6d93p449kngo",
-   "time": "2026-10-31T09:05:49+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Brit School North arts college plan given go-ahead",
    "desc": "Inspired by the world-famous Brit School, the college will be built in the centre of Bradford.",
    "link": "https://www.bbc.com/news/articles/c6lykpepxk0eo",
@@ -262,14 +318,6 @@
    "desc": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing.",
    "link": "https://www.bbc.com/news/articles/cm9dz48g24yzo",
    "time": "2026-10-31T07:19:00+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Call for lottery gambling controls after dad's death",
-   "desc": "A coroner says there is a risk of further deaths unless the National Lottery is included in the scheme.",
-   "link": "https://www.bbc.com/news/articles/cm79p4q8gn31o",
-   "time": "2026-10-31T06:09:25+00:00",
    "cat": "uk",
    "top": false
   },
@@ -290,14 +338,6 @@
    "top": false
   },
   {
-   "title": "The fight to save Canadian town threatened by Trump's tariffs",
-   "desc": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-   "link": "https://www.bbc.com/news/articles/cmly016ep243o",
-   "time": "2026-10-31T02:39:25+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "The final reveal of the Celebrity Traitors",
    "desc": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
    "link": "https://www.bbc.com/news/videos/cmeq3ppg7wrno",
@@ -312,14 +352,6 @@
    "time": "2026-10-31T02:12:19+00:00",
    "cat": "tech",
    "top": false
-  },
-  {
-   "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-   "desc": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
-   "link": "https://www.bbc.com/news/articles/ckreypn92w49o",
-   "time": "2026-10-31T01:32:33+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Global nature talks reach deal but money remains an issue",
@@ -338,36 +370,12 @@
    "top": false
   },
   {
-   "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-   "desc": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
-   "link": "https://www.bbc.com/news/articles/ckq6nz4286r4o",
-   "time": "2026-10-31T00:16:03+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "UK could see 10 days without rain after 'wettest week in two years'",
    "desc": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
    "link": "https://www.bbc.com/weather/articles/cq98zrwd42jzo",
    "time": "2026-10-31T00:06:31+00:00",
    "cat": "sci",
    "top": false
-  },
-  {
-   "title": "Watch: Match of the Day",
-   "desc": "Highlights from eight Premier League matches, including Manchester City against Brighton.",
-   "link": "https://www.bbc.com/iplayer/live/bbcone",
-   "time": "2026-10-31T00:00:00+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-   "desc": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-   "link": "https://www.bbc.com/news/articles/cmjwepvd0qq9o",
-   "time": "2026-10-30T23:26:16+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -391,14 +399,6 @@
    "link": "https://www.bbc.com/news/articles/cqp8gpw15e8yo",
    "time": "2026-10-30T21:12:25+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-   "desc": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-   "link": "https://www.bbc.com/news/articles/cmewepdr109do",
-   "time": "2026-10-30T20:41:51+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -630,14 +630,6 @@
    "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
    "link": "https://www.bbc.com/news/articles/c63djl148n3eo",
    "time": "2026-10-28T19:15:58+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "'An annoying buzz': The search for stealthier drones",
-   "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-   "link": "https://www.bbc.com/news/articles/ck1exgejq3xvo",
-   "time": "2026-10-28T00:01:10+00:00",
    "cat": "tech",
    "top": false
   },
