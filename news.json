@@ -1,13 +1,149 @@
 {
- "updated": "2026-11-01T02:28:08.619235+00:00",
+ "updated": "2026-11-01T09:37:01.856373+00:00",
  "items": [
+  {
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "desc": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "link": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
+   "time": "2026-11-01T09:28:06+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Spill from vandalised home oil tank kills 13 birds",
+   "desc": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+   "link": "https://www.bbc.com/news/videos/crwyd2lyj15go",
+   "time": "2026-11-01T08:57:56+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Shops looted as German cost of living protests turn violent",
+   "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "link": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
+   "time": "2026-11-01T08:43:00+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "Second night of drone disruption at Jersey Airport",
    "desc": "Jersey Airport said it was \"experiencing disruption.... affecting inbound flights as a result of further drone activity\".",
    "link": "https://www.bbc.com/news/articles/cqkgl4nmp8lyo",
-   "time": "2026-11-01T01:52:00+00:00",
+   "time": "2026-11-01T08:31:59+00:00",
    "cat": "uk",
    "top": false
+  },
+  {
+   "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
+   "desc": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+   "link": "https://www.bbc.com/news/articles/ck1exyj525d9o",
+   "time": "2026-11-01T08:09:26+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Third-choice? Inside Alexander-Arnold's struggles in Madrid",
+   "desc": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
+   "link": "https://www.bbc.com/sport/football/articles/c9e8lp357je7o",
+   "time": "2026-11-01T07:42:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+   "desc": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
+   "link": "https://www.bbc.com/sport/football/articles/ckzd6217j7pgo",
+   "time": "2026-11-01T07:38:15+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+   "desc": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+   "link": "https://www.bbc.com/news/articles/cry8317pdp5yo",
+   "time": "2026-11-01T07:08:04+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Hospital admits full responsibility for 24 failures that led to toddler's death",
+   "desc": "Eleanor Aldred-Owen died after surgery because an abnormal scan was not flagged.",
+   "link": "https://www.bbc.com/news/articles/cmn06eldj9rwo",
+   "time": "2026-11-01T07:07:44+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "India's opposition holds mega rally seeking election chief's resignation",
+   "desc": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "link": "https://www.bbc.com/news/articles/c60qk92dvlwgo",
+   "time": "2026-11-01T07:00:55+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Wales hit by Australia century in World Cup record defeat",
+   "desc": "Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cked34glxp0no",
+   "time": "2026-11-01T06:57:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Thick fog to create hazardous driving conditions into next week",
+   "desc": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week.",
+   "link": "https://www.bbc.com/weather/articles/c3n04pl19zzqo",
+   "time": "2026-11-01T06:51:06+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+   "desc": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
+   "link": "https://www.bbc.com/news/articles/c64g14ene2epo",
+   "time": "2026-11-01T06:42:13+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "'Rok' solid recognition for Slovenian space scientist",
+   "desc": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
+   "link": "https://www.bbc.com/news/articles/cqx283v54zd6o",
+   "time": "2026-11-01T06:35:37+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+   "desc": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
+   "link": "https://www.bbc.com/sport/cricket/articles/cm1j3yd6994yo",
+   "time": "2026-11-01T06:29:50+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+   "desc": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+   "link": "https://www.bbc.com/news/articles/cmy0r2y6zeddo",
+   "time": "2026-11-01T06:03:57+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+   "desc": "The supermodel and TV host provided a gory new shock at her New York event.",
+   "link": "https://www.bbc.com/news/videos/cj040yd1xdrlo",
+   "time": "2026-11-01T05:26:02+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Reeves says UK's future should be inside the EU",
+   "desc": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
+   "link": "https://www.bbc.com/news/articles/c62l4yz0eexpo",
+   "time": "2026-11-01T02:57:34+00:00",
+   "cat": "uk",
+   "top": true
   },
   {
    "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
@@ -15,7 +151,7 @@
    "link": "https://www.bbc.com/sport/formula1/articles/c6reyl8zp3jwo",
    "time": "2026-11-01T01:37:50+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
@@ -42,47 +178,47 @@
    "top": false
   },
   {
-   "title": "Thick fog to create hazardous driving conditions into next week",
-   "desc": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week.",
-   "link": "https://www.bbc.com/weather/articles/c3n04pl19zzqo",
-   "time": "2026-11-01T00:33:04+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
    "desc": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
    "link": "https://www.bbc.com/news/articles/ckjwez8g5dyeo",
    "time": "2026-11-01T00:17:05+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": true
-  },
-  {
-   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-   "desc": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-   "link": "https://www.bbc.com/news/articles/c60qk92dvlwgo",
-   "time": "2026-11-01T00:12:07+00:00",
-   "cat": "world",
-   "top": false
   },
   {
    "title": "Who are the real winners of Celebrity Traitors?",
    "desc": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
    "link": "https://www.bbc.com/news/articles/cmx2qg0nezrgo",
    "time": "2026-11-01T00:06:01+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": true
   },
   {
    "title": "Are Manchester United really at risk of a relegation scrap?",
-   "desc": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+   "desc": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
    "link": "https://www.bbc.com/sport/football/articles/c8g47wl06vkqo",
    "time": "2026-10-31T23:52:28+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "title": "Ocon denies reports of physical altercation behind dropping",
+   "desc": "Esteban Ocon denies reports that his being dropped by Haas at the Mexico City Grand Prix was a consequence of a row with team principal Ayao Komatsu descending into a physical confrontation.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c3n04vjjpkv4o",
+   "time": "2026-10-31T23:43:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Canelo reclaims title with vintage win over Mbilli",
+   "desc": "Saul 'Canelo' Alvarez reclaims the WBC super-middleweight title with a vintage performance against Christian Mbilli in Riyadh.",
+   "link": "https://www.bbc.com/sport/boxing/articles/cmy4xey44yqno",
+   "time": "2026-10-31T23:42:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home to Sri Lanka",
    "desc": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
    "link": "https://www.bbc.com/news/articles/cmq5npz5l5geo",
    "time": "2026-10-31T23:06:13+00:00",
@@ -95,7 +231,15 @@
    "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
    "time": "2026-10-31T22:56:15+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
+  },
+  {
+   "title": "McInnes demands more after delivering Rangers' trophy chance",
+   "desc": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
+   "link": "https://www.bbc.com/sport/football/articles/c83vqypr511po",
+   "time": "2026-10-31T22:40:38+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
@@ -114,83 +258,11 @@
    "top": false
   },
   {
-   "title": "Coventry out of bottom three after win over struggling Sunderland",
-   "desc": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-   "link": "https://www.bbc.com/sport/football/videos/cm93zv0zkjqlo",
-   "time": "2026-10-31T22:29:50+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Enciso's stunning goal earns Ipswich draw at Hull",
-   "desc": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the  MKM Stadium.",
-   "link": "https://www.bbc.com/sport/football/videos/c8qln4qq2656o",
-   "time": "2026-10-31T22:29:40+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Spurs revival continues with victory over 10-man Crystal Palace",
-   "desc": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.",
-   "link": "https://www.bbc.com/sport/football/videos/cxvgdrg33m72o",
-   "time": "2026-10-31T22:29:29+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Evanilson scores again as Bournemouth beat Leeds",
-   "desc": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.",
-   "link": "https://www.bbc.com/sport/football/videos/c6zxj1vzwx1xo",
-   "time": "2026-10-31T22:29:21+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Thiago on target as Brentford beat Forest",
-   "desc": "Igor Thiago's second-half goal helps Brentford to their first win in five as they beat Nottingham Forest 2-0 at the Gtech Community Stadium.",
-   "link": "https://www.bbc.com/sport/football/videos/ck1l3z063n8vo",
-   "time": "2026-10-31T22:29:11+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Suzuki mistake gifts Fulham point at Villa",
-   "desc": "Aston Villa goalkeeper Zion Suzuki's second-half mistake sees Fulham secure a 1-1 draw at Villa Park after Nicolas Jackson had given the hosts the lead.",
-   "link": "https://www.bbc.com/sport/football/videos/cmwy9rylr0e6o",
-   "time": "2026-10-31T22:29:02+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "desc": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-   "link": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
-   "time": "2026-10-31T22:11:45+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-   "desc": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
-   "link": "https://www.bbc.com/news/articles/cry8317pdp5yo",
-   "time": "2026-10-31T22:07:56+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Thousands demonstrate in Paris as protests spread across Europe",
    "desc": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
    "link": "https://www.bbc.com/news/videos/ck0j0y87j303o",
    "time": "2026-10-31T21:29:01+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Are De Zerbi's Spurs finding elusive consistency?",
-   "desc": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
-   "link": "https://www.bbc.com/sport/football/articles/c6n04v897qe4o",
-   "time": "2026-10-31T21:16:11+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -207,7 +279,7 @@
    "link": "https://www.bbc.com/news/articles/cqglw3k7djp1o",
    "time": "2026-10-31T19:22:26+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Maresca's big test is to address mounting Man City issues",
@@ -231,6 +303,14 @@
    "link": "https://www.bbc.com/news/articles/cv369266644lo",
    "time": "2026-10-31T17:26:29+00:00",
    "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Watch: Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+   "desc": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+   "link": "https://www.bbc.com/news/videos/cmy83w0jwznpo",
+   "time": "2026-10-31T16:55:47+00:00",
+   "cat": "world",
    "top": true
   },
   {
@@ -282,14 +362,6 @@
    "top": false
   },
   {
-   "title": "Motorcyclist dies after falling into sea in cliffside beauty spot crash",
-   "desc": "The man was recovered from the water and airlifted to hospital but was pronounced dead, police say.",
-   "link": "https://www.bbc.com/news/articles/cqm24p57d0p8o",
-   "time": "2026-10-31T12:04:13+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Celebrity Traitors comes to a climax in nail-biting final",
    "desc": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
    "link": "https://www.bbc.com/news/articles/cw4g17z11l45o",
@@ -314,14 +386,6 @@
    "top": false
   },
   {
-   "title": "UK has 'no authority' over case of woman killed by father in US",
-   "desc": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing.",
-   "link": "https://www.bbc.com/news/articles/cm9dz48g24yzo",
-   "time": "2026-10-31T07:19:00+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Spain train disaster clouds Sánchez chances of re-election",
    "desc": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
    "link": "https://www.bbc.com/news/articles/cmeweppr990qo",
@@ -335,14 +399,6 @@
    "link": "https://www.bbc.com/news/articles/cm62yxxd992eo",
    "time": "2026-10-31T05:16:01+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "The final reveal of the Celebrity Traitors",
-   "desc": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
-   "link": "https://www.bbc.com/news/videos/cmeq3ppg7wrno",
-   "time": "2026-10-31T02:20:46+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -375,14 +431,6 @@
    "link": "https://www.bbc.com/weather/articles/cq98zrwd42jzo",
    "time": "2026-10-31T00:06:31+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "desc": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-   "link": "https://www.bbc.com/news/articles/cmd6dp2y576do",
-   "time": "2026-10-30T22:11:52+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -514,8 +562,8 @@
    "top": false
   },
   {
-   "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
-   "desc": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.",
+   "title": "Dry weather for most of the UK for next ten days",
+   "desc": "High pressure is set to bring a long spell of dry weather to the UK doing little to alleviate drought conditions across most of England.",
    "link": "https://www.bbc.com/weather/articles/c6ly075l742ro",
    "time": "2026-10-30T06:18:35+00:00",
    "cat": "sci",
@@ -578,22 +626,6 @@
    "top": false
   },
   {
-   "title": "Faisal Islam: This Budget was micro and that was deliberate",
-   "desc": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-   "link": "https://www.bbc.com/news/articles/cwx283zynnv3o",
-   "time": "2026-10-29T15:48:44+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Serious pollution by water industry remains high despite £5bn investment",
-   "desc": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-   "link": "https://www.bbc.com/news/articles/cw5ynxepy4gno",
-   "time": "2026-10-29T12:08:01+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
    "desc": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
    "link": "https://www.bbc.com/news/articles/c6ly3027820lo",
@@ -618,27 +650,11 @@
    "top": false
   },
   {
-   "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-   "desc": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-   "link": "https://www.bbc.com/news/articles/c574pj3zljvjo",
-   "time": "2026-10-28T23:11:59+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
    "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
    "link": "https://www.bbc.com/news/articles/c63djl148n3eo",
    "time": "2026-10-28T19:15:58+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Weather warning lifted as third storm to hit Scotland eases off",
-   "desc": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
-   "link": "https://www.bbc.com/news/articles/c5vgj8xwyj1zo",
-   "time": "2026-10-27T21:20:52+00:00",
-   "cat": "sci",
    "top": false
   }
  ]
