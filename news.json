@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-02T00:32:05.193385+00:00",
+ "updated": "2026-11-02T07:24:27.763931+00:00",
  "items": [
+  {
+   "title": "Nine killed as small jet crashes on Florida street",
+   "desc": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+   "link": "https://www.bbc.com/news/articles/cm369yy7lw73o",
+   "time": "2026-11-02T07:12:55+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Zverev becomes deserved world number one - but sense of discomfort remains",
+   "desc": "Alexander Zverev has been the best player in the world in men's tennis this year - but a sense of discomfort remains.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cwkg5z5jmye0o",
+   "time": "2026-11-02T06:44:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+   "desc": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+   "link": "https://www.bbc.com/news/articles/c3qjn8117kwjo",
+   "time": "2026-11-02T06:00:54+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+   "desc": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+   "link": "https://www.bbc.com/news/videos/cqvgjljj74n8o",
+   "time": "2026-11-02T04:40:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Trump makes fevered campaign push in final weekend before election",
+   "desc": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+   "link": "https://www.bbc.com/news/articles/c3j47gjx29vro",
+   "time": "2026-11-02T04:04:28+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+   "desc": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+   "link": "https://www.bbc.com/news/articles/cq78pypg0800o",
+   "time": "2026-11-02T03:58:38+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+   "desc": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+   "link": "https://www.bbc.com/news/articles/cwj34gdmnly4o",
+   "time": "2026-11-02T03:32:14+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Antonelli clinched the title - but who shone most in Mexico? Driver ratings",
+   "desc": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Mexico City Grand Prix.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c95ynznzkm10o",
+   "time": "2026-11-02T03:09:17+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
+   "time": "2026-11-02T02:46:55+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "How Antonelli 'blew everyone away' to make Formula 1 history",
+   "desc": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c6m2dj7ze9v2o",
+   "time": "2026-11-02T01:47:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "A&E warning system to flag sick children deteriorating quickly",
+   "desc": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care.",
+   "link": "https://www.bbc.com/news/articles/cw1m42zdnn3go",
+   "time": "2026-11-02T00:51:24+00:00",
+   "cat": "uk",
+   "top": true
+  },
   {
    "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
    "desc": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
@@ -10,27 +98,19 @@
    "top": false
   },
   {
-   "title": "Binance users withdraw billions after record crypto hack",
-   "desc": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-   "link": "https://www.bbc.com/news/articles/cwj34gdmnly4o",
-   "time": "2026-11-02T00:26:30+00:00",
-   "cat": "tech",
-   "top": true
-  },
-  {
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "desc": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-   "link": "https://www.bbc.com/news/articles/c95ynzv88n68o",
-   "time": "2026-11-02T00:02:15+00:00",
+   "title": "Anthony Zurcher: Democrats have high hopes for midterms, but polls have let them down before",
+   "desc": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+   "link": "https://www.bbc.com/news/articles/cmg47p3edv4do",
+   "time": "2026-11-02T00:25:12+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-   "desc": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
-   "link": "https://www.bbc.com/sport/football/videos/ck9dz227v751o",
-   "time": "2026-11-02T00:00:21+00:00",
-   "cat": "sport",
+   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "desc": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+   "link": "https://www.bbc.com/news/articles/cwvg05z184j0o",
+   "time": "2026-11-02T00:15:30+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -55,7 +135,7 @@
    "link": "https://www.bbc.com/news/articles/cj3vqy1g3eygo",
    "time": "2026-11-01T23:31:31+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
@@ -63,22 +143,6 @@
    "link": "https://www.bbc.com/sport/formula1/articles/cv62y1e6wly6o",
    "time": "2026-11-01T23:20:54+00:00",
    "cat": "sport",
-   "top": true
-  },
-  {
-   "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
-   "desc": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-   "link": "https://www.bbc.com/news/articles/cm369yy7lw73o",
-   "time": "2026-11-01T23:15:56+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-   "desc": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-   "link": "https://www.bbc.com/news/articles/c51kdy1ew7zvo",
-   "time": "2026-11-01T22:38:24+00:00",
-   "cat": "world",
    "top": true
   },
   {
@@ -104,22 +168,6 @@
    "time": "2026-11-01T22:25:01+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-   "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "link": "https://www.bbc.com/news/articles/c64g1y90p71eo",
-   "time": "2026-11-01T21:55:01+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
-   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
-   "time": "2026-11-01T21:18:12+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "I'll tell my players to dive in future - Iraola",
@@ -167,7 +215,7 @@
    "link": "https://www.bbc.com/news/articles/c68xz297kqleo",
    "time": "2026-11-01T17:53:55+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Karl Bushby 'overwhelmed' at Humber Bridge welcome",
@@ -175,7 +223,7 @@
    "link": "https://www.bbc.com/news/articles/c9146yve236lo",
    "time": "2026-11-01T17:18:16+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -194,19 +242,11 @@
    "top": false
   },
   {
-   "title": "Thousands of jobs at Virgin Media O2 to be cut",
-   "desc": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+   "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+   "desc": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
    "link": "https://www.bbc.com/news/articles/c6rry8x9d9qko",
    "time": "2026-11-01T16:57:14+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "How Dart revived career with help of Wimbledon champion",
-   "desc": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cmrlyw2y0gxzo",
-   "time": "2026-11-01T15:55:46+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -222,14 +262,6 @@
    "desc": "Those arrested are being held on suspicion of offences including assault and possession of fireworks.",
    "link": "https://www.bbc.com/news/articles/c8p3g64xn9nwo",
    "time": "2026-11-01T13:58:34+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Police probe video of officer hitting youth with handcuffs",
-   "desc": "A video which shows an officer hitting a youth is a \"small part of the incident\", police say.",
-   "link": "https://www.bbc.com/news/articles/cme8rkgpjk5ko",
-   "time": "2026-11-01T13:48:45+00:00",
    "cat": "uk",
    "top": false
   },
@@ -282,14 +314,6 @@
    "top": false
   },
   {
-   "title": "Andrew Benson Q&A: Send us your questions",
-   "desc": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
-   "link": "https://www.bbc.com/sport/formula1/articles/ckg3y15zje8o",
-   "time": "2026-11-01T10:27:50+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Spill from vandalised home oil tank kills 13 birds",
    "desc": "A number of birds are also injured after the spill from the oil tank earlier this week.",
    "link": "https://www.bbc.com/news/videos/crwyd2lyj15go",
@@ -335,30 +359,6 @@
    "link": "https://www.bbc.com/news/articles/cje36degrgv5o",
    "time": "2026-11-01T01:37:26+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "desc": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-   "link": "https://www.bbc.com/news/articles/cmwyq2gg1yzzo",
-   "time": "2026-11-01T00:46:12+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "desc": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-   "link": "https://www.bbc.com/news/articles/cwr5yj2lj9myo",
-   "time": "2026-11-01T00:41:24+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Judge orders Trump administration to stop threatening US election officials",
-   "desc": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-   "link": "https://www.bbc.com/news/articles/c8qln1539y37o",
-   "time": "2026-11-01T00:27:33+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -414,7 +414,7 @@
    "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
    "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
    "time": "2026-10-31T02:12:19+00:00",
-   "cat": "tech",
+   "cat": "biz",
    "top": false
   },
   {
@@ -462,14 +462,6 @@
    "desc": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
    "link": "https://www.bbc.com/news/articles/c98rz4pxm4ymo",
    "time": "2026-10-30T18:00:24+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Yorkshire Water boss resigns after firm downgraded",
-   "desc": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-   "link": "https://www.bbc.com/news/articles/ckzd623pldqgo",
-   "time": "2026-10-30T16:04:55+00:00",
    "cat": "biz",
    "top": false
   },
@@ -535,14 +527,6 @@
    "link": "https://www.bbc.com/news/articles/cr1ex26lgqlqo",
    "time": "2026-10-30T11:27:25+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Streeting denies 'kicking can down the road' in defence spending row",
-   "desc": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
-   "link": "https://www.bbc.com/news/articles/cw62yrzxjnk4o",
-   "time": "2026-10-30T11:23:38+00:00",
-   "cat": "biz",
    "top": false
   },
   {
