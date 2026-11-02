@@ -1,19 +1,131 @@
 {
- "updated": "2026-11-01T20:58:21.411916+00:00",
+ "updated": "2026-11-02T00:32:05.193385+00:00",
  "items": [
+  {
+   "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+   "desc": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cmwy7dl879gzo",
+   "time": "2026-11-02T00:28:28+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Binance users withdraw billions after record crypto hack",
+   "desc": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+   "link": "https://www.bbc.com/news/articles/cwj34gdmnly4o",
+   "time": "2026-11-02T00:26:30+00:00",
+   "cat": "tech",
+   "top": true
+  },
+  {
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "desc": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+   "link": "https://www.bbc.com/news/articles/c95ynzv88n68o",
+   "time": "2026-11-02T00:02:15+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+   "desc": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
+   "link": "https://www.bbc.com/sport/football/videos/ck9dz227v751o",
+   "time": "2026-11-02T00:00:21+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+   "desc": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+   "link": "https://www.bbc.com/sport/football/videos/cw7vpy99y606o",
+   "time": "2026-11-02T00:00:03+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Don't get caught out by new Buy Now Pay Later rules",
+   "desc": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+   "link": "https://www.bbc.com/news/articles/crpdgp4y017go",
+   "time": "2026-11-01T23:34:49+00:00",
+   "cat": "biz",
+   "top": false
+  },
   {
    "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
    "desc": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.",
    "link": "https://www.bbc.com/news/articles/cj3vqy1g3eygo",
-   "time": "2026-11-01T20:33:11+00:00",
+   "time": "2026-11-01T23:31:31+00:00",
    "cat": "uk",
    "top": true
   },
   {
-   "title": "Watch: Bundesliga highlights - matchday eight",
-   "desc": "Watch highlights from matchday eight in the Bundesliga.",
-   "link": "https://www.bbc.com/iplayer/episode/l00590gw",
-   "time": "2026-11-01T20:18:38+00:00",
+   "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+   "desc": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cv62y1e6wly6o",
+   "time": "2026-11-01T23:20:54+00:00",
+   "cat": "sport",
+   "top": true
+  },
+  {
+   "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+   "desc": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+   "link": "https://www.bbc.com/news/articles/cm369yy7lw73o",
+   "time": "2026-11-01T23:15:56+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "desc": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+   "link": "https://www.bbc.com/news/articles/c51kdy1ew7zvo",
+   "time": "2026-11-01T22:38:24+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Antonelli heads list of F1's youngest champions",
+   "desc": "As Kimi Antonelli becomes F1's youngest world champion, we look at how his achievement compares with some of the drivers who previously held the record.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cjy56wkdk3nko",
+   "time": "2026-11-01T22:28:28+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "How much do you know about F1 champion Antonelli?",
+   "desc": "Kimi Antonelli has been crowned Formula 1 world champion - how well do you know the Mercedes driver?",
+   "link": "https://www.bbc.com/sport/formula1/articles/c98rzkv5y115o",
+   "time": "2026-11-01T22:25:21+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Antonelli - the boy 'born in a garage' who became world champion",
+   "desc": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c0rdvxdwwwwo",
+   "time": "2026-11-01T22:25:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "link": "https://www.bbc.com/news/articles/c64g1y90p71eo",
+   "time": "2026-11-01T21:55:01+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
+   "time": "2026-11-01T21:18:12+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "I'll tell my players to dive in future - Iraola",
+   "desc": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
+   "link": "https://www.bbc.com/sport/football/articles/cvp8grpjk4leo",
+   "time": "2026-11-01T21:00:26+00:00",
    "cat": "sport",
    "top": false
   },
@@ -26,82 +138,10 @@
    "top": false
   },
   {
-   "title": "Boy, 14, hands himself into police over Bradley Lowery video",
-   "desc": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
-   "link": "https://www.bbc.com/sport/football/articles/c6z7x52w0r0zo",
-   "time": "2026-11-01T20:15:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-   "desc": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-   "link": "https://www.bbc.com/news/articles/c95ynzv88n68o",
-   "time": "2026-11-01T20:11:26+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Arsenal move clear at the top with a rare win at Liverpool",
    "desc": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
    "link": "https://www.bbc.com/sport/football/videos/cmly09yv9xl6o",
    "time": "2026-11-01T20:00:18+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-   "desc": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
-   "link": "https://www.bbc.com/news/articles/cq398y0zj9rpo",
-   "time": "2026-11-01T19:58:20+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-   "desc": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "link": "https://www.bbc.com/news/articles/c64g1y90p71eo",
-   "time": "2026-11-01T19:48:17+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
-   "desc": "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a penalty.",
-   "link": "https://www.bbc.com/sport/football/videos/cjdx3dpvevngo",
-   "time": "2026-11-01T19:37:44+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Arteta credits Fleetwood loss for spirited win at Anfield",
-   "desc": "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
-   "link": "https://www.bbc.com/sport/football/videos/cx2d2yxv84zo",
-   "time": "2026-11-01T19:21:49+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Peaceful protests in Germany spiral into violence and looting",
-   "desc": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-   "link": "https://www.bbc.com/news/videos/cqgm0der7zkmo",
-   "time": "2026-11-01T18:51:56+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Giant curiosity Hibs finally liberated from the sucker punch",
-   "desc": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
-   "link": "https://www.bbc.com/sport/football/articles/cxr5yjpnd31eo",
-   "time": "2026-11-01T18:45:49+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
-   "desc": "Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0 win against Racing Santander, moving only three points behind Barcelona at the top of La Liga.",
-   "link": "https://www.bbc.com/sport/football/videos/cv0ldye7k4g3o",
-   "time": "2026-11-01T18:37:48+00:00",
    "cat": "sport",
    "top": false
   },
@@ -119,7 +159,7 @@
    "link": "https://www.bbc.com/news/articles/c9kgj7k7ry0ro",
    "time": "2026-11-01T17:56:47+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Henry Nowak's family tell of trauma of seeing son handcuffed as he lay dying",
@@ -130,20 +170,12 @@
    "top": true
   },
   {
-   "title": "Are Celtic club in regression amid run of six defeats in 10?",
-   "desc": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-   "link": "https://www.bbc.com/sport/football/articles/cmvg7d1xl8epo",
-   "time": "2026-11-01T17:34:12+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Karl Bushby 'overwhelmed' at Humber Bridge welcome",
    "desc": "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.",
    "link": "https://www.bbc.com/news/articles/c9146yve236lo",
    "time": "2026-11-01T17:18:16+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -151,7 +183,7 @@
    "link": "https://www.bbc.com/news/articles/cmqln14rrzxvo",
    "time": "2026-11-01T17:06:32+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "University of Cambridge scientist among those who died in Spanish train crash",
@@ -159,14 +191,6 @@
    "link": "https://www.bbc.com/news/articles/cq5ynzvkn1d8o",
    "time": "2026-11-01T17:05:18+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Gavin and Stacey actor hopes his band will be 'the next Stereophonics'",
-   "desc": "Oscar Hartland, who played Neil the Baby, says he's on a \"mission to create a new modern sound for Wales\".",
-   "link": "https://www.bbc.com/news/articles/cmkgq0v87z8zo",
-   "time": "2026-11-01T17:01:06+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -182,22 +206,6 @@
    "desc": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
    "link": "https://www.bbc.com/sport/tennis/articles/cmrlyw2y0gxzo",
    "time": "2026-11-01T15:55:46+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Defeat for London City against Man City - but is Europe a real possibility?",
-   "desc": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-   "link": "https://www.bbc.com/sport/football/articles/cj93z2nk2694o",
-   "time": "2026-11-01T15:49:47+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Referee accidentally fractures college football player's leg",
-   "desc": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls.",
-   "link": "https://www.bbc.com/sport/american-football/articles/ck30ey1ezmyqo",
-   "time": "2026-11-01T15:17:04+00:00",
    "cat": "sport",
    "top": false
   },
@@ -274,11 +282,27 @@
    "top": false
   },
   {
+   "title": "Andrew Benson Q&A: Send us your questions",
+   "desc": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
+   "link": "https://www.bbc.com/sport/formula1/articles/ckg3y15zje8o",
+   "time": "2026-11-01T10:27:50+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "Spill from vandalised home oil tank kills 13 birds",
    "desc": "A number of birds are also injured after the spill from the oil tank earlier this week.",
    "link": "https://www.bbc.com/news/videos/crwyd2lyj15go",
    "time": "2026-11-01T08:57:56+00:00",
    "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
+   "desc": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+   "link": "https://www.bbc.com/news/articles/ck1exyj525d9o",
+   "time": "2026-11-01T08:09:26+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -359,14 +383,6 @@
    "link": "https://www.bbc.com/news/articles/cm4g18l8l4wgo",
    "time": "2026-10-31T16:49:18+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "desc": "Government data shows that more than 10,000 people have contracted the rare virus.",
-   "link": "https://www.bbc.com/news/articles/cj5ynryyep2yo",
-   "time": "2026-10-31T15:16:20+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -586,14 +602,6 @@
    "top": false
   },
   {
-   "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-   "desc": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-   "link": "https://www.bbc.com/news/articles/cqrky1p4dlm7o",
-   "time": "2026-10-29T19:11:10+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Firefighters celebrate rain during Indonesia wildfires",
    "desc": "A number of clips show firefighters celebrating in the rain.",
    "link": "https://www.bbc.com/news/videos/cm93zere04plo",
@@ -622,14 +630,6 @@
    "desc": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
    "link": "https://www.bbc.com/news/articles/c6m24klyjr8no",
    "time": "2026-10-29T01:27:40+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-   "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
-   "link": "https://www.bbc.com/news/articles/c63djl148n3eo",
-   "time": "2026-10-28T19:15:58+00:00",
    "cat": "tech",
    "top": false
   }
