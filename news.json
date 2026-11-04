@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-04T01:05:40.446771+00:00",
+ "updated": "2026-11-04T07:51:07.715734+00:00",
  "items": [
+  {
+   "title": "Ecstatic scenes and historic results: Key moments from US midterms",
+   "desc": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+   "link": "https://www.bbc.com/news/articles/cmr4y92rgd9po",
+   "time": "2026-11-04T07:40:12+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "desc": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+   "link": "https://www.bbc.com/news/articles/c699z8792n7ro",
+   "time": "2026-11-04T07:39:38+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "South Carolina elects Democratic senator for first time in almost three decades",
+   "desc": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+   "link": "https://www.bbc.com/news/articles/cjy56z440nl9o",
+   "time": "2026-11-04T07:32:02+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Poundland supplier 'will lose millions' if retailer collapses",
+   "desc": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+   "link": "https://www.bbc.com/news/articles/ck240mm3e42do",
+   "time": "2026-11-04T07:31:21+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "How America voted in maps and charts",
+   "desc": "See the maps and charts that show how America voted in the US midterm elections.",
+   "link": "https://www.bbc.com/news/articles/cm4g1j0n92qdo",
+   "time": "2026-11-04T07:24:59+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+   "desc": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
+   "link": "https://www.bbc.com/news/articles/c6d934npl9y8o",
+   "time": "2026-11-04T07:17:08+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Retiring Serrano wants to end as a 'game-changer'",
+   "desc": "Amanda Serrano said she wants to be remembered as a \"game-changer\" as she prepares for her farewell fight on home soil next year.",
+   "link": "https://www.bbc.com/sport/boxing/articles/c6n047870jzeo",
+   "time": "2026-11-04T07:12:33+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Florida Republicans fend off Democrats as state elects first black governor",
+   "desc": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+   "link": "https://www.bbc.com/news/articles/c9146d88pl32o",
+   "time": "2026-11-04T07:12:21+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/c6jdmg9mkg8mo",
+   "time": "2026-11-04T07:06:19+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Why rugby league needs Tonga-Samoa World Cup final",
+   "desc": "Tonga will face New Zealand after winning all three group matches, before Samoa face Australia in a repeat of the 2022 final.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c9kgj3elgmkzo",
+   "time": "2026-11-04T07:00:16+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+   "desc": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+   "link": "https://www.bbc.com/news/articles/cwz0v5lv30lyo",
+   "time": "2026-11-04T06:53:56+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Government needs to act faster on grooming gang inquiry, says survivor",
+   "desc": "Holly Alex, who was groomed as a teenager, has urged the government to make good on their pledge to deliver an inquiry \"at pace\".",
+   "link": "https://www.bbc.com/news/articles/ckly0vvx41y3o",
+   "time": "2026-11-04T06:17:55+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+   "desc": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+   "link": "https://www.bbc.com/news/articles/cr62yv02zwxwo",
+   "time": "2026-11-04T06:11:43+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+   "desc": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
+   "link": "https://www.bbc.com/news/articles/c6y8lz73vmv7o",
+   "time": "2026-11-04T06:07:24+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Problems at Belfast health trust buildings could cost additional £20m",
+   "desc": "The maternity building on the Royal Victoria Hospital site is already tens of millions of pounds over budget.",
+   "link": "https://www.bbc.com/news/articles/cjly0qpv35p3o",
+   "time": "2026-11-04T06:00:22+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+   "desc": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+   "link": "https://www.bbc.com/news/articles/c6n8dnn09jg7o",
+   "time": "2026-11-04T05:39:36+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+   "desc": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+   "link": "https://www.bbc.com/news/articles/cm0qkxzv3j99o",
+   "time": "2026-11-04T03:46:10+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+   "desc": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
+   "link": "https://www.bbc.com/news/articles/cm8ezneewr9lo",
+   "time": "2026-11-04T02:14:45+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+   "desc": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+   "link": "https://www.bbc.com/news/articles/cmq8nj23v8qqo",
+   "time": "2026-11-04T02:11:40+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+   "desc": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+   "link": "https://www.bbc.com/news/articles/cqvg0y44ym7vo",
+   "time": "2026-11-04T01:36:06+00:00",
+   "cat": "uk",
+   "top": true
+  },
   {
    "title": "Chill to grip Bonfire Night as temperatures dip into single digits",
    "desc": "What is the forecast for Bonfire Night 2026?",
@@ -8,14 +168,6 @@
    "time": "2026-11-04T01:00:11+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "When will we know the results?",
-   "desc": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
-   "link": "https://www.bbc.com/news/articles/cq20321y2nlyo",
-   "time": "2026-11-04T00:56:05+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
@@ -32,6 +184,14 @@
    "time": "2026-11-04T00:45:33+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Scammers using AI-generated images of missing pets to demand reward money",
+   "desc": "Owners say threats to kill their cats unless they sent money left them angry and terrified.",
+   "link": "https://www.bbc.com/news/articles/cdx8080nq74o",
+   "time": "2026-11-04T00:44:44+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
@@ -66,11 +226,11 @@
    "top": true
   },
   {
-   "title": "Poundland supplier 'will lose millions' if retailer collapses",
-   "desc": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
-   "link": "https://www.bbc.com/news/articles/ck240mm3e42do",
-   "time": "2026-11-04T00:03:17+00:00",
-   "cat": "uk",
+   "title": "ANC under pressure to reverse South Africa decline",
+   "desc": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+   "link": "https://www.bbc.com/news/articles/cr4g1x6l77xyo",
+   "time": "2026-11-04T00:03:19+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -80,14 +240,6 @@
    "time": "2026-11-03T23:58:22+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "US voters name economy and state of democracy as top issues, poll says",
-   "desc": "A major election day survey suggests voters are the most unhappy with the economy.",
-   "link": "https://www.bbc.com/news/articles/c39wz0970eypo",
-   "time": "2026-11-03T23:55:37+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Football world mourns Tenerife striker De Miguel",
@@ -106,36 +258,12 @@
    "top": false
   },
   {
-   "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-   "desc": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-   "link": "https://www.bbc.com/news/articles/cr62yv02zwxwo",
-   "time": "2026-11-03T23:00:14+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-   "desc": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
-   "link": "https://www.bbc.com/sport/football/articles/c3vgx8qkqx4jo",
-   "time": "2026-11-03T22:55:00+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Spanish transport minister resigns days after deadly train crash",
    "desc": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
    "link": "https://www.bbc.com/news/articles/c6wydqd4yxdyo",
    "time": "2026-11-03T22:45:59+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-   "desc": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-   "link": "https://www.bbc.com/news/articles/c9e8lk5dpj7no",
-   "time": "2026-11-03T21:53:38+00:00",
-   "cat": "world",
-   "top": false
   },
   {
    "title": "Ocon dropped by Haas for rest of season after row",
@@ -150,7 +278,7 @@
    "desc": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
    "link": "https://www.bbc.com/news/articles/cmp3grwre9xdo",
    "time": "2026-11-03T20:53:03+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -159,15 +287,7 @@
    "link": "https://www.bbc.com/news/articles/c6x2wd4v04eeo",
    "time": "2026-11-03T20:42:47+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-   "desc": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-   "link": "https://www.bbc.com/news/articles/cr89znnnn7dno",
-   "time": "2026-11-03T20:38:38+00:00",
-   "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Death threats for Briton Burrage on WTA Tour return",
@@ -178,26 +298,10 @@
    "top": false
   },
   {
-   "title": "Queues, smiles and Uncle Sam: The US midterms in pictures",
-   "desc": "From queues at polling stations to enthusiastic supporters, here is a look at the final days of the campaign in pictures.",
-   "link": "https://www.bbc.com/news/articles/cm89zn2kxjdno",
-   "time": "2026-11-03T20:16:17+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
    "desc": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial.",
    "link": "https://www.bbc.com/news/articles/c50me7ywd1wlo",
    "time": "2026-11-03T20:05:21+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Lorry driver electrocuted after vehicle hit overhead power line",
-   "desc": "Andy Lloyd was electrocuted when he got out of the cab and came into contact with the metal step.",
-   "link": "https://www.bbc.com/news/articles/cm70pggn49ldo",
-   "time": "2026-11-03T18:58:58+00:00",
    "cat": "uk",
    "top": false
   },
@@ -218,35 +322,11 @@
    "top": false
   },
   {
-   "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-   "desc": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
-   "link": "https://www.bbc.com/news/articles/cw62ye1030njo",
-   "time": "2026-11-03T17:07:28+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "desc": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-   "link": "https://www.bbc.com/news/articles/c65ynez5y599o",
-   "time": "2026-11-03T16:57:41+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
    "desc": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
    "link": "https://www.bbc.com/news/articles/cqglwjdgg045o",
    "time": "2026-11-03T16:34:33+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Westwood 'unemployed' amid LIV uncertainty as Rahm discusses exit",
-   "desc": "Former world number one Lee Westwood says he has not signed for LIV 2.0, while two-time major champion Jon Rahm did not want to \"follow the path\" of the proposed version.",
-   "link": "https://www.bbc.com/sport/golf/articles/c38xzn2y7pglo",
-   "time": "2026-11-03T16:33:50+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -255,22 +335,6 @@
    "link": "https://www.bbc.com/news/articles/ck5ynwz9gy67o",
    "time": "2026-11-03T16:19:29+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Cambridge scientist killed in Spain train crash was 'a light for all of us'",
-   "desc": "María José Alonso says her niece Dr Marta Shahbazi was the \"friendliest person you can imagine\".",
-   "link": "https://www.bbc.com/news/articles/cmq5n698d4wpo",
-   "time": "2026-11-03T16:11:33+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "How sporting events are being impacted by Middle East conflict",
-   "desc": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
-   "link": "https://www.bbc.com/sport/articles/ck0j0l65nzlvo",
-   "time": "2026-11-03T16:01:24+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -291,18 +355,10 @@
   },
   {
    "title": "Mining giant joins fight to stop killer toad march across Australia",
-   "desc": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+   "desc": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
    "link": "https://www.bbc.com/news/articles/c3dxw8p99ervo",
    "time": "2026-11-03T15:05:01+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Libya's top religious authority rules against wearing Nike clothes",
-   "desc": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-   "link": "https://www.bbc.com/news/articles/c5djv0p0re2no",
-   "time": "2026-11-03T14:56:46+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -322,14 +378,6 @@
    "top": false
   },
   {
-   "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-   "desc": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-   "link": "https://www.bbc.com/news/articles/cwy8lm1m59mvo",
-   "time": "2026-11-03T13:55:47+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
    "desc": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
    "link": "https://www.bbc.com/news/articles/ckq6ndq8l6v0o",
@@ -338,35 +386,11 @@
    "top": false
   },
   {
-   "title": "US urges Venezuela to release remaining political prisoners",
-   "desc": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-   "link": "https://www.bbc.com/news/articles/cxg5jln586pno",
-   "time": "2026-11-03T12:09:20+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Drivers may get compensation offers before car finance saga ends",
    "desc": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
    "link": "https://www.bbc.com/news/articles/cqrky5nxxn4po",
    "time": "2026-11-03T11:56:31+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-   "desc": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-   "link": "https://www.bbc.com/news/articles/cmqlnx7z1549o",
-   "time": "2026-11-03T11:51:08+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "US strikes Iranian island ahead of midterm elections",
-   "desc": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-   "link": "https://www.bbc.com/news/articles/cx240mrm3g8vo",
-   "time": "2026-11-03T11:33:33+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -394,30 +418,6 @@
    "top": false
   },
   {
-   "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-   "desc": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
-   "link": "https://www.bbc.com/news/articles/cq78pgn7em34o",
-   "time": "2026-11-03T10:32:56+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "The key US Senate races to watch",
-   "desc": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
-   "link": "https://www.bbc.com/news/articles/cqy7ljkprvjko",
-   "time": "2026-11-03T10:16:56+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Tenerife striker De Miguel dies after on-field collision",
-   "desc": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-   "link": "https://www.bbc.com/sport/football/articles/ck62yvz046pjo",
-   "time": "2026-11-03T09:09:18+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
    "desc": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
    "link": "https://www.bbc.com/news/articles/cm62y97z2n71o",
@@ -430,7 +430,7 @@
    "desc": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
    "link": "https://www.bbc.com/news/articles/c6rey4v53exgo",
    "time": "2026-11-03T08:33:20+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -591,14 +591,6 @@
    "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
    "time": "2026-10-31T02:12:19+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Global nature talks reach deal but money remains an issue",
-   "desc": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-   "link": "https://www.bbc.com/news/articles/cw1l32qyj8pqo",
-   "time": "2026-10-31T01:27:05+00:00",
-   "cat": "sci",
    "top": false
   },
   {
