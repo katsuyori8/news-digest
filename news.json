@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-07T00:13:02.582152+00:00",
+ "updated": "2026-11-07T06:25:00.310433+00:00",
  "items": [
+  {
+   "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
+   "desc": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
+   "link": "https://www.bbc.com/news/articles/cm89zznj21ylo",
+   "time": "2026-11-07T06:04:32+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+   "desc": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
+   "link": "https://www.bbc.com/news/articles/crx233lx94n7o",
+   "time": "2026-11-07T05:12:52+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Texas mayor instructs police to limit cooperation with ICE",
+   "desc": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences.",
+   "link": "https://www.bbc.com/news/articles/c8dx33d22zkro",
+   "time": "2026-11-07T03:31:54+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Paraguay's President Santiago Peña impeached and arrested",
+   "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "link": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
+   "time": "2026-11-07T03:25:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+   "desc": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+   "link": "https://www.bbc.com/weather/articles/cmlykqq7zg9zo",
+   "time": "2026-11-07T02:03:28+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Skepta: 'I'm what it looks like if you give an immigrant child a chance'",
+   "desc": "The grime artist, widely considered to be one of the UK's best, returns with his first album in seven years.",
+   "link": "https://www.bbc.com/news/articles/c6n499d3ykgwo",
+   "time": "2026-11-07T01:58:00+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+   "desc": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
+   "link": "https://www.bbc.com/news/articles/ck9dzwd85235o",
+   "time": "2026-11-07T01:38:49+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+   "desc": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+   "link": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
+   "time": "2026-11-07T00:31:54+00:00",
+   "cat": "world",
+   "top": true
+  },
   {
    "title": "Six tries and a big win - but were Ireland ruthless?",
    "desc": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
@@ -15,6 +79,14 @@
    "link": "https://www.bbc.com/sport/football/articles/cm4g114p9e7go",
    "time": "2026-11-06T23:53:06+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+   "desc": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+   "link": "https://www.bbc.com/news/articles/c933xxl8yv0go",
+   "time": "2026-11-06T23:46:08+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -82,27 +154,11 @@
    "top": false
   },
   {
-   "title": "Keenan hat-trick as six-try Ireland beat Pumas",
-   "desc": "Hugo Keenan scores a hat-trick of tries as Ireland open the home leg of the Nations Championship with a commanding bonus-point win over Argentina in Dublin.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cmgellz7dn52o",
-   "time": "2026-11-06T22:06:12+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Child, 6, dies weeks after Waterford arson attack",
-   "desc": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
-   "link": "https://www.bbc.com/news/articles/c62e99vm8ll7o",
-   "time": "2026-11-06T21:53:38+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
    "desc": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
    "link": "https://www.bbc.com/news/articles/cq1j33w7d232o",
    "time": "2026-11-06T21:49:50+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -114,12 +170,20 @@
    "top": true
   },
   {
+   "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+   "desc": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
+   "link": "https://www.bbc.com/sport/football/articles/c98rzz0rjjvdo",
+   "time": "2026-11-06T21:08:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
    "title": "AI stocks climb after trillions wiped from market values",
    "desc": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
    "link": "https://www.bbc.com/news/articles/c35ynnpzdq51o",
    "time": "2026-11-06T21:06:25+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
@@ -130,28 +194,12 @@
    "top": false
   },
   {
-   "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
-   "desc": "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday.",
-   "link": "https://www.bbc.com/news/articles/c8p3gg2ex4wlo",
-   "time": "2026-11-06T19:51:48+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "This is what dying feels like, says train victim",
-   "desc": "Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed\".",
-   "link": "https://www.bbc.com/news/articles/c9zrdd60zxk2o",
-   "time": "2026-11-06T19:23:47+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
    "desc": "Two schools went into lockdown following the incident and one woman has been arrested.",
    "link": "https://www.bbc.com/news/articles/c6ly3343yj5po",
    "time": "2026-11-06T18:58:39+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Why the US midterms sparked an AI stock selloff",
@@ -170,6 +218,14 @@
    "top": false
   },
   {
+   "title": "Dutch launch shows smugglers are adapting, says MP",
+   "desc": "Dover MP Mike Tapp says smugglers will find new launch locations and methods due to disruptions.",
+   "link": "https://www.bbc.com/news/articles/c689zzvl5yp8o",
+   "time": "2026-11-06T18:29:29+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
    "desc": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
    "link": "https://www.bbc.com/news/articles/c6x2wwnz5445o",
@@ -182,7 +238,7 @@
    "desc": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
    "link": "https://www.bbc.com/news/articles/cm1dwwqrr1kvo",
    "time": "2026-11-06T17:19:38+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -206,7 +262,7 @@
    "desc": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
    "link": "https://www.bbc.com/news/articles/c8kgee9yxvn7o",
    "time": "2026-11-06T16:49:31+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": true
   },
   {
@@ -282,11 +338,11 @@
    "top": false
   },
   {
-   "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
+   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
    "desc": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
    "link": "https://www.bbc.com/news/articles/cmd9343z3zw2o",
    "time": "2026-11-06T15:25:43+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -295,7 +351,7 @@
    "link": "https://www.bbc.com/news/articles/cq62yy064vjpo",
    "time": "2026-11-06T15:25:35+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "RuPaul's Drag Race UK crowns winner as BBC axes the series",
@@ -303,22 +359,6 @@
    "link": "https://www.bbc.com/news/articles/cmwy4zqe1e9qo",
    "time": "2026-11-06T15:23:17+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-   "desc": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-   "link": "https://www.bbc.com/news/videos/cv8ezz9ll7nyo",
-   "time": "2026-11-06T15:02:03+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-   "desc": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-   "link": "https://www.bbc.com/news/articles/ckp8g4pm0y4lo",
-   "time": "2026-11-06T14:57:08+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -370,20 +410,12 @@
    "top": false
   },
   {
-   "title": "MTV Dirty Sanchez star Michael 'Pancho' Locke dies aged 47",
-   "desc": "Locke starred in Dirty Sanchez as a stuntman and skateboarder called Pancho, and co-owned a clothing brand.",
-   "link": "https://www.bbc.com/news/articles/cmrryyj02exxo",
-   "time": "2026-11-06T12:17:23+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
    "desc": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
    "link": "https://www.bbc.com/news/articles/cm4g1jqwylvgo",
    "time": "2026-11-06T12:16:44+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Olivia Rodrigo's Christmas song sounds familiar... on purpose",
@@ -414,7 +446,7 @@
    "desc": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
    "link": "https://www.bbc.com/weather/articles/cwyvrz09mnd6o",
    "time": "2026-11-06T01:22:39+00:00",
-   "cat": "uk",
+   "cat": "sci",
    "top": false
   },
   {
@@ -554,14 +586,6 @@
    "top": false
   },
   {
-   "title": "Celebrity hairstylist John Frieda dies aged 75",
-   "desc": "He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.",
-   "link": "https://www.bbc.com/news/articles/crlykl5gl3x4o",
-   "time": "2026-11-04T10:52:39+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
    "desc": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
    "link": "https://www.bbc.com/news/articles/c699z8792n7ro",
@@ -607,14 +631,6 @@
    "link": "https://www.bbc.com/news/articles/c6n8dn457ypko",
    "time": "2026-11-03T11:10:37+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-   "desc": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
-   "link": "https://www.bbc.com/news/articles/cm62y97z2n71o",
-   "time": "2026-11-03T08:57:20+00:00",
-   "cat": "sci",
    "top": false
   },
   {
