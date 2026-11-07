@@ -1,37 +1,165 @@
 {
- "updated": "2026-11-07T06:25:00.310433+00:00",
+ "updated": "2026-11-07T13:25:53.564680+00:00",
  "items": [
+  {
+   "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
+   "desc": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\".",
+   "link": "https://www.bbc.com/news/articles/cw0k00rp2e35o",
+   "time": "2026-11-07T13:22:32+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
+   "desc": "The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
+   "link": "https://www.bbc.com/news/articles/c6rmyymw1zz1o",
+   "time": "2026-11-07T13:03:57+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+   "link": "https://www.bbc.com/news/articles/c9kgjj206nzpo",
+   "time": "2026-11-07T13:02:21+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+   "desc": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+   "link": "https://www.bbc.com/news/articles/cm4g1nq8158po",
+   "time": "2026-11-07T12:49:36+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "My dream is to win Ballon d'Or - Gabriel",
+   "desc": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+   "link": "https://www.bbc.com/sport/football/articles/cmy4x9yq3xg3o",
+   "time": "2026-11-07T12:25:14+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Ponga-inspired New Zealand reach World Cup final",
+   "desc": "Kalyn Ponga returns from a broken arm to inspire New Zealand to victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cmvgx2e78xrro",
+   "time": "2026-11-07T11:45:11+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+   "desc": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
+   "link": "https://www.bbc.com/news/articles/crx233lx94n7o",
+   "time": "2026-11-07T11:31:10+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+   "desc": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
+   "link": "https://www.bbc.com/news/articles/crgj99j8y998o",
+   "time": "2026-11-07T11:04:28+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+   "desc": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
+   "link": "https://www.bbc.com/news/articles/c6wyrrwj9xlro",
+   "time": "2026-11-07T10:44:38+00:00",
+   "cat": "cul",
+   "top": true
+  },
+  {
+   "title": "Two men arrested after boy injured in sword attack",
+   "desc": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
+   "link": "https://www.bbc.com/news/articles/cmwy99yzd0v9o",
+   "time": "2026-11-07T10:38:21+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "New Zealand sweep aside Samoa to reach Women's World Cup final",
+   "desc": "New Zealand's women will hope it is fourth time lucky after defeating Samoa 32-0 to reach next Sunday's Rugby League World Cup final.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c680zz8k3nvvo",
+   "time": "2026-11-07T08:32:15+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "AI in property listings is false advertising, house-hunters say",
+   "desc": "One prospective buyer says it is like going to buy a new Mercedes but ending up with an old Skoda.",
+   "link": "https://www.bbc.com/news/articles/cmdxw0xn0k80o",
+   "time": "2026-11-07T08:15:03+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Buatsi v Hutchinson 2 - world light-heavyweight title fight predictions",
+   "desc": "Figures from the boxing world give their predictions for Saturday's light-heavyweight world title fight between Joshua Buatsi and Willy Hutchinson.",
+   "link": "https://www.bbc.com/sport/boxing/articles/c674pek0yd2jo",
+   "time": "2026-11-07T08:00:59+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Paraguay's president impeached and under house arrest after bank collapse",
+   "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "link": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
+   "time": "2026-11-07T07:20:00+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "I left Man City for my mental wellbeing - Trafford",
+   "desc": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
+   "link": "https://www.bbc.com/sport/football/articles/ckly00wq495zo",
+   "time": "2026-11-07T07:16:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Pope in 'pretty good health' as he starts Latin America tour",
+   "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "link": "https://www.bbc.com/news/articles/c60e0001ve9wo",
+   "time": "2026-11-07T06:59:48+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/cwg5jj21e519o",
+   "time": "2026-11-07T06:53:35+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Non-league's greatest giant-killers eye another scalp",
+   "desc": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
+   "link": "https://www.bbc.com/sport/football/articles/cqev332mv1lyo",
+   "time": "2026-11-07T06:45:56+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Beach homes face demolition months after being sold",
+   "desc": "One property investor from Manchester bought a home six weeks ago, now it is deemed unsafe.",
+   "link": "https://www.bbc.com/news/articles/cjr4yvgl320go",
+   "time": "2026-11-07T06:26:15+00:00",
+   "cat": "uk",
+   "top": false
+  },
   {
    "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
    "desc": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
    "link": "https://www.bbc.com/news/articles/cm89zznj21ylo",
    "time": "2026-11-07T06:04:32+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-   "desc": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-   "link": "https://www.bbc.com/news/articles/crx233lx94n7o",
-   "time": "2026-11-07T05:12:52+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Texas mayor instructs police to limit cooperation with ICE",
-   "desc": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences.",
-   "link": "https://www.bbc.com/news/articles/c8dx33d22zkro",
-   "time": "2026-11-07T03:31:54+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Paraguay's President Santiago Peña impeached and arrested",
-   "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "link": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
-   "time": "2026-11-07T03:25:00+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
@@ -39,7 +167,7 @@
    "link": "https://www.bbc.com/weather/articles/cmlykqq7zg9zo",
    "time": "2026-11-07T02:03:28+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Skepta: 'I'm what it looks like if you give an immigrant child a chance'",
@@ -50,11 +178,27 @@
    "top": false
   },
   {
+   "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "desc": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+   "link": "https://www.bbc.com/news/articles/c617kjqjvk12o",
+   "time": "2026-11-07T01:41:36+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
    "title": "Gladiator II stuntman sues over injuries from on-set explosion",
    "desc": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
    "link": "https://www.bbc.com/news/articles/ck9dzwd85235o",
    "time": "2026-11-07T01:38:49+00:00",
    "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+   "desc": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+   "link": "https://www.bbc.com/news/articles/cx5ynly549njo",
+   "time": "2026-11-07T01:27:47+00:00",
+   "cat": "world",
    "top": true
   },
   {
@@ -95,7 +239,7 @@
    "link": "https://www.bbc.com/news/articles/crp3gg2z171go",
    "time": "2026-11-06T23:24:15+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Lampard feels hair pull should have led to Coventry penalty",
@@ -114,27 +258,11 @@
    "top": false
   },
   {
-   "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
-   "desc": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\".",
-   "link": "https://www.bbc.com/news/articles/cw0k00rp2e35o",
-   "time": "2026-11-06T22:50:53+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Alcaraz beats Fritz to help Jodar reach ATP finals",
-   "desc": "Carlos Alcaraz saves two match points to beat Taylor Fritz in the Paris Masters quarter-finals - a result which helped Spanish compatriot Rafael Jodar qualify for the ATP finals.",
-   "link": "https://www.bbc.com/sport/tennis/articles/c6e9lldl3lpjo",
-   "time": "2026-11-06T22:35:04+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Barry scores twice as Everton fight back to beat Coventry",
-   "desc": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-   "link": "https://www.bbc.com/sport/football/videos/c62l44geqvlyo",
-   "time": "2026-11-06T22:30:12+00:00",
-   "cat": "sport",
+   "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
+   "desc": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
+   "link": "https://www.bbc.com/news/articles/c6ly334rem5do",
+   "time": "2026-11-06T22:59:54+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -146,35 +274,11 @@
    "top": false
   },
   {
-   "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
-   "desc": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
-   "link": "https://www.bbc.com/sport/tennis/articles/ckpdgg87ye3po",
-   "time": "2026-11-06T22:28:43+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
    "desc": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
    "link": "https://www.bbc.com/news/articles/cq1j33w7d232o",
    "time": "2026-11-06T21:49:50+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-   "desc": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-   "link": "https://www.bbc.com/news/articles/cqgkvv8m8pgyo",
-   "time": "2026-11-06T21:26:56+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-   "desc": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
-   "link": "https://www.bbc.com/sport/football/articles/c98rzz0rjjvdo",
-   "time": "2026-11-06T21:08:04+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -194,14 +298,6 @@
    "top": false
   },
   {
-   "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-   "desc": "Two schools went into lockdown following the incident and one woman has been arrested.",
-   "link": "https://www.bbc.com/news/articles/c6ly3343yj5po",
-   "time": "2026-11-06T18:58:39+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Why the US midterms sparked an AI stock selloff",
    "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
    "link": "https://www.bbc.com/news/articles/crlykkzwwpydo",
@@ -210,20 +306,12 @@
    "top": false
   },
   {
-   "title": "Player-coach rift report will only galvanise England - George",
-   "desc": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cmx2qqyz4p1po",
-   "time": "2026-11-06T18:30:57+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Dutch launch shows smugglers are adapting, says MP",
    "desc": "Dover MP Mike Tapp says smugglers will find new launch locations and methods due to disruptions.",
    "link": "https://www.bbc.com/news/articles/c689zzvl5yp8o",
    "time": "2026-11-06T18:29:29+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -242,28 +330,12 @@
    "top": false
   },
   {
-   "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-   "desc": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-   "link": "https://www.bbc.com/news/articles/cx8dzzy8n713o",
-   "time": "2026-11-06T16:51:01+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Tube drivers to stage strikes in Christmas run-up",
-   "desc": "The union is in dispute with London Underground over working arrangements for drivers.",
-   "link": "https://www.bbc.com/news/articles/ck7vpplgvrjqo",
-   "time": "2026-11-06T16:50:22+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
    "desc": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
    "link": "https://www.bbc.com/news/articles/c8kgee9yxvn7o",
    "time": "2026-11-06T16:49:31+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
@@ -278,7 +350,7 @@
    "desc": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
    "link": "https://www.bbc.com/news/articles/cmly00r44jgvo",
    "time": "2026-11-06T16:43:07+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -298,27 +370,11 @@
    "top": false
   },
   {
-   "title": "Is Palmer's England career over under Tuchel?",
-   "desc": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
-   "link": "https://www.bbc.com/sport/football/articles/c9e8ll62rp68o",
-   "time": "2026-11-06T16:30:03+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "What is net zero and is the UK on track to achieve it?",
    "desc": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
    "link": "https://www.bbc.com/news/articles/cx238yyr40qo",
    "time": "2026-11-06T16:22:51+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Four midterms takeaways for 2028 White House race",
-   "desc": "The buzz about the presidential election is already under way - here's what we learned this week.",
-   "link": "https://www.bbc.com/news/articles/cq1m41n3v7mmo",
-   "time": "2026-11-06T16:12:22+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -370,27 +426,11 @@
    "top": false
   },
   {
-   "title": "'A beautiful story' as Bellingham brothers called up",
-   "desc": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-   "link": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo",
-   "time": "2026-11-06T14:16:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
    "desc": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
    "link": "https://www.bbc.com/news/articles/cmn04705rd8jo",
    "time": "2026-11-06T13:25:50+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-   "desc": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
-   "link": "https://www.bbc.com/news/articles/cxyvrr686lzqo",
-   "time": "2026-11-06T13:12:20+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -434,14 +474,6 @@
    "top": false
   },
   {
-   "title": "'Misleading' student loans information left out examples of higher-salary repayments",
-   "desc": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
-   "link": "https://www.bbc.com/news/articles/cqde8prpdge3o",
-   "time": "2026-11-06T06:06:36+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
    "desc": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
    "link": "https://www.bbc.com/weather/articles/cwyvrz09mnd6o",
@@ -463,14 +495,6 @@
    "link": "https://www.bbc.com/news/articles/cwe9lmp1pyyxo",
    "time": "2026-11-06T00:06:06+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-   "desc": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-   "link": "https://www.bbc.com/news/articles/cqn06j0y61k6o",
-   "time": "2026-11-06T00:02:57+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -514,14 +538,6 @@
    "top": false
   },
   {
-   "title": "'You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying",
-   "desc": "The singer from Pontypridd told the audience just how serious his \"bad case of the flu\" was.",
-   "link": "https://www.bbc.com/news/articles/c8qlnwng5pzwo",
-   "time": "2026-11-05T13:56:50+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Faisal Islam: How high will interest rates go?",
    "desc": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
    "link": "https://www.bbc.com/news/articles/ckr5y0y37gv3o",
@@ -535,22 +551,6 @@
    "link": "https://www.bbc.com/news/articles/cx4g1q3vlp62o",
    "time": "2026-11-05T13:08:30+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
-   "desc": "Channel 4 will reinvest the show's budget in \"distinctive new programming\" and said sorry again to the women involved.",
-   "link": "https://www.bbc.com/news/articles/cw33xm0de221o",
-   "time": "2026-11-05T12:26:24+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-   "desc": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-   "link": "https://www.bbc.com/news/articles/cq4g1r42jx00o",
-   "time": "2026-11-05T11:21:35+00:00",
-   "cat": "cul",
    "top": false
   },
   {
