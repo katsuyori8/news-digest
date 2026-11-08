@@ -1,11 +1,35 @@
 {
- "updated": "2026-11-08T08:41:51.178726+00:00",
+ "updated": "2026-11-08T15:50:31.561531+00:00",
  "items": [
   {
-   "title": "Australia reach World Cup final after Fiji scare",
-   "desc": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c6vg02klk084o",
-   "time": "2026-11-08T08:19:18+00:00",
+   "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+   "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+   "link": "https://www.bbc.com/news/articles/ckn9r0zd0ynwo",
+   "time": "2026-11-08T15:37:57+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+   "link": "https://www.bbc.com/news/articles/cmzxjvpqrjxro",
+   "time": "2026-11-08T15:37:25+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
+   "desc": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.",
+   "link": "https://www.bbc.com/sport/football/videos/c64g1n4w70p9o",
+   "time": "2026-11-08T15:31:43+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "England await Guehi scan results after injury concern",
+   "desc": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
+   "link": "https://www.bbc.com/sport/football/articles/cmwyq8x6nx5lo",
+   "time": "2026-11-08T15:03:01+00:00",
    "cat": "sport",
    "top": false
   },
@@ -13,15 +37,127 @@
    "title": "What we know so far after Krakow gun attack",
    "desc": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
    "link": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
-   "time": "2026-11-08T07:52:33+00:00",
+   "time": "2026-11-08T14:32:52+00:00",
    "cat": "world",
    "top": false
   },
   {
-   "title": "The oldest club in London making FA Cup history",
-   "desc": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
-   "link": "https://www.bbc.com/sport/football/articles/cv8ez3pe5x41o",
-   "time": "2026-11-08T06:28:56+00:00",
+   "title": "Two arrests and police officers hurt after brawl outside bare-knuckle fighting event",
+   "desc": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
+   "link": "https://www.bbc.com/news/articles/c8zxl9417e5vo",
+   "time": "2026-11-08T14:13:43+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
+   "desc": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cm93zrw2wz9go",
+   "time": "2026-11-08T13:57:54+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+   "desc": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+   "link": "https://www.bbc.com/news/articles/cqy8l0gyvvv2o",
+   "time": "2026-11-08T13:49:07+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
+   "desc": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
+   "link": "https://www.bbc.com/sport/golf/articles/c6y0exdrp2xeo",
+   "time": "2026-11-08T13:14:40+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+   "desc": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+   "link": "https://www.bbc.com/news/articles/cmvg72p1zgvlo",
+   "time": "2026-11-08T13:05:30+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Australia reach World Cup final after Fiji scare",
+   "desc": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c6vg02klk084o",
+   "time": "2026-11-08T12:39:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
+   "desc": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.",
+   "link": "https://www.bbc.com/news/videos/cw1l307v4edlo",
+   "time": "2026-11-08T12:16:10+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Last season difficult with injury and miscarriage - Muniz",
+   "desc": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+   "link": "https://www.bbc.com/sport/football/articles/cmq8nl4w3e8eo",
+   "time": "2026-11-08T11:56:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "I haven't thrown anyone under the bus - Khawaja",
+   "desc": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+   "link": "https://www.bbc.com/sport/cricket/articles/c65yn1j4lrgno",
+   "time": "2026-11-08T10:04:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "We face paying £9,000 tax even though our second home is in a war zone",
+   "desc": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
+   "link": "https://www.bbc.com/news/articles/c674pk4klp7no",
+   "time": "2026-11-08T08:04:59+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "School Street fines at one location exceed £1m",
+   "desc": "The council issues penalty charges totalling £1.15m over the scheme near Manor School in Kensal Rise.",
+   "link": "https://www.bbc.com/news/articles/c68xzzvgl7reo",
+   "time": "2026-11-08T08:01:55+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Grenfell NHS support service faces funding cut",
+   "desc": "Councillors call for long-term funding for the service ahead of the fire’s 10th anniversary.",
+   "link": "https://www.bbc.com/news/articles/cv62ykxp1x1ko",
+   "time": "2026-11-08T08:00:06+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+   "desc": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+   "link": "https://www.bbc.com/sport/football/articles/cmwyqzy934lxo",
+   "time": "2026-11-08T07:30:01+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "I won't let my daughter's killer live in my head, says Sarah Payne's mum",
+   "desc": "Sara Payne says she found out her eight-year-old had died as it was being reported in the news.",
+   "link": "https://www.bbc.com/news/articles/cq78p3mlv9rjo",
+   "time": "2026-11-08T07:17:04+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Why unique Brighton defence is so tricky to unpick",
+   "desc": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+   "link": "https://www.bbc.com/sport/football/articles/cm0j033lnp5po",
+   "time": "2026-11-08T06:41:37+00:00",
    "cat": "sport",
    "top": false
   },
@@ -31,7 +167,7 @@
    "link": "https://www.bbc.com/news/articles/ck87z9exex2lo",
    "time": "2026-11-08T04:09:21+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -47,15 +183,7 @@
    "link": "https://www.bbc.com/news/articles/c6pwg4ddwkzeo",
    "time": "2026-11-08T03:34:22+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Royal Family join veterans and families at Festival of Remembrance",
-   "desc": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
-   "link": "https://www.bbc.com/news/articles/cxvgd2nr3e30o",
-   "time": "2026-11-08T01:24:58+00:00",
-   "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "My parents chose to die together and I was left to grieve alone",
@@ -74,7 +202,15 @@
    "top": false
   },
   {
-   "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+   "title": "The Trump coalition is shattered - what will Republicans do now?",
+   "desc": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+   "link": "https://www.bbc.com/news/articles/cm3r5gnxqz3jo",
+   "time": "2026-11-08T00:52:39+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ambika Mod wants to change how South Asian women are seen on-screen",
    "desc": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
    "link": "https://www.bbc.com/news/articles/c6rmy9jvgwleo",
    "time": "2026-11-08T00:49:00+00:00",
@@ -82,10 +218,10 @@
    "top": true
   },
   {
-   "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-   "desc": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-   "link": "https://www.bbc.com/news/articles/cm74pk1g51nko",
-   "time": "2026-11-08T00:48:59+00:00",
+   "title": "Microdramas: The 'snackable' shows made for the scrolling age",
+   "desc": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
+   "link": "https://www.bbc.com/news/articles/cm87zv70jg9no",
+   "time": "2026-11-08T00:45:45+00:00",
    "cat": "world",
    "top": true
   },
@@ -114,23 +250,7 @@
    "top": false
   },
   {
-   "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
-   "desc": "Willy Hutchinson is crowned WBC light-heavyweight champion as he produces the performance of his career against Joshua Buatsi in Manchester.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cqx2vw8demexo",
-   "time": "2026-11-07T23:26:08+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Thousands watch elaborate carnival cart procession",
-   "desc": "The event in Bridgwater, Somerset, attracted people from all over the country to watch.",
-   "link": "https://www.bbc.com/news/articles/cm62ypz1ywk1o",
-   "time": "2026-11-07T23:05:17+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "title": "He spent $50,000 on Labubus but now the craze is dying",
    "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
    "link": "https://www.bbc.com/news/articles/cmvg652l927lo",
    "time": "2026-11-07T23:02:35+00:00",
@@ -143,7 +263,7 @@
    "link": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
    "time": "2026-11-07T22:19:59+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -155,49 +275,9 @@
   },
   {
    "title": "Maresca's dream start turns into nightmare as title hopes hit",
-   "desc": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+   "desc": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
    "link": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
    "time": "2026-11-07T20:54:12+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Delap double inspires Forest to stunning win over Man City",
-   "desc": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-   "link": "https://www.bbc.com/sport/football/videos/crp3gewxj77eo",
-   "time": "2026-11-07T20:02:25+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-   "desc": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-   "link": "https://www.bbc.com/sport/football/videos/cm2d69p2x3g7o",
-   "time": "2026-11-07T19:59:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Leeds beat Spurs to end five-game winless run",
-   "desc": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/ckz7x4jlypq3o",
-   "time": "2026-11-07T19:59:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Arsenal beat Hull to extend lead at top of the table",
-   "desc": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
-   "link": "https://www.bbc.com/sport/football/videos/crx230ke2gzxo",
-   "time": "2026-11-07T19:59:31+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-   "desc": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-   "link": "https://www.bbc.com/sport/football/articles/c6rmyg7xpnj1o",
-   "time": "2026-11-07T19:34:32+00:00",
    "cat": "sport",
    "top": false
   },
@@ -210,28 +290,12 @@
    "top": false
   },
   {
-   "title": "Rob Brydon's battle to stay in character playing Peter O'Toole",
-   "desc": "Brydon stars in a new radio drama looking at the ups and downs of O'Toole's professional career.",
-   "link": "https://www.bbc.com/news/articles/c8p3g675pplko",
-   "time": "2026-11-07T18:16:00+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "US offers $20m reward for information about Iran's nuclear programme",
    "desc": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
    "link": "https://www.bbc.com/news/articles/c6d091ev3p0jo",
    "time": "2026-11-07T18:14:38+00:00",
    "cat": "world",
    "top": false
-  },
-  {
-   "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-   "desc": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
-   "link": "https://www.bbc.com/news/articles/cwjdmm0z74plo",
-   "time": "2026-11-07T17:32:42+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Italian foreign minister says hackers leaked his personal data",
@@ -247,22 +311,6 @@
    "link": "https://www.bbc.com/news/articles/c9kgjj206nzpo",
    "time": "2026-11-07T15:19:35+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Two men arrested after boy injured in sword attack",
-   "desc": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-   "link": "https://www.bbc.com/news/articles/cmwy99yzd0v9o",
-   "time": "2026-11-07T15:10:54+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Evacuations in Liverpool city centre after car crash causes gas leak",
-   "desc": "The impact of the crash caused a gas leak and neighbouring buildings have been evacuated as a precaution.",
-   "link": "https://www.bbc.com/news/articles/c9203x7pj0kjo",
-   "time": "2026-11-07T15:06:40+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -290,22 +338,6 @@
    "top": false
   },
   {
-   "title": "Roman settlement dating back 2,000 years found under new-build estate",
-   "desc": "The discovery of lead moulds shows Romans were producing a \"wide range\" of brooches at the site.",
-   "link": "https://www.bbc.com/news/articles/c6r7ydgl44z7o",
-   "time": "2026-11-07T11:06:52+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-   "desc": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-   "link": "https://www.bbc.com/news/articles/crgj99j8y998o",
-   "time": "2026-11-07T11:04:28+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
    "desc": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
    "link": "https://www.bbc.com/news/articles/c6wyrrwj9xlro",
@@ -330,14 +362,6 @@
    "top": false
   },
   {
-   "title": "We thought mum abandoned us - then we discovered she'd been murdered",
-   "desc": "The children of Patricia Lashley grew up believing their mother had abandoned them.",
-   "link": "https://www.bbc.com/news/articles/cm2l44r450evo",
-   "time": "2026-11-07T07:05:33+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Pope in 'pretty good health' as he starts Latin America tour",
    "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
    "link": "https://www.bbc.com/news/articles/c60e0001ve9wo",
@@ -354,6 +378,14 @@
    "top": false
   },
   {
+   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+   "desc": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+   "link": "https://www.bbc.com/news/articles/c617kjqjvk12o",
+   "time": "2026-11-07T01:41:36+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
    "title": "Gladiator II stuntman sues over injuries from on-set explosion",
    "desc": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
    "link": "https://www.bbc.com/news/articles/ck9dzwd85235o",
@@ -367,14 +399,6 @@
    "link": "https://www.bbc.com/news/articles/c6ly334rem5do",
    "time": "2026-11-06T22:59:54+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Barry scores twice as Everton fight back to beat Coventry",
-   "desc": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-   "link": "https://www.bbc.com/sport/football/videos/c62l44geqvlyo",
-   "time": "2026-11-06T22:30:12+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -534,7 +558,7 @@
    "desc": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
    "link": "https://www.bbc.com/news/articles/cwe9lmp1pyyxo",
    "time": "2026-11-06T00:06:06+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -574,14 +598,6 @@
    "desc": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
    "link": "https://www.bbc.com/news/articles/ckr5y0y37gv3o",
    "time": "2026-11-05T13:17:10+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Three ways the interest rate rise could affect you",
-   "desc": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-   "link": "https://www.bbc.com/news/articles/cx4g1q3vlp62o",
-   "time": "2026-11-05T13:08:30+00:00",
    "cat": "biz",
    "top": false
   },
@@ -654,14 +670,6 @@
    "desc": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
    "link": "https://www.bbc.com/news/articles/ckq6ndq8l6v0o",
    "time": "2026-11-03T13:07:00+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-   "desc": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-   "link": "https://www.bbc.com/news/articles/c6n8dn457ypko",
-   "time": "2026-11-03T11:10:37+00:00",
    "cat": "tech",
    "top": false
   }
