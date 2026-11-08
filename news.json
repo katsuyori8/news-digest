@@ -1,11 +1,115 @@
 {
- "updated": "2026-11-07T22:11:38.209432+00:00",
+ "updated": "2026-11-08T01:43:01.087169+00:00",
  "items": [
+  {
+   "title": "Royal Family join veterans and families at Festival of Remembrance",
+   "desc": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
+   "link": "https://www.bbc.com/news/articles/cxvgd2nr3e30o",
+   "time": "2026-11-08T01:24:58+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "My parents chose to die together and I was left to grieve alone",
+   "desc": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.",
+   "link": "https://www.bbc.com/news/articles/c81dwllzv113o",
+   "time": "2026-11-08T01:10:21+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Briton among six killed in 'far-right' shooting in Krakow",
+   "desc": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+   "link": "https://www.bbc.com/news/articles/c6n9r01d2709o",
+   "time": "2026-11-08T00:55:17+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+   "desc": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
+   "link": "https://www.bbc.com/news/articles/c6rmy9jvgwleo",
+   "time": "2026-11-08T00:49:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+   "desc": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+   "link": "https://www.bbc.com/news/articles/cm74pk1g51nko",
+   "time": "2026-11-08T00:48:59+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Can the Zelda remake capture the magic of the original?",
+   "desc": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+   "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
+   "time": "2026-11-08T00:37:45+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+   "desc": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
+   "link": "https://www.bbc.com/news/articles/cvze47p9jeexo",
+   "time": "2026-11-08T00:31:53+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+   "desc": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
+   "link": "https://www.bbc.com/sport/football/articles/cqev3rdvyvm1o",
+   "time": "2026-11-08T00:17:56+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
+   "desc": "Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
+   "time": "2026-11-07T23:53:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
+   "desc": "Willy Hutchinson is crowned WBC light-heavyweight champion as he produces the performance of his career against Joshua Buatsi in Manchester.",
+   "link": "https://www.bbc.com/sport/boxing/articles/cqx2vw8demexo",
+   "time": "2026-11-07T23:26:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Thousands watch elaborate carnival cart procession",
+   "desc": "The event in Bridgwater, Somerset, attracted people from all over the country to watch.",
+   "link": "https://www.bbc.com/news/articles/cm62ypz1ywk1o",
+   "time": "2026-11-07T23:05:17+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "link": "https://www.bbc.com/news/articles/cmvg652l927lo",
+   "time": "2026-11-07T23:02:35+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "What we know so far after Krakow gun attack",
+   "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+   "link": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
+   "time": "2026-11-07T22:58:49+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
    "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
    "link": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
-   "time": "2026-11-07T21:51:12+00:00",
+   "time": "2026-11-07T22:19:59+00:00",
    "cat": "world",
    "top": true
   },
@@ -15,46 +119,6 @@
    "link": "https://www.bbc.com/news/articles/c6pwg4ddwkzeo",
    "time": "2026-11-07T21:50:58+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Match of the Day",
-   "desc": "Highlights of the day's games, including pacesetters Arsenal and Man City.",
-   "link": "https://www.bbc.com/iplayer/episode/l00592bk",
-   "time": "2026-11-07T21:50:21+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Can New Zealand's new government win over disillusioned voters?",
-   "desc": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
-   "link": "https://www.bbc.com/news/articles/cxr5yyg2nj9eo",
-   "time": "2026-11-07T21:36:16+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-   "desc": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
-   "link": "https://www.bbc.com/news/articles/cvze47p9jeexo",
-   "time": "2026-11-07T21:23:26+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "What we know so far after Krakow gun attack",
-   "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "link": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
-   "time": "2026-11-07T21:13:24+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "World number one Rybakina withdraws from WTA Finals",
-   "desc": "World number one Elena Rybakina withdraws from the season-ending WTA Finals because of a viral illness.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cm4g1n9ednn1o",
-   "time": "2026-11-07T21:10:55+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -78,14 +142,6 @@
    "desc": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
    "link": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
    "time": "2026-11-07T20:54:12+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Norris takes pole in rain-delayed qualifying",
-   "desc": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c6gell5l7l3zo",
-   "time": "2026-11-07T20:48:40+00:00",
    "cat": "sport",
    "top": false
   },
@@ -147,11 +203,19 @@
   },
   {
    "title": "US offers $20m reward for information about Iran's nuclear programme",
-   "desc": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "desc": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
    "link": "https://www.bbc.com/news/articles/c6d091ev3p0jo",
    "time": "2026-11-07T18:14:38+00:00",
    "cat": "world",
    "top": false
+  },
+  {
+   "title": "Gaza wedding festival sees 250 couples married at the same time",
+   "desc": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+   "link": "https://www.bbc.com/news/videos/ckr5ygm78j76o",
+   "time": "2026-11-07T17:58:41+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
@@ -178,14 +242,6 @@
    "top": false
   },
   {
-   "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-   "desc": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-   "link": "https://www.bbc.com/news/articles/cx240e5py64jo",
-   "time": "2026-11-07T16:25:55+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Third person arrested after car damaged by gunshots",
    "desc": "A 29-year-old man was taken into custody on Saturday morning following two earlier arrests on Friday.",
    "link": "https://www.bbc.com/news/articles/cmkgekz79vd9o",
@@ -199,7 +255,7 @@
    "link": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
    "time": "2026-11-07T15:56:28+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -207,7 +263,7 @@
    "link": "https://www.bbc.com/news/articles/c9kgjj206nzpo",
    "time": "2026-11-07T15:19:35+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Two men arrested after boy injured in sword attack",
@@ -222,14 +278,6 @@
    "desc": "The impact of the crash caused a gas leak and neighbouring buildings have been evacuated as a precaution.",
    "link": "https://www.bbc.com/news/articles/c9203x7pj0kjo",
    "time": "2026-11-07T15:06:40+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Baxters fish soup cans recalled over fears they could 'swell and rupture'",
-   "desc": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.",
-   "link": "https://www.bbc.com/news/articles/cm2l4590188ro",
-   "time": "2026-11-07T14:28:40+00:00",
    "cat": "uk",
    "top": false
   },
@@ -255,7 +303,7 @@
    "link": "https://www.bbc.com/news/articles/crx233lx94n7o",
    "time": "2026-11-07T11:31:10+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Roman settlement dating back 2,000 years found under new-build estate",
@@ -279,14 +327,6 @@
    "link": "https://www.bbc.com/news/articles/c6wyrrwj9xlro",
    "time": "2026-11-07T10:44:38+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Texas mayor instructs police to limit co-operation with ICE",
-   "desc": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-   "link": "https://www.bbc.com/news/articles/c8dx33d22zkro",
-   "time": "2026-11-07T08:15:55+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -314,14 +354,6 @@
    "top": false
   },
   {
-   "title": "Beach homes face demolition months after being sold",
-   "desc": "One property investor from Manchester bought a home six weeks ago, now it is deemed unsafe.",
-   "link": "https://www.bbc.com/news/articles/cjr4yvgl320go",
-   "time": "2026-11-07T06:26:15+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
    "desc": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
    "link": "https://www.bbc.com/weather/articles/cmlykqq7zg9zo",
@@ -334,16 +366,8 @@
    "desc": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
    "link": "https://www.bbc.com/news/articles/ck9dzwd85235o",
    "time": "2026-11-07T01:38:49+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
-  },
-  {
-   "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-   "desc": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
-   "link": "https://www.bbc.com/news/articles/ck5ynnj05z8no",
-   "time": "2026-11-07T00:31:54+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "With Stephen Miller pick, Trump readies for a battle",
@@ -554,14 +578,6 @@
    "top": false
   },
   {
-   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-   "desc": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-   "link": "https://www.bbc.com/news/articles/cmze4zk4d789o",
-   "time": "2026-11-05T15:27:09+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Investigation into 'major fish kill' after pollution incident",
    "desc": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
    "link": "https://www.bbc.com/news/articles/cx1l36y2d941o",
@@ -662,14 +678,6 @@
    "desc": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
    "link": "https://www.bbc.com/news/articles/c6n8dn457ypko",
    "time": "2026-11-03T11:10:37+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "North Korea denies being behind record $6.3bn Binance hack",
-   "desc": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-   "link": "https://www.bbc.com/news/articles/c6rey4v53exgo",
-   "time": "2026-11-03T08:33:20+00:00",
    "cat": "tech",
    "top": false
   }
