@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-08T01:43:01.087169+00:00",
+ "updated": "2026-11-08T08:41:51.178726+00:00",
  "items": [
+  {
+   "title": "Australia reach World Cup final after Fiji scare",
+   "desc": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c6vg02klk084o",
+   "time": "2026-11-08T08:19:18+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "What we know so far after Krakow gun attack",
+   "desc": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "link": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
+   "time": "2026-11-08T07:52:33+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "The oldest club in London making FA Cup history",
+   "desc": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+   "link": "https://www.bbc.com/sport/football/articles/cv8ez3pe5x41o",
+   "time": "2026-11-08T06:28:56+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
+   "desc": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
+   "link": "https://www.bbc.com/news/articles/ck87z9exex2lo",
+   "time": "2026-11-08T04:09:21+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "link": "https://www.bbc.com/news/articles/c65yn1v99ypmo",
+   "time": "2026-11-08T04:03:12+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+   "desc": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+   "link": "https://www.bbc.com/news/articles/c6pwg4ddwkzeo",
+   "time": "2026-11-08T03:34:22+00:00",
+   "cat": "uk",
+   "top": true
+  },
   {
    "title": "Royal Family join veterans and families at Festival of Remembrance",
    "desc": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
@@ -11,7 +59,7 @@
   },
   {
    "title": "My parents chose to die together and I was left to grieve alone",
-   "desc": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.",
+   "desc": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.",
    "link": "https://www.bbc.com/news/articles/c81dwllzv113o",
    "time": "2026-11-08T01:10:21+00:00",
    "cat": "world",
@@ -23,7 +71,7 @@
    "link": "https://www.bbc.com/news/articles/c6n9r01d2709o",
    "time": "2026-11-08T00:55:17+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
@@ -47,14 +95,6 @@
    "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
    "time": "2026-11-08T00:37:45+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-   "desc": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
-   "link": "https://www.bbc.com/news/articles/cvze47p9jeexo",
-   "time": "2026-11-08T00:31:53+00:00",
-   "cat": "world",
    "top": true
   },
   {
@@ -98,14 +138,6 @@
    "top": true
   },
   {
-   "title": "What we know so far after Krakow gun attack",
-   "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "link": "https://www.bbc.com/news/articles/cmd7q15drwgeo",
-   "time": "2026-11-07T22:58:49+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
    "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
    "link": "https://www.bbc.com/news/articles/cmy8367lj5xlo",
@@ -114,27 +146,11 @@
    "top": true
   },
   {
-   "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-   "desc": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-   "link": "https://www.bbc.com/news/articles/c6pwg4ddwkzeo",
-   "time": "2026-11-07T21:50:58+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Wales let themselves down despite win - Lake",
-   "desc": "Captain Dewi Lake knows there is plenty to improve following a lacklustre 28-21 Nations Championship victory over Japan.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/crgj9323we9go",
-   "time": "2026-11-07T21:03:07+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Scotland's familiar frailties brutally exposed in All Blacks schooling",
-   "desc": "Hopes of a first-ever win over New Zealand were trampled along with Scotland's mission statement, writes Tom English.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c60rlkzwwk27o",
-   "time": "2026-11-07T20:57:12+00:00",
-   "cat": "sport",
+   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "desc": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+   "link": "https://www.bbc.com/news/articles/cxr5yyg2nj9eo",
+   "time": "2026-11-07T21:36:16+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -210,14 +226,6 @@
    "top": false
   },
   {
-   "title": "Gaza wedding festival sees 250 couples married at the same time",
-   "desc": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-   "link": "https://www.bbc.com/news/videos/ckr5ygm78j76o",
-   "time": "2026-11-07T17:58:41+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
    "desc": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
    "link": "https://www.bbc.com/news/articles/cwjdmm0z74plo",
@@ -226,34 +234,10 @@
    "top": true
   },
   {
-   "title": "Houthis say at least 25 killed in Saudi air strike",
-   "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "link": "https://www.bbc.com/news/articles/c65yn1v99ypmo",
-   "time": "2026-11-07T17:09:24+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Italian foreign minister says hackers leaked his personal data",
    "desc": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
    "link": "https://www.bbc.com/news/articles/cr20wvge32j3o",
    "time": "2026-11-07T16:50:06+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Third person arrested after car damaged by gunshots",
-   "desc": "A 29-year-old man was taken into custody on Saturday morning following two earlier arrests on Friday.",
-   "link": "https://www.bbc.com/news/articles/cmkgekz79vd9o",
-   "time": "2026-11-07T15:58:16+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "No clear winner after tight New Zealand general election",
-   "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "link": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
-   "time": "2026-11-07T15:56:28+00:00",
    "cat": "world",
    "top": false
   },
@@ -330,6 +314,14 @@
    "top": false
   },
   {
+   "title": "Texas mayor instructs police to limit co-operation with ICE",
+   "desc": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+   "link": "https://www.bbc.com/news/articles/c8dx33d22zkro",
+   "time": "2026-11-07T08:15:55+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
    "desc": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
    "link": "https://www.bbc.com/news/articles/cqgkvv8m8pgyo",
@@ -367,14 +359,6 @@
    "link": "https://www.bbc.com/news/articles/ck9dzwd85235o",
    "time": "2026-11-07T01:38:49+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "With Stephen Miller pick, Trump readies for a battle",
-   "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-   "link": "https://www.bbc.com/news/articles/crp3gg2z171go",
-   "time": "2026-11-06T23:24:15+00:00",
-   "cat": "world",
    "top": false
   },
   {
