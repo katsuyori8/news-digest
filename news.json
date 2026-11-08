@@ -1,8 +1,56 @@
 {
- "updated": "2026-11-08T20:15:21.862551+00:00",
+ "updated": "2026-11-08T23:54:34.387022+00:00",
  "items": [
   {
-   "title": "Man Utd score twice in stoppage-time to share points in eight-goal thriller",
+   "title": "Norris sparkles in Sao Paulo despite firework mishap",
+   "desc": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c6gr8e822kzqo",
+   "time": "2026-11-08T23:44:53+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "link": "https://www.bbc.com/news/articles/c5x2vw4e1gx1o",
+   "time": "2026-11-08T23:34:18+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+   "desc": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
+   "link": "https://www.bbc.com/news/articles/cj4g1nwx39wno",
+   "time": "2026-11-08T22:49:53+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "link": "https://www.bbc.com/news/articles/c3dxw10rjn9no",
+   "time": "2026-11-08T22:42:41+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+   "desc": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+   "link": "https://www.bbc.com/sport/football/articles/cked3qjw1q4xo",
+   "time": "2026-11-08T21:50:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Maya Jama steps down as host of reality TV show Love Island",
+   "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+   "link": "https://www.bbc.com/news/articles/cwzrd5jj47ndo",
+   "time": "2026-11-08T21:19:48+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
    "desc": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
    "link": "https://www.bbc.com/sport/football/videos/cqj6jldpl2gyo",
    "time": "2026-11-08T20:01:16+00:00",
@@ -10,7 +58,7 @@
    "top": false
   },
   {
-   "title": "Brighton breeze past ten-man Brentford to move up to second",
+   "title": "Brighton breeze past 10-man Brentford to move up to second",
    "desc": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
    "link": "https://www.bbc.com/sport/football/videos/cry836l4q56po",
    "time": "2026-11-08T20:00:21+00:00",
@@ -18,7 +66,7 @@
    "top": false
   },
   {
-   "title": "Bournemouth continue winning streak with Ipswich win",
+   "title": "Bournemouth beat Ipswich to extend winning streak",
    "desc": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
    "link": "https://www.bbc.com/sport/football/videos/cmx23rll2w0qo",
    "time": "2026-11-08T19:59:53+00:00",
@@ -58,18 +106,18 @@
    "top": false
   },
   {
-   "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-   "desc": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-   "link": "https://www.bbc.com/sport/football/articles/cjx23rwxdn64o",
-   "time": "2026-11-08T19:24:36+00:00",
+   "title": "What can you read into Premier League table after 10 games?",
+   "desc": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
+   "link": "https://www.bbc.com/sport/football/articles/c91463n3mlzlo",
+   "time": "2026-11-08T19:40:34+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Norris wins gripping race after Antonelli and Russell errors",
-   "desc": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c35yn19r7zkvo",
-   "time": "2026-11-08T19:13:53+00:00",
+   "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+   "desc": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
+   "link": "https://www.bbc.com/sport/football/articles/cjx23rwxdn64o",
+   "time": "2026-11-08T19:24:36+00:00",
    "cat": "sport",
    "top": false
   },
@@ -80,22 +128,6 @@
    "time": "2026-11-08T19:00:32+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-   "desc": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
-   "link": "https://www.bbc.com/sport/football/articles/cwj34k7k54veo",
-   "time": "2026-11-08T18:46:45+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "link": "https://www.bbc.com/news/articles/c5x2vw4e1gx1o",
-   "time": "2026-11-08T18:22:53+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
@@ -127,23 +159,7 @@
    "link": "https://www.bbc.com/news/articles/c8zxl9417e5vo",
    "time": "2026-11-08T17:42:28+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "England swat aside Wallabies to back up Borthwick",
-   "desc": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c9rkyg1gl7rgo",
-   "time": "2026-11-08T17:04:08+00:00",
-   "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-   "desc": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
-   "link": "https://www.bbc.com/news/videos/cw78p2km7d94o",
-   "time": "2026-11-08T16:05:57+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
@@ -167,7 +183,7 @@
    "link": "https://www.bbc.com/news/articles/cm70pdwz122ro",
    "time": "2026-11-08T14:42:09+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Iran executes three men for 'armed unrest' after January protests",
