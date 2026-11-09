@@ -1,27 +1,243 @@
 {
- "updated": "2026-11-09T14:12:36.015765+00:00",
+ "updated": "2026-11-09T23:30:14.614297+00:00",
  "items": [
   {
-   "title": "Thirteen migrants die after boat sinks off Crete",
-   "desc": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
-   "link": "https://www.bbc.com/news/articles/c65ynyxrjdyeo",
-   "time": "2026-11-09T13:50:01+00:00",
+   "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "desc": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+   "link": "https://www.bbc.com/news/articles/ck1l3le7q29vo",
+   "time": "2026-11-09T23:28:53+00:00",
    "cat": "world",
    "top": false
   },
   {
-   "title": "Passenger feared Huntingdon train attacker was suicide bomber, court hears",
-   "desc": "Milan Campion felt the attacker on the London-bound train \"wasn't sound of mind\".",
-   "link": "https://www.bbc.com/news/articles/crz656pl2399o",
-   "time": "2026-11-09T13:20:22+00:00",
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "link": "https://www.bbc.com/news/articles/cqg7x7dpvym8o",
+   "time": "2026-11-09T23:20:29+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Man Utd expected to sack head coach Carrick",
+   "desc": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
+   "link": "https://www.bbc.com/sport/football/articles/cmy0r041ed0po",
+   "time": "2026-11-09T23:13:31+00:00",
+   "cat": "sport",
+   "top": true
+  },
+  {
+   "title": "Sabalenka wins WTA Finals opener despite wayward serve",
+   "desc": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cr20w0q8lgy1o",
+   "time": "2026-11-09T23:10:50+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+   "desc": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+   "link": "https://www.bbc.com/news/articles/c51kdk422w8jo",
+   "time": "2026-11-09T22:51:09+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Brady ends association with Birmingham City",
+   "desc": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
+   "link": "https://www.bbc.com/sport/football/articles/cmd6d63vegd4o",
+   "time": "2026-11-09T22:18:17+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+   "desc": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+   "link": "https://www.bbc.com/news/articles/cw0737kv52lko",
+   "time": "2026-11-09T22:16:37+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Wimborne to host Bradford in FA Cup second round - see full draw",
+   "desc": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
+   "link": "https://www.bbc.com/sport/football/articles/c6wyrynd848jo",
+   "time": "2026-11-09T22:10:22+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+   "desc": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
+   "link": "https://www.bbc.com/news/articles/c95ynylr8j6xo",
+   "time": "2026-11-09T22:06:29+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "desc": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "link": "https://www.bbc.com/news/articles/cj3vqv3nee72o",
+   "time": "2026-11-09T21:52:28+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+   "desc": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+   "link": "https://www.bbc.com/news/articles/cq0mem8d2p3xo",
+   "time": "2026-11-09T21:48:38+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Aberdeen hunt yet another manager after ill-fated Robinson reign",
+   "desc": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
+   "link": "https://www.bbc.com/sport/football/articles/cr0qkq8pnx4ko",
+   "time": "2026-11-09T21:39:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+   "link": "https://www.bbc.com/news/articles/cwr5y58jjp8ro",
+   "time": "2026-11-09T21:37:02+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Turkey steel factory blast kills at least 17 people",
+   "desc": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+   "link": "https://www.bbc.com/news/articles/cq2d6d5z9y5jo",
+   "time": "2026-11-09T20:42:04+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+   "link": "https://www.bbc.com/news/articles/cmg474vk6dyqo",
+   "time": "2026-11-09T20:20:08+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "What happened inside court as Brand was sentenced",
+   "desc": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+   "link": "https://www.bbc.com/news/videos/cq99z9mrv35lo",
+   "time": "2026-11-09T20:13:41+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "link": "https://www.bbc.com/news/articles/c6zxjx01vyleo",
+   "time": "2026-11-09T19:58:01+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "People don't know full story behind England exile - White",
+   "desc": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+   "link": "https://www.bbc.com/sport/football/articles/c6rmym3p419no",
+   "time": "2026-11-09T19:00:10+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "How a civil servant got away with juggling five jobs for so long",
+   "desc": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "link": "https://www.bbc.com/news/articles/cw1m4d8vjvppo",
+   "time": "2026-11-09T18:40:31+00:00",
+   "cat": "biz",
+   "top": true
+  },
+  {
+   "title": "England wing Feyi-Waboso out of Nations Championship",
+   "desc": "England wing Immanuel Feyi-Waboso is ruled out of the rest of the Nations Championship as his injury misfortune continues.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cw5yny20m7jzo",
+   "time": "2026-11-09T18:33:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Russia's leading independent newspaper closes after eviction",
+   "desc": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+   "link": "https://www.bbc.com/news/videos/cvrlylj9r11go",
+   "time": "2026-11-09T18:08:07+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Trump questions midterm elections integrity after previously accepting results",
+   "desc": "Trump made the claims, without evidence, on Truth Social on Monday.",
+   "link": "https://www.bbc.com/news/articles/ck79p9350zp9o",
+   "time": "2026-11-09T17:47:29+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+   "desc": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+   "link": "https://www.bbc.com/news/articles/ckzd6dl18dmyo",
+   "time": "2026-11-09T17:31:08+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Kane and Bellingham air strong views in England World Cup review",
+   "desc": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+   "link": "https://www.bbc.com/sport/football/articles/cqr7y7813l04o",
+   "time": "2026-11-09T17:30:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Detective stole more than £85,000 from police force",
+   "desc": "Michelle Kirsty Reason admitted taking money from Derbyshire Police that had been seized from criminals.",
+   "link": "https://www.bbc.com/news/articles/c65yny5nv7ywo",
+   "time": "2026-11-09T17:26:20+00:00",
    "cat": "uk",
    "top": false
   },
   {
-   "title": "Man jailed for murdering fiancee he 'love bombed'",
-   "desc": "Jack Johns, who has a history of violence against ex-partners, killed his fiancee in Leeds in June.",
-   "link": "https://www.bbc.com/news/articles/ck1wvweew233o",
-   "time": "2026-11-09T13:10:39+00:00",
+   "title": "Civil servant who secretly held five jobs found guilty of fraud",
+   "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+   "link": "https://www.bbc.com/news/articles/cm70pgnx891do",
+   "time": "2026-11-09T17:17:16+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+   "desc": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+   "link": "https://www.bbc.com/news/articles/cm93z3lp5lnpo",
+   "time": "2026-11-09T17:06:18+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Poundland unable to buy new stock as fears over collapse grow",
+   "desc": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "link": "https://www.bbc.com/news/articles/cw1l3lmem165o",
+   "time": "2026-11-09T16:46:40+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+   "desc": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+   "link": "https://www.bbc.com/news/articles/cv2d6dpge65go",
+   "time": "2026-11-09T16:33:55+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+   "desc": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+   "link": "https://www.bbc.com/news/articles/cmz7x7q7q8vvo",
+   "time": "2026-11-09T16:01:19+00:00",
    "cat": "uk",
    "top": false
   },
@@ -29,8 +245,64 @@
    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
    "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
    "link": "https://www.bbc.com/news/articles/ckgel338xql3o",
-   "time": "2026-11-09T13:10:32+00:00",
+   "time": "2026-11-09T15:46:20+00:00",
    "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Electrical items caused fatal fire, inquest hears",
+   "desc": "An inquest is told a fire that killed a mother and her two children was accidental.",
+   "link": "https://www.bbc.com/news/articles/cm4g1gd275g4o",
+   "time": "2026-11-09T15:35:33+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
+   "desc": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It.",
+   "link": "https://www.bbc.com/news/articles/ck0e0elq4ndpo",
+   "time": "2026-11-09T15:27:00+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "One of James Bulger's killers to remain in prison",
+   "desc": "Jon Venables told parole staff dealing with his latest review that he was not seeking release.",
+   "link": "https://www.bbc.com/news/articles/cq80z0y85j0go",
+   "time": "2026-11-09T15:19:33+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "How Hawkins overcame illness to star for England",
+   "desc": "When Rob Hawkins replied to what he thought was an advert to play wheelchair basketball in 2014 he could not have imagined he would be a key part of an England side defending their Rugby League World Cup title.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cmvgxgdqgdgvo",
+   "time": "2026-11-09T15:15:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Birds return to waterfowl park after oil vandalism",
+   "desc": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
+   "link": "https://www.bbc.com/news/articles/c6gqwq1x85e0o",
+   "time": "2026-11-09T14:52:07+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+   "desc": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+   "link": "https://www.bbc.com/news/videos/c80404zyr53wo",
+   "time": "2026-11-09T14:50:35+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+   "desc": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+   "link": "https://www.bbc.com/sport/football/articles/c6n9r93dnr9do",
+   "time": "2026-11-09T14:34:19+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -39,14 +311,14 @@
    "link": "https://www.bbc.com/news/articles/c5n494x9kgp0o",
    "time": "2026-11-09T13:06:31+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
-   "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
-   "desc": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
-   "link": "https://www.bbc.com/news/articles/cm93z3lp5lnpo",
-   "time": "2026-11-09T12:33:24+00:00",
-   "cat": "world",
+   "title": "Chelsea staff warned over Fantasy Premier League use",
+   "desc": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
+   "link": "https://www.bbc.com/sport/football/articles/c98rzr51rlvpo",
+   "time": "2026-11-09T12:41:23+00:00",
+   "cat": "sport",
    "top": false
   },
   {
@@ -55,7 +327,7 @@
    "link": "https://www.bbc.com/weather/articles/cj75p29nz6e6o",
    "time": "2026-11-09T12:11:32+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Ioan Gruffudd in AI warning after fan claimed they had been in year-long affair",
@@ -71,30 +343,6 @@
    "link": "https://www.bbc.com/news/articles/cqkg5g2970epo",
    "time": "2026-11-09T12:06:22+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Burn replaces injured Guehi in England squad",
-   "desc": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
-   "link": "https://www.bbc.com/sport/football/articles/cmwyq8x6nx5lo",
-   "time": "2026-11-09T12:06:19+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "England clear way for Carse return and drop Bashir",
-   "desc": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cw8dzd953nq5o",
-   "time": "2026-11-09T12:00:30+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Alisson wants to sign new Liverpool contract",
-   "desc": "Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.",
-   "link": "https://www.bbc.com/sport/football/articles/cw62ypepq2m7o",
-   "time": "2026-11-09T12:00:11+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -103,14 +351,6 @@
    "link": "https://www.bbc.com/news/articles/c6y434dw8319o",
    "time": "2026-11-09T11:56:25+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Birds return to waterfowl park after oil vandalism",
-   "desc": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
-   "link": "https://www.bbc.com/news/articles/c6gqwq1x85e0o",
-   "time": "2026-11-09T11:33:58+00:00",
-   "cat": "sci",
    "top": false
   },
   {
@@ -130,36 +370,12 @@
    "top": false
   },
   {
-   "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-   "desc": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-   "link": "https://www.bbc.com/news/articles/cv2d6dpge65go",
-   "time": "2026-11-09T10:59:26+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-   "desc": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-   "link": "https://www.bbc.com/news/articles/cqd090ee8px5o",
-   "time": "2026-11-09T10:41:57+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Ali weeps as world title dream realised in Texas",
-   "desc": "Ramla Ali dedicated her win to her late father as she defeated Mikiah Kreps to become the unified super-bantamweight world champion.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cqkglg1y4jwwo",
-   "time": "2026-11-09T10:38:17+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
    "desc": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
    "link": "https://www.bbc.com/news/articles/cm2d6kk0wzw4o",
    "time": "2026-11-09T10:00:34+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Mariah Carey set to headline 2027 music festival",
@@ -178,30 +394,6 @@
    "top": false
   },
   {
-   "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-   "desc": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-   "link": "https://www.bbc.com/news/articles/ck0j0j87959eo",
-   "time": "2026-11-09T08:49:17+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-   "link": "https://www.bbc.com/news/articles/c3dxw10rjn9no",
-   "time": "2026-11-09T08:10:25+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Dutch match postponed after fans block team bus",
-   "desc": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.",
-   "link": "https://www.bbc.com/sport/football/articles/cqy0r0lw4l5ro",
-   "time": "2026-11-09T08:00:07+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Scientists predict 2026 hottest year on record as climate talks begin",
    "desc": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
    "link": "https://www.bbc.com/news/articles/c6pvgg7mdvdvo",
@@ -210,35 +402,11 @@
    "top": false
   },
   {
-   "title": "Sports Personality of the Year returns - with five awards decided by public",
-   "desc": "BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards.",
-   "link": "https://www.bbc.com/sport/articles/cqj9kd00y0wko",
-   "time": "2026-11-09T07:30:05+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Packers & Bengals win in style - NFL week nine",
-   "desc": "The Chicago Bears and Denver Broncos grind out wins while the Cincinnati Bengals and Green Bay Packers put on a show as the NFL season reaches the halfway point.",
-   "link": "https://www.bbc.com/sport/american-football/articles/cmdxwxry2pr8o",
-   "time": "2026-11-09T07:21:24+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
    "desc": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
    "link": "https://www.bbc.com/news/videos/cq3989nkzn3ko",
    "time": "2026-11-09T07:10:11+00:00",
    "cat": "biz",
-   "top": true
-  },
-  {
-   "title": "England make massive step up in Australia victory",
-   "desc": "In his latest column, England World Cup winner Matt Dawson reflects on an impressive win for Steve Borthwick's side against Australia in the Nations Championship.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cqev33zn20vdo",
-   "time": "2026-11-09T06:49:22+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -258,38 +426,6 @@
    "top": false
   },
   {
-   "title": "Hut owner wins battle to keep living in off-grid home he built",
-   "desc": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
-   "link": "https://www.bbc.com/news/articles/c933x074xz58o",
-   "time": "2026-11-09T06:13:11+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Inside the French drug gangs recruiting children to kill",
-   "desc": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-   "link": "https://www.bbc.com/news/articles/cq62y01r2313o",
-   "time": "2026-11-09T06:00:26+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-   "desc": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-   "link": "https://www.bbc.com/news/articles/ckj0l082jqzvo",
-   "time": "2026-11-09T05:30:37+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-   "desc": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-   "link": "https://www.bbc.com/news/articles/ck1wvrrgln13o",
-   "time": "2026-11-09T02:50:13+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
    "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
    "link": "https://www.bbc.com/news/articles/ckn9r0zd0ynwo",
@@ -298,20 +434,12 @@
    "top": false
   },
   {
-   "title": "Society needs to act to help white working-class pupils, inquiry says",
-   "desc": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\".",
-   "link": "https://www.bbc.com/news/articles/cmwyqql26xe8o",
-   "time": "2026-11-09T01:52:32+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "A glimmer of good news for Britain's sleepy dormouse",
    "desc": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
    "link": "https://www.bbc.com/news/articles/c85ynn0p5k71o",
    "time": "2026-11-09T00:56:43+00:00",
-   "cat": "uk",
-   "top": true
+   "cat": "sci",
+   "top": false
   },
   {
    "title": "Doing these things now will help you save money at Christmas",
@@ -322,51 +450,11 @@
    "top": false
   },
   {
-   "title": "Norris sparkles in Sao Paulo despite firework mishap",
-   "desc": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c6gr8e822kzqo",
-   "time": "2026-11-08T23:44:53+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "link": "https://www.bbc.com/news/articles/c5x2vw4e1gx1o",
-   "time": "2026-11-08T23:34:18+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
-   "desc": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-   "link": "https://www.bbc.com/sport/football/articles/cked3qjw1q4xo",
-   "time": "2026-11-08T21:50:05+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Maya Jama steps down as host of reality TV show Love Island",
    "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
    "link": "https://www.bbc.com/news/articles/cwzrd5jj47ndo",
    "time": "2026-11-08T21:19:48+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-   "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-   "link": "https://www.bbc.com/news/articles/cwvgr20mmmevo",
-   "time": "2026-11-08T19:58:02+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-   "desc": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
-   "link": "https://www.bbc.com/news/articles/cwrkygrxp11mo",
-   "time": "2026-11-08T17:51:03+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": false
   },
   {
@@ -374,15 +462,7 @@
    "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
    "link": "https://www.bbc.com/news/articles/cmzxjvpqrjxro",
    "time": "2026-11-08T15:37:25+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
-   "desc": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-   "link": "https://www.bbc.com/news/articles/cmvg72p1zgvlo",
-   "time": "2026-11-08T13:05:30+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -391,22 +471,6 @@
    "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
    "time": "2026-11-08T00:37:45+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "He spent $50,000 on Labubus but now the craze is dying",
-   "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-   "link": "https://www.bbc.com/news/articles/cmvg652l927lo",
-   "time": "2026-11-07T23:02:35+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
-   "desc": "The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
-   "link": "https://www.bbc.com/news/articles/c6rmyymw1zz1o",
-   "time": "2026-11-07T13:03:57+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -446,7 +510,7 @@
    "desc": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
    "link": "https://www.bbc.com/news/articles/cq1j33w7d232o",
    "time": "2026-11-06T21:49:50+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -462,15 +526,7 @@
    "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
    "link": "https://www.bbc.com/news/articles/crlykkzwwpydo",
    "time": "2026-11-06T18:32:16+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-   "desc": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-   "link": "https://www.bbc.com/news/articles/cm1dwwqrr1kvo",
-   "time": "2026-11-06T17:19:38+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -511,22 +567,6 @@
    "link": "https://www.bbc.com/news/articles/cmn04705rd8jo",
    "time": "2026-11-06T13:25:50+00:00",
    "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-   "desc": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
-   "link": "https://www.bbc.com/news/articles/cm4g1jqwylvgo",
-   "time": "2026-11-06T12:16:44+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "How does it affect me if share prices fall?",
-   "desc": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-   "link": "https://www.bbc.com/news/articles/c33zdz2m1e2o",
-   "time": "2026-11-06T09:21:50+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -574,30 +614,6 @@
    "desc": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
    "link": "https://www.bbc.com/news/articles/cv8ez3p3ge5ko",
    "time": "2026-11-04T21:41:15+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-   "desc": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-   "link": "https://www.bbc.com/news/articles/c8vgxyvz6y9ro",
-   "time": "2026-11-04T16:26:15+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Graduates are managing AI - but are they learning much else?",
-   "desc": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-   "link": "https://www.bbc.com/news/articles/c820vz6wyp65o",
-   "time": "2026-11-04T00:04:35+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-   "desc": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-   "link": "https://www.bbc.com/news/articles/ck5ynwz9gy67o",
-   "time": "2026-11-03T16:19:29+00:00",
    "cat": "tech",
    "top": false
   }
