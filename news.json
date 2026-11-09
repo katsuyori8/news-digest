@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-08T23:54:34.387022+00:00",
+ "updated": "2026-11-09T05:09:42.987816+00:00",
  "items": [
+  {
+   "title": "Government's EV targets expected to be reduced this week",
+   "desc": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+   "link": "https://www.bbc.com/news/articles/cqkg5g2970epo",
+   "time": "2026-11-09T05:00:43+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Dense fog threatens Monday morning rush-hour disruption",
+   "desc": "Fog could disrupt Monday morning’s commute",
+   "link": "https://www.bbc.com/weather/articles/cj75p29nz6e6o",
+   "time": "2026-11-09T03:46:32+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+   "desc": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+   "link": "https://www.bbc.com/news/articles/ck1wvrrgln13o",
+   "time": "2026-11-09T02:50:13+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+   "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+   "link": "https://www.bbc.com/news/articles/ckn9r0zd0ynwo",
+   "time": "2026-11-09T02:34:09+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Society needs to act to help white working-class pupils, inquiry says",
+   "desc": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\".",
+   "link": "https://www.bbc.com/news/articles/cmwyqql26xe8o",
+   "time": "2026-11-09T01:52:32+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+   "desc": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+   "link": "https://www.bbc.com/news/articles/cm2d6kk0wzw4o",
+   "time": "2026-11-09T00:57:05+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "A glimmer of good news for Britain's sleepy dormouse",
+   "desc": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+   "link": "https://www.bbc.com/news/articles/c85ynn0p5k71o",
+   "time": "2026-11-09T00:56:43+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "link": "https://www.bbc.com/news/articles/c3dxw10rjn9no",
+   "time": "2026-11-09T00:50:06+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Doing these things now will help you save money at Christmas",
+   "desc": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "link": "https://www.bbc.com/news/articles/ck7vppll151mo",
+   "time": "2026-11-09T00:09:14+00:00",
+   "cat": "biz",
+   "top": false
+  },
   {
    "title": "Norris sparkles in Sao Paulo despite firework mishap",
    "desc": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
@@ -15,21 +87,13 @@
    "link": "https://www.bbc.com/news/articles/c5x2vw4e1gx1o",
    "time": "2026-11-08T23:34:18+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
-   "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
-   "desc": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
-   "link": "https://www.bbc.com/news/articles/cj4g1nwx39wno",
-   "time": "2026-11-08T22:49:53+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-   "link": "https://www.bbc.com/news/articles/c3dxw10rjn9no",
-   "time": "2026-11-08T22:42:41+00:00",
+   "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+   "desc": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+   "link": "https://www.bbc.com/news/videos/c63elgqqz5y0o",
+   "time": "2026-11-08T22:05:12+00:00",
    "cat": "world",
    "top": true
   },
@@ -42,11 +106,19 @@
    "top": false
   },
   {
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "desc": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+   "link": "https://www.bbc.com/news/articles/c6ly3mjx958eo",
+   "time": "2026-11-08T21:37:36+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
    "title": "Maya Jama steps down as host of reality TV show Love Island",
    "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
    "link": "https://www.bbc.com/news/articles/cwzrd5jj47ndo",
    "time": "2026-11-08T21:19:48+00:00",
-   "cat": "world",
+   "cat": "uk",
    "top": true
   },
   {
@@ -95,7 +167,7 @@
    "link": "https://www.bbc.com/news/articles/cwvgr20mmmevo",
    "time": "2026-11-08T19:58:02+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
@@ -143,7 +215,7 @@
    "link": "https://www.bbc.com/news/articles/cqy8l0gyvvv2o",
    "time": "2026-11-08T18:20:53+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
@@ -152,22 +224,6 @@
    "time": "2026-11-08T17:56:35+00:00",
    "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-   "desc": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
-   "link": "https://www.bbc.com/news/articles/c8zxl9417e5vo",
-   "time": "2026-11-08T17:42:28+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-   "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
-   "link": "https://www.bbc.com/news/articles/ckn9r0zd0ynwo",
-   "time": "2026-11-08T15:37:57+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
@@ -191,61 +247,13 @@
    "link": "https://www.bbc.com/news/articles/ckly0ex633ydo",
    "time": "2026-11-08T13:37:50+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
    "desc": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
    "link": "https://www.bbc.com/news/articles/cmvg72p1zgvlo",
    "time": "2026-11-08T13:05:30+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "We face paying £9,000 tax even though our second home is in a war zone",
-   "desc": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
-   "link": "https://www.bbc.com/news/articles/c674pk4klp7no",
-   "time": "2026-11-08T08:04:59+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "School Street fines at one location exceed £1m",
-   "desc": "The council issues penalty charges totalling £1.15m over the scheme near Manor School in Kensal Rise.",
-   "link": "https://www.bbc.com/news/articles/c68xzzvgl7reo",
-   "time": "2026-11-08T08:01:55+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "I won't let my daughter's killer live in my head, says Sarah Payne's mum",
-   "desc": "Sara Payne says she found out her eight-year-old had died as it was being reported in the news.",
-   "link": "https://www.bbc.com/news/articles/cq78p3mlv9rjo",
-   "time": "2026-11-08T07:17:04+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
-   "desc": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
-   "link": "https://www.bbc.com/news/articles/ck87z9exex2lo",
-   "time": "2026-11-08T04:09:21+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "link": "https://www.bbc.com/news/articles/c65yn1v99ypmo",
-   "time": "2026-11-08T04:03:12+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-   "desc": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-   "link": "https://www.bbc.com/news/articles/c6pwg4ddwkzeo",
-   "time": "2026-11-08T03:34:22+00:00",
    "cat": "uk",
    "top": false
   },
@@ -335,14 +343,6 @@
    "link": "https://www.bbc.com/news/articles/c6wyrrwj9xlro",
    "time": "2026-11-07T10:44:38+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-   "desc": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-   "link": "https://www.bbc.com/news/articles/cqgkvv8m8pgyo",
-   "time": "2026-11-07T07:27:44+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -562,27 +562,11 @@
    "top": false
   },
   {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "desc": "Most analysts expected the increase from 3.75% to 4%.",
-   "link": "https://www.bbc.com/news/articles/ck5ynw45jrgqo",
-   "time": "2026-11-05T17:09:55+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Investigation into 'major fish kill' after pollution incident",
    "desc": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
    "link": "https://www.bbc.com/news/articles/cx1l36y2d941o",
    "time": "2026-11-05T14:51:45+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Faisal Islam: How high will interest rates go?",
-   "desc": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-   "link": "https://www.bbc.com/news/articles/ckr5y0y37gv3o",
-   "time": "2026-11-05T13:17:10+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -622,14 +606,6 @@
    "desc": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
    "link": "https://www.bbc.com/news/articles/c699z8792n7ro",
    "time": "2026-11-04T07:39:38+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-   "desc": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-   "link": "https://www.bbc.com/news/articles/cr62yv02zwxwo",
-   "time": "2026-11-04T06:11:43+00:00",
    "cat": "sci",
    "top": false
   },
