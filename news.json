@@ -1,6 +1,150 @@
 {
- "updated": "2026-11-09T23:30:14.614297+00:00",
+ "updated": "2026-11-10T06:24:58.418958+00:00",
  "items": [
+  {
+   "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+   "desc": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
+   "link": "https://www.bbc.com/sport/articles/cm98z8w9kx02o",
+   "time": "2026-11-10T06:20:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+   "desc": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+   "link": "https://www.bbc.com/news/articles/c64g1gzy2vdzo",
+   "time": "2026-11-10T06:01:44+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Trump says more US attacks on Iran 'highly unlikely'",
+   "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+   "link": "https://www.bbc.com/news/articles/cq5yny4nl2d3o",
+   "time": "2026-11-10T05:33:25+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+   "desc": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+   "link": "https://www.bbc.com/news/articles/cmp3g37l566po",
+   "time": "2026-11-10T05:22:39+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "link": "https://www.bbc.com/news/articles/cqg7x7dpvym8o",
+   "time": "2026-11-10T03:58:13+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+   "desc": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while the two were together.",
+   "link": "https://www.bbc.com/news/articles/c95ynylr8j6xo",
+   "time": "2026-11-10T02:59:42+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "link": "https://www.bbc.com/news/articles/cry838v4qzvyo",
+   "time": "2026-11-10T01:55:22+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "'Cruise for life' ship seized in Singapore",
+   "desc": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
+   "link": "https://www.bbc.com/news/articles/cqr7y7myer53o",
+   "time": "2026-11-10T01:49:06+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+   "link": "https://www.bbc.com/news/articles/cwr5y58jjp8ro",
+   "time": "2026-11-10T01:38:49+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Hundreds more offenders to leave jail on Tuesday",
+   "desc": "At least 1,350 offenders have been released from jail early under the scheme so far.",
+   "link": "https://www.bbc.com/news/articles/c51kdk8z7ym3o",
+   "time": "2026-11-10T01:06:37+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Prince William wants more protection from harassment for service women",
+   "desc": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces.",
+   "link": "https://www.bbc.com/news/articles/cqp8g85pxe9ro",
+   "time": "2026-11-10T00:41:24+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "I took Vinted to court to get my money back",
+   "desc": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+   "link": "https://www.bbc.com/news/articles/cm369e3l15lwo",
+   "time": "2026-11-10T00:27:37+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "desc": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+   "link": "https://www.bbc.com/news/articles/cm86z6w59gggo",
+   "time": "2026-11-10T00:14:03+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "desc": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+   "link": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o",
+   "time": "2026-11-10T00:09:49+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "The superpower battle over energy – and what it means for your bills",
+   "desc": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+   "link": "https://www.bbc.com/news/articles/cw62y2z53pg1o",
+   "time": "2026-11-10T00:08:28+00:00",
+   "cat": "sci",
+   "top": true
+  },
+  {
+   "title": "Initiative launched to make UK world leader in women's sport",
+   "desc": "The FA, Team GB and England Netball are among major organisations to back the Equal Sport Project - a new initiative aimed at improving equality and making the UK world leaders for women and girls' sport.",
+   "link": "https://www.bbc.com/sport/articles/crp3g3l2wew3o",
+   "time": "2026-11-10T00:01:29+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "link": "https://www.bbc.com/news/articles/ckgel338xql3o",
+   "time": "2026-11-09T23:51:22+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Sabalenka wins WTA Finals opener despite wayward serve",
+   "desc": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cr20w0q8lgy1o",
+   "time": "2026-11-09T23:51:09+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
    "desc": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
@@ -10,26 +154,10 @@
    "top": false
   },
   {
-   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "link": "https://www.bbc.com/news/articles/cqg7x7dpvym8o",
-   "time": "2026-11-09T23:20:29+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Man Utd expected to sack head coach Carrick",
    "desc": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
    "link": "https://www.bbc.com/sport/football/articles/cmy0r041ed0po",
    "time": "2026-11-09T23:13:31+00:00",
-   "cat": "sport",
-   "top": true
-  },
-  {
-   "title": "Sabalenka wins WTA Finals opener despite wayward serve",
-   "desc": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cr20w0q8lgy1o",
-   "time": "2026-11-09T23:10:50+00:00",
    "cat": "sport",
    "top": false
   },
@@ -38,7 +166,7 @@
    "desc": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
    "link": "https://www.bbc.com/news/articles/c51kdk422w8jo",
    "time": "2026-11-09T22:51:09+00:00",
-   "cat": "world",
+   "cat": "uk",
    "top": true
   },
   {
@@ -66,43 +194,11 @@
    "top": false
   },
   {
-   "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
-   "desc": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
-   "link": "https://www.bbc.com/news/articles/c95ynylr8j6xo",
-   "time": "2026-11-09T22:06:29+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
    "desc": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
    "link": "https://www.bbc.com/news/articles/cj3vqv3nee72o",
    "time": "2026-11-09T21:52:28+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-   "desc": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-   "link": "https://www.bbc.com/news/articles/cq0mem8d2p3xo",
-   "time": "2026-11-09T21:48:38+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Aberdeen hunt yet another manager after ill-fated Robinson reign",
-   "desc": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
-   "link": "https://www.bbc.com/sport/football/articles/cr0qkq8pnx4ko",
-   "time": "2026-11-09T21:39:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-   "link": "https://www.bbc.com/news/articles/cwr5y58jjp8ro",
-   "time": "2026-11-09T21:37:02+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -119,7 +215,7 @@
    "link": "https://www.bbc.com/news/articles/cmg474vk6dyqo",
    "time": "2026-11-09T20:20:08+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "What happened inside court as Brand was sentenced",
@@ -134,7 +230,7 @@
    "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
    "link": "https://www.bbc.com/news/articles/c6zxjx01vyleo",
    "time": "2026-11-09T19:58:01+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -151,7 +247,7 @@
    "link": "https://www.bbc.com/news/articles/cw1m4d8vjvppo",
    "time": "2026-11-09T18:40:31+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "England wing Feyi-Waboso out of Nations Championship",
@@ -170,20 +266,12 @@
    "top": false
   },
   {
-   "title": "Trump questions midterm elections integrity after previously accepting results",
-   "desc": "Trump made the claims, without evidence, on Truth Social on Monday.",
-   "link": "https://www.bbc.com/news/articles/ck79p9350zp9o",
-   "time": "2026-11-09T17:47:29+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
    "desc": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
    "link": "https://www.bbc.com/news/articles/ckzd6dl18dmyo",
    "time": "2026-11-09T17:31:08+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Kane and Bellingham air strong views in England World Cup review",
@@ -210,43 +298,11 @@
    "top": false
   },
   {
-   "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-   "desc": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-   "link": "https://www.bbc.com/news/articles/cm93z3lp5lnpo",
-   "time": "2026-11-09T17:06:18+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Poundland unable to buy new stock as fears over collapse grow",
    "desc": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
    "link": "https://www.bbc.com/news/articles/cw1l3lmem165o",
    "time": "2026-11-09T16:46:40+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-   "desc": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-   "link": "https://www.bbc.com/news/articles/cv2d6dpge65go",
-   "time": "2026-11-09T16:33:55+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-   "desc": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
-   "link": "https://www.bbc.com/news/articles/cmz7x7q7q8vvo",
-   "time": "2026-11-09T16:01:19+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-   "link": "https://www.bbc.com/news/articles/ckgel338xql3o",
-   "time": "2026-11-09T15:46:20+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -262,14 +318,6 @@
    "desc": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It.",
    "link": "https://www.bbc.com/news/articles/ck0e0elq4ndpo",
    "time": "2026-11-09T15:27:00+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "One of James Bulger's killers to remain in prison",
-   "desc": "Jon Venables told parole staff dealing with his latest review that he was not seeking release.",
-   "link": "https://www.bbc.com/news/articles/cq80z0y85j0go",
-   "time": "2026-11-09T15:19:33+00:00",
    "cat": "uk",
    "top": false
   },
@@ -314,14 +362,6 @@
    "top": false
   },
   {
-   "title": "Chelsea staff warned over Fantasy Premier League use",
-   "desc": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
-   "link": "https://www.bbc.com/sport/football/articles/c98rzr51rlvpo",
-   "time": "2026-11-09T12:41:23+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Thick fog disrupts travel with further weather warning issued",
    "desc": "Fog is causing disruption on Monday morning for many across England, Wales and Northern Ireland.",
    "link": "https://www.bbc.com/weather/articles/cj75p29nz6e6o",
@@ -335,22 +375,6 @@
    "link": "https://www.bbc.com/news/articles/cmwyvydp2vz8o",
    "time": "2026-11-09T12:09:44+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Government's EV targets expected to be reduced this week",
-   "desc": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-   "link": "https://www.bbc.com/news/articles/cqkg5g2970epo",
-   "time": "2026-11-09T12:06:22+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Krakow shooting suspect has died in hospital, police say",
-   "desc": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-   "link": "https://www.bbc.com/news/articles/c6y434dw8319o",
-   "time": "2026-11-09T11:56:25+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -462,7 +486,7 @@
    "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
    "link": "https://www.bbc.com/news/articles/cmzxjvpqrjxro",
    "time": "2026-11-08T15:37:25+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -487,14 +511,6 @@
    "link": "https://www.bbc.com/weather/articles/cmlykqq7zg9zo",
    "time": "2026-11-07T02:03:28+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-   "desc": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-   "link": "https://www.bbc.com/news/articles/c617kjqjvk12o",
-   "time": "2026-11-07T01:41:36+00:00",
-   "cat": "biz",
    "top": false
   },
   {
@@ -562,27 +578,11 @@
    "top": false
   },
   {
-   "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-   "desc": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-   "link": "https://www.bbc.com/news/articles/cmn04705rd8jo",
-   "time": "2026-11-06T13:25:50+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
    "desc": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
    "link": "https://www.bbc.com/weather/articles/cwyvrz09mnd6o",
    "time": "2026-11-06T01:22:39+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "The engine parts that 'fight the laws of the universe'",
-   "desc": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-   "link": "https://www.bbc.com/news/articles/cwe9lmp1pyyxo",
-   "time": "2026-11-06T00:06:06+00:00",
-   "cat": "tech",
    "top": false
   },
   {
@@ -599,22 +599,6 @@
    "link": "https://www.bbc.com/news/articles/cx1l36y2d941o",
    "time": "2026-11-05T14:51:45+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-   "desc": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-   "link": "https://www.bbc.com/news/articles/cw33kgj7nkemo",
-   "time": "2026-11-04T23:12:47+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-   "desc": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-   "link": "https://www.bbc.com/news/articles/cv8ez3p3ge5ko",
-   "time": "2026-11-04T21:41:15+00:00",
-   "cat": "tech",
    "top": false
   }
  ]
