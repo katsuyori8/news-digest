@@ -1,21 +1,133 @@
 {
- "updated": "2026-11-11T01:23:31.524605+00:00",
+ "updated": "2026-11-11T08:06:06.076056+00:00",
  "items": [
+  {
+   "title": "Christmas toy rush being driven by stickers and building sets",
+   "desc": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+   "link": "https://www.bbc.com/news/articles/cx5ynyg6j375o",
+   "time": "2026-11-11T07:52:05+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "link": "https://www.bbc.com/news/articles/ckgel338xql3o",
+   "time": "2026-11-11T07:44:24+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Prince George's artwork featured in Country Life magazine",
+   "desc": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
+   "link": "https://www.bbc.com/news/articles/c6q8n8n835vqo",
+   "time": "2026-11-11T07:30:58+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Temperatures to dip to -5C as first cold health alerts of season issued",
+   "desc": "The most widespread frost of the season so far is forecast for many parts of the country. BBC Weather's Tomasz Schafernaker reports.",
+   "link": "https://www.bbc.com/weather/articles/crq5n5148p7po",
+   "time": "2026-11-11T07:08:32+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/cmy4x9en5k3lo",
+   "time": "2026-11-11T06:47:18+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Brand made £3k donation to rape charity year after committing offence himself",
+   "desc": "A rape crisis centre says it received a donation in the disgraced entertainer's name in 2010.",
+   "link": "https://www.bbc.com/news/articles/cw4g1gy043nqo",
+   "time": "2026-11-11T06:32:03+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Does Pickford finally face serious competition for his England place?",
+   "desc": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
+   "link": "https://www.bbc.com/sport/football/articles/crvg9y27n45wo",
+   "time": "2026-11-11T06:24:28+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Acquitted 'China spy': I was fall guy for security services",
+   "desc": "Thousands of messages seen by BBC show how a Chinese official sought details of sensitive political matters.",
+   "link": "https://www.bbc.com/news/articles/c98rzzvde1llo",
+   "time": "2026-11-11T06:00:21+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "£10m business park in 'apocalyptic' state after caravan and tonnes of waste dumped",
+   "desc": "Locals express their dismay as the empty business park is strewn with fly-tipped rubbish.",
+   "link": "https://www.bbc.com/news/articles/c6y434mpg1d0o",
+   "time": "2026-11-11T05:52:33+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+   "desc": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
+   "link": "https://www.bbc.com/news/articles/cmwy9jl18840o",
+   "time": "2026-11-11T04:03:25+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+   "desc": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+   "link": "https://www.bbc.com/news/articles/cw8dvpmzp2p4o",
+   "time": "2026-11-11T03:44:06+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
    "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
    "link": "https://www.bbc.com/news/articles/cxly4y5jzl0qo",
-   "time": "2026-11-11T01:14:40+00:00",
+   "time": "2026-11-11T03:26:42+00:00",
    "cat": "world",
    "top": true
+  },
+  {
+   "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+   "desc": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+   "link": "https://www.bbc.com/news/articles/cmvg2xdwnwezo",
+   "time": "2026-11-11T02:47:59+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+   "desc": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+   "link": "https://www.bbc.com/news/articles/c9j3433zy4vro",
+   "time": "2026-11-11T02:41:16+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+   "desc": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+   "link": "https://www.bbc.com/news/articles/cm93rpy6lx0do",
+   "time": "2026-11-11T01:18:09+00:00",
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
    "desc": "The inquiry's lead barrister says photos of people lying on their backs with shots to the head may be evidence of possible war crimes.",
    "link": "https://www.bbc.com/news/articles/cm20w093y3gqo",
    "time": "2026-11-11T01:11:30+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "uk",
+   "top": false
   },
   {
    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
@@ -26,19 +138,11 @@
    "top": true
   },
   {
-   "title": "Prince George's artwork featured in Country Life magazine",
-   "desc": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
-   "link": "https://www.bbc.com/news/articles/c6q8n8n835vqo",
-   "time": "2026-11-11T00:46:28+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
    "desc": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
    "link": "https://www.bbc.com/news/articles/cwm242plggldo",
    "time": "2026-11-11T00:35:14+00:00",
-   "cat": "sci",
+   "cat": "uk",
    "top": false
   },
   {
@@ -64,14 +168,6 @@
    "time": "2026-11-11T00:17:42+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-   "desc": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-   "link": "https://www.bbc.com/news/articles/cx5ynyg6j375o",
-   "time": "2026-11-11T00:16:44+00:00",
-   "cat": "biz",
-   "top": false
   },
   {
    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
@@ -110,7 +206,7 @@
    "desc": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
    "link": "https://www.bbc.com/news/articles/cwx2922r4mrjo",
    "time": "2026-11-10T22:41:01+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": true
   },
   {
@@ -119,38 +215,6 @@
    "link": "https://www.bbc.com/sport/rugby-union/articles/cq9vw88v8p80o",
    "time": "2026-11-10T22:32:41+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-   "desc": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-   "link": "https://www.bbc.com/news/articles/c9j3433zy4vro",
-   "time": "2026-11-10T22:17:45+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Census should include black English and Asian English options, says MP",
-   "desc": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly.",
-   "link": "https://www.bbc.com/news/articles/c3lylyy24xl5o",
-   "time": "2026-11-10T22:04:54+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-   "link": "https://www.bbc.com/news/articles/ckgel338xql3o",
-   "time": "2026-11-10T21:22:36+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "First day of Ukraine peace talks constructive, Zelensky says",
-   "desc": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-   "link": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o",
-   "time": "2026-11-10T21:21:55+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -174,8 +238,8 @@
    "desc": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
    "link": "https://www.bbc.com/news/articles/ckn8w8p9370zo",
    "time": "2026-11-10T20:20:11+00:00",
-   "cat": "uk",
-   "top": true
+   "cat": "cul",
+   "top": false
   },
   {
    "title": "US Army soldier suspected of spying for Russia arrested in UK",
@@ -199,15 +263,15 @@
    "link": "https://www.bbc.com/news/articles/cm5ynyzje424o",
    "time": "2026-11-10T18:54:35+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
-   "title": "Seven in hospital after car 'mounts pavement' in Glasgow",
-   "desc": "Police said the driver was assessed by paramedics and treated at the scene of the incident, which happened at about 15:45 on Hyndland Road.",
-   "link": "https://www.bbc.com/news/articles/c63elellg05lo",
-   "time": "2026-11-10T18:42:09+00:00",
-   "cat": "uk",
-   "top": false
+   "title": "'If I tell you to run, run': How a Ukrainian drone unit protects a front-line city",
+   "desc": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
+   "link": "https://www.bbc.com/news/videos/cm2l4l59gjp7o",
+   "time": "2026-11-10T18:35:35+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
@@ -222,7 +286,7 @@
    "desc": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
    "link": "https://www.bbc.com/sport/football/articles/c8wy9yzyzxnko",
    "time": "2026-11-10T18:12:02+00:00",
-   "cat": "sport",
+   "cat": "uk",
    "top": false
   },
   {
@@ -250,22 +314,6 @@
    "top": false
   },
   {
-   "title": "More than 12 US military aircraft leave second UK base",
-   "desc": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
-   "link": "https://www.bbc.com/news/articles/c32l4lw12z7po",
-   "time": "2026-11-10T17:22:14+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "US pilot arrested at Heathrow admits drugs offence",
-   "desc": "Wayne Siegler pleaded guilty to possessing cocaine and will appear at a second hearing in December.",
-   "link": "https://www.bbc.com/news/articles/cmj4747le5kdo",
-   "time": "2026-11-10T17:08:01+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
    "desc": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
    "link": "https://www.bbc.com/news/articles/cqp8g8p53x6ko",
@@ -290,14 +338,6 @@
    "top": false
   },
   {
-   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-   "desc": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-   "link": "https://www.bbc.com/news/articles/ck1wvwyrd4ywo",
-   "time": "2026-11-10T16:19:48+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
    "desc": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
    "link": "https://www.bbc.com/sport/football/articles/c5rmymrvm004o",
@@ -306,27 +346,11 @@
    "top": false
   },
   {
-   "title": "School's strict rules led to boy's death - inquest",
-   "desc": "Taylor Lee, from Plymouth, Devon, took his own life after struggling with school.",
-   "link": "https://www.bbc.com/news/articles/c3j4748xxgv0o",
-   "time": "2026-11-10T16:06:44+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-   "desc": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-   "link": "https://www.bbc.com/news/articles/cw4g1g4ll5m1o",
-   "time": "2026-11-10T15:21:18+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
    "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
    "link": "https://www.bbc.com/news/articles/cqev3vl4ek33o",
    "time": "2026-11-10T15:10:20+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -335,14 +359,6 @@
    "link": "https://www.bbc.com/sport/formula1/articles/c53989e97lxwo",
    "time": "2026-11-10T15:04:46+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
-   "desc": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books.",
-   "link": "https://www.bbc.com/news/articles/c6d7q98z1yz3o",
-   "time": "2026-11-10T14:53:28+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -358,7 +374,7 @@
    "desc": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\".",
    "link": "https://www.bbc.com/news/articles/cvwy7ydg4264o",
    "time": "2026-11-10T14:09:11+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -366,30 +382,6 @@
    "desc": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
    "link": "https://www.bbc.com/sport/cricket/articles/c6x2v277z89eo",
    "time": "2026-11-10T14:03:19+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "World Cup finalists England still feel short of best",
-   "desc": "England are into the Wheelchair Rugby League World Cup final after thrashing Australia 86-18 - but still have not hit peak form, according to try-scorer Rob Hawkins.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/ckzd6dmm5z19o",
-   "time": "2026-11-10T13:58:00+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
-   "desc": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
-   "link": "https://www.bbc.com/sport/football/articles/cmy0r041ed0po",
-   "time": "2026-11-10T11:23:43+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "DeChambeau running out of options - McIlroy",
-   "desc": "Rory McIlroy says the addition of Bryson DeChambeau to the DP World Tour next season would bring more \"eyeballs\" to the tour but feels the American is running out of options.",
-   "link": "https://www.bbc.com/sport/golf/articles/cwz0v0jmxpl0o",
-   "time": "2026-11-10T11:23:31+00:00",
    "cat": "sport",
    "top": false
   },
@@ -538,27 +530,11 @@
    "top": false
   },
   {
-   "title": "James Bond: What we know so far about the next 007 film",
-   "desc": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-   "link": "https://www.bbc.com/news/articles/ck79p0lev47po",
-   "time": "2026-11-09T06:47:09+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "A glimmer of good news for Britain's sleepy dormouse",
    "desc": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
    "link": "https://www.bbc.com/news/articles/c85ynn0p5k71o",
    "time": "2026-11-09T00:56:43+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Maya Jama steps down as host of reality TV show Love Island",
-   "desc": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
-   "link": "https://www.bbc.com/news/articles/cwzrd5jj47ndo",
-   "time": "2026-11-08T21:19:48+00:00",
-   "cat": "cul",
    "top": false
   },
   {
