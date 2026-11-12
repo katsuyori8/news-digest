@@ -1,13 +1,85 @@
 {
- "updated": "2026-11-11T22:57:28.925725+00:00",
+ "updated": "2026-11-12T03:43:42.885421+00:00",
  "items": [
   {
-   "title": "'I got a bit angry at myself' - Svitolina keeps WTA Finals hopes alive",
-   "desc": "Elina Svitolina says she \"got a bit angry at myself\" to inspire a comeback victory over Karolina Muchova at the WTA Finals and keep her semi-final hopes alive.",
+   "title": "Australian teen missing in bush for six days rescued alive",
+   "desc": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+   "link": "https://www.bbc.com/news/articles/ckvg25zmppglo",
+   "time": "2026-11-12T02:40:18+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "New York building collapse kills one person and injures 12",
+   "desc": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+   "link": "https://www.bbc.com/news/videos/c60rkwjj7x7go",
+   "time": "2026-11-12T02:33:12+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "desc": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+   "link": "https://www.bbc.com/news/articles/cw7vppyr80eeo",
+   "time": "2026-11-12T02:09:08+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+   "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+   "link": "https://www.bbc.com/news/articles/c3702jjkez4ko",
+   "time": "2026-11-12T00:49:05+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Andreeva wins 11 games in a row to thrash Sabalenka at WTA Finals",
+   "desc": "Mirra Andreeva wins 11 games in a row to thrash world number two Aryna Sabalenka and reach the last four at the WTA Finals.",
    "link": "https://www.bbc.com/sport/tennis/articles/cq1md03gz0zvo",
-   "time": "2026-11-11T22:50:15+00:00",
+   "time": "2026-11-12T00:48:23+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Sunbed firms must not downplay cancer risk, says watchdog",
+   "desc": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
+   "link": "https://www.bbc.com/news/articles/c98r7xyjx8g4o",
+   "time": "2026-11-12T00:13:27+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+   "desc": "The decline has been put down to severe restrictions placed on the substances' use.",
+   "link": "https://www.bbc.com/news/articles/cmze75r55g3jo",
+   "time": "2026-11-12T00:12:59+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Are max strength cold and flu pills worth the money?",
+   "desc": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
+   "link": "https://www.bbc.com/news/articles/cjkgep4rgngro",
+   "time": "2026-11-12T00:12:28+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "From Paris to DC - why offices are being turned into apartments",
+   "desc": "Office buildings with low occupancy rates are being transformed into flats.",
+   "link": "https://www.bbc.com/news/articles/cm89ze7qepvyo",
+   "time": "2026-11-12T00:05:40+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "Some under-25s should get less benefits, Milburn review to say",
+   "desc": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "link": "https://www.bbc.com/news/articles/cwn70l1628l0o",
+   "time": "2026-11-11T23:22:04+00:00",
+   "cat": "uk",
+   "top": true
   },
   {
    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
@@ -16,22 +88,6 @@
    "time": "2026-11-11T22:48:59+00:00",
    "cat": "sci",
    "top": false
-  },
-  {
-   "title": "British soldier charged with rape of woman serving in Cyprus",
-   "desc": "Lance Corporal Nicholas Horne serving in The Highlanders was arrested and charged in October.",
-   "link": "https://www.bbc.com/news/articles/cvglr28re6n9o",
-   "time": "2026-11-11T22:34:37+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-   "link": "https://www.bbc.com/news/articles/c3702jjkez4ko",
-   "time": "2026-11-11T22:08:56+00:00",
-   "cat": "biz",
-   "top": true
   },
   {
    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -43,7 +99,7 @@
   },
   {
    "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-   "desc": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at by a US Army sentinel to be quiet.",
+   "desc": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
    "link": "https://www.bbc.com/news/videos/ck5y132yq1ymo",
    "time": "2026-11-11T21:43:35+00:00",
    "cat": "world",
@@ -54,7 +110,7 @@
    "desc": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
    "link": "https://www.bbc.com/news/articles/cqp9dr79jkrzo",
    "time": "2026-11-11T21:42:20+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -70,7 +126,7 @@
    "desc": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
    "link": "https://www.bbc.com/news/articles/cmglr260z7eko",
    "time": "2026-11-11T20:00:54+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": false
   },
   {
@@ -90,6 +146,14 @@
    "top": true
   },
   {
+   "title": "Famed ship SS United States to be sunk off coast of Florida",
+   "desc": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+   "link": "https://www.bbc.com/news/articles/c3x298n87rn2o",
+   "time": "2026-11-11T18:42:27+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
    "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
    "link": "https://www.bbc.com/news/articles/cwz0k79pr8z2o",
@@ -106,7 +170,7 @@
    "top": false
   },
   {
-   "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+   "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
    "desc": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
    "link": "https://www.bbc.com/news/articles/c8e391xzg6z2o",
    "time": "2026-11-11T18:10:57+00:00",
@@ -127,14 +191,6 @@
    "link": "https://www.bbc.com/news/articles/ck792we7zrz4o",
    "time": "2026-11-11T18:04:58+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Former minister calls for phone tech to block live-streamed child sex abuse",
-   "desc": "New technology would block the live-streaming of child sexual abuse on phones, tablets and laptops.",
-   "link": "https://www.bbc.com/news/articles/ck9q8g0x14geo",
-   "time": "2026-11-11T17:56:49+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -226,43 +282,11 @@
    "top": false
   },
   {
-   "title": "Toby Jones stars in film about UK Mars mission",
-   "desc": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
-   "link": "https://www.bbc.com/news/articles/cqm2l304w0x9o",
-   "time": "2026-11-11T14:10:11+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "UK falls silent to mark Armistice Day",
-   "desc": "Services have been held across the UK to mark Armistice Day, commemorating the end of World War One.",
-   "link": "https://www.bbc.com/news/articles/c68j4lez4x4no",
-   "time": "2026-11-11T14:09:38+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'You makes Barry proud' - Gavin & Stacey star Joanna Page to enter I'm a Celeb jungle",
-   "desc": "Ruth Jones sends a message from 'Nessa' to co-star Joanna Page as Page prepares for her jungle debut.",
-   "link": "https://www.bbc.com/news/articles/cm62prjl7p2no",
-   "time": "2026-11-11T14:09:25+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "Welsh Grand National-winning jockey O'Brien dies aged 39",
    "desc": "Tom O'Brien, the nephew of trainer Aidan, rode more than 1,000 winners and won the Welsh Grand National twice.",
    "link": "https://www.bbc.com/sport/horse-racing/articles/c3pw48qyjz2ko",
    "time": "2026-11-11T13:29:41+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-   "desc": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-   "link": "https://www.bbc.com/news/articles/cmkg5jr59835o",
-   "time": "2026-11-11T13:25:47+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -282,11 +306,11 @@
    "top": false
   },
   {
-   "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-   "desc": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-   "link": "https://www.bbc.com/news/articles/cwe9kzv0g0v7o",
-   "time": "2026-11-11T12:53:11+00:00",
-   "cat": "world",
+   "title": "Former BBC radio presenter Danny Kelly dies aged 69",
+   "desc": "Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69.",
+   "link": "https://www.bbc.com/sport/football/articles/cmz9dwk90ny7o",
+   "time": "2026-11-11T12:44:17+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -327,7 +351,7 @@
    "link": "https://www.bbc.com/news/articles/cqde1yddwk17o",
    "time": "2026-11-11T10:26:25+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
@@ -343,22 +367,6 @@
    "link": "https://www.bbc.com/sport/swimming/articles/cmx27n60n3wno",
    "time": "2026-11-11T09:45:14+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
-   "desc": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
-   "link": "https://www.bbc.com/news/videos/c8g46y14ye3zo",
-   "time": "2026-11-11T09:29:45+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Governments 'asleep at the wheel' over social care, says head of review",
-   "desc": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
-   "link": "https://www.bbc.com/news/articles/c9143zxyyvndo",
-   "time": "2026-11-11T09:08:48+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -378,14 +386,6 @@
    "top": false
   },
   {
-   "title": "London borough is Britain's happiest, survey finds",
-   "desc": "Richmond upon Thames ranked highly in several quality of life indicators in a Rightmove survey.",
-   "link": "https://www.bbc.com/news/articles/cmy565dpwy62o",
-   "time": "2026-11-11T06:15:11+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
    "desc": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
    "link": "https://www.bbc.com/news/articles/cm93rpy6lx0do",
@@ -402,19 +402,11 @@
    "top": false
   },
   {
-   "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-   "desc": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-   "link": "https://www.bbc.com/news/articles/cqm26mmpp2p1o",
-   "time": "2026-11-11T00:19:42+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Robot vessels take on the dangerous work of mine hunting",
    "desc": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
    "link": "https://www.bbc.com/news/articles/cj5yn24llxd6o",
    "time": "2026-11-11T00:19:13+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -431,14 +423,6 @@
    "link": "https://www.bbc.com/news/articles/ck1wvwwl3x0go",
    "time": "2026-11-10T22:52:15+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
-   "desc": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
-   "link": "https://www.bbc.com/news/articles/cwx2922r4mrjo",
-   "time": "2026-11-10T22:41:01+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -510,7 +494,7 @@
    "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
    "link": "https://www.bbc.com/news/articles/cqg7x7dpvym8o",
    "time": "2026-11-10T08:23:21+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -614,14 +598,6 @@
    "desc": "The Leonid meteor shower, known for its bright and fast meteors continues through November.",
    "link": "https://www.bbc.com/weather/articles/cmlykqq7zg9zo",
    "time": "2026-11-07T02:03:28+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-   "desc": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-   "link": "https://www.bbc.com/news/articles/cy4dgp1p3p1o",
-   "time": "2026-11-06T16:43:30+00:00",
    "cat": "sci",
    "top": false
   }
