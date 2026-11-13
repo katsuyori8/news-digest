@@ -1,21 +1,197 @@
 {
- "updated": "2026-11-13T16:59:27.503343+00:00",
+ "updated": "2026-11-13T22:29:42.101148+00:00",
  "items": [
   {
-   "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-   "desc": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
-   "link": "https://www.bbc.com/news/articles/cwx2emg4xe72o",
-   "time": "2026-11-13T16:53:50+00:00",
+   "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+   "desc": "The TV star fell victim to a practical joke from the Hollywood stars of the Dune franchise.",
+   "link": "https://www.bbc.com/news/articles/cqly4lnxn031o",
+   "time": "2026-11-13T22:17:14+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+   "desc": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+   "link": "https://www.bbc.com/news/articles/c6jd75geegzyo",
+   "time": "2026-11-13T22:12:33+00:00",
    "cat": "uk",
    "top": true
+  },
+  {
+   "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+   "desc": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+   "link": "https://www.bbc.com/sport/football/articles/cw1md9jx2r3po",
+   "time": "2026-11-13T22:11:27+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+   "desc": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
+   "link": "https://www.bbc.com/sport/cricket/articles/cq1k97y4e1rxo",
+   "time": "2026-11-13T21:53:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "New campaign against EU membership launches ahead of UK-EU summit",
+   "desc": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+   "link": "https://www.bbc.com/news/articles/c6174l2q99ejo",
+   "time": "2026-11-13T21:39:46+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
+   "desc": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+   "link": "https://www.bbc.com/news/articles/cqr7g5l4z9zeo",
+   "time": "2026-11-13T21:23:46+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+   "desc": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+   "link": "https://www.bbc.com/news/articles/cxzd9171m51qo",
+   "time": "2026-11-13T21:15:41+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "link": "https://www.bbc.com/news/articles/c6rrg51rkz09o",
+   "time": "2026-11-13T21:14:22+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "SpaceX to attempt double catch of huge Starship rocket",
+   "desc": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+   "link": "https://www.bbc.com/news/articles/ckregdgnl0xpo",
+   "time": "2026-11-13T20:12:02+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+   "desc": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+   "link": "https://www.bbc.com/news/articles/cqvg2d1eg7zro",
+   "time": "2026-11-13T19:53:57+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Ronaldinho, 46, to play first game since 2015",
+   "desc": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
+   "link": "https://www.bbc.com/sport/football/articles/cqz0k4e00v0mo",
+   "time": "2026-11-13T19:12:37+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "Man who transported Omagh bomb was an MI5 and Garda agent, inquiry told",
    "desc": "The Policeman who headed up the investigation told the inquiry the bomb carrier may have been a Garda and MI5 agent.",
    "link": "https://www.bbc.com/news/articles/cr0jxwv1v266o",
-   "time": "2026-11-13T16:43:39+00:00",
+   "time": "2026-11-13T19:04:47+00:00",
    "cat": "uk",
    "top": false
+  },
+  {
+   "title": "Democratic Senate leader Schumer set to face leadership challenge",
+   "desc": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+   "link": "https://www.bbc.com/news/articles/cmy4930jq749o",
+   "time": "2026-11-13T19:03:10+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "What could El Niño mean for winter weather in the US and Canada?",
+   "desc": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
+   "link": "https://www.bbc.com/weather/articles/c6pvg22k2w2do",
+   "time": "2026-11-13T18:50:15+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Tories pay artist for Burnham images after legal threat",
+   "desc": "Stanley Chow had threatened to sue the Conservative Party for using his illustrations of the PM.",
+   "link": "https://www.bbc.com/news/articles/cr5y139wplppo",
+   "time": "2026-11-13T18:41:13+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "link": "https://www.bbc.com/news/articles/cwvg238zrnm5o",
+   "time": "2026-11-13T18:36:57+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+   "desc": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+   "link": "https://www.bbc.com/news/articles/cwg7l8n7dx5mo",
+   "time": "2026-11-13T18:34:45+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
+   "desc": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
+   "link": "https://www.bbc.com/news/articles/cqgm3gn4k7dno",
+   "time": "2026-11-13T17:59:54+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+   "desc": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+   "link": "https://www.bbc.com/news/articles/cqp9d58eldlro",
+   "time": "2026-11-13T17:34:58+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Eleanor Donaldson given supervision order and placed on sex offenders' register",
+   "desc": "Eleanor Donaldson was found to have done the acts in relation to five charges, including four of aiding and abetting his offending, in a 'trial of the facts'.",
+   "link": "https://www.bbc.com/news/articles/cme87dnngnwjo",
+   "time": "2026-11-13T17:19:35+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
+   "desc": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
+   "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
+   "time": "2026-11-13T17:15:52+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man jailed for grooming at least 70 girls online",
+   "desc": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
+   "link": "https://www.bbc.com/news/articles/ckqx5r3j2j4xo",
+   "time": "2026-11-13T17:10:27+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Mother whose newborn died after failed hospital checks was 'terrified and alone'",
+   "desc": "Sonny Taylor died after hospital staff failed to wake up his mother, Eve, for monitoring.",
+   "link": "https://www.bbc.com/news/articles/cv62pdgj9g77o",
+   "time": "2026-11-13T17:07:11+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+   "desc": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+   "link": "https://www.bbc.com/news/articles/cwx2emg4xe72o",
+   "time": "2026-11-13T16:53:50+00:00",
+   "cat": "uk",
+   "top": true
   },
   {
    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -34,14 +210,6 @@
    "top": true
   },
   {
-   "title": "Piddington to bring legal challenge over asylum base plans",
-   "desc": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans.",
-   "link": "https://www.bbc.com/news/articles/ckzd91jqvm0lo",
-   "time": "2026-11-13T15:50:53+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Sharks, ladders and a four-year plan - how England won World Cup",
    "desc": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
    "link": "https://www.bbc.com/sport/rugby-league/articles/crly54evvvv4o",
@@ -50,27 +218,11 @@
    "top": false
   },
   {
-   "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-   "desc": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-   "link": "https://www.bbc.com/news/articles/cqp9d58eldlro",
-   "time": "2026-11-13T15:44:48+00:00",
-   "cat": "tech",
-   "top": false
-  },
-  {
-   "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
-   "desc": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-   "link": "https://www.bbc.com/news/articles/cqvg2d1eg7zro",
-   "time": "2026-11-13T15:40:08+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Man dies after being seriously injured at Edinburgh film studio",
-   "desc": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
-   "link": "https://www.bbc.com/news/articles/cqr7g5l4z9zeo",
-   "time": "2026-11-13T15:36:41+00:00",
-   "cat": "cul",
+   "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+   "desc": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+   "link": "https://www.bbc.com/news/articles/c6jre3z03w4go",
+   "time": "2026-11-13T15:42:52+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -79,6 +231,14 @@
    "link": "https://www.bbc.com/sport/football/articles/cmd61qne8352o",
    "time": "2026-11-13T15:28:06+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "At least 24 killed after bus collides with truck in north-east India",
+   "desc": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+   "link": "https://www.bbc.com/news/articles/c6r7g5lp1zrxo",
+   "time": "2026-11-13T15:16:50+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -122,19 +282,19 @@
    "top": false
   },
   {
-   "title": "Why is the Microsoft outage lasting so long?",
-   "desc": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-   "link": "https://www.bbc.com/news/articles/cwvg238zrnm5o",
-   "time": "2026-11-13T14:21:26+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "NHS, schools and police forces hit by Microsoft outage",
    "desc": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
    "link": "https://www.bbc.com/news/articles/c6vg2ljjpj32o",
    "time": "2026-11-13T13:41:25+00:00",
    "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+   "desc": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+   "link": "https://www.bbc.com/news/articles/c5gm3gnwl42eo",
+   "time": "2026-11-13T13:11:23+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -146,20 +306,12 @@
    "top": false
   },
   {
-   "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-   "desc": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-   "link": "https://www.bbc.com/news/articles/cm75261e3pdko",
-   "time": "2026-11-13T12:28:28+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
    "desc": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
    "link": "https://www.bbc.com/news/articles/c67429m3vem3o",
    "time": "2026-11-13T12:22:30+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "More women make allegations against Russell Brand",
@@ -167,22 +319,6 @@
    "link": "https://www.bbc.com/news/articles/cme3dwydp857o",
    "time": "2026-11-13T12:14:17+00:00",
    "cat": "cul",
-   "top": true
-  },
-  {
-   "title": "Lazraq-Khlass banned for whereabouts violation",
-   "desc": "French heptathlete Auriana Lazraq-Khlass is suspended for 22 months for failing to comply with anti-doping rules.",
-   "link": "https://www.bbc.com/sport/athletics/articles/cqvg2lrkdz97o",
-   "time": "2026-11-13T12:12:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Eleanor Donaldson given supervision order and placed on sex offenders' register",
-   "desc": "Eleanor Donaldson was found to have done the acts in relation to five charges, including four of aiding and abetting his offending, in a 'trial of the facts'.",
-   "link": "https://www.bbc.com/news/articles/cme87dnngnwjo",
-   "time": "2026-11-13T12:09:54+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -222,32 +358,8 @@
    "desc": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
    "link": "https://www.bbc.com/news/articles/cr3eg97eqde1o",
    "time": "2026-11-13T11:38:54+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Nigerian university in mourning after four students die at post-exam party",
-   "desc": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-   "link": "https://www.bbc.com/news/articles/cmvg2dvw0355o",
-   "time": "2026-11-13T11:37:08+00:00",
    "cat": "world",
    "top": false
-  },
-  {
-   "title": "The driving-maul try machine - why rugby's steamroller gained traction",
-   "desc": "A kick to the corner is now a no-brainer for captains, with the driving maul a more potent weapon than ever.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cmy0egy6zkk0o",
-   "time": "2026-11-13T11:09:41+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Water firm pleads guilty after four killed in blast",
-   "desc": "Wessex Water admits failing to ensure employee safety over an explosion at its Bristol site.",
-   "link": "https://www.bbc.com/news/articles/cm8x0l0jp150o",
-   "time": "2026-11-13T10:44:00+00:00",
-   "cat": "uk",
-   "top": true
   },
   {
    "title": "Fernandes rejects second Man Utd contract offer",
@@ -279,14 +391,6 @@
    "link": "https://www.bbc.com/news/articles/cklyw3neqg2wo",
    "time": "2026-11-13T07:01:43+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Liverpool and Van Dijk have a decision to make",
-   "desc": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
-   "link": "https://www.bbc.com/sport/football/articles/ck4gnd2pgd06o",
-   "time": "2026-11-13T06:57:25+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -322,35 +426,11 @@
    "top": false
   },
   {
-   "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
-   "desc": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cwq6e4y9525mo",
-   "time": "2026-11-13T04:26:57+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
    "desc": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
    "link": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o",
    "time": "2026-11-13T03:57:01+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Australian footballers will not be charged after hotel incident, police say",
-   "desc": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-   "link": "https://www.bbc.com/news/articles/ckregjwr7njqo",
-   "time": "2026-11-13T03:02:54+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-   "desc": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-   "link": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
-   "time": "2026-11-13T02:48:29+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -362,51 +442,11 @@
    "top": false
   },
   {
-   "title": "Will the Eurovision Song Contest succeed in Asia?",
-   "desc": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-   "link": "https://www.bbc.com/news/videos/cxvg23n59y1ro",
-   "time": "2026-11-13T02:24:11+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-   "desc": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-   "link": "https://www.bbc.com/news/articles/ckn80j9jv3jxo",
-   "time": "2026-11-13T02:01:35+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
    "desc": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
    "link": "https://www.bbc.com/news/articles/cm2l5n07l87vo",
    "time": "2026-11-13T01:17:58+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Doctor burnout putting maternity patients at risk, says regulator",
-   "desc": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
-   "link": "https://www.bbc.com/news/articles/ckx28le8dv9wo",
-   "time": "2026-11-13T00:55:31+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
-   "desc": "The BBC exposed how the security service had lied to three courts concerning Agent X.",
-   "link": "https://www.bbc.com/news/articles/c98r7dlj6v2go",
-   "time": "2026-11-13T00:54:50+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-   "desc": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
-   "link": "https://www.bbc.com/news/articles/cqly4lnxn031o",
-   "time": "2026-11-13T00:54:04+00:00",
-   "cat": "cul",
+   "cat": "biz",
    "top": false
   },
   {
@@ -426,43 +466,11 @@
    "top": false
   },
   {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "desc": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "link": "https://www.bbc.com/news/articles/cwn70l1628l0o",
-   "time": "2026-11-12T22:51:18+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-   "desc": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-   "link": "https://www.bbc.com/news/articles/cmn0d33zz34zo",
-   "time": "2026-11-12T20:09:16+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Duran Duran drummer quits band due to tinnitus",
    "desc": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
    "link": "https://www.bbc.com/news/articles/crwy499k504do",
    "time": "2026-11-12T19:00:15+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-   "desc": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-   "link": "https://www.bbc.com/news/articles/cmvg2r3dq7xno",
-   "time": "2026-11-12T18:47:35+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-   "desc": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-   "link": "https://www.bbc.com/news/articles/cmze750zg0jeo",
-   "time": "2026-11-12T17:11:48+00:00",
-   "cat": "tech",
    "top": false
   },
   {
@@ -503,14 +511,6 @@
    "link": "https://www.bbc.com/news/articles/ck3rgd429zd5o",
    "time": "2026-11-12T11:20:25+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "DJ Tim Westwood denies two more sexual offences",
-   "desc": "His latest pleas of not guilty mean he now denies a total of 17 charges concerning allegations from 1983 to 2016.",
-   "link": "https://www.bbc.com/news/articles/cmdx1635xkkdo",
-   "time": "2026-11-12T11:12:17+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -566,22 +566,6 @@
    "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
    "link": "https://www.bbc.com/news/articles/cqev3vl4ek33o",
    "time": "2026-11-10T15:10:20+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "The swan sanctuary wetland fighting climate change",
-   "desc": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
-   "link": "https://www.bbc.com/news/articles/c60rleej7dqgo",
-   "time": "2026-11-10T06:30:29+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "The superpower battle over energy – and what it means for your bills",
-   "desc": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-   "link": "https://www.bbc.com/news/articles/cw62y2z53pg1o",
-   "time": "2026-11-10T00:08:28+00:00",
    "cat": "sci",
    "top": false
   }
