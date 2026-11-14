@@ -1,21 +1,149 @@
 {
- "updated": "2026-11-14T02:39:15.627007+00:00",
+ "updated": "2026-11-14T09:53:24.593761+00:00",
  "items": [
   {
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "desc": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "link": "https://www.bbc.com/news/articles/ckz74jzpy18do",
-   "time": "2026-11-14T02:05:55+00:00",
+   "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+   "desc": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
+   "link": "https://www.bbc.com/sport/football/articles/c60mdzn2dk1eo",
+   "time": "2026-11-14T09:13:30+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+   "desc": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+   "link": "https://www.bbc.com/news/articles/c69vwp09d7vvo",
+   "time": "2026-11-14T09:05:48+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Who would make your England-Spain combined XI?",
+   "desc": "How many England players do you think would make the Spain team?",
+   "link": "https://www.bbc.com/sport/football/articles/cw77p0v78exlo",
+   "time": "2026-11-14T08:57:49+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Widespread frost and freezing fog as cold health alerts continue",
+   "desc": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+   "link": "https://www.bbc.com/weather/articles/cqlyml59mdj0o",
+   "time": "2026-11-14T08:28:50+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "Sabalenka's season ended by Svitolina at WTA Finals",
-   "desc": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cw30gl912vq9o",
-   "time": "2026-11-14T00:51:25+00:00",
+   "title": "Singer's Hall of Fame induction axed over Russell Brand comments",
+   "desc": "The Liverpool Beatles Museum says the ex-Icicles Works frontman will not be honoured in their Hall of Fame.",
+   "link": "https://www.bbc.com/news/articles/c52e8kvwd7d1o",
+   "time": "2026-11-14T08:24:36+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Japan's unlikely leader who turned down the All Blacks",
+   "desc": "Warner Dearns did not want to go to Japan as a teenager. Now he is determined to stay and do his adopted country proud.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cq74297dvnygo",
+   "time": "2026-11-14T08:22:15+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+   "desc": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+   "link": "https://www.bbc.com/sport/football/articles/cke89156y10zo",
+   "time": "2026-11-14T07:49:46+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "England boxer missed Worlds over sex-test mix-up",
+   "desc": "George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.",
+   "link": "https://www.bbc.com/sport/boxing/articles/c9ly4lerj8m3o",
+   "time": "2026-11-14T07:43:44+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "What we know about the ground stop and what to do if you're affected",
+   "desc": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "link": "https://www.bbc.com/news/articles/cqx2wyvyr3zzo",
+   "time": "2026-11-14T07:42:11+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Warner accuses Cricket Australia of 'cover-up'",
+   "desc": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+   "link": "https://www.bbc.com/sport/cricket/articles/c59vwpv4rxjeo",
+   "time": "2026-11-14T07:20:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'I'm lucky to be alive': Woman's warning over black market weight-loss jabs",
+   "desc": "Kay Roscoe was rushed to hospital after taking what she thought was the weight-loss drug retatrutide.",
+   "link": "https://www.bbc.com/news/articles/cmp3g0p0z9dgo",
+   "time": "2026-11-14T07:15:18+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "The challenge that brought Nunes out of retirement",
+   "desc": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+   "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6e3dw87pyjeo",
+   "time": "2026-11-14T07:00:15+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Bluetongue virus confirmed on County Down farm",
+   "desc": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+   "link": "https://www.bbc.com/news/articles/cmr4gxvrxd9yo",
+   "time": "2026-11-14T06:56:58+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Why so much love between Ireland and Garth Brooks?",
+   "desc": "Country music superstar Garth Brooks will perform a multi-city tour of Ireland in 2027.",
+   "link": "https://www.bbc.com/news/articles/c65y1jjlq1qjo",
+   "time": "2026-11-14T06:48:14+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Microsoft says services fully restored after day-long global outage",
+   "desc": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+   "link": "https://www.bbc.com/news/articles/c6rrg51rkz09o",
+   "time": "2026-11-14T06:42:27+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+   "desc": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+   "link": "https://www.bbc.com/sport/football/articles/c5lyey8p8yv4o",
+   "time": "2026-11-14T06:37:49+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/c6n83ld3le95o",
+   "time": "2026-11-14T06:27:36+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "desc": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "link": "https://www.bbc.com/news/articles/ckz74jzpy18do",
+   "time": "2026-11-14T05:52:31+00:00",
+   "cat": "world",
+   "top": true
   },
   {
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
@@ -23,7 +151,7 @@
    "link": "https://www.bbc.com/news/articles/c6jd7k5ryl1mo",
    "time": "2026-11-14T00:37:01+00:00",
    "cat": "tech",
-   "top": false
+   "top": true
   },
   {
    "title": "Family's two-year fight to bring killer driver back from Latvia",
@@ -39,21 +167,13 @@
    "link": "https://www.bbc.com/news/articles/cqn70lz71lg8o",
    "time": "2026-11-14T00:29:38+00:00",
    "cat": "cul",
-   "top": false
+   "top": true
   },
   {
-   "title": "Bluetongue virus confirmed on County Down farm",
-   "desc": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-   "link": "https://www.bbc.com/news/articles/cmr4gxvrxd9yo",
-   "time": "2026-11-14T00:17:45+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
-   "desc": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
-   "link": "https://www.bbc.com/weather/articles/cqlyml59mdj0o",
-   "time": "2026-11-14T00:12:55+00:00",
+   "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+   "desc": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+   "link": "https://www.bbc.com/news/articles/cwm2mn272nqlo",
+   "time": "2026-11-14T00:03:56+00:00",
    "cat": "world",
    "top": true
   },
@@ -63,7 +183,7 @@
    "link": "https://www.bbc.com/news/articles/ckregdgnl0xpo",
    "time": "2026-11-14T00:01:01+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -106,14 +226,6 @@
    "top": false
   },
   {
-   "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-   "desc": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-   "link": "https://www.bbc.com/sport/football/articles/cm98xy2j8k1ko",
-   "time": "2026-11-13T22:37:30+00:00",
-   "cat": "sport",
-   "top": true
-  },
-  {
    "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
    "desc": "The TV star fell victim to a practical joke from the Hollywood stars of the Dune franchise.",
    "link": "https://www.bbc.com/news/articles/cqly4lnxn031o",
@@ -127,46 +239,14 @@
    "link": "https://www.bbc.com/news/articles/c6jd75geegzyo",
    "time": "2026-11-13T22:12:33+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-   "desc": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-   "link": "https://www.bbc.com/sport/football/articles/cw1md9jx2r3po",
-   "time": "2026-11-13T22:11:27+00:00",
-   "cat": "sport",
    "top": false
-  },
-  {
-   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-   "desc": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
-   "link": "https://www.bbc.com/sport/football/articles/cq39glw42xkjo",
-   "time": "2026-11-13T22:05:14+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-   "desc": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-   "link": "https://www.bbc.com/sport/cricket/articles/cq1k97y4e1rxo",
-   "time": "2026-11-13T21:53:37+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "New campaign against EU membership launches ahead of UK-EU summit",
-   "desc": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-   "link": "https://www.bbc.com/news/articles/c6174l2q99ejo",
-   "time": "2026-11-13T21:39:46+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
    "desc": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
    "link": "https://www.bbc.com/news/articles/cqr7g5l4z9zeo",
    "time": "2026-11-13T21:23:46+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -176,14 +256,6 @@
    "time": "2026-11-13T21:15:41+00:00",
    "cat": "tech",
    "top": false
-  },
-  {
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-   "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-   "link": "https://www.bbc.com/news/articles/c6rrg51rkz09o",
-   "time": "2026-11-13T21:14:22+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -202,6 +274,14 @@
    "top": false
   },
   {
+   "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+   "desc": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+   "link": "https://www.bbc.com/news/articles/cw4gn0ky2pgdo",
+   "time": "2026-11-13T19:01:36+00:00",
+   "cat": "cul",
+   "top": true
+  },
+  {
    "title": "What could El Niño mean for winter weather in the US and Canada?",
    "desc": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
    "link": "https://www.bbc.com/weather/articles/c6pvg22k2w2do",
@@ -210,19 +290,11 @@
    "top": false
   },
   {
-   "title": "Tories pay artist for Burnham images after legal threat",
-   "desc": "Stanley Chow had threatened to sue the Conservative Party for using his illustrations of the PM.",
-   "link": "https://www.bbc.com/news/articles/cr5y139wplppo",
-   "time": "2026-11-13T18:41:13+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
    "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
    "link": "https://www.bbc.com/news/articles/cwvg238zrnm5o",
    "time": "2026-11-13T18:36:57+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -234,11 +306,11 @@
    "top": false
   },
   {
-   "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-   "desc": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-   "link": "https://www.bbc.com/news/articles/cqgm3gn4k7dno",
-   "time": "2026-11-13T17:59:54+00:00",
-   "cat": "cul",
+   "title": "Estonia bans Russian athletes as backlash intensifies",
+   "desc": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+   "link": "https://www.bbc.com/sport/articles/cm4gn9lvlgy2o",
+   "time": "2026-11-13T17:54:33+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -258,14 +330,6 @@
    "top": false
   },
   {
-   "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-   "desc": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-   "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
-   "time": "2026-11-13T17:15:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Man jailed for grooming at least 70 girls online",
    "desc": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
    "link": "https://www.bbc.com/news/articles/ckqx5r3j2j4xo",
@@ -279,7 +343,7 @@
    "link": "https://www.bbc.com/news/articles/cwx2emg4xe72o",
    "time": "2026-11-13T16:53:50+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -287,7 +351,7 @@
    "link": "https://www.bbc.com/news/articles/cq39glwprknjo",
    "time": "2026-11-13T16:40:31+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Former Hamas bodyguard guilty of UK knife attack",
@@ -295,14 +359,6 @@
    "link": "https://www.bbc.com/news/articles/c51k9709krxvo",
    "time": "2026-11-13T15:51:24+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Sharks, ladders and a four-year plan - how England won World Cup",
-   "desc": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/crly54evvvv4o",
-   "time": "2026-11-13T15:49:30+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -314,27 +370,11 @@
    "top": false
   },
   {
-   "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-   "desc": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-   "link": "https://www.bbc.com/sport/football/articles/cmd61qne8352o",
-   "time": "2026-11-13T15:28:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Cameron-Mayer rematch added to Paul Christmas Eve card",
-   "desc": "Chantelle Cameron will defend her light-middleweight world titles in a rematch against Mikaela Mayer on the undercard of Jake Paul's fight against Cedric Doumbe on 24 December.",
-   "link": "https://www.bbc.com/sport/boxing/articles/cvde1nx6j6g3o",
-   "time": "2026-11-13T14:45:25+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
+   "title": "Radio 2's Owain Wyn Evans raises almost £4m on Children In Need bike ride",
    "desc": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
    "link": "https://www.bbc.com/news/articles/cr86895201y9o",
    "time": "2026-11-13T14:38:39+00:00",
-   "cat": "uk",
+   "cat": "cul",
    "top": false
   },
   {
@@ -362,14 +402,6 @@
    "top": false
   },
   {
-   "title": "Blink-182 to make Download debut as 2027 festival headliners",
-   "desc": "Evanescence and Bring Me The Horizon will also top the bill at the rock and metal festival.",
-   "link": "https://www.bbc.com/news/articles/cm62pd078kk7o",
-   "time": "2026-11-13T12:55:53+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
    "desc": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
    "link": "https://www.bbc.com/news/articles/c67429m3vem3o",
@@ -394,19 +426,11 @@
    "top": false
   },
   {
-   "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+   "title": "What we know so far about the Microsoft outage",
    "desc": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
    "link": "https://www.bbc.com/news/videos/cqzjr903n01po",
    "time": "2026-11-13T11:43:27+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
-   "desc": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
-   "link": "https://www.bbc.com/sport/cricket/articles/c6vg2dkyxp00o",
-   "time": "2026-11-13T11:39:43+00:00",
-   "cat": "sport",
+   "cat": "tech",
    "top": false
   },
   {
@@ -414,7 +438,7 @@
    "desc": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
    "link": "https://www.bbc.com/news/articles/cr3eg97eqde1o",
    "time": "2026-11-13T11:38:54+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": false
   },
   {
@@ -487,14 +511,6 @@
    "link": "https://www.bbc.com/news/articles/cm62y0wrnz9zo",
    "time": "2026-11-13T00:13:35+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Duran Duran drummer quits band due to tinnitus",
-   "desc": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
-   "link": "https://www.bbc.com/news/articles/crwy499k504do",
-   "time": "2026-11-12T19:00:15+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -575,6 +591,14 @@
    "link": "https://www.bbc.com/news/articles/c8wy9y37z30vo",
    "time": "2026-11-11T00:18:07+00:00",
    "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+   "desc": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+   "link": "https://www.bbc.com/sport/football/articles/cj20velkgnypo",
+   "time": "2026-11-10T06:24:50+00:00",
+   "cat": "sport",
    "top": false
   }
  ]
