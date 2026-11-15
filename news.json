@@ -1,12 +1,92 @@
 {
- "updated": "2026-11-15T00:50:52.757880+00:00",
+ "updated": "2026-11-15T07:38:17.231720+00:00",
  "items": [
   {
-   "title": "Fiji 'did Ireland a favour' before South Africa game",
-   "desc": "Former South Africa head coach Jake White says his Fiji side \"did Ireland a favour\" in Saturday's Nations Championship match before they face the Springboks in Dublin next week.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c9e85d7mm0myo",
-   "time": "2026-11-15T00:29:26+00:00",
+   "title": "How Spain's humble superstar Simon became world's best keeper",
+   "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+   "link": "https://www.bbc.com/sport/football/articles/cqvg23nv0jw2o",
+   "time": "2026-11-15T07:29:30+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+   "desc": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+   "link": "https://www.bbc.com/news/articles/cm3rgx9p583zo",
+   "time": "2026-11-15T07:19:52+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "How Aston Villa are reclaiming their identity",
+   "desc": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?",
+   "link": "https://www.bbc.com/sport/football/articles/cm4gkgnkkn9zo",
+   "time": "2026-11-15T07:12:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
+   "desc": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
+   "link": "https://www.bbc.com/news/articles/cwp9g9ey10dko",
+   "time": "2026-11-15T07:11:12+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+   "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "link": "https://www.bbc.com/news/articles/c6wy9lynq4qno",
+   "time": "2026-11-15T07:10:31+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Ruthless Australia win record fourth Women's World Cup",
+   "desc": "Australia blow New Zealand away in the first half, with a hat-trick for Jaime Chapman, to win 34-10 in Brisbane and clinch a record fourth World Cup.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/c50mdzx3j039o",
+   "time": "2026-11-15T07:06:27+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.com/sport/football/articles/c60mdnedvj2wo",
+   "time": "2026-11-15T06:47:10+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Respect? Exposure? Why England's star names are going abroad",
+   "desc": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+   "link": "https://www.bbc.com/sport/football/articles/ckdd17mq2pvmo",
+   "time": "2026-11-15T06:25:41+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+   "desc": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+   "link": "https://www.bbc.com/news/articles/c6jd7k7g57x5o",
+   "time": "2026-11-15T06:01:46+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "desc": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "link": "https://www.bbc.com/news/articles/c6j9mn7l14y0o",
+   "time": "2026-11-15T03:21:04+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "desc": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "link": "https://www.bbc.com/news/articles/cr4gnz0lv2vlo",
+   "time": "2026-11-15T02:49:45+00:00",
+   "cat": "world",
    "top": false
   },
   {
@@ -15,7 +95,7 @@
    "link": "https://www.bbc.com/news/articles/cw62p4n3n1xyo",
    "time": "2026-11-15T00:09:29+00:00",
    "cat": "cul",
-   "top": false
+   "top": true
   },
   {
    "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
@@ -23,6 +103,14 @@
    "link": "https://www.bbc.com/news/articles/cw77p7yj42k5o",
    "time": "2026-11-15T00:07:29+00:00",
    "cat": "cul",
+   "top": true
+  },
+  {
+   "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+   "desc": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+   "link": "https://www.bbc.com/news/articles/c6dj1e8wyykmo",
+   "time": "2026-11-15T00:06:51+00:00",
+   "cat": "world",
    "top": true
   },
   {
@@ -42,7 +130,7 @@
    "top": true
   },
   {
-   "title": "Svitolina races in WTA Finals showpiece against Andreeva",
+   "title": "Svitolina races into WTA Finals showpiece against Andreeva",
    "desc": "Elina Svitolina drops just three games as she thrashes Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
    "link": "https://www.bbc.com/sport/tennis/articles/ck5y1xdrne28o",
    "time": "2026-11-14T23:31:10+00:00",
@@ -58,22 +146,6 @@
    "top": false
   },
   {
-   "title": "Littler beats Greaves to start Grand Slam defence",
-   "desc": "Luke Littler begins his Grand Slam of Darts title defence with a comfortable 5-2 win over Beau Greaves in Wolverhampton.",
-   "link": "https://www.bbc.com/sport/darts/articles/c61mdlgd94zno",
-   "time": "2026-11-14T23:10:08+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Sabalenka apologises & says viral comment 'not directed at Svitolina'",
-   "desc": "Aryna Sabalenka apologises and denies claims she insulted opponent Elina Svitolina after a viral clip showed her swearing during her WTA Finals defeat by the Ukrainian.",
-   "link": "https://www.bbc.com/sport/tennis/articles/ck62p9ge4d76o",
-   "time": "2026-11-14T22:42:30+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
    "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
    "link": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
@@ -82,24 +154,8 @@
    "top": true
   },
   {
-   "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-   "desc": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
-   "link": "https://www.bbc.com/news/articles/cm3rgx9p583zo",
-   "time": "2026-11-14T22:37:14+00:00",
-   "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
-   "desc": "All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision.",
-   "link": "https://www.bbc.com/news/articles/cwe89y2r5j20o",
-   "time": "2026-11-14T22:27:06+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-   "desc": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+   "desc": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
    "link": "https://www.bbc.com/news/articles/ckregdgnl0xpo",
    "time": "2026-11-14T22:15:52+00:00",
    "cat": "sci",
@@ -130,22 +186,6 @@
    "top": false
   },
   {
-   "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-   "desc": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
-   "link": "https://www.bbc.com/sport/football/articles/c893r74ryy3qo",
-   "time": "2026-11-14T20:43:57+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "desc": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-   "link": "https://www.bbc.com/news/articles/cw20xmy0m5yyo",
-   "time": "2026-11-14T20:23:06+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
    "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
    "link": "https://www.bbc.com/sport/football/articles/cq2d9l3e313zo",
@@ -166,22 +206,6 @@
    "desc": "After four years away from international rugby, Will Joseph marks his return in style by scoring a record-equalling five tries as England humiliate Japan at Twickenham, scoring 13 tries in a 78-15 victory in the Nations Championship.",
    "link": "https://www.bbc.com/sport/rugby-union/videos/cmn0d1w0ry0no",
    "time": "2026-11-14T19:32:45+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "link": "https://www.bbc.com/news/articles/c6wy9lynq4qno",
-   "time": "2026-11-14T19:12:25+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Bompastor's risks pay off as Chelsea go top of WSL",
-   "desc": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
-   "link": "https://www.bbc.com/sport/football/articles/cmvg25w18q9qo",
-   "time": "2026-11-14T18:55:34+00:00",
    "cat": "sport",
    "top": false
   },
@@ -223,7 +247,7 @@
    "link": "https://www.bbc.com/sport/rugby-union/articles/c63dgev0p8pgo",
    "time": "2026-11-14T16:38:04+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Highlights: Wales beat New Zealand for first time in 73 years",
@@ -290,6 +314,14 @@
    "top": false
   },
   {
+   "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+   "desc": "Christmas single Love, Light and Peace was Bonnie Tyler's last studio recording, and was released on Friday.",
+   "link": "https://www.bbc.com/news/articles/c6y493wzkxgko",
+   "time": "2026-11-14T13:33:46+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
    "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
    "desc": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
    "link": "https://www.bbc.com/news/articles/cmg46qgkl7r4o",
@@ -330,14 +362,6 @@
    "top": false
   },
   {
-   "title": "'I'm lucky to be alive': Woman's warning over black market weight-loss jabs",
-   "desc": "Kay Roscoe was rushed to hospital after taking what she thought was the weight-loss drug retatrutide.",
-   "link": "https://www.bbc.com/news/articles/cmp3g0p0z9dgo",
-   "time": "2026-11-14T07:15:18+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "Bluetongue virus confirmed on County Down farm",
    "desc": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
    "link": "https://www.bbc.com/news/articles/cmr4gxvrxd9yo",
@@ -350,7 +374,7 @@
    "desc": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
    "link": "https://www.bbc.com/news/articles/c6rrg51rkz09o",
    "time": "2026-11-14T06:42:27+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -383,14 +407,6 @@
    "link": "https://www.bbc.com/news/articles/ck1exevgql4qo",
    "time": "2026-11-13T23:00:31+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-   "desc": "The TV star fell victim to a practical joke from the Hollywood stars of the Dune franchise.",
-   "link": "https://www.bbc.com/news/articles/cqly4lnxn031o",
-   "time": "2026-11-13T22:17:14+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -527,14 +543,6 @@
    "link": "https://www.bbc.com/news/articles/cm2l5n07l87vo",
    "time": "2026-11-13T01:17:58+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-   "desc": "She is the first British female solo singer to play a five-gig residency at the venue.",
-   "link": "https://www.bbc.com/news/articles/ckvg25g323ymo",
-   "time": "2026-11-13T00:24:11+00:00",
-   "cat": "cul",
    "top": false
   },
   {
