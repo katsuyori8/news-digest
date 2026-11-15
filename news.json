@@ -1,27 +1,155 @@
 {
- "updated": "2026-11-15T15:26:46.162903+00:00",
+ "updated": "2026-11-15T20:30:17.711642+00:00",
  "items": [
+  {
+   "title": "London City's 'bravery' paying off in top three pursuit",
+   "desc": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+   "link": "https://www.bbc.com/sport/football/articles/c6y49gzjgew5o",
+   "time": "2026-11-15T20:03:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Struggling Charlton make WSL history after defeat at West Ham",
+   "desc": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
+   "link": "https://www.bbc.com/sport/football/videos/c6kg7rpkr3jlo",
+   "time": "2026-11-15T19:43:57+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "desc": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "link": "https://www.bbc.com/news/articles/c6m25zg88k45o",
+   "time": "2026-11-15T19:32:39+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Ronaldinho makes comeback in Ravenna win",
+   "desc": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+   "link": "https://www.bbc.com/sport/football/articles/ckregz4g823xo",
+   "time": "2026-11-15T19:31:48+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "desc": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+   "link": "https://www.bbc.com/news/articles/cw1mdlv0k2r4o",
+   "time": "2026-11-15T19:20:53+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+   "link": "https://www.bbc.com/news/videos/c6pw4rl00lrjo",
+   "time": "2026-11-15T18:38:11+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+   "desc": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+   "link": "https://www.bbc.com/sport/football/articles/cqrmgz9ypvwko",
+   "time": "2026-11-15T18:27:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Charlotte Church closes wellness retreat after five 'beautiful' years",
+   "desc": "Church previously said she blew \"pretty much all my life savings\" on the £1.5m home.",
+   "link": "https://www.bbc.com/news/articles/c65y13z1d8eyo",
+   "time": "2026-11-15T18:09:07+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Zverev 'felt a lot of joy' in first win as world number one",
+   "desc": "Alexander Zverev claims his first victory as world number one as he sweeps aside Rafael Jodar in the opening match of the ATP Finals.",
+   "link": "https://www.bbc.com/sport/tennis/articles/cm5y1grdy3w2o",
+   "time": "2026-11-15T18:00:57+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Czechs rally against plan to switch funding of public media",
+   "desc": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+   "link": "https://www.bbc.com/news/articles/cm8e0knr7604o",
+   "time": "2026-11-15T17:23:40+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Final whistle a blessing as Scotland edge dull Test against Australia",
+   "desc": "Scotland edge a dull Nations Championship encounter against Australia at Murrayfield.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cmd91np3pqk0o",
+   "time": "2026-11-15T17:17:57+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Staggered age of consent to be discussed after Brand case, minister says",
    "desc": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
    "link": "https://www.bbc.com/news/articles/cwdr1dmn563do",
-   "time": "2026-11-15T15:08:30+00:00",
+   "time": "2026-11-15T17:15:46+00:00",
    "cat": "uk",
    "top": true
+  },
+  {
+   "title": "Chapecoense crash survivor wins promotion in final game",
+   "desc": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
+   "link": "https://www.bbc.com/sport/football/articles/ckp8017p1e3go",
+   "time": "2026-11-15T17:10:24+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Trident submarine returns home after record-breaking undersea patrol",
+   "desc": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel.",
+   "link": "https://www.bbc.com/news/articles/c32l5ny1r7x9o",
+   "time": "2026-11-15T17:00:50+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "desc": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "link": "https://www.bbc.com/news/articles/cx5y1pzr9604o",
+   "time": "2026-11-15T16:15:20+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+   "desc": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+   "link": "https://www.bbc.com/news/articles/c6j9mn7l14y0o",
+   "time": "2026-11-15T15:57:03+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "McIlroy wins Race to Dubai after thrilling final day",
+   "desc": "Rory McIlroy takes second place at golf's DP World Tour Championship, finishing ahead of Spain's Eugenio Chacarra to secure the Race to Dubai title for a record-equalling eighth time.",
+   "link": "https://www.bbc.com/sport/golf/videos/c5lyk087yxjko",
+   "time": "2026-11-15T15:34:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Triumph or flop? The Rugby League World Cup that split opinion",
+   "desc": "Has the Rugby League World Cup set a new benchmark for the international game? BBC Sport discovers the answer to that question differs in the northern and southern hemispheres.",
+   "link": "https://www.bbc.com/sport/rugby-league/articles/cwdr1dl21l1vo",
+   "time": "2026-11-15T15:07:06+00:00",
+   "cat": "sport",
+   "top": false
   },
   {
    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
    "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
    "link": "https://www.bbc.com/news/articles/cmdx1vpprk9vo",
    "time": "2026-11-15T14:56:21+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-   "desc": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-   "link": "https://www.bbc.com/news/articles/cwe89y2r5j20o",
-   "time": "2026-11-15T14:33:59+00:00",
    "cat": "world",
    "top": false
   },
@@ -39,7 +167,7 @@
    "link": "https://www.bbc.com/news/articles/cqn4e2py48kwo",
    "time": "2026-11-15T13:42:58+00:00",
    "cat": "world",
-   "top": false
+   "top": true
   },
   {
    "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -58,14 +186,6 @@
    "top": false
   },
   {
-   "title": "Branthwaite, Garner and King omitted for Spain game",
-   "desc": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
-   "link": "https://www.bbc.com/sport/football/articles/cq4gn7014x76o",
-   "time": "2026-11-15T13:15:15+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Minister backs legal right to job support for young people",
    "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
    "link": "https://www.bbc.com/news/articles/cqr7gn1zmlj1o",
@@ -74,19 +194,11 @@
    "top": true
   },
   {
-   "title": "Four in a row - Australia win women's rugby league World Cup again",
-   "desc": "Jamie Chapman scores a hat-trick to help Australia comfortably beat New Zealand 34-10 in the women's rugby league World Cup final, securing a record-breaking fourth successive title.",
-   "link": "https://www.bbc.com/sport/rugby-league/videos/c6kgrvpnmdgdo",
-   "time": "2026-11-15T13:02:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'We got disrespected' - Walsh and Australia make World Cup point",
-   "desc": "Reece Walsh gave a powerful response to Australia's critics as they secured a fourth successive World Cup triumph, saying that: \"I feel we got disrespected.\"",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/cw808lm89x81o",
-   "time": "2026-11-15T12:50:36+00:00",
-   "cat": "sport",
+   "title": "Eleven officers convicted of crimes still on Police Scotland payroll, chief confirms",
+   "desc": "Police Scotland Chief Constable Jo Farrell said there were other cases with \"incontrovertible evidence\" against officers, but they cannot be sacked quickly enough.",
+   "link": "https://www.bbc.com/news/articles/cm7024594k1ro",
+   "time": "2026-11-15T12:50:55+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -98,12 +210,12 @@
    "top": true
   },
   {
-   "title": "McIlroy targets 10 after equalling Montgomerie",
-   "desc": "Rory McIlroy pips Eugenio Chacarra in a thrilling battle to win a record-equalling eighth season-long European tour title, and his fifth in a row.",
+   "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
+   "desc": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry.",
    "link": "https://www.bbc.com/sport/golf/articles/c6kg7rwmz1g8o",
    "time": "2026-11-15T12:14:04+00:00",
    "cat": "uk",
-   "top": false
+   "top": true
   },
   {
    "title": "Schoolboy imposter subjected ex-professor and wife to 'terrifying ordeal'",
@@ -114,11 +226,11 @@
    "top": false
   },
   {
-   "title": "Banton hits century and bowlers sparkle for England to level ODI series against Australia",
+   "title": "Banton pushes case and bowlers sparkle for inconsistent England",
    "desc": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
    "link": "https://www.bbc.com/sport/cricket/articles/c8n50wgr6vd4o",
    "time": "2026-11-15T11:56:19+00:00",
-   "cat": "uk",
+   "cat": "sport",
    "top": false
   },
   {
@@ -138,59 +250,11 @@
    "top": false
   },
   {
-   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-   "desc": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-   "link": "https://www.bbc.com/news/articles/cr4gnz0lv2vlo",
-   "time": "2026-11-15T09:57:25+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
    "desc": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
    "link": "https://www.bbc.com/sport/cricket/articles/c9ly4jm8djy7o",
    "time": "2026-11-15T09:33:33+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-   "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-   "link": "https://www.bbc.com/news/articles/cmrlgn4x2xw8o",
-   "time": "2026-11-15T09:26:37+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Ruthless Australia win record fourth Women's World Cup",
-   "desc": "Australia blow New Zealand away in the first half, with a hat-trick for Jaime Chapman, to win 34-10 in Brisbane and clinch a record fourth World Cup.",
-   "link": "https://www.bbc.com/sport/rugby-league/articles/c50mdzx3j039o",
-   "time": "2026-11-15T09:12:00+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Reality dawns after Wales dared to dream",
-   "desc": "As Welsh rugby fans wake up on Sunday morning the realisation will dawn on them that Wales beat New Zealand for the first time in 73 years.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cvx2xnyxl85ko",
-   "time": "2026-11-15T08:58:32+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
-   "desc": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's emphatic 78-15 thrashing of Japan and looks ahead to their match against New Zealand next weekend.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c6wy41738nv7o",
-   "time": "2026-11-15T08:47:46+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Milder day in store before more cold health alerts take effect",
-   "desc": "A short-lived milder spell is on the way for Sunday before more cold health alerts come into force.",
-   "link": "https://www.bbc.com/weather/articles/cqe879916895o",
-   "time": "2026-11-15T08:24:45+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -210,11 +274,11 @@
    "top": false
   },
   {
-   "title": "How Spain's humble superstar Simon became world's best keeper",
-   "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
-   "link": "https://www.bbc.com/sport/football/articles/cqvg23nv0jw2o",
-   "time": "2026-11-15T07:29:30+00:00",
-   "cat": "sport",
+   "title": "What happened after a small town introduced a balaclava ban",
+   "desc": "Heanor's centre and surrounding streets have been subject to a ban on face coverings since 2024.",
+   "link": "https://www.bbc.com/news/articles/cq4gnez01p90o",
+   "time": "2026-11-15T07:20:47+00:00",
+   "cat": "uk",
    "top": false
   },
   {
@@ -223,14 +287,6 @@
    "link": "https://www.bbc.com/news/articles/cm3rgx9p583zo",
    "time": "2026-11-15T07:19:52+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-   "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "link": "https://www.bbc.com/news/articles/c6wy9lynq4qno",
-   "time": "2026-11-15T07:10:31+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -250,20 +306,12 @@
    "top": true
   },
   {
-   "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
-   "desc": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-   "link": "https://www.bbc.com/news/articles/c6j9mn7l14y0o",
-   "time": "2026-11-15T03:21:04+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
    "desc": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
    "link": "https://www.bbc.com/news/articles/cw62p4n3n1xyo",
    "time": "2026-11-15T00:09:29+00:00",
-   "cat": "uk",
-   "top": true
+   "cat": "cul",
+   "top": false
   },
   {
    "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
@@ -271,15 +319,7 @@
    "link": "https://www.bbc.com/news/articles/cw77p7yj42k5o",
    "time": "2026-11-15T00:07:29+00:00",
    "cat": "cul",
-   "top": true
-  },
-  {
-   "title": "Judo champion shakes up French  presidential race with surprise candidacy",
-   "desc": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-   "link": "https://www.bbc.com/news/articles/c6dj1e8wyykmo",
-   "time": "2026-11-15T00:06:51+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Beauty advent calendars can cost hundreds but are they value for money?",
@@ -287,14 +327,6 @@
    "link": "https://www.bbc.com/news/articles/cqn83l442724o",
    "time": "2026-11-15T00:01:07+00:00",
    "cat": "biz",
-   "top": true
-  },
-  {
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-   "link": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
-   "time": "2026-11-14T22:37:25+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -303,22 +335,6 @@
    "link": "https://www.bbc.com/news/articles/ckregdgnl0xpo",
    "time": "2026-11-14T22:15:52+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
-   "desc": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-   "link": "https://www.bbc.com/news/videos/cwlym2gy3y3eo",
-   "time": "2026-11-14T22:09:40+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-   "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-   "link": "https://www.bbc.com/sport/football/articles/cq2d9l3e313zo",
-   "time": "2026-11-14T20:22:00+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -334,7 +350,7 @@
    "desc": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
    "link": "https://www.bbc.com/news/articles/cqrlgnx9dx6eo",
    "time": "2026-11-14T18:17:58+00:00",
-   "cat": "world",
+   "cat": "cul",
    "top": false
   },
   {
@@ -343,14 +359,6 @@
    "link": "https://www.bbc.com/news/articles/cmwy05gg75lvo",
    "time": "2026-11-14T18:00:10+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Highlights: Wales beat New Zealand for first time in 73 years",
-   "desc": "Watch the best of the action as Wales beat New Zealand for the first time in 73 years",
-   "link": "https://www.bbc.com/sport/rugby-union/videos/ckdd10y25mm1o",
-   "time": "2026-11-14T16:35:13+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -407,14 +415,6 @@
    "link": "https://www.bbc.com/news/articles/ck1exevgql4qo",
    "time": "2026-11-13T23:00:31+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-   "desc": "The TV star fell victim to a practical joke from the Hollywood stars of the Dune franchise.",
-   "link": "https://www.bbc.com/news/articles/cqly4lnxn031o",
-   "time": "2026-11-13T22:17:14+00:00",
-   "cat": "cul",
    "top": false
   },
   {
