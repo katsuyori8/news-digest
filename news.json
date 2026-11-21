@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-20T23:45:23.805865+00:00",
+ "updated": "2026-11-21T06:03:16.009007+00:00",
  "items": [
+  {
+   "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
+   "desc": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week.",
+   "link": "https://www.bbc.com/news/articles/cwdr1xyzr5lmo",
+   "time": "2026-11-21T06:01:04+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "UK-EU deal to become law regardless of tuition fee agreement, Miliband tells BBC",
+   "desc": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "link": "https://www.bbc.com/news/articles/cm9w9p4geke8o",
+   "time": "2026-11-21T06:00:09+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+   "desc": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
+   "link": "https://www.bbc.com/sport/formula1/articles/cqlyj4yg366wo",
+   "time": "2026-11-21T05:54:10+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "desc": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+   "link": "https://www.bbc.com/news/articles/cxnv4zvmdy0jo",
+   "time": "2026-11-21T05:15:41+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "desc": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+   "link": "https://www.bbc.com/news/articles/c64gn0gy8rj3o",
+   "time": "2026-11-21T04:34:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+   "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+   "link": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
+   "time": "2026-11-21T02:09:46+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
+   "desc": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
+   "link": "https://www.bbc.com/news/articles/cqn70v1p6ymlo",
+   "time": "2026-11-21T01:34:51+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Can AI really help spot Black Friday deals? We put it to the test",
+   "desc": "We put four AI models to the test to see if they could save us money on a new TV.",
+   "link": "https://www.bbc.com/news/articles/cw8dv4jmnle2o",
+   "time": "2026-11-21T00:06:11+00:00",
+   "cat": "tech",
+   "top": false
+  },
+  {
+   "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+   "desc": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+   "link": "https://www.bbc.com/news/articles/cw9874p114dro",
+   "time": "2026-11-21T00:02:09+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "desc": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+   "link": "https://www.bbc.com/news/articles/cmjeqv89egylo",
+   "time": "2026-11-21T00:01:39+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "Price beats Kotaskova to become undisputed champion",
    "desc": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
@@ -119,7 +199,7 @@
    "link": "https://www.bbc.com/news/articles/c9ly43pj10mvo",
    "time": "2026-11-20T19:45:20+00:00",
    "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
@@ -167,14 +247,6 @@
    "link": "https://www.bbc.com/news/articles/c6jreyqgw4e9o",
    "time": "2026-11-20T17:49:48+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "'Right time' for Smith exit - but Murray not ready for role",
-   "desc": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
-   "link": "https://www.bbc.com/sport/tennis/articles/cvze7d03880ko",
-   "time": "2026-11-20T17:47:38+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -218,14 +290,6 @@
    "top": false
   },
   {
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-   "link": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
-   "time": "2026-11-20T16:54:29+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Stacked England aim to pile on style and add to All Black misery",
    "desc": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
    "link": "https://www.bbc.com/sport/rugby-union/articles/cqrmgjpp0l48o",
@@ -239,7 +303,7 @@
    "link": "https://www.bbc.com/news/articles/cm1wr029evnqo",
    "time": "2026-11-20T16:41:52+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
@@ -247,7 +311,7 @@
    "link": "https://www.bbc.com/news/articles/c6lywjpn5levo",
    "time": "2026-11-20T16:39:49+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Pontins fined £1m after grandmother's death",
@@ -278,16 +342,8 @@
    "desc": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
    "link": "https://www.bbc.com/news/articles/cmx278n2genyo",
    "time": "2026-11-20T15:48:35+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
-  },
-  {
-   "title": "What we know about the latest Russian missile strikes on Ukraine",
-   "desc": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-   "link": "https://www.bbc.com/news/videos/c65y19wy3xl8o",
-   "time": "2026-11-20T15:14:01+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "Filming training by drones should be illegal - Iraola",
@@ -303,22 +359,6 @@
    "link": "https://www.bbc.com/news/articles/cm2klg8512z0o",
    "time": "2026-11-20T14:56:06+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "desc": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-   "link": "https://www.bbc.com/news/articles/c6x29gn4pdn9o",
-   "time": "2026-11-20T13:01:16+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Texas death-row inmate screams as execution takes more than one hour",
-   "desc": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-   "link": "https://www.bbc.com/news/articles/ck20vl1dd8qzo",
-   "time": "2026-11-20T12:42:37+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -446,7 +486,7 @@
    "desc": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
    "link": "https://www.bbc.com/news/articles/c6eq49zyx7p4o",
    "time": "2026-11-20T00:02:07+00:00",
-   "cat": "uk",
+   "cat": "biz",
    "top": false
   },
   {
@@ -519,14 +559,6 @@
    "link": "https://www.bbc.com/news/articles/c920xgxp5785o",
    "time": "2026-11-19T09:21:54+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-   "desc": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-   "link": "https://www.bbc.com/news/articles/cm9q8j2z3gg8o",
-   "time": "2026-11-19T02:59:06+00:00",
-   "cat": "tech",
    "top": false
   },
   {
