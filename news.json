@@ -1,12 +1,204 @@
 {
- "updated": "2026-11-22T08:35:03.451312+00:00",
+ "updated": "2026-11-22T16:56:25.838248+00:00",
  "items": [
   {
-   "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
-   "desc": "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91.",
-   "link": "https://www.bbc.com/sport/basketball/articles/c6x20yeqg18vo",
-   "time": "2026-11-22T07:42:24+00:00",
+   "title": "Spurs 'a match for anyone' as European hopes boosted",
+   "desc": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
+   "link": "https://www.bbc.com/sport/football/articles/c6n901w453nlo",
+   "time": "2026-11-22T16:25:35+00:00",
    "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "desc": "Libya's eastern government says it is working with Russia to investigate the incident.",
+   "link": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
+   "time": "2026-11-22T16:05:25+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "PSG's Doue to have surgery on ruptured ACL",
+   "desc": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
+   "link": "https://www.bbc.com/sport/football/articles/cw0k6x0764ero",
+   "time": "2026-11-22T15:50:05+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Liu Wenwei suspended amid match-fixing investigation",
+   "desc": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
+   "link": "https://www.bbc.com/sport/snooker/articles/c9p83k06160xo",
+   "time": "2026-11-22T15:17:49+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Did beaten Wales still show they have come a long way?",
+   "desc": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cjr4gn7yd9d5o",
+   "time": "2026-11-22T15:07:06+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Marquez wins record-equalling eighth MotoGP title",
+   "desc": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
+   "link": "https://www.bbc.com/sport/motorsport/articles/c64gnrdzq8zzo",
+   "time": "2026-11-22T14:58:23+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+   "desc": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+   "link": "https://www.bbc.com/news/articles/c68x08nzpk9no",
+   "time": "2026-11-22T14:19:06+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Three killed and dozens missing after fire at Indonesian factory",
+   "desc": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+   "link": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo",
+   "time": "2026-11-22T14:05:20+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Boss of British Gas owners Centrica 'hugely concerned' over impact of soaring energy bills",
+   "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+   "link": "https://www.bbc.com/news/articles/c6jre7gpdw13o",
+   "time": "2026-11-22T13:50:21+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "BBC apologises after noise disruption during Strictly",
+   "desc": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
+   "link": "https://www.bbc.com/news/videos/ck782j066elvo",
+   "time": "2026-11-22T13:46:00+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
+   "desc": "Alex Burghart tells the BBC the agreement will not lead to lower prices in the shops.",
+   "link": "https://www.bbc.com/news/articles/cr868jnlllpgo",
+   "time": "2026-11-22T13:15:57+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "England will not get carried away by beating All Blacks",
+   "desc": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/ckr5gdpm1q5no",
+   "time": "2026-11-22T12:45:57+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man dies in M42 crash near Birmingham Airport",
+   "desc": "Police confirm a van driver died following a serious crash on the M42 on Saturday.",
+   "link": "https://www.bbc.com/news/articles/c61k94ype8keo",
+   "time": "2026-11-22T12:38:03+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+   "desc": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+   "link": "https://www.bbc.com/sport/football/articles/cyvz6r4g1jqo",
+   "time": "2026-11-22T12:00:45+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+   "desc": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+   "link": "https://www.bbc.com/news/articles/cvj6l8y3x1x4o",
+   "time": "2026-11-22T11:50:20+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+   "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "link": "https://www.bbc.com/news/articles/cj752ddve27ko",
+   "time": "2026-11-22T11:25:14+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+   "desc": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c3n0l5p5x5x5o",
+   "time": "2026-11-22T11:07:32+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Scotland must let promising McConnell loose against Pumas",
+   "desc": "Scotland head into their Nations Championship finale against Argentina on a high and should unleash Liam McConnell on the Pumas after his hat-trick against Japan, writes Tom English.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cmgqxvzyq959o",
+   "time": "2026-11-22T10:59:15+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+   "desc": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+   "link": "https://www.bbc.com/news/articles/c39w9l4v1p9ro",
+   "time": "2026-11-22T10:44:12+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Injured Jacks out of T20 Australia tour",
+   "desc": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
+   "link": "https://www.bbc.com/sport/cricket/articles/c8p3v1p45360o",
+   "time": "2026-11-22T10:00:04+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "South Korea education minister resigns over exam cheating scandal",
+   "desc": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+   "link": "https://www.bbc.com/news/articles/cw3dgk29d37no",
+   "time": "2026-11-22T09:20:45+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+   "desc": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
+   "link": "https://www.bbc.com/sport/formula1/articles/c6j9mepj0j1go",
+   "time": "2026-11-22T09:07:15+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
+   "desc": "The Swansea actress says she was told her Cardiff accent sounded \"awful\".",
+   "link": "https://www.bbc.com/news/articles/c6gm38e407zxo",
+   "time": "2026-11-22T08:59:41+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "desc": "The couple have been together for four years and were engaged in 2025.",
+   "link": "https://www.bbc.com/news/articles/cq8e0p87l89lo",
+   "time": "2026-11-22T08:46:28+00:00",
+   "cat": "cul",
+   "top": false
+  },
+  {
+   "title": "Calls for Marilyn Manson performance to be pulled",
+   "desc": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
+   "link": "https://www.bbc.com/news/articles/cmn4kz7lj3jvo",
+   "time": "2026-11-22T08:10:23+00:00",
+   "cat": "cul",
    "top": false
   },
   {
@@ -26,14 +218,6 @@
    "top": false
   },
   {
-   "title": "Why Arsenal are behind in race for Women's Champions League spots",
-   "desc": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
-   "link": "https://www.bbc.com/sport/football/articles/c8752llr1ed1o",
-   "time": "2026-11-22T07:17:10+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
    "desc": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
    "link": "https://www.bbc.com/news/articles/cq782xz5nkg4o",
@@ -42,11 +226,19 @@
    "top": false
   },
   {
+   "title": "Widow fears losing home built by husband after support payments end",
+   "desc": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday.",
+   "link": "https://www.bbc.com/news/articles/cqevrx7xxz93o",
+   "time": "2026-11-22T07:14:14+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
    "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
    "link": "https://www.bbc.com/news/articles/c8e39qk5vrpdo",
    "time": "2026-11-22T07:12:41+00:00",
-   "cat": "biz",
+   "cat": "world",
    "top": false
   },
   {
@@ -54,8 +246,8 @@
    "desc": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
    "link": "https://www.bbc.com/news/articles/cq7827z2841zo",
    "time": "2026-11-22T06:54:06+00:00",
-   "cat": "world",
-   "top": true
+   "cat": "sci",
+   "top": false
   },
   {
    "title": "Village vote 'sent powerful message', say politicians",
@@ -66,35 +258,11 @@
    "top": false
   },
   {
-   "title": "Verstappen wins extraordinary race as Ferraris collide",
-   "desc": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-   "link": "https://www.bbc.com/sport/formula1/articles/cqx2ex25pvn9o",
-   "time": "2026-11-22T06:27:06+00:00",
-   "cat": "sport",
-   "top": true
-  },
-  {
-   "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
-   "desc": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
-   "link": "https://www.bbc.com/sport/football/articles/ckqx5w58dgv7o",
-   "time": "2026-11-22T06:21:55+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Three killed and dozens missing after fire at Indonesian factory",
-   "desc": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
-   "link": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo",
-   "time": "2026-11-22T06:05:00+00:00",
+   "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+   "desc": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+   "link": "https://www.bbc.com/news/articles/cjn5023e6ez4o",
+   "time": "2026-11-22T06:01:49+00:00",
    "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-   "desc": "\"Just accept Brexit and move on,\" the former prime minister told BBC's Laura Kuenssberg.",
-   "link": "https://www.bbc.com/news/articles/cvj6l8y3x1x4o",
-   "time": "2026-11-22T06:01:14+00:00",
-   "cat": "uk",
    "top": true
   },
   {
@@ -106,20 +274,12 @@
    "top": true
   },
   {
-   "title": "Wales coach Tandy frustrated by Australia defeat",
-   "desc": "Wales head coach Steve Tandy said he was frustrated after his side failed to back up their epic win over New Zealand with victory against Australia.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c6gregq87258o",
-   "time": "2026-11-22T04:50:34+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
    "desc": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
    "link": "https://www.bbc.com/news/articles/cm8e0p5dexy6o",
    "time": "2026-11-22T04:39:13+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
@@ -143,14 +303,6 @@
    "link": "https://www.bbc.com/news/articles/cmq8lyv8lkjwo",
    "time": "2026-11-22T00:09:58+00:00",
    "cat": "world",
-   "top": true
-  },
-  {
-   "title": "From pit-stops to go-to destinations: The transformation of service stations",
-   "desc": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
-   "link": "https://www.bbc.com/news/articles/ckqx5rylp9elo",
-   "time": "2026-11-22T00:06:03+00:00",
-   "cat": "uk",
    "top": true
   },
   {
@@ -178,14 +330,6 @@
    "top": false
   },
   {
-   "title": "Can win over All Blacks finally break England's boom-bust cycle?",
-   "desc": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c6gregx71gjro",
-   "time": "2026-11-21T22:27:36+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
    "link": "https://www.bbc.com/news/articles/c6ly5w40eg07o",
@@ -206,71 +350,15 @@
    "desc": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
    "link": "https://www.bbc.com/news/articles/cm3vg9dqr6zyo",
    "time": "2026-11-21T21:39:22+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Serious crash closes M42 near Birmingham Airport",
-   "desc": "Drivers describe seeing a \"huge fire\" from cars on the M42 motorway.",
-   "link": "https://www.bbc.com/news/articles/c8vg2pd5707wo",
-   "time": "2026-11-21T21:30:28+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-   "desc": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
-   "link": "https://www.bbc.com/sport/football/articles/ckx28w9ree9vo",
-   "time": "2026-11-21T21:14:08+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Arsenal go six points clear after lively draw at Newcastle",
-   "desc": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
-   "link": "https://www.bbc.com/sport/football/videos/cm702zzl66l6o",
-   "time": "2026-11-21T19:59:35+00:00",
-   "cat": "sport",
+   "cat": "cul",
    "top": false
   },
   {
    "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-   "desc": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.",
+   "desc": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
    "link": "https://www.bbc.com/sport/football/videos/c3ewvkk4qgxjo",
    "time": "2026-11-21T19:59:13+00:00",
    "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Man City drop points to Fulham despite superb Anderson volley",
-   "desc": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
-   "link": "https://www.bbc.com/sport/football/videos/c30rkq9xyk8eo",
-   "time": "2026-11-21T19:59:08+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-   "desc": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
-   "link": "https://www.bbc.com/sport/football/videos/c3174qq2j82zo",
-   "time": "2026-11-21T19:59:02+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Coventry beat Palace in Frank's first game after late own goal",
-   "desc": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/c8wy5ddky5n9o",
-   "time": "2026-11-21T19:58:52+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
-   "desc": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation.",
-   "link": "https://www.bbc.com/news/articles/c893r4923wngo",
-   "time": "2026-11-21T19:33:49+00:00",
-   "cat": "uk",
    "top": false
   },
   {
@@ -278,30 +366,6 @@
    "desc": "The items sold included a watch, ring and letter belonging to passengers from different classes.",
    "link": "https://www.bbc.com/news/articles/cme872563304o",
    "time": "2026-11-21T19:25:00+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Russia-bound ship attacked in Gulf of Finland",
-   "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-   "link": "https://www.bbc.com/news/articles/cj752ddve27ko",
-   "time": "2026-11-21T19:20:22+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Former journalist and Lost Lives author David McKittrick dies",
-   "desc": "David McKittrick was best known for his work during the Troubles, and his book Lost Lives.",
-   "link": "https://www.bbc.com/news/articles/cmkgd515jp47o",
-   "time": "2026-11-21T16:47:33+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Man dies putting up shopping centre festive lights",
-   "desc": "The shopping centre said the incident happened during overnight Christmas lights installation works.",
-   "link": "https://www.bbc.com/news/articles/c64gnr08d0dpo",
-   "time": "2026-11-21T16:17:31+00:00",
    "cat": "uk",
    "top": false
   },
@@ -335,7 +399,7 @@
    "link": "https://www.bbc.com/news/articles/c85y14zvexz9o",
    "time": "2026-11-21T12:00:03+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -414,15 +478,7 @@
    "desc": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
    "link": "https://www.bbc.com/news/articles/c6808ym10vzgo",
    "time": "2026-11-20T22:42:47+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "desc": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-   "link": "https://www.bbc.com/news/articles/ck9d7e9wvvweo",
-   "time": "2026-11-20T22:37:09+00:00",
-   "cat": "world",
+   "cat": "biz",
    "top": false
   },
   {
@@ -431,14 +487,6 @@
    "link": "https://www.bbc.com/news/articles/cmde1lw9y54ko",
    "time": "2026-11-20T20:54:12+00:00",
    "cat": "biz",
-   "top": false
-  },
-  {
-   "title": "Gérard Depardieu and French author investigated over sexual allegations",
-   "desc": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-   "link": "https://www.bbc.com/news/articles/c9ly43pj10mvo",
-   "time": "2026-11-20T19:45:20+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -490,35 +538,11 @@
    "top": false
   },
   {
-   "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-   "desc": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-   "link": "https://www.bbc.com/news/articles/c39w9l4v1p9ro",
-   "time": "2026-11-20T05:59:56+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
    "title": "More climate money for Africa? Europe says use what's already pledged",
    "desc": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
    "link": "https://www.bbc.com/news/articles/c6074k5jjrzko",
    "time": "2026-11-20T05:03:43+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
-   "desc": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
-   "link": "https://www.bbc.com/news/articles/c8752w5vz2zqo",
-   "time": "2026-11-20T01:11:57+00:00",
-   "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-   "desc": "Eating at your desk? The dos and don'ts of lunch at work",
-   "link": "https://www.bbc.com/news/articles/cwp8g4092zglo",
-   "time": "2026-11-20T00:08:37+00:00",
-   "cat": "biz",
    "top": false
   },
   {
