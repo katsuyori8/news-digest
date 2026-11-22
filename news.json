@@ -1,51 +1,187 @@
 {
- "updated": "2026-11-22T16:56:25.838248+00:00",
+ "updated": "2026-11-22T22:21:48.475956+00:00",
  "items": [
   {
-   "title": "Spurs 'a match for anyone' as European hopes boosted",
-   "desc": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
-   "link": "https://www.bbc.com/sport/football/articles/c6n901w453nlo",
-   "time": "2026-11-22T16:25:35+00:00",
+   "title": "Thitikul wins third title in a row at LPGA finale",
+   "desc": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
+   "link": "https://www.bbc.com/sport/golf/articles/ckjwjvwexd12o",
+   "time": "2026-11-22T21:54:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+   "desc": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "link": "https://www.bbc.com/sport/football/articles/cx30g83716lzo",
+   "time": "2026-11-22T21:44:37+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "desc": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "link": "https://www.bbc.com/sport/football/articles/cm782j80yypwo",
+   "time": "2026-11-22T21:36:00+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "desc": "The couple have been together for four years and were engaged in 2025.",
+   "link": "https://www.bbc.com/news/articles/cq8e0p87l89lo",
+   "time": "2026-11-22T21:22:40+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "desc": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "link": "https://www.bbc.com/sport/football/articles/cwd012903kvgo",
+   "time": "2026-11-22T21:22:10+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Price wins Grand Slam to end wait for major title",
+   "desc": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
+   "link": "https://www.bbc.com/sport/darts/articles/cklye10j4z1yo",
+   "time": "2026-11-22T21:06:47+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Man Utd plotting Toney move - Monday's gossip",
+   "desc": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "link": "https://www.bbc.com/sport/football/articles/ck053nyl6399o",
+   "time": "2026-11-22T21:04:15+00:00",
    "cat": "sport",
    "top": false
   },
   {
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "desc": "Libya's eastern government says it is working with Russia to investigate the incident.",
+   "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
    "link": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
-   "time": "2026-11-22T16:05:25+00:00",
+   "time": "2026-11-22T20:28:09+00:00",
    "cat": "world",
    "top": true
   },
   {
-   "title": "PSG's Doue to have surgery on ruptured ACL",
-   "desc": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-   "link": "https://www.bbc.com/sport/football/articles/cw0k6x0764ero",
-   "time": "2026-11-22T15:50:05+00:00",
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "link": "https://www.bbc.com/news/articles/c6vg29g7dlyno",
+   "time": "2026-11-22T20:26:24+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+   "desc": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+   "link": "https://www.bbc.com/sport/tennis/articles/c60evlendg0jo",
+   "time": "2026-11-22T20:15:48+00:00",
    "cat": "sport",
    "top": false
   },
   {
-   "title": "Liu Wenwei suspended amid match-fixing investigation",
-   "desc": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
-   "link": "https://www.bbc.com/sport/snooker/articles/c9p83k06160xo",
-   "time": "2026-11-22T15:17:49+00:00",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "desc": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "link": "https://www.bbc.com/sport/football/videos/ck62pzzezqz2o",
+   "time": "2026-11-22T19:59:38+00:00",
    "cat": "sport",
    "top": false
+  },
+  {
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "desc": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+   "link": "https://www.bbc.com/sport/football/videos/c933g77knz00o",
+   "time": "2026-11-22T19:59:35+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+   "desc": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+   "link": "https://www.bbc.com/sport/football/articles/cm4gn7npqe8yo",
+   "time": "2026-11-22T19:03:32+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "What's next after no deal at COP31 climate talks?",
+   "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+   "link": "https://www.bbc.com/news/videos/cr1ewge81q4qo",
+   "time": "2026-11-22T18:57:24+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+   "desc": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+   "link": "https://www.bbc.com/news/articles/cvglrx764gdxo",
+   "time": "2026-11-22T18:29:46+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "What's next after no deal at COP31 climate summit?",
+   "desc": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+   "link": "https://www.bbc.com/news/videos/cx987g7q019go",
+   "time": "2026-11-22T18:28:48+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "desc": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+   "link": "https://www.bbc.com/news/articles/cqwy06zrd26lo",
+   "time": "2026-11-22T18:17:59+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Long-lost Chevalier landscape found in charity shop",
+   "desc": "Cape Schanck, Victoria, is set to go under the hammer at Olympia Auctions in London on 9 December.",
+   "link": "https://www.bbc.com/news/articles/c32l5z88z15jo",
+   "time": "2026-11-22T18:09:23+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "link": "https://www.bbc.com/news/videos/cre3dvd1k9y1o",
+   "time": "2026-11-22T17:57:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "The red card that changed Liverpool-Man Utd: correct call?",
+   "desc": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+   "link": "https://www.bbc.com/sport/football/articles/cq7827p8emmxo",
+   "time": "2026-11-22T17:55:54+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "desc": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+   "link": "https://www.bbc.com/news/articles/cj752ddve27ko",
+   "time": "2026-11-22T17:18:26+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Russell Brand's wife says she'll honour prison rules after message row",
+   "desc": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+   "link": "https://www.bbc.com/news/articles/cq8e0pzp43w4o",
+   "time": "2026-11-22T16:51:57+00:00",
+   "cat": "uk",
+   "top": true
   },
   {
    "title": "Did beaten Wales still show they have come a long way?",
    "desc": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
    "link": "https://www.bbc.com/sport/rugby-union/articles/cjr4gn7yd9d5o",
    "time": "2026-11-22T15:07:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Marquez wins record-equalling eighth MotoGP title",
-   "desc": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
-   "link": "https://www.bbc.com/sport/motorsport/articles/c64gnrdzq8zzo",
-   "time": "2026-11-22T14:58:23+00:00",
    "cat": "sport",
    "top": false
   },
@@ -90,14 +226,6 @@
    "top": false
   },
   {
-   "title": "England will not get carried away by beating All Blacks",
-   "desc": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/ckr5gdpm1q5no",
-   "time": "2026-11-22T12:45:57+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Man dies in M42 crash near Birmingham Airport",
    "desc": "Police confirm a van driver died following a serious crash on the M42 on Saturday.",
    "link": "https://www.bbc.com/news/articles/c61k94ype8keo",
@@ -106,43 +234,11 @@
    "top": false
   },
   {
-   "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
-   "desc": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
-   "link": "https://www.bbc.com/sport/football/articles/cyvz6r4g1jqo",
-   "time": "2026-11-22T12:00:45+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
    "desc": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
    "link": "https://www.bbc.com/news/articles/cvj6l8y3x1x4o",
    "time": "2026-11-22T11:50:20+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-   "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-   "link": "https://www.bbc.com/news/articles/cj752ddve27ko",
-   "time": "2026-11-22T11:25:14+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-   "desc": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c3n0l5p5x5x5o",
-   "time": "2026-11-22T11:07:32+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Scotland must let promising McConnell loose against Pumas",
-   "desc": "Scotland head into their Nations Championship finale against Argentina on a high and should unleash Liam McConnell on the Pumas after his hat-trick against Japan, writes Tom English.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cmgqxvzyq959o",
-   "time": "2026-11-22T10:59:15+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -154,14 +250,6 @@
    "top": false
   },
   {
-   "title": "Injured Jacks out of T20 Australia tour",
-   "desc": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-   "link": "https://www.bbc.com/sport/cricket/articles/c8p3v1p45360o",
-   "time": "2026-11-22T10:00:04+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "South Korea education minister resigns over exam cheating scandal",
    "desc": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
    "link": "https://www.bbc.com/news/articles/cw3dgk29d37no",
@@ -170,27 +258,11 @@
    "top": false
   },
   {
-   "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-   "desc": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
-   "link": "https://www.bbc.com/sport/formula1/articles/c6j9mepj0j1go",
-   "time": "2026-11-22T09:07:15+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
    "desc": "The Swansea actress says she was told her Cardiff accent sounded \"awful\".",
    "link": "https://www.bbc.com/news/articles/c6gm38e407zxo",
    "time": "2026-11-22T08:59:41+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-   "desc": "The couple have been together for four years and were engaged in 2025.",
-   "link": "https://www.bbc.com/news/articles/cq8e0p87l89lo",
-   "time": "2026-11-22T08:46:28+00:00",
-   "cat": "cul",
    "top": false
   },
   {
@@ -258,22 +330,6 @@
    "top": false
   },
   {
-   "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
-   "desc": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
-   "link": "https://www.bbc.com/news/articles/cjn5023e6ez4o",
-   "time": "2026-11-22T06:01:49+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "The real people finding their work copied and stolen by AI characters",
-   "desc": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
-   "link": "https://www.bbc.com/news/articles/cm7527kp4qrpo",
-   "time": "2026-11-22T05:00:38+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
    "desc": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
    "link": "https://www.bbc.com/news/articles/cm8e0p5dexy6o",
@@ -290,28 +346,12 @@
    "top": false
   },
   {
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-   "time": "2026-11-22T00:10:44+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "How a teen gamer and his mother helped rescue a missing girl",
-   "desc": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-   "link": "https://www.bbc.com/news/articles/cmq8lyv8lkjwo",
-   "time": "2026-11-22T00:09:58+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Employers are being asked to give interview feedback - here's what applicants want",
    "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
    "link": "https://www.bbc.com/news/articles/cm2d94le23xyo",
    "time": "2026-11-22T00:04:07+00:00",
    "cat": "biz",
-   "top": true
+   "top": false
   },
   {
    "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
@@ -319,7 +359,7 @@
    "link": "https://www.bbc.com/news/articles/cj4gn7x05yygo",
    "time": "2026-11-22T00:01:27+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Will COP31 end with a new global climate deal?",
@@ -338,43 +378,11 @@
    "top": false
   },
   {
-   "title": "Lock of former US President George Washington's hair sells for $4,000",
-   "desc": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-   "link": "https://www.bbc.com/news/articles/cwe9k23dpz0do",
-   "time": "2026-11-21T22:01:19+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "Spitting Image co-creator Peter Fluck dies aged 85",
    "desc": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
    "link": "https://www.bbc.com/news/articles/cm3vg9dqr6zyo",
    "time": "2026-11-21T21:39:22+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-   "desc": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
-   "link": "https://www.bbc.com/sport/football/videos/c3ewvkk4qgxjo",
-   "time": "2026-11-21T19:59:13+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Rare Titanic items sell for record-breaking sums",
-   "desc": "The items sold included a watch, ring and letter belonging to passengers from different classes.",
-   "link": "https://www.bbc.com/news/articles/cme872563304o",
-   "time": "2026-11-21T19:25:00+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "desc": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "link": "https://www.bbc.com/news/articles/c6wy0qj7w5zqo",
-   "time": "2026-11-21T13:17:38+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -394,43 +402,11 @@
    "top": false
   },
   {
-   "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-   "desc": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
-   "link": "https://www.bbc.com/news/articles/c85y14zvexz9o",
-   "time": "2026-11-21T12:00:03+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-   "desc": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-   "link": "https://www.bbc.com/news/articles/cmde1lj4yjxno",
-   "time": "2026-11-21T10:26:36+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "desc": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-   "link": "https://www.bbc.com/news/articles/cm9w9p4geke8o",
-   "time": "2026-11-21T09:40:55+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
    "title": "How Westside Cowboy went from student gigs to rising stars in two years",
    "desc": "The four-piece band joins a prestigious list that includes Myles Smith, Olivia Dean, Tom Grennan.",
    "link": "https://www.bbc.com/news/articles/crjeqxedzpnko",
    "time": "2026-11-21T07:04:18+00:00",
    "cat": "cul",
-   "top": false
-  },
-  {
-   "title": "Man convicted of starting Palisades fire in Los Angeles",
-   "desc": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-   "link": "https://www.bbc.com/news/articles/c64gn0gy8rj3o",
-   "time": "2026-11-21T04:34:00+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -606,22 +582,6 @@
    "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
    "link": "https://www.bbc.com/news/articles/cmd7159vlr85o",
    "time": "2026-11-18T23:42:07+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Torrential rain causes widespread flooding in South Florida",
-   "desc": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
-   "link": "https://www.bbc.com/news/videos/crgj3205jv98o",
-   "time": "2026-11-18T20:29:18+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "Stormont department failing to protect wild birds, investigation finds",
-   "desc": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
-   "link": "https://www.bbc.com/news/articles/c8p3vwevreyqo",
-   "time": "2026-11-18T12:13:32+00:00",
    "cat": "sci",
    "top": false
   }
