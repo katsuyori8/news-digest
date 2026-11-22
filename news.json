@@ -1,6 +1,118 @@
 {
- "updated": "2026-11-21T20:48:06.041624+00:00",
+ "updated": "2026-11-22T01:00:11.819263+00:00",
  "items": [
+  {
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+   "time": "2026-11-22T00:10:44+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "How a teen gamer and his mother helped rescue a missing girl",
+   "desc": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+   "link": "https://www.bbc.com/news/articles/cmq8lyv8lkjwo",
+   "time": "2026-11-22T00:09:58+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Employers are being asked to give interview feedback - here's what applicants want",
+   "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+   "link": "https://www.bbc.com/news/articles/cm2d94le23xyo",
+   "time": "2026-11-22T00:04:07+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+   "desc": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+   "link": "https://www.bbc.com/news/articles/cj4gn7x05yygo",
+   "time": "2026-11-22T00:01:27+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "desc": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "link": "https://www.bbc.com/news/articles/ckz749ey0r75o",
+   "time": "2026-11-21T23:31:17+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Will COP31 end with a new global climate deal?",
+   "desc": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+   "link": "https://www.bbc.com/news/videos/cqn0dwrewrwxo",
+   "time": "2026-11-21T22:44:52+00:00",
+   "cat": "sci",
+   "top": false
+  },
+  {
+   "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+   "desc": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/c6gregx71gjro",
+   "time": "2026-11-21T22:27:36+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Australia hold on for narrow win against Wales",
+   "desc": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/cwm25ev1z8y8o",
+   "time": "2026-11-21T22:25:36+00:00",
+   "cat": "sport",
+   "top": true
+  },
+  {
+   "title": "France secure Nations Championship final with Springboks",
+   "desc": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/c3zxv4e5g5g5o",
+   "time": "2026-11-21T22:22:36+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "link": "https://www.bbc.com/news/articles/c6ly5w40eg07o",
+   "time": "2026-11-21T22:19:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "desc": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "link": "https://www.bbc.com/news/articles/cwe9k23dpz0do",
+   "time": "2026-11-21T22:01:19+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+   "desc": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+   "link": "https://www.bbc.com/news/articles/cm3vg9dqr6zyo",
+   "time": "2026-11-21T21:39:22+00:00",
+   "cat": "cul",
+   "top": true
+  },
+  {
+   "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+   "desc": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+   "link": "https://www.bbc.com/sport/football/articles/ckx28w9ree9vo",
+   "time": "2026-11-21T21:14:08+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Ireland remind themselves that the best are beatable",
+   "desc": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+   "link": "https://www.bbc.com/sport/rugby-union/articles/c820qxx2k7y2o",
+   "time": "2026-11-21T20:39:51+00:00",
+   "cat": "sport",
+   "top": false
+  },
   {
    "title": "Arsenal go six points clear after lively draw at Newcastle",
    "desc": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
@@ -66,51 +178,11 @@
    "top": false
   },
   {
-   "title": "Can win over All Blacks finally break England's boom-bust cycle?",
-   "desc": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/c6gregx71gjro",
-   "time": "2026-11-21T19:49:02+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-   "desc": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-   "link": "https://www.bbc.com/news/articles/cm3vg9dqr6zyo",
-   "time": "2026-11-21T19:43:19+00:00",
-   "cat": "cul",
-   "top": true
-  },
-  {
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "link": "https://www.bbc.com/news/articles/c6ly5w40eg07o",
-   "time": "2026-11-21T19:33:49+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
    "desc": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation.",
    "link": "https://www.bbc.com/news/articles/c893r4923wngo",
    "time": "2026-11-21T19:33:49+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
-   "desc": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
-   "link": "https://www.bbc.com/sport/football/articles/cq4gn97e8ee4o",
-   "time": "2026-11-21T19:29:48+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
-   "desc": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
-   "link": "https://www.bbc.com/sport/football/articles/cm9d7jg50e12o",
-   "time": "2026-11-21T19:21:01+00:00",
-   "cat": "sport",
    "top": false
   },
   {
@@ -122,35 +194,11 @@
    "top": false
   },
   {
-   "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
-   "desc": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
-   "link": "https://www.bbc.com/sport/football/articles/cwe8944d004yo",
-   "time": "2026-11-21T19:04:09+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
-   "title": "Ireland beat world champions South Africa in thriller",
-   "desc": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cqe9k2v4xjeko",
-   "time": "2026-11-21T18:46:29+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "Former journalist and Lost Lives author David McKittrick dies",
    "desc": "David McKittrick was best known for his work during the Troubles, and his book Lost Lives.",
    "link": "https://www.bbc.com/news/articles/cmkgd515jp47o",
    "time": "2026-11-21T16:47:33+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-   "time": "2026-11-21T16:35:15+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -184,14 +232,6 @@
    "time": "2026-11-21T13:17:38+00:00",
    "cat": "world",
    "top": true
-  },
-  {
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "desc": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "link": "https://www.bbc.com/news/articles/ckz749ey0r75o",
-   "time": "2026-11-21T13:15:21+00:00",
-   "cat": "world",
-   "top": false
   },
   {
    "title": "Bad Girls star Helen Fraser dies aged 84",
@@ -282,28 +322,20 @@
    "top": false
   },
   {
-   "title": "'I was exhausted': Two days in the shoes of a tradwife",
-   "desc": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
-   "link": "https://www.bbc.com/news/articles/cr0jxwd93y09o",
-   "time": "2026-11-21T00:29:00+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "Can AI really help spot Black Friday deals? We put it to the test",
    "desc": "We put four AI models to the test to see if they could save us money on a new TV.",
    "link": "https://www.bbc.com/news/articles/cw8dv4jmnle2o",
    "time": "2026-11-21T00:06:11+00:00",
    "cat": "tech",
-   "top": true
+   "top": false
   },
   {
    "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-   "desc": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+   "desc": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
    "link": "https://www.bbc.com/news/articles/cr4g1l7x52jno",
    "time": "2026-11-21T00:03:16+00:00",
    "cat": "cul",
-   "top": true
+   "top": false
   },
   {
    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
@@ -312,22 +344,6 @@
    "time": "2026-11-21T00:02:09+00:00",
    "cat": "uk",
    "top": false
-  },
-  {
-   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "desc": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "link": "https://www.bbc.com/news/articles/cmjeqv89egylo",
-   "time": "2026-11-21T00:01:39+00:00",
-   "cat": "world",
-   "top": false
-  },
-  {
-   "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-   "desc": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-   "link": "https://www.bbc.com/news/articles/cmn502ek17yvo",
-   "time": "2026-11-20T23:20:33+00:00",
-   "cat": "world",
-   "top": true
   },
   {
    "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
@@ -606,14 +622,6 @@
    "desc": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
    "link": "https://www.bbc.com/news/articles/cm62y2e4qd9yo",
    "time": "2026-11-18T10:48:49+00:00",
-   "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "What's gone wrong at Britain's worst bathing site?",
-   "desc": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-   "link": "https://www.bbc.com/news/articles/cm752w35lkz3o",
-   "time": "2026-11-18T06:12:44+00:00",
    "cat": "sci",
    "top": false
   }
