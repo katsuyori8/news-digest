@@ -1,6 +1,110 @@
 {
- "updated": "2026-11-22T22:21:48.475956+00:00",
+ "updated": "2026-11-23T02:58:21.692854+00:00",
  "items": [
+  {
+   "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "desc": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+   "link": "https://www.bbc.com/news/articles/cqdr15l32d3go",
+   "time": "2026-11-23T02:37:02+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Manchester Co-op Live evacuated after suspected tear gas incident",
+   "desc": "Police say no serious injuries were reported after a substance was let off in the crowd during a performance by US rapper Don Toliver.",
+   "link": "https://www.bbc.com/news/articles/c9e851dn8516o",
+   "time": "2026-11-23T02:07:29+00:00",
+   "cat": "uk",
+   "top": false
+  },
+  {
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "link": "https://www.bbc.com/news/articles/c6vg29g7dlyno",
+   "time": "2026-11-23T01:23:43+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "desc": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+   "link": "https://www.bbc.com/news/articles/crm4rygl4m3o",
+   "time": "2026-11-23T01:05:07+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+   "link": "https://www.bbc.com/news/articles/cqwy06zrd26lo",
+   "time": "2026-11-23T00:50:35+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+   "desc": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+   "link": "https://www.bbc.com/news/articles/cmpdwnw3nvzjo",
+   "time": "2026-11-23T00:49:22+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+   "desc": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+   "link": "https://www.bbc.com/weather/articles/c5dj1l21w9pmo",
+   "time": "2026-11-23T00:40:36+00:00",
+   "cat": "world",
+   "top": true
+  },
+  {
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "link": "https://www.bbc.com/news/articles/c8e39qk5vrpdo",
+   "time": "2026-11-23T00:33:36+00:00",
+   "cat": "world",
+   "top": false
+  },
+  {
+   "title": "What is going on with Poundland?",
+   "desc": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+   "link": "https://www.bbc.com/news/articles/cm4g10p2r0g9o",
+   "time": "2026-11-23T00:22:27+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "desc": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+   "link": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
+   "time": "2026-11-23T00:08:00+00:00",
+   "cat": "biz",
+   "top": false
+  },
+  {
+   "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "desc": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "link": "https://www.bbc.com/sport/football/articles/cmn80y5w84qqo",
+   "time": "2026-11-22T23:20:16+00:00",
+   "cat": "sport",
+   "top": false
+  },
+  {
+   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "desc": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "link": "https://www.bbc.com/news/articles/cmde1dy82lepo",
+   "time": "2026-11-22T22:49:10+00:00",
+   "cat": "uk",
+   "top": true
+  },
+  {
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "link": "https://www.bbc.com/news/videos/cre3dvd1k9y1o",
+   "time": "2026-11-22T22:37:43+00:00",
+   "cat": "world",
+   "top": false
+  },
   {
    "title": "Thitikul wins third title in a row at LPGA finale",
    "desc": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
@@ -10,7 +114,7 @@
    "top": false
   },
   {
-   "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+   "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
    "desc": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
    "link": "https://www.bbc.com/sport/football/articles/cx30g83716lzo",
    "time": "2026-11-22T21:44:37+00:00",
@@ -62,14 +166,6 @@
    "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
    "link": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
    "time": "2026-11-22T20:28:09+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-   "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-   "link": "https://www.bbc.com/news/articles/c6vg29g7dlyno",
-   "time": "2026-11-22T20:26:24+00:00",
    "cat": "world",
    "top": true
   },
@@ -130,30 +226,6 @@
    "top": false
   },
   {
-   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "desc": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-   "link": "https://www.bbc.com/news/articles/cqwy06zrd26lo",
-   "time": "2026-11-22T18:17:59+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
-   "title": "Long-lost Chevalier landscape found in charity shop",
-   "desc": "Cape Schanck, Victoria, is set to go under the hammer at Olympia Auctions in London on 9 December.",
-   "link": "https://www.bbc.com/news/articles/c32l5z88z15jo",
-   "time": "2026-11-22T18:09:23+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-   "link": "https://www.bbc.com/news/videos/cre3dvd1k9y1o",
-   "time": "2026-11-22T17:57:43+00:00",
-   "cat": "world",
-   "top": true
-  },
-  {
    "title": "The red card that changed Liverpool-Man Utd: correct call?",
    "desc": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
    "link": "https://www.bbc.com/sport/football/articles/cq7827p8emmxo",
@@ -178,20 +250,12 @@
    "top": true
   },
   {
-   "title": "Did beaten Wales still show they have come a long way?",
-   "desc": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-   "link": "https://www.bbc.com/sport/rugby-union/articles/cjr4gn7yd9d5o",
-   "time": "2026-11-22T15:07:06+00:00",
-   "cat": "sport",
-   "top": false
-  },
-  {
    "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
    "desc": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
    "link": "https://www.bbc.com/news/articles/c68x08nzpk9no",
    "time": "2026-11-22T14:19:06+00:00",
    "cat": "uk",
-   "top": true
+   "top": false
   },
   {
    "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -207,29 +271,13 @@
    "link": "https://www.bbc.com/news/articles/c6jre7gpdw13o",
    "time": "2026-11-22T13:50:21+00:00",
    "cat": "uk",
-   "top": true
-  },
-  {
-   "title": "BBC apologises after noise disruption during Strictly",
-   "desc": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
-   "link": "https://www.bbc.com/news/videos/ck782j066elvo",
-   "time": "2026-11-22T13:46:00+00:00",
-   "cat": "world",
-   "top": true
+   "top": false
   },
   {
    "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
    "desc": "Alex Burghart tells the BBC the agreement will not lead to lower prices in the shops.",
    "link": "https://www.bbc.com/news/articles/cr868jnlllpgo",
    "time": "2026-11-22T13:15:57+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Man dies in M42 crash near Birmingham Airport",
-   "desc": "Police confirm a van driver died following a serious crash on the M42 on Saturday.",
-   "link": "https://www.bbc.com/news/articles/c61k94ype8keo",
-   "time": "2026-11-22T12:38:03+00:00",
    "cat": "uk",
    "top": false
   },
@@ -303,14 +351,6 @@
    "link": "https://www.bbc.com/news/articles/cqevrx7xxz93o",
    "time": "2026-11-22T07:14:14+00:00",
    "cat": "uk",
-   "top": false
-  },
-  {
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "link": "https://www.bbc.com/news/articles/c8e39qk5vrpdo",
-   "time": "2026-11-22T07:12:41+00:00",
-   "cat": "world",
    "top": false
   },
   {
@@ -394,14 +434,6 @@
    "top": false
   },
   {
-   "title": "Man charged with attempted murder after Bradford councillor stabbed",
-   "desc": "Arfan Ali appears before magistrates charged over Thursday's attack on councillor Ibrar Ali.",
-   "link": "https://www.bbc.com/news/articles/cmkgv2nlpy8ko",
-   "time": "2026-11-21T12:06:52+00:00",
-   "cat": "uk",
-   "top": false
-  },
-  {
    "title": "How Westside Cowboy went from student gigs to rising stars in two years",
    "desc": "The four-piece band joins a prestigious list that includes Myles Smith, Olivia Dean, Tom Grennan.",
    "link": "https://www.bbc.com/news/articles/crjeqxedzpnko",
@@ -446,7 +478,7 @@
    "desc": "The mammoth figure surpasses every video game launch and single-day film box office record.",
    "link": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
    "time": "2026-11-20T22:53:24+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -498,19 +530,11 @@
    "top": false
   },
   {
-   "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-   "desc": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-   "link": "https://www.bbc.com/news/articles/ck053mzy2qqeo",
-   "time": "2026-11-20T09:44:56+00:00",
-   "cat": "biz",
-   "top": false
-  },
-  {
    "title": "Should AI be judging our credit worthiness?",
    "desc": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
    "link": "https://www.bbc.com/news/articles/c6d94pzk9vleo",
    "time": "2026-11-20T07:32:19+00:00",
-   "cat": "biz",
+   "cat": "tech",
    "top": false
   },
   {
@@ -559,14 +583,6 @@
    "link": "https://www.bbc.com/news/articles/c6qj5dl29zqro",
    "time": "2026-11-19T13:35:29+00:00",
    "cat": "sci",
-   "top": false
-  },
-  {
-   "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-   "desc": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-   "link": "https://www.bbc.com/news/articles/c6z74ep2n17zo",
-   "time": "2026-11-19T12:26:39+00:00",
-   "cat": "tech",
    "top": false
   },
   {
